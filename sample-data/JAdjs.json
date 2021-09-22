@@ -32,11 +32,36 @@
     {"chap": "08", "type": "い", "eng": "Red", "jpn": "あかい"},
     {"chap": "08", "type": "い", "eng": "Blue", "jpn": "あおい"},
 
-    {"chap": "00", "type": "い", "eng": "Fast", "jpn": "はやい"},
-    {"chap": "00", "type": "い", "eng": "Slow", "jpn": "おそい"},
-    {"chap": "00", "type": "い", "eng": "Warm", "jpn": "あたたかい"},
-    {"chap": "00", "type": "い", "eng": "Cool", "jpn": "すずしい"},
-    {"chap": "00", "type": "い", "eng": "Near", "jpn": "ちかい"},
+    {"chap": "09", "type": "な", "eng": "Like", "jpn": "すき"},
+    {"chap": "09", "type": "な", "eng": "Dislike", "jpn": "きらい"},
+    {"chap": "09", "type": "な", "eng": "Good at (something)", "jpn": "じょうず"},
+    {"chap": "09", "type": "な", "eng": "Bad at (something)", "jpn": "へた"},
+
+    {"chap": "10", "type": "な", "eng": "Easy", "jpn": "かんたん"},
+    {"chap": "10", "type": "い", "eng": "Near", "jpn": "ちかい"},
     {"chap": "00", "type": "い", "eng": "Far", "jpn": "とおい"},
-    {"chap": "00", "type": "な", "eng": "Easy", "jpn": "かんたん"}
+    {"chap": "10", "type": "い", "eng": "Fast/Early", "jpn": "はやい"},
+    {"chap": "10", "type": "い", "eng": "Slow", "jpn": "おそい"},
+    {"chap": "10", "type": "い", "eng": "Many/Much", "jpn": "おおい"},
+    {"chap": "10", "type": "い", "eng": "Few/Little", "jpn": "すくない"},
+    {"chap": "10", "type": "い", "eng": "Warm", "jpn": "あたたかい"},
+    {"chap": "10", "type": "い", "eng": "Cool", "jpn": "すずしい"},
+    {"chap": "10", "type": "い", "eng": "Sweet", "jpn": "あまい"},
+    {"chap": "10", "type": "い", "eng": "Spicy", "jpn": "からい"},
+    {"chap": "10", "type": "い", "eng": "Heavy", "jpn": "おもい"},
+    {"chap": "10", "type": "い", "eng": "Light", "jpn": "からい"},
+
+    {"chap": "13", "type": "な", "eng": "Awful/Tough", "jpn": "たいへん"},
+    {"chap": "13", "type": "い", "eng": "Want (something)", "jpn": "ほしい"},
+    {"chap": "13", "type": "い", "eng": "Wide/Spacious", "jpn": "ひろい"},
+    {"chap": "13", "type": "い", "eng": "Narrow/Small", "jpn": "せまい"},
+
+    {"chap": "16", "type": "い", "eng": "Young", "jpn": "わかい"},
+    {"chap": "16", "type": "い", "eng": "Long", "jpn": "ながい"},
+    {"chap": "16", "type": "い", "eng": "Short", "jpn": "みじかい"},
+    {"chap": "16", "type": "い", "eng": "Bright", "jpn": "あかるい"},
+    {"chap": "16", "type": "い", "eng": "Dark", "jpn": "くらい"},
+
+    {"chap": "00", "type": "い", "eng": "Sour", "jpn": "すっぱい"},
+    {"chap": "00", "type": "な", "eng": "Fresh", "jpn": "しんせん"}
 ]
