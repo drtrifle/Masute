@@ -11,7 +11,7 @@
     {"chap": "08", "type": "な", "eng": "Fine/Nice/Wonderful", "jpn": "すてき"},
     {"chap": "08", "type": "い", "eng": "Big/Large", "jpn": "おおきい"},
     {"chap": "08", "type": "い", "eng": "Small/Little", "jpn": "ちいさい"},
-    {"chap": "08", "type": "い", "eng": "New/Fresh", "jpn": "あたらしい"},
+    {"chap": "08", "type": "い", "eng": "New", "jpn": "あたらしい"},
     {"chap": "08", "type": "い", "eng": "Old (not for people)", "jpn": "ふるい"},
     {"chap": "08", "type": "い", "eng": "Good", "jpn": "いい/よい"},
     {"chap": "08", "type": "い", "eng": "Bad", "jpn": "わるい"},
@@ -37,7 +37,7 @@
     {"chap": "09", "type": "な", "eng": "Good at (something)", "jpn": "じょうず"},
     {"chap": "09", "type": "な", "eng": "Bad at (something)", "jpn": "へた"},
 
-    {"chap": "10", "type": "な", "eng": "Easy", "jpn": "かんたん"},
+    {"chap": "10", "type": "な", "eng": "Simple", "jpn": "かんたん"},
     {"chap": "10", "type": "い", "eng": "Near", "jpn": "ちかい"},
     {"chap": "00", "type": "い", "eng": "Far", "jpn": "とおい"},
     {"chap": "10", "type": "い", "eng": "Fast/Early", "jpn": "はやい"},
@@ -48,8 +48,8 @@
     {"chap": "10", "type": "い", "eng": "Cool", "jpn": "すずしい"},
     {"chap": "10", "type": "い", "eng": "Sweet", "jpn": "あまい"},
     {"chap": "10", "type": "い", "eng": "Spicy", "jpn": "からい"},
-    {"chap": "10", "type": "い", "eng": "Heavy", "jpn": "おもい"},
-    {"chap": "10", "type": "い", "eng": "Light", "jpn": "からい"},
+    {"chap": "10", "type": "い", "eng": "Heavy (weight)", "jpn": "おもい"},
+    {"chap": "10", "type": "い", "eng": "Light (weight)", "jpn": "かるい"},
 
     {"chap": "13", "type": "な", "eng": "Awful/Tough", "jpn": "たいへん"},
     {"chap": "13", "type": "い", "eng": "Want (something)", "jpn": "ほしい"},
