@@ -62,7 +62,7 @@
   { "grpNum": "3", "chap": "18", "eng":"To reserve", "jisho": "よやくする", "masu": "よやくします", "te": "よやくして" },
   { "grpNum": "3", "chap": "21", "eng":"To study abroad", "jisho": "りゅうがくする", "masu": "りゅうがくします", "te": "りゅうがくして" },
 
-  { "grpNum": "0", "chap": "04", "eng":"To wake up", "jisho": "おきる", "masu": "おきます", "te": "おきて" },
+  { "grpNum": "2", "chap": "04", "eng":"To wake up", "jisho": "おきる", "masu": "おきます", "te": "おきて" },
   { "grpNum": "0", "chap": "04", "eng":"To sleep", "jisho": "ねる", "masu": "ねます", "te": "ねて" },
   { "grpNum": "0", "chap": "04", "eng":"To work", "jisho": "はたらく", "masu": "はたらきます", "te": "はたらいて" },
   { "grpNum": "0", "chap": "04", "eng":"To rest", "jisho": "やすむ", "masu": "やすみます", "te": "やすんで" },
@@ -71,7 +71,7 @@
   
   { "grpNum": "0", "chap": "05", "eng":"To go", "jisho": "いく", "masu": "いきます", "te": "いって" },
   { "grpNum": "0", "chap": "05", "eng":"To come", "jisho": "くる", "masu": "きます", "te": "きて" },
-  { "grpNum": "0", "chap": "05", "eng":"To return (somewhere)", "jisho": "かえす", "masu": "かえしまる", "te": "かえして" },
+  { "grpNum": "1", "chap": "05", "eng":"To return (somewhere)", "jisho": "かえる", "masu": "かえります", "te": "かえって" },
   
   { "grpNum": "0", "chap": "06", "eng":"To eat", "jisho": "たべる", "masu": "たべます", "te": "たべて" },
   { "grpNum": "1", "chap": "06", "eng":"To drink", "jisho": "のむ", "masu": "のみます", "te": "のんで" },
@@ -81,7 +81,7 @@
   { "grpNum": "0", "chap": "06", "eng":"To read", "jisho": "よむ", "masu": "よみます", "te": "よんで" },
   { "grpNum": "0", "chap": "06", "eng":"To write", "jisho": "かく", "masu": "かきます", "te": "かいて" },
   { "grpNum": "0", "chap": "06", "eng":"To buy", "jisho": "かう", "masu": "かいます", "te": "かって" },
-  { "grpNum": "0", "chap": "06", "eng":"To record", "jisho": "とる", "masu": "とります", "te": "とって" },
+  { "grpNum": "0", "chap": "06", "eng":"To record (image, video)", "jisho": "とる", "masu": "とります", "te": "とって" },
   { "grpNum": "0", "chap": "06", "eng":"To meet", "jisho": "あう", "masu": "あいます", "te": "あって" },
   
   { "grpNum": "0", "chap": "07", "eng":"To cut", "jisho": "きる", "masu": "きります", "te": "きって" },
@@ -93,7 +93,7 @@
   { "grpNum": "0", "chap": "07", "eng":"To return (something)", "jisho": "かえす", "masu": "かえしまる", "te": "かえして" },
   { "grpNum": "2", "chap": "07", "eng":"To teach", "jisho": "おしえる", "masu": "おしえます", "te": "おしえて" },
   { "grpNum": "0", "chap": "07", "eng":"To learn", "jisho": "ならう", "masu": "ならいます", "te": "ならって" },
-  { "grpNum": "2", "chap": "07", "eng":"To call", "jisho": "かける", "masu": "かけます", "te": "かけて" },
+  { "grpNum": "2", "chap": "07", "eng":"To call (out)", "jisho": "かける", "masu": "かけます", "te": "かけて" },
   
   { "grpNum": "0", "chap": "09", "eng":"To understand", "jisho": "わかる", "masu": "わかります", "te": "わかって" },
   { "grpNum": "1", "chap": "09", "eng":"To exist (inanimate)", "jisho": "ある", "masu": "あります", "te": "あって" },
@@ -117,7 +117,7 @@
   { "grpNum": "1", "chap": "14", "eng":"To hold", "jisho": "もつ", "masu": "もちます", "te": "もって" },
   { "grpNum": "1", "chap": "14", "eng":"To take/pass", "jisho": "とる", "masu": "とります", "te": "とって" },
   { "grpNum": "1", "chap": "14", "eng":"To help (task)", "jisho": "てつだう", "masu": "てつだいます", "te": "てつだって" },
-  { "grpNum": "1", "chap": "14", "eng":"To call", "jisho": "よぶ", "masu": "よびます", "te": "よんで" },
+  { "grpNum": "1", "chap": "14", "eng":"To call (phone)", "jisho": "よぶ", "masu": "よびます", "te": "よんで" },
   { "grpNum": "1", "chap": "14", "eng":"To speak/talk", "jisho": "はなす", "masu": "はなします", "te": "はなして" },
   { "grpNum": "1", "chap": "14", "eng":"To use", "jisho": "つかう", "masu": "つかいます", "te": "つかって" },
   { "grpNum": "2", "chap": "14", "eng":"To stop/park", "jisho": "とめる", "masu": "とめます", "te": "とめて" },
