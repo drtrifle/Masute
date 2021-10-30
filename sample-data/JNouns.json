@@ -86,7 +86,30 @@
   {"type": "Time", "eng": "This morning", "jpn": ""},
   {"type": "Time", "eng": "This evening/tonight", "jpn": ""},
 
+  {"type": "Body", "eng": "Head", "jpn": "あたま"},
+  {"type": "Body", "eng": "Hair", "jpn": "かみ"},
+  {"type": "Body", "eng": "Face", "jpn": "かお"},
+  {"type": "Body", "eng": "Eye", "jpn": "め"},
+  {"type": "Body", "eng": "Nose", "jpn": "はな"},
+  {"type": "Body", "eng": "Mouth", "jpn": "くち"},
+  {"type": "Body", "eng": "Ear", "jpn": "みみ"},
+  {"type": "Body", "eng": "Chin", "jpn": "あご"},
+  {"type": "Body", "eng": "Throat", "jpn": "のど"},
+  {"type": "Body", "eng": "Neck", "jpn": "くび"},
+  {"type": "Body", "eng": "Chest", "jpn": "むね"},
+  {"type": "Body", "eng": "Shoulder", "jpn": "かた"},
+  {"type": "Body", "eng": "Arm", "jpn": "うで"},
+  {"type": "Body", "eng": "Elbow", "jpn": "ひじ"},
+  {"type": "Body", "eng": "Hand", "jpn": "て"},
+  {"type": "Body", "eng": "Finger", "jpn": "ゆび"},
+  {"type": "Body", "eng": "Nail (Finger/Toe)", "jpn": "つめ"},
+  {"type": "Body", "eng": "Back", "jpn": "せなか"},  
+  {"type": "Body", "eng": "Hips", "jpn": "こし"},
+  {"type": "Body", "eng": "Butt", "jpn": "おしり"},
+  {"type": "Body", "eng": "Knee", "jpn": "ひざ"},
+  {"type": "Body", "eng": "Leg/Foot", "jpn": "あし"},
+  {"type": "Body", "eng": "Bone", "jpn": "ほね"},
+
   {"type": "Time", "eng": "", "jpn": ""},
   {"type": "Time", "eng": "", "jpn": ""}
-
 ] 
