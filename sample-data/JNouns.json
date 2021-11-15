@@ -34,6 +34,7 @@
   {"type": "Location", "eng": "Supermarket", "jpn": "スーパー"},
   {"type": "Location", "eng": "Town/City", "jpn": "まち"},
   {"type": "Location", "eng": "University", "jpn": "だいがく"},
+  {"type": "Location", "eng": "Zoo", "jpn": "どうぶつえん"},
 
   {"type": "Transportation", "eng": "Aeroplane", "jpn": "ひこうき"},
   {"type": "Transportation", "eng": "Bicycle", "jpn": "じてんしゃ"},
