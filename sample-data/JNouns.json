@@ -111,6 +111,10 @@
   {"type": "Body", "eng": "Leg/Foot", "jpn": "あし"},
   {"type": "Body", "eng": "Bone", "jpn": "ほね"},
 
+  {"type": "", "eng": "Antidote​", "kanji": "毒消し", "jpn": "どくけし"},
+  {"type": "", "eng": "Paralysis", "kanji": "麻痺", "jpn": "まひ"},
+
+
   {"type": "Time", "eng": "", "jpn": ""},
   {"type": "Time", "eng": "", "jpn": ""}
 ] 

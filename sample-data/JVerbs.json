@@ -1,24 +1,19 @@
 ﻿[
   { "grpNum": "1", "chap": "23", "eng":"To walk​", "jisho": "あるく", "masu": "あるきます", "te": "あるいて", "nai": "あるかない", "ta": "あるいた" },
-  { "grpNum": "1", "chap": "22", "eng":"To wear", "jisho": "かぶる", "masu": "かぶります", "te": "かぶって", "nai": "かぶらない", "ta": "かぶった" },
   { "grpNum": "1", "chap": "25", "eng":"To persevere", "jisho": "がんばる", "masu": "がんばります", "te": "がんばって", "nai": "がんばらない", "ta": "がんばった" },
   { "grpNum": "1", "chap": "23", "eng":"To touch", "jisho": "さわる", "masu": "さわります", "te": "さわって", "nai": "さわらない", "ta": "さわった" },
   { "grpNum": "1", "chap": "25", "eng":"To reach", "jisho": "つく", "masu": "つきます", "te": "ついて", "nai": "つかない", "ta": "ついた" },
   { "grpNum": "1", "chap": "24", "eng":"To take (someone somewhere)", "jisho": "つれていく", "masu": "つれていきます", "te": "つれていって", "nai": "つれて行かない", "ta": "つれていった" },
   { "grpNum": "1", "chap": "24", "eng":"To fix", "jisho": "なおす", "masu": "なおします", "te": "なおして", "nai": "なおさない", "ta": "なおした" },
-  { "grpNum": "1", "chap": "22", "eng":"To affix", "jisho": "はく", "masu": "はきます", "te": "はいて", "nai": "はかない", "ta": "はいた" },
   { "grpNum": "1", "chap": "23", "eng":"To curve", "jisho": "まがる", "masu": "まがります", "te": "まがって", "nai": "まがらない", "ta": "まがった" },
   { "grpNum": "1", "chap": "23", "eng":"To rotate", "jisho": "まわす", "masu": "まわします", "te": "まわして", "nai": "まわさない", "ta": "まわした" },
   { "grpNum": "1", "chap": "23", "eng":"To extend", "jisho": "わたる", "masu": "わたります", "te": "わたって", "nai": "わたらない", "ta": "わたった" },
 
-  { "grpNum": "2", "chap": "22", "eng":"To be born", "jisho": "うまれる", "masu": "うまれます", "te": "うまれて", "nai": "うまれない", "ta": "うまれた" },
   { "grpNum": "2", "chap": "25", "eng":"To consider", "jisho": "かんがえる", "masu": "かんがえます", "te": "かんがえて", "nai": "かんがえない", "ta": "かんがえた" },
-  { "grpNum": "2", "chap": "22", "eng":"To wear", "jisho": "きる", "masu": "きます", "te": "きて", "nai": "きない", "ta": "きた" },
   { "grpNum": "2", "chap": "24", "eng":"To end", "jisho": "くれる", "masu": "くれます", "te": "くれて", "nai": "くれない", "ta": "くれた" },
   { "grpNum": "2", "chap": "25", "eng":"To be enough", "jisho": "たりる", "masu": "たります", "te": "たりて", "nai": "たりない", "ta": "たりた" },
 
   { "grpNum": "3", "chap": "24", "eng":"To suggest", "jisho": "あんあいする", "masu": "あんないします", "te": "あんないして", "nai": "あんないしない", "ta": "あんないした" },
-  { "grpNum": "3", "chap": "22", "eng":"To perform", "jisho": "する", "masu": "します", "te": "して", "nai": "しない", "ta": "した" },
   { "grpNum": "3", "chap": "24", "eng":"To present", "jisho": "しょうかいする", "masu": "しょうかいします", "te": "しょうかいして", "nai": "しょうかいしない", "ta": "しょうかいした" },
   { "grpNum": "3", "chap": "24", "eng":"To explain", "jisho": "せつめいする", "masu": "せつめいします", "te": "せつめいして", "nai": "せつめいしない", "ta": "せつめいした" },
   { "grpNum": "3", "chap": "24", "eng":"To bring someone along", "jisho": "つれてくる", "masu": "つれてきます", "te": "つれてきて", "nai": "つれてきない", "ta": "つれてきた" },
@@ -154,10 +149,21 @@
   { "grpNum": "2", "chap": "21", "eng":"To take care/pay attention", "jisho": "きをつける", "masu": "きをつけます", "te": "きをつけて", "nai": "きをつけない", "ta": "きをつけた" },
   { "grpNum": "3", "chap": "21", "eng":"To study abroad", "jisho": "りゅうがくする", "masu": "りゅうがくします", "te": "りゅうがくして", "nai": "りゅうがくしない", "ta": "りゅうがくした" },
 
+  { "grpNum": "2", "chap": "22", "eng":"To wear (shirt)", "jisho": "きる", "masu": "きます", "te": "きて", "nai": "きない", "ta": "きた" },
+  { "grpNum": "1", "chap": "22", "eng":"To wear (shoes, pants)", "jisho": "はく", "masu": "はきます", "te": "はいて", "nai": "はかない", "ta": "はいた" },
+  { "grpNum": "1", "chap": "22", "eng":"To wear (hat)", "jisho": "かぶる", "masu": "かぶります", "te": "かぶって", "nai": "かぶらない", "ta": "かぶった" },
+  { "grpNum": "2", "chap": "22", "eng":"To wear (glasses)", "jisho": "かける", "masu": "かけます", "te": "かけて", "nai": "かけない", "ta": "かけた" },
+  { "grpNum": "3", "chap": "22", "eng":"To wear necktie", "jisho": "ネクタイをする", "masu": "ネクタイをします", "te": "ネクタイをして", "nai": "ネクタイをしない", "ta": "ネクタイをした" },
+  { "grpNum": "2", "chap": "22", "eng":"To be born", "jisho": "うまれる", "masu": "うまれます", "te": "うまれて", "nai": "うまれない", "ta": "うまれた" },
+  { "grpNum": "1", "chap": "22", "eng":"To give birth", "jisho": "うむ", "masu": "うみます", "te": "うんで", "nai": "うまない", "ta": "うんだ" },
+
   { "grpNum": "1", "chap": "00", "eng":"To draw", "jisho": "えがく", "masu": "えがきます", "te": "えがいて", "nai": "えがかない", "ta": "えがいた" },
   { "grpNum": "1", "chap": "00", "eng":"To brush", "jisho": "みがく", "masu": "みがきます", "te": "みがいて", "nai": "みがかない", "ta": "みがいた" },
   { "grpNum": "3", "chap": "00", "eng":"To be in transit", "jisho": "いどうする", "masu": "いどうします", "te": "いどうして", "nai": "いどうしない", "ta": "いどうした" },
   { "grpNum": "3", "chap": "00", "eng":"To harvest", "jisho": "しゅうかくする", "masu": "しゅうかくします", "te": "しゅうかくして", "nai": "しゅうかくしない", "ta": "しゅうかくした" },
-  { "grpNum": "3", "chap": "00", "eng":"To pack", "jisho": "にづくりする", "masu": "にづくりします", "te": "にづくりして", "nai": "にづくりしない", "ta": "にづくりした" }
+  { "grpNum": "3", "chap": "00", "eng":"To pack", "jisho": "にづくりする", "masu": "にづくりします", "te": "にづくりして", "nai": "にづくりしない", "ta": "にづくりした" },
+  
+  { "grpNum": "2", "chap": "00", "eng":"To escape", "kanji": "逃げる", "jisho": "にげる", "masu": "にげます", "te": "にげて", "nai": "にげない", "ta": "にげた" },
+  { "grpNum": "1", "chap": "00", "eng":"To fight", "kanji": "戦う", "jisho": "たたかう", "masu": "たたかいます", "te": "たたかって", "nai": "たたかわない", "ta": "たたかった" }
 
 ] 
