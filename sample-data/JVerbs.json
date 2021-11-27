@@ -40,7 +40,7 @@
   { "grpNum": "1", "chap": "06", "eng":"To record (image, video)", "jisho": "とる", "masu": "とります", "te": "とって", "nai": "とらない", "ta": "とった" },
   { "grpNum": "1", "chap": "06", "eng":"To meet", "jisho": "あう", "masu": "あいます", "te": "あって", "nai": "あわない", "ta": "あった" },
   
-  { "grpNum": "1", "chap": "07", "eng":"To cut", "jisho": "きる", "masu": "きります", "te": "きって", "nai": "きない", "ta": "きった" },
+  { "grpNum": "1", "chap": "07", "eng":"To cut", "jisho": "きる", "masu": "きります", "te": "きって", "nai": "きらない", "ta": "きった" },
   { "grpNum": "1", "chap": "07", "eng":"To send", "jisho": "おくる", "masu": "おくります", "te": "おくって", "nai": "おくらない", "ta": "おくった" },
   { "grpNum": "2", "chap": "07", "eng":"To give", "jisho": "あげる", "masu": "あげます", "te": "あげて", "nai": "あげない", "ta": "あげた" },
   { "grpNum": "1", "chap": "07", "eng":"To receive", "jisho": "もらう", "masu": "もらいます", "te": "もらって", "nai": "もらわない", "ta": "もらった" },
