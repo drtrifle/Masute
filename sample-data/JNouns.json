@@ -15,6 +15,7 @@
   {"type": "Occupation", "eng": "Medical Doctor", "jpn": "いしゃ"},
   {"type": "Occupation", "eng": "Researcher", "jpn": "けんきゅうしゃ"},
   {"type": "Occupation", "eng": "Lawyer", "jpn": "べんごし"},
+  {"type": "Occupation", "eng": "Robber", "kanji": "泥棒", "jpn": "どろぼう"},
 
   {"type": "Location", "eng": "Art Museum", "jpn": "びじゅつかん"},
   {"type": "Location", "eng": "Bank", "jpn": "ぎんこう"},

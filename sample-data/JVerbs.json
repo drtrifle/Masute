@@ -1,14 +1,9 @@
 ﻿[
-  { "grpNum": "1", "chap": "23", "eng":"To walk​", "jisho": "あるく", "masu": "あるきます", "te": "あるいて", "nai": "あるかない", "ta": "あるいた" },
   { "grpNum": "1", "chap": "25", "eng":"To persevere", "jisho": "がんばる", "masu": "がんばります", "te": "がんばって", "nai": "がんばらない", "ta": "がんばった" },
-  { "grpNum": "1", "chap": "23", "eng":"To touch", "jisho": "さわる", "masu": "さわります", "te": "さわって", "nai": "さわらない", "ta": "さわった" },
   { "grpNum": "1", "chap": "25", "eng":"To reach", "jisho": "つく", "masu": "つきます", "te": "ついて", "nai": "つかない", "ta": "ついた" },
   { "grpNum": "1", "chap": "24", "eng":"To take (someone somewhere)", "jisho": "つれていく", "masu": "つれていきます", "te": "つれていって", "nai": "つれて行かない", "ta": "つれていった" },
   { "grpNum": "1", "chap": "24", "eng":"To fix", "jisho": "なおす", "masu": "なおします", "te": "なおして", "nai": "なおさない", "ta": "なおした" },
-  { "grpNum": "1", "chap": "23", "eng":"To curve", "jisho": "まがる", "masu": "まがります", "te": "まがって", "nai": "まがらない", "ta": "まがった" },
-  { "grpNum": "1", "chap": "23", "eng":"To rotate", "jisho": "まわす", "masu": "まわします", "te": "まわして", "nai": "まわさない", "ta": "まわした" },
-  { "grpNum": "1", "chap": "23", "eng":"To extend", "jisho": "わたる", "masu": "わたります", "te": "わたって", "nai": "わたらない", "ta": "わたった" },
-
+  
   { "grpNum": "2", "chap": "25", "eng":"To consider", "jisho": "かんがえる", "masu": "かんがえます", "te": "かんがえて", "nai": "かんがえない", "ta": "かんがえた" },
   { "grpNum": "2", "chap": "24", "eng":"To end", "jisho": "くれる", "masu": "くれます", "te": "くれて", "nai": "くれない", "ta": "くれた" },
   { "grpNum": "2", "chap": "25", "eng":"To be enough", "jisho": "たりる", "masu": "たります", "te": "たりて", "nai": "たりない", "ta": "たりた" },
@@ -33,7 +28,7 @@
   { "grpNum": "1", "chap": "06", "eng":"To drink", "jisho": "のむ", "masu": "のみます", "te": "のんで", "nai": "のまない", "ta": "のんだ" },
   { "grpNum": "1", "chap": "06", "eng":"To smoke", "jisho": "すう", "masu": "すいます", "te": "すって", "nai": "すわない", "ta": "すった" },
   { "grpNum": "2", "chap": "06", "eng":"To see", "jisho": "みる", "masu": "みます", "te": "みて", "nai": "みない", "ta": "みた" },
-  { "grpNum": "1", "chap": "06", "eng":"To listen", "jisho": "きく", "masu": "ききます", "te": "きいて", "nai": "きかない", "ta": "きいた" },
+  { "grpNum": "1", "chap": "06", "eng":"To listen/ask", "jisho": "きく", "masu": "ききます", "te": "きいて", "nai": "きかない", "ta": "きいた" },
   { "grpNum": "1", "chap": "06", "eng":"To read", "jisho": "よむ", "masu": "よみます", "te": "よんで", "nai": "よまない", "ta": "よんだ" },
   { "grpNum": "1", "chap": "06", "eng":"To write", "jisho": "かく", "masu": "かきます", "te": "かいて", "nai": "かない", "ta": "かいた" },
   { "grpNum": "1", "chap": "06", "eng":"To buy", "jisho": "かう", "masu": "かいます", "te": "かって", "nai": "かわない", "ta": "かった" },
@@ -156,6 +151,13 @@
   { "grpNum": "3", "chap": "22", "eng":"To wear necktie", "jisho": "ネクタイをする", "masu": "ネクタイをします", "te": "ネクタイをして", "nai": "ネクタイをしない", "ta": "ネクタイをした" },
   { "grpNum": "2", "chap": "22", "eng":"To be born", "jisho": "うまれる", "masu": "うまれます", "te": "うまれて", "nai": "うまれない", "ta": "うまれた" },
   { "grpNum": "1", "chap": "22", "eng":"To give birth", "jisho": "うむ", "masu": "うみます", "te": "うんで", "nai": "うまない", "ta": "うんだ" },
+  
+  { "grpNum": "1", "chap": "23", "eng":"To rotate", "jisho": "まわす", "masu": "まわします", "te": "まわして", "nai": "まわさない", "ta": "まわした" },
+  { "grpNum": "1", "chap": "23", "eng":"To pull", "jisho": "ひく", "masu": "ひきます", "te": "ひいて", "nai": "ひかない", "ta": "ひいた" },
+  { "grpNum": "1", "chap": "23", "eng":"To walk​", "jisho": "あるく", "masu": "あるきます", "te": "あるいて", "nai": "あるかない", "ta": "あるいた" },
+  { "grpNum": "1", "chap": "23", "eng":"To touch", "jisho": "さわる", "masu": "さわります", "te": "さわって", "nai": "さわらない", "ta": "さわった" },
+  { "grpNum": "1", "chap": "23", "eng":"To cross", "jisho": "わたる", "masu": "わたります", "te": "わたって", "nai": "わたらない", "ta": "わたった" },
+  { "grpNum": "1", "chap": "23", "eng":"To turn (direction)", "jisho": "まがる", "masu": "まがります", "te": "まがって", "nai": "まがらない", "ta": "まがった" },
 
   { "grpNum": "1", "chap": "00", "eng":"To draw", "jisho": "えがく", "masu": "えがきます", "te": "えがいて", "nai": "えがかない", "ta": "えがいた" },
   { "grpNum": "1", "chap": "00", "eng":"To brush", "jisho": "みがく", "masu": "みがきます", "te": "みがいて", "nai": "みがかない", "ta": "みがいた" },
