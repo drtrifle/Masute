@@ -15,6 +15,7 @@
   {"type": "Occupation", "eng": "Medical Doctor", "jpn": "いしゃ"},
   {"type": "Occupation", "eng": "Researcher", "jpn": "けんきゅうしゃ"},
   {"type": "Occupation", "eng": "Lawyer", "jpn": "べんごし"},
+  {"type": "Occupation", "eng": "Robber", "kanji": "泥棒", "jpn": "どろぼう"},
 
   {"type": "Location", "eng": "Art Museum", "jpn": "びじゅつかん"},
   {"type": "Location", "eng": "Bank", "jpn": "ぎんこう"},
@@ -34,6 +35,7 @@
   {"type": "Location", "eng": "Supermarket", "jpn": "スーパー"},
   {"type": "Location", "eng": "Town/City", "jpn": "まち"},
   {"type": "Location", "eng": "University", "jpn": "だいがく"},
+  {"type": "Location", "eng": "Zoo", "jpn": "どうぶつえん"},
 
   {"type": "Transportation", "eng": "Aeroplane", "jpn": "ひこうき"},
   {"type": "Transportation", "eng": "Bicycle", "jpn": "じてんしゃ"},
@@ -109,6 +111,10 @@
   {"type": "Body", "eng": "Knee", "jpn": "ひざ"},
   {"type": "Body", "eng": "Leg/Foot", "jpn": "あし"},
   {"type": "Body", "eng": "Bone", "jpn": "ほね"},
+
+  {"type": "", "eng": "Antidote​", "kanji": "毒消し", "jpn": "どくけし"},
+  {"type": "", "eng": "Paralysis", "kanji": "麻痺", "jpn": "まひ"},
+
 
   {"type": "Time", "eng": "", "jpn": ""},
   {"type": "Time", "eng": "", "jpn": ""}
