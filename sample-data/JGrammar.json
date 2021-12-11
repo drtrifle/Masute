@@ -1,5 +1,6 @@
 [
     {
+        "lesson" : "1",
         "topic": "Noun1 は Noun2 です", 
         "explanations": [
             "The particle は indicates that the noun before it is the topic of the sentence",
@@ -7,27 +8,29 @@
             "[Note] the particle は is read as わ"
         ],
         "examples": [
-            "1) わたしは　ケンワイ です。",
+            "1) 私[わたし]は ケンワイ です。",
             "1) I am KenWhy",
-            "2) わたしは　かいしゃいん です。",
+            "2) 私[わたし]は 会社員[かいしゃいん] です。",
             "2) I am a company employee"
         ]
     },
     {
+        "lesson" : "1",
         "topic": "Noun1 は Noun2 じゃ(では) ありません", 
         "explanations": [
-            "じゃ(では) ありません　is the negative form of です",
+            "じゃ(では) ありません is the negative form of です",
             "じゃ ありません is used in spoken conversations",
             "では ありません is used in formal speech and writing",
             "[Note] the particle は in では is read as わ"
         ],
         "examples": [
-            "1) サントさんは　がくせい　じゃありません。",
-            "1) サントさんは　がくせい　ではありません。",
+            "1) サントさんは 学生[がくせい] じゃありません。",
+            "1) サントさんは 学生[がくせい] ではありません。",
             "1) Mr Santos is not a student"
         ]
     },
     {
+        "lesson" : "1",
         "topic": "Noun1 は Noun2 ですか", 
         "explanations": [
             "The particle か at the end of the sentence indicates that it is a question",
@@ -36,7 +39,7 @@
             "An iterrogative question replaces"
         ],
         "examples": [
-            "1) ミラーさんは　アメリカじんですか。",
+            "1) ミラーさんは アメリカじんですか。",
             "1) Is Mr Miller an American?",
             "1) ... はい，アメリカじんです。",
             "1) ... Yes, he is an American",
@@ -45,16 +48,18 @@
         ]
     },
     {
+        "lesson" : "1",
         "topic": "Noun も", 
         "explanations": [
             "も is used when the same things applies to what was stated previously"
         ],
         "examples": [
-            "1) ミラーさん は せんせいです。グプタさん も せんせいです",
+            "1) ミラーさん は 先生[せんせい]です。グプタさん も 先生[せんせい]です",
             "1) Mr Miller is a teacher. Mr Gupta is also a teacher"
         ]
     },
     {
+        "lesson" : "1",
         "topic": "Noun1 の Noun2", 
         "explanations": [
             "When a noun Noun1 modifies a following noun Noun2, の is used to connect the two nouns",
@@ -62,15 +67,16 @@
             "And when Noun1 indicates who owns Noun2"
         ],
         "examples": [
-            "1) ミラーさんは IMCのじゃいんです。",
+            "1) ミラーさんは IMCの社員[しゃいん]です。",
             "1) Mr Miller is an employee of IMC",
-            "2) これは　コンピューターの　ほんです。",
+            "2) これは コンピューターの 本[ほん]です。",
             "2) This is a book on computers",
-            "3) これは わたしの　ほんです。",
+            "3) これは 私[わたし]の 本[ほん]です。",
             "3) This is my book"
         ]
     },
     {
+        "lesson" : "1",
         "topic": "～さん", 
         "explanations": [
             "さん is added to the name or family name of another person to show respect",
@@ -80,11 +86,12 @@
             "To be polite, use their name with さん whenever addressing someone or drop あなた entirely if it is implied"
         ],
         "examples": [
-            "1) ミラーさんは IMCのじゃいんです。",
+            "1) ミラーさんは IMCの社員[しゃいん]です。",
             "1) Mr Miller is an employee of IMC"
         ]
     },
     {
+        "lesson" : "2",
         "topic": "これ/それ/あれ", 
         "explanations": [
             "これ,それ and あれ are demonstratives and work as nouns",
@@ -93,42 +100,45 @@
             "あれ refers to something distant from both the speaker and the listener"
         ],
         "examples": [
-            "1) それは じしょですか。",
+            "1) それは 辞書[じしょ]ですか。",
             "1) Is that a dictionary?",
-            "2) これは だれの　かさですか。",
+            "2) これは だれの 傘[かさ]ですか。",
             "2) Whose umbrella is this?"
         ]
     },
     {
+        "lesson" : "2",
         "topic": "この Noun/その Noun/あの Noun", 
         "explanations": [
             "この,その and あの are the same as これ/それ/あれ but they modify nouns instead"
         ],
         "examples": [
-            "1) この　ほんは わたしのです。",
+            "1) この 本[ほん]は 私[わたし]のです。",
             "1) This book is mine",
-            "2) あの かたは　どなたですか。",
+            "2) あの かたは どなたですか。",
             "2) Who is that person?"
         ]
     },
     {
+        "lesson" : "2",
         "topic": "そうです", 
         "explanations": [
             "そう is often used to answer a yes/no question in the affirmative",
-            "ちがいます is often used to answer a yes/no question in the affirmative"
+            "違[ちが]います is often used to answer a yes/no question in the affirmative"
         ],
         "examples": [
-            "1) それは じしょですか。",
+            "1) それは 辞書[じしょ]ですか。",
             "1) Is that a dictionary?",
             "1) ... はい, そうです。",
             "1) ... Yes, it is",
             "2) それは ペンですか。",
             "2) Is that a pen?",
-            "2) ... いいえ, ちがいます。",
+            "2) ... いいえ, 違[ちが]います。",
             "2) ... No, it isn't"
         ]
     },
     {
+        "lesson" : "2",
         "topic": "～か，～か", 
         "explanations": [
             "This is a question where the listener has to choose between two options for the answer",
@@ -142,6 +152,7 @@
         ]
     },
     {
+        "lesson" : "2",
         "topic": "の substituting for a noun", 
         "explanations": [
             "の can be used instead of a noun , if it has already been mentioned",
@@ -149,17 +160,18 @@
             "We can used の in this way for things but not for people"
         ],
         "examples": [
-            "1) あれは　だれの　かばんですか。",
+            "1) あれは だれの 鞄[かばん]ですか。",
             "1) Whose bag is that?",
             "1) ... さとうさんのです。",
             "1) ... It is Ms Sato's bag",
-            "2) この　かばんは　あなたのですか。",
+            "2) この 鞄[かばん]は あなたのですか。",
             "2) Is this bag yours?",
-            "2) ... いいえ,　わたしの　じゃありません",
+            "2) ... いいえ, 私[わたし]の じゃありません",
             "2) ... No, it isn't mine"
         ]
     },
     {
+        "lesson" : "2",
         "topic": "お～", 
         "explanations": [
             "The prefix お is attached to words when the speaker is speaking politely"
@@ -172,21 +184,23 @@
         ]
     },
     {
+        "lesson" : "2",
         "topic": "そうですか", 
         "explanations": [
             "This expression is used by the speaker to acknowledge new information he/she has just been given",
             "It is pronounced with a falling intonation"
         ],
         "examples": [
-            "1) この　かさは　あなたのですか。",
+            "1) この 傘[かさ]は あなたのですか。",
             "1) Is this umbrella yours?",
-            "1) ... いいえ, ちがいます。しゅみっとさんのです。",
+            "1) ... いいえ, 違[ちが]います。シュミットさんのです。",
             "1) ... No it isn't. It is Mr Schmidt's",
             "1) そうですか。",
             "1) Oh, I see"
         ]
     },
     {
+        "lesson" : "3",
         "topic": "ここ/そこ/あそこ", 
         "explanations": [
             "ここ/そこ/あそこ refer to places",
@@ -197,24 +211,25 @@
             "[Note] When the speaker regards the listener as in the same spot as themselves, that spot is regarded as ここ, そこ indicates a place slightly further away from where they both are, and あそこ somewhere even further away"
         ],
         "examples": [
-            ""
         ]
     },
     {
+        "lesson" : "3",
         "topic": "Noun は place です", 
         "explanations": [
             "Using this sentence pattern, you can state where a place, thing or person is"
         ],
         "examples": [
-            "1) おてあらいは　あそこです。",
+            "1) お手[て]洗[あら]いは あそこです。",
             "1) The restroom is over there",
-            "2) でんわは　2かいです。",
+            "2) 電[で]話[んわ]は 2階[かい]です。",
             "2) The telephone is on the second floor",
-            "3) やまださんは　じむしょです。",
+            "3) 山田[やまだ]さんは 事[じ]務[む]所[しょ]です。",
             "3) Mr Yamada is in his office"
         ]
     },
     {
+        "lesson" : "3",
         "topic": "どこ/どちら", 
         "explanations": [
             "どこ is used for asking 'Where?' and どちら for 'Which direction?'",
@@ -222,33 +237,241 @@
             "どこ/どちら are also used to ask the name of the country/company/school/organisation to which someone belongs"
         ],
         "examples": [
-            "1) おてあらいは　どこうですか。",
+            "1) お手[て]洗[あら]いは どこうですか。",
             "1) Where is the restroom",
             "1) ... あそこです。",
             "1) ... It's over there",
-            "2) エレベーターは　どちらですか。",
+            "2) エレベーターは どちらですか。",
             "2) Where is the elevator",
             "2) ... あちらです。",
             "2) ... It's in that direction / It's over there",
-            "3) くには　どこですか。",
+            "3) 国[くに]は どこですか。",
             "3) Which country are you from?",
-            "4) かいしゃは　どちらですか。",
+            "4) 会社[かいしゃ]は どちらですか。",
             "4) Which company do you work for?"
         ]
     },
     {
+        "lesson" : "3",
         "topic": "country の product", 
         "explanations": [
             "This sentence pattern means that the product was made in the stated country",
             "We also use どこ to ask the country/company of origin of a product"
         ],
         "examples": [
-            "1) これは　どこの　コンピューターですか。",
+            "1) これは どこの コンピューターですか。",
             "1) Where is this computer made?",
-            "1) ... にほんの　コンピューターです。",
+            "1) ... 日[に]本[ほん]の コンピューターです。",
             "1) ... It's made in Japan",
-            "1) ... IMCの　コンピューターです。",
+            "1) ... IMCの コンピューターです。",
             "1) ... It's made by the IMC company"
+        ]
+    },
+    {
+        "lesson" : "4",
+        "topic": "今[いま] 時[じ] 分[ふん/ぷん] です", 
+        "explanations": [
+            "To express time, the counter suffixes 時[じ](o'clock) and 分[ふん/ぶん](minutes) are placed after the numbers",
+            "分 is read ふん after 2,5,7 or 9 and ぷん after 1,3,4,6,8 or 10",
+            "1,6,8 and 10 are read as いっ,ろっ,はっ,じゅっ(or じっ) before ぷん",
+            "To ask the time, なん is placed in front of じ or ぷん"
+        ],
+        "examples": [
+            "1) 今[いま] 何[なん]時[じ]ですか。",
+            "1) What time is it now?",
+            "1) ... 7時[じ]10分[ぷん]です。",
+            "1) ... It's 7:10"
+        ]
+    },
+    {
+        "lesson" : "4",
+        "topic": "Verb ます/ Verb ません/ Verb ました/ Verb ませんでした", 
+        "explanations": [
+            "Verb ます and its other forms works as predicates and shows respect to the listener",
+            "ます form is used when affirming something that is either habitual or in the present/future",
+            "ません form is used when denying something that is either habitual or in the present/future",
+            "ました form is used when affirming something that is in the past",
+            "ませんでした form is used when affirming something that is in the past"
+        ],
+        "examples": [
+            "1) 毎[まい]朝[あさ] 6時[じ] 起[お]きます。",
+            "1) I wake up at 6 every morning",
+            "2) 明日[あひた] 6時[じ] 起[お]きます。",
+            "2) I'm going to get up at 6 tomorrow",
+            "3) 今朝[けさ] 6時[じ] 起[お]きました。",
+            "3) I woke up at 6 this morning"
+        ]
+    },
+    {
+        "lesson" : "4",
+        "topic": "time に verb", 
+        "explanations": [
+            "The particle に is appended to a time noun to indicate the time of occurence of an action",
+            "[Note] に should only be used for time nouns that include numbers such as 時[じ] and 分[ふん/ぶん]",
+            "[Note] に can be optionally used for the following nouns: ~ようび, あさ, ひる, ばん, よる"
+        ],
+        "examples": [
+            "1) 6時[じ]半[はん]に 起[お]きます。",
+            "1) I wake up at 6:30",
+            "2) 7月[がつ]2日[か]に 日[に]本[ほん]へ 来[き]ました。",
+            "2) I came to Japan on the 2nd of July",
+            "3) 日曜日[にちようび]に 奈良[なら]へ いきます。",
+            "3) I am going to Nara on Sunday"
+        ]
+    },
+    {
+        "lesson" : "4",
+        "topic": "Noun1 から Noun2 まで", 
+        "explanations": [
+            "から indicates a starting time or place, and まで indicates the finishing time or place",
+            "から and まで can be used separately and are not always used together",
+            "To indicate the starting or finishing time/date of a noun introduced as a topic, デスan be added after ~から or ~まで"
+        ],
+        "examples": [
+            "1) 9時[じ]から 5時[じ]まで 勉[べん]強[きょう]します。",
+            "1) I study from 9 to 5",
+            "2) 大[おお]阪[さか]から 東[とう]京[きょう]まで 9時[じ]間[かん] かかります。",
+            "2) It takes 3 hours from Osaka to Tokyo",
+            "3) 9時[じ]から 働[はたら]きます。",
+            "3) I start work at 9",
+            "4) 銀行[ぎんこう]は 9時[じ]から 3時[じ]までです。",
+            "4) The bank is open from 9 to 3",
+            "5) 昼休[ひるやす]みは 12時[じ]からです。",
+            "5) Lunchtime starts at 12"
+        ]
+    },
+    {
+        "lesson" : "4",
+        "topic": "Noun1 と Noun2", 
+        "explanations": [
+            "The particle と connects two nouns in coordinate relation"
+        ],
+        "examples": [
+            "1) 銀行[ぎんこう]は 休[やす]みは 土[ど]曜日[ようび]と 日[にち]曜日[ようび]です。",
+            "1) The bank is closed on Saturdays and Sundays"
+        ]
+    },
+    {
+        "lesson" : "4",
+        "topic": "~ね", 
+        "explanations": [
+            "The particle ね is attached to the end of a sentence and is used to elicit agreement from the listener",
+            "Or to check that the listener has understood, or emphasize somthing to the listener"
+        ],
+        "examples": [
+            "1) 毎[まい]日[にち] 10時[じ]まで 勉[べん]強[きょう]します。",
+            "1) I study till 10 every day",
+            "1) ... 大[たい]変[へん]ですね。",
+            "1) ... That's tough, isn't it",
+            "2) 山田[やまだ]さんの 電[でん]話[わ]番[ばん]号[ごう]は 871の 6813 です。",
+            "2) Mr Yamada's telephone number is 871-6813",
+            "2) ... 871の 6813ですね。",
+            "2) ... 871-6813 right?"
+        ]
+    },
+    {
+        "lesson" : "5",
+        "topic": "place へ 行[い]きます/来[き]ます/帰[かえ]ります", 
+        "explanations": [
+            "When a verb indicates movement to a certain place, the particle へ is put after the place noun to show the direction fo the move",
+            "[Note] the particle へ is read as え"
+        ],
+        "examples": [
+            "1) 京[きょう]都[と]へ 行[い]きます。",
+            "1) I'm going to Kyoto",
+            "2) 日[に]本[ほん]へ 来[き]ました。",
+            "2) I came to Japan",
+            "3) 家[うち]へ 帰[かえり]ます。",
+            "3) I'm going home"
+        ]
+    },
+    {
+        "lesson" : "5",
+        "topic": "どこ(へ)も 行きません/行きませんでした", 
+        "explanations": [
+            "When you want to deny everything covered by an interrogative, you attach the particle も and put ther verb in its negative form",
+            "[Note] The particle へ here is optional"
+        ],
+        "examples": [
+            "1) どこ(へ)も 行[い]きません。",
+            "1) I'm not going anywhere",
+            "2) 何[なに]も 食[た]べません。",
+            "2) I'm not going to eat anything",
+            "3) だれも 行[き]ませんでした。",
+            "3) Nobody came"
+        ]
+    },
+    {
+        "lesson" : "5",
+        "topic": "vehicle で 行[い]きます/来[き]ます/帰[かえ]ります", 
+        "explanations": [
+            "The particle で indicates a means or a method",
+            "Attach it after a vehicle noun and use it together with movement verb to indicate means of transport",
+            "For walking, speaker uses the expression 歩[ある]いて. In this case で is not used"
+        ],
+        "examples": [
+            "1) 電[でん]車[しゃ]で 行[い]きます。",
+            "1) I'm going by train",
+            "2) タクシーで 来[き]ました。",
+            "2) I came by Taxi",
+            "3) 駅[えき]から 歩[ある]いて 帰[かえ]りました。",
+            "3) I walked home from the station"
+        ]
+    },
+    {
+        "lesson" : "5",
+        "topic": "(person/animal) と verb", 
+        "explanations": [
+            "When talking about doing something with a person/animal, the person/animal is marked with particle と",
+            "If doing something by oneself, the expression 一人で．In this case, the particle と is not used"
+        ],
+        "examples": [
+            "1) 家[か]族[ぞく]と 日[に]本[ほん]へ 来[き]ました。",
+            "1) I came to Japan with my family",
+            "2) 一人[ひとり]で 東[とう]京[きょう]へ 行[い]きます。",
+            "2) I'm going to Tokyo on my own"
+        ]
+    },
+    {
+        "lesson" : "5",
+        "topic": "いつ", 
+        "explanations": [
+            "Use いつ to ask when something happened or will happen",
+            "[Note] We do not use the に particle after いつ"
+        ],
+        "examples": [
+            "1) いつ 日[に]本[ほん]へ 来[き]ましたか。",
+            "1) When did you come to Japan?",
+            "1) ... 3月[がつ]25日[にち]に 来[き]ました。",
+            "1) ... I came on 25th March"
+        ]
+    },
+    {
+        "lesson" : "5",
+        "topic": "～よ", 
+        "explanations": [
+            "The particle よ is placed at the end of the sentence to emphasize information that the listener does not know",
+            "It can also be used to show that the speaker is giving their judgement assertively"
+        ],
+        "examples": [
+            "1) 北海道[ほっかいどう]に 馬[うま]が たくさん いますよ。",
+            "1) There are alot of horses in Hokkaido, you know",
+            "2) マリヤさん このアイスクリーム おいしいですよ。",
+            "2) Maria, this ice-cream is delicious, you know"
+        ]
+    },
+    {
+        "lesson" : "5",
+        "topic": "そうですね", 
+        "explanations": [
+            "そうですね is used to express sympathy or agreement with the speaker",
+            "It is similar to そうですか, but while that is used to acknowledge new information, そうですね is used to show sympathy or agree with something the speaker already knew"
+        ],
+        "examples": [
+            "1) 明日[あした]は 日曜日[にちようび]ですね。",
+            "1) It's Sunday tomorrow, isn't it?",
+            "2) ... あ, そうですね。",
+            "2) ... Oh, so it is"
         ]
     }
 ]
