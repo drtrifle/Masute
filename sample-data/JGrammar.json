@@ -16,9 +16,9 @@
     },
     {
         "lesson" : "1",
-        "topic": "Noun1 は Noun2 じゃ(では) ありません", 
+        "topic": "Noun1 は Noun2 じゃ/では ありません", 
         "explanations": [
-            "じゃ(では) ありません is the negative form of です",
+            "じゃ/では ありません is the negative form of です",
             "じゃ ありません is used in spoken conversations",
             "では ありません is used in formal speech and writing",
             "[Note] the particle は in では is read as わ"
@@ -472,6 +472,346 @@
             "1) It's Sunday tomorrow, isn't it?",
             "2) ... あ, そうですね。",
             "2) ... Oh, so it is"
+        ]
+    },
+    {
+        "lesson" : "6",
+        "topic": "Noun を Transitive Verb", 
+        "explanations": [
+            "The particle を is used to indicate the direct object of a transitive verb"
+        ],
+        "examples": [
+            "1) ジュース を 飲[の]みます。",
+            "1) I drink juice"
+        ]
+    },
+    {
+        "lesson" : "6",
+        "topic": "Noun を します", 
+        "explanations": [
+            "A wide range of nouns are used as object of the verb します, which means that the action denoted by the noun is performed."
+        ],
+        "examples": [
+            "1) サッカー を します。",
+            "1) To play soccer",
+            "2) 会議[かいぎ] を します。",
+            "2) To hold a meeting",
+            "3) 宿題[しゅくだい] を します。",
+            "3) To do homework"
+        ]
+    },
+    {
+        "lesson" : "6",
+        "topic": "何[なに] を しますか", 
+        "explanations": [
+            "To ask about someone's actions"
+        ],
+        "examples": [
+            "1) 月曜日[げつようび] 何[なに] を しますか。",
+            "1) What will you be doing on Monday?",
+            "1) ... 京都[きょうと] へ 行[い]きます。",
+            "1) ... I'll be going to Kyoto",
+            "2) 昨日[きのう] 何[なに] を しましたか。",
+            "2) What did you do yesterday",
+            "2) ... サッカー を しました。",
+            "2) ... I played soccer"
+        ]
+    },
+    {
+        "lesson" : "6",
+        "topic": "何: なん vs なに", 
+        "explanations": [
+            "Both なん and なに mean 'what'",
+            "We use なん when it precedes a word whose first sound is either in the た，だ or な row, or when using it wiath a counting suffix",
+            "In other cases, we use なに",
+            "[Note] なんで is used for asking 'Why' or 'How', なにで can be used when to only ask for 'How'"
+        ],
+        "examples": [
+            "1) それは 何[なん]ですか。",
+            "1) What's that?",
+            "2) 何[なん]の 本[ほん]ですか。",
+            "2) What's that book about?",
+            "3) 寝[ね]る 前[まえ]に 何[なん]と 言[い]いますか。",
+            "3) What do you say before going to bed?",
+            "4) テレーザちゃんは 何[なん]歳[さい]ですか。",
+            "4) How old is Teresa?"
+        ]
+    },
+    {
+        "lesson" : "6",
+        "topic": "Place で Verb", 
+        "explanations": [
+            "The particle で, when added after a noun denoting a place, indicates the occurance of an action at that place"
+        ],
+        "examples": [
+            "1) 駅[えき]で 新聞[しんぶん]を 買[か]います。",
+            "1) I'm going to buy a newspaper at the station"
+        ]
+    },
+    {
+        "lesson" : "6",
+        "topic": "Verb ませんか", 
+        "explanations": [
+            "This expression is used when the speaker wants to invite someone to do something"
+        ],
+        "examples": [
+            "1) 一緒[いっしょ]に 京都[きょうと]へ いきませんか。",
+            "1) Would you like to go to Kyoto with us?",
+            "1) ... ええ，いいですね。",
+            "1) ... Yes, that's a nice idea"
+        ]
+    },
+    {
+        "lesson" : "6",
+        "topic": "Verb ましょう", 
+        "explanations": [
+            "This expression is used when the speaker is inviting someone to do something",
+            "It can also be used when responding positively to an invitation",
+            "[Note] Verb ませんか and Verb ましょう are used to invite someone to do something but Verb ませんか shows that the speaker gives more consideration to what the listener might want"
+        ],
+        "examples": [
+            "1) ちょっと 休[やす]みましょう。",
+            "1) Let's take a break",
+            "2) 一緒[いっしょ]に 昼[ひる]ご飯[はん]を 食[た]べましょう。",
+            "2) Let's have lunch together",
+            "2) ... ええ，食[た]べましょう。",
+            "2) ... Yes, lets do that"
+
+        ]
+    },
+    {
+        "lesson" : "6",
+        "topic": "~か", 
+        "explanations": [
+            "~か as a response indicates that the listener has accepted some new information",
+            "It is used in the same way as そうですか"
+        ],
+        "examples": [
+            "1) 日曜日[にちようび] 京都[きょうと]へ 行[い]きました。",
+            "1) I went to Kyoto on Sunday",
+            "1) ... 京都[きょうと]ですか。いいですね。",
+            "1) ... Kyoto,eh? Great!"
+        ]
+    },
+    {
+        "lesson" : "7",
+        "topic": "Noun(tool/means) で Verb", 
+        "explanations": [
+            "The particle で indicates a method or a means used for an action."
+        ],
+        "examples": [
+            "1) はしで 食[た]べます。",
+            "1) I eat with chopsticks",
+            "2) 日本語[にほんご]で レポートを 書[か]きます。",
+            "2) I'm going to write the report in Japanese"
+        ]
+    },
+    {
+        "lesson" : "7",
+        "topic": "Word/Sentence は ~語[ご]で 何[なん]ですか。", 
+        "explanations": [
+            "This question is used to ask how to say a word or a sentence in another language"
+        ],
+        "examples": [
+            "1) ありがとう は 英語[えいご]で 何[なん]でえすか。",
+            "1) What's 'Arigato' in English?",
+            "1) ... Thank you です。",
+            "1) ... It's 'Thank you'",
+            "2) Thank you は 日本語[にほんご]で  何[なん]ですか。",
+            "2) What's 'Thank you' in Japanese?",
+            "2) ... ありがとう です。",
+            "2) ... It's 'Arigato'"
+        ]
+    },
+    {
+        "lesson" : "7",
+        "topic": "Person に Noun を あげます", 
+        "explanations": [
+            "Verbs like あげます, かします and おしえます indicate imparting things or information, so they must be used with a noun saying to whom those things on information is imparted",
+            "The particle に is used to denote the recipient"
+        ],
+        "examples": [
+            "1) 私[わたし]は 木村[きむら]さんに 花[はな]を あげました。",
+            "1) I gave Ms Kimura some flowers",
+            "2) 私[わたし]は イーさんに 本[ほん]を 貸[か]しました。",
+            "2) I lent Ms Lee a book",
+            "3) 私[わたし]は 山田[やまだ]さんに 英語[えいご]を 教[おし]えます。",
+            "3) I teach Mr Yamada english"
+        ]
+    },
+    {
+        "lesson" : "7",
+        "topic": "Person に Noun を もらいます", 
+        "explanations": [
+            "Verbs like もらいます，かります and ならいます indicate receiving things or information, so they are used with a noun indicating the person from whom those things or information are received",
+            "The particle に is used to denote the recipient"
+        ],
+        "examples": [
+            "1) 私[わたし]は 山田[やまだ]さんに 花[はな]を もらいました。",
+            "1) I received some flowers from Mr Yamada",
+            "2) 私[わたし]は カリナさんに CDを 借[か]りました。",
+            "2) I borrowed a CD from Karina",
+            "3) 私[わたし]は ワンさんに 中国語[ちゅうごくご]を 習[なら]います。",
+            "3) I'm learning Chinese from Mr Wang"
+        ]
+    },
+    {
+        "lesson" : "7",
+        "topic": "もう Verbました", 
+        "explanations": [
+            "もう means 'already' and is used with Verbました to indicate that an action has been completed",
+            "The answer to the question もう Verbましたか as to whether an action has been completed is はい，もう Verbました if affirmative",
+            "If negative, we use いいえ，Verbて いません, this means that somthing has not been completed in the present",
+            "[Note] we do not use いいえ，Verbませんでした as that means that something was not done in the past"
+        ],
+        "examples": [
+            "1) もう 荷物[にもつ]を 送[おく]りましたか。",
+            "1) Have you sent the baggage yet?",
+            "2) ... はい，(もう) 送[おく]りました。",
+            "2) ... Yes, I have sent it",
+            "3) ... いいえ, まだ 送[おく]っていません。",
+            "3) ... No, I haven't sent it yet．",
+            "4) ... いいえ, まだです。",
+            "4) ... No, not yet．"
+        ]
+    },
+    {
+        "lesson" : "7",
+        "topic": "Omission of Particles", 
+        "explanations": [ 
+            "Particles are often omitted in informal speech when the relationship between the parts of the speech before and after them are obvious"
+        ],
+        "examples": [
+            "1) この スプーン(は)，すてきですね。",
+            "1) This is a lovely sppon, isn't it?",
+            "2) コーヒー(を)，もう 一杯[いっぱい] いかがですか。",
+            "2) Would you like another cup of coffee?"
+        ]
+    },
+    {
+        "lesson" : "8",
+        "topic": "Adjectives", 
+        "explanations": [ 
+            "Adjectives are used as predicated, and in sentences like Noun は Adj です they indicate the state of a noun or are used to modify a noun",
+            "They are divided into 2 groups, い-adjs and な-adjs"
+        ],
+        "examples": [
+            ""
+        ]
+    },
+    {
+        "lesson" : "8",
+        "topic": "Noun は な-adj です", 
+        "explanations": [ 
+            "Adjective sentences that are non-past and affirmative end in です, which shows politeness towards the listener",
+            "な-adjs drop their な when added before です"
+        ],
+        "examples": [
+            "1) ワット先生[せんせい]は 親切[しんせつ]です。",
+            "1) Mr Watt is kind"
+        ]
+    },
+    {
+        "lesson" : "8",
+        "topic": "Noun は い-adj です", 
+        "explanations": [ 
+            "Adjective sentences that are non-past and affirmative end in です, which shows politeness towards the listener",
+            "い-adjs retain their い when added before です"
+        ],
+        "examples": [
+            "1) 富士山[ふじさん]は 高[たか]いです。",
+            "1) Mt Fuji is high"
+        ]
+    },
+    {
+        "lesson" : "8",
+        "topic": "Noun は な-adj じゃ/では ありません", 
+        "explanations": [ 
+            "The non-past negative form of a な-adj is formed by dropping the な and attaching じゃ/では ありません to it"
+        ],
+        "examples": [
+            "1) あそこは 静[しず]か じゃありません。",
+            "1) It's not quiet here"
+        ]
+    },
+    {
+        "lesson" : "8",
+        "topic": "Noun は い-adj ~くないいです", 
+        "explanations": [ 
+            "The non-past negative form of a い-adj is formed by dropping the final い and attaching じゃ/では ありません to it",
+            "[Note] The negative for いいです is よくないです"
+        ],
+        "examples": [
+            "1) この 本[ほん]は おもしろくないです。",
+            "1) This book is not interesting"
+        ]
+    },
+    {
+        "lesson" : "8",
+        "topic": "な-adjな Noun", 
+        "explanations": [ 
+            "When an adjective is used to modify a noun, its is placed in front of the noun",
+            "な-adjs have a な before the noun"
+        ],
+        "examples": [
+            "1) ワット先生[せんせい]は 親切[しんせつ]な 先生[せんせい]です。",
+            "1) Mr Watt is a considerate teacher"
+        ]
+    },
+    {
+        "lesson" : "8",
+        "topic": "い-adj Noun", 
+        "explanations": [ 
+            "When an adjective is used to modify a noun, its is placed in front of the noun"
+        ],
+        "examples": [
+            "1) 富士山[ふじさん]は 高[たか]い 山[やま]です。",
+            "1) Mt Fuji is a high mountain"
+        ]
+    },
+    {
+        "lesson" : "8",
+        "topic": "~が", 
+        "explanations": [ 
+            "が connects two sentences in an antithetical relationship.",
+            "When these are adjective clauses with the same subject, if the initial clause is positive, the other will be negative and vice versa"
+        ],
+        "examples": [
+            "1) 日本[にほん]の 食[た]べ物[もの]は 美味[おい]しいですが, 高[たか]いです。",
+            "1) Japanese food is delicious but expensive"
+        ]
+    },
+    {
+        "lesson" : "8",
+        "topic": "とても/あまり Adjective", 
+        "explanations": [ 
+            "とても and あまり are both adverbs of degree, both come before the adjectives they modify",
+            "とても is used in affirmative sentences and mean 'very'",
+            "あまり is used negatively and means not very",
+            "[Note] When あまり is used, the negative form of the adjjective must be used"
+        ],
+        "examples": [
+            "1) ペキンは とても 寒[さむ]いです。",
+            "1) Beijing is very cold",
+            "2) これは とても 有名[ゆうめい]な 映画[えいが]です。",
+            "2) This is a very famous movie",
+            "3) シャンハイは あまり 寒[さむ]くないです。",
+            "3) Shanghai is not very cold",
+            "4) さくら大学[だいがく]は あまり 有名[ゆうめい]な 大学[だいがく]じゃありません。",
+            "4) Sakura University is not a very famous university"
+        ]
+    },
+    {
+        "lesson" : "8",
+        "topic": "Nounは どうですか", 
+        "explanations": [ 
+            "This question 'Nounは どうですか' is used to inquire about someone's impression, opinion or feeling about a thing, place, person, etc that they experienced"
+        ],
+        "examples": [
+            "1) 日本[にほん]の 生活[せいかつ]は どうですか。",
+            "1) How do you find life in Japan?",
+            "1) ... 楽[たの]しいです。",
+            "1) ... It's fun"
         ]
     }
 ]
