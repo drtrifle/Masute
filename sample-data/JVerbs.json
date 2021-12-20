@@ -26,7 +26,7 @@
   
   { "grpNum": "2", "chap": "06", "eng":"To eat", "jisho": "たべる", "masu": "たべます", "te": "たべて", "nai": "たべない", "ta": "たべた" },
   { "grpNum": "1", "chap": "06", "eng":"To drink", "jisho": "のむ", "masu": "のみます", "te": "のんで", "nai": "のまない", "ta": "のんだ" },
-  { "grpNum": "1", "chap": "06", "eng":"To smoke", "jisho": "すう", "masu": "すいます", "te": "すって", "nai": "すわない", "ta": "すった" },
+  { "grpNum": "1", "chap": "06", "eng":"To smoke/inhale", "kanji": "吸う", "jisho": "すう", "masu": "すいます", "te": "すって", "nai": "すわない", "ta": "すった" },
   { "grpNum": "2", "chap": "06", "eng":"To see", "jisho": "みる", "masu": "みます", "te": "みて", "nai": "みない", "ta": "みた" },
   { "grpNum": "1", "chap": "06", "eng":"To listen/ask", "jisho": "きく", "masu": "ききます", "te": "きいて", "nai": "きかない", "ta": "きいた" },
   { "grpNum": "1", "chap": "06", "eng":"To read", "jisho": "よむ", "masu": "よみます", "te": "よんで", "nai": "よまない", "ta": "よんだ" },
