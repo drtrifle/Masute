@@ -3,6 +3,7 @@
     border-style: solid;
     border-radius: 5px;
     padding: 10px;
+    margin-bottom: .5rem;
 }
 
 /* /Pages/LessonGrammar.razor.rz.scp.css */
@@ -10,16 +11,37 @@
     font-size: 16px;
 }
 /* /Pages/LessonSong.razor.rz.scp.css */
-.small[b-21mdl9ckz5] {
+.font-small[b-21mdl9ckz5] {
     font-size: 14px;
 }
 
-.medium[b-21mdl9ckz5] {
+.font-medium[b-21mdl9ckz5] {
     font-size: 17px;
 }
 
-.large[b-21mdl9ckz5] {
+.font-large[b-21mdl9ckz5] {
     font-size: 20px;
+}
+
+.configBox[b-21mdl9ckz5]{
+    margin-bottom: 0rem;
+}
+
+.configBox_Title[b-21mdl9ckz5]{
+    color: #fff;
+    font-size: 90%;
+    text-align: center;
+    background-color: #555;
+    margin-bottom: 5px;
+    border-radius: 3px;
+}
+
+.configBox_Content[b-21mdl9ckz5]{
+    margin-bottom: 0rem;
+}
+
+.songLyrics[b-21mdl9ckz5] {
+    margin-bottom: .5rem;
 }
 /* /Shared/MainLayout.razor.rz.scp.css */
 .mudblazor-main-content[b-352iyf90c3] {

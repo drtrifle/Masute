@@ -112,6 +112,6 @@
         {"chap": "0", "eng": "Sad", "kanji": "悲しい", "jpn": "かなしい"},
         {"chap": "0", "eng": "Foot/Leg", "kanji": "足", "jpn": "あし"},
         {"chap": "0", "eng": "To turn towards", "kanji": "向ける", "jpn": "むける"},
-        {"chap": "0", "eng": "To stop (moving)", "kanji": "止まる", "jpn": "とまる"}
+        {"chap": "0", "eng": "To stop by itself", "kanji": "止まる", "jpn": "とまる"}
     ]
 }
