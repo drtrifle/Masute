@@ -1,0 +1,27 @@
+[
+    {
+        "songID" : "YORU-001",
+        "songURL": "https://www.youtube.com/embed/WwnZeQiI6hQ",
+        "songNameEng" : "The Old Man and the Sea",
+        "songNameJpn" : "老人と海",
+        "artistNameEng" : "Yorushika",
+        "artistNameJpn" : "ヨルシカ"
+    },
+    {
+        "songID" : "FRED-001",
+        "songURL": "https://www.youtube.com/embed/vn7vfza-6fQ",
+        "songNameEng" : "Kanashii Ureshii",
+        "songNameJpn" : "かなしいうれしい",
+        "artistNameEng" : "Frederic",
+        "artistNameJpn" : "フレデリック"
+
+    },
+    {
+        "songID" : "YUZU-001",
+        "songURL": "https://www.youtube.com/embed/dgKocTADT0I",
+        "songNameEng" : "Sakuragicho",
+        "songNameJpn" : "桜木町",
+        "artistNameEng" : "Yuzu",
+        "artistNameJpn" : "ゆず"
+    }
+]

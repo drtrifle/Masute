@@ -1,0 +1,181 @@
+[
+    {
+        "topic": "Introduction",
+        "lessons" : [
+            {
+                "title": "Nice to meet you (Introduction part 1)",
+                "explanations": [
+                    "初[はじ]めまして rougly translates to 'nice to meet you for the first time'",
+                    "It is commonly used as the first sentence when introducing yourself"
+                ],
+                "examples": [
+                ]
+            },
+            {
+                "title": "My name is ... (Introduction part 2)",
+                "explanations": [
+                    "私[わたし]は ...です means 'my name is ...です'",
+                    "です is added at the end to show politeness",
+                    "Sometimes, 私[わたし]は is omitted as when it is obvious that you are referring to yourself",
+                    "It is commonly used as the second sentence when introducing yourself"
+                ],
+                "examples": [
+                ]
+            },
+            {
+                "title": "I will be in your care (Introduction part 3)",
+                "explanations": [
+                    "どうぞ よるしく does not really have a proper english translation and is almost like a request for the other person to be kind towards you",
+                    "It is commonly used as the last sentence when introducing yourself"
+                ],
+                "examples": [
+                ]
+            }
+        ]
+    },
+    {
+        "topic": "Greetings",
+        "lessons" : [
+            {
+                "title": "Good Morning",
+                "explanations": [
+                    "お早[はよ]う means 'good morning'",
+                    "お早[はよ]う ございます also means 'good morning' but is more polite"
+                ],
+                "examples": [
+                ]
+            },
+            {
+                "title": "Good Afternoon",
+                "explanations": [
+                    "今日[こんにち]は means 'good afternoon'",
+                    "[Note] は here is pronounced as わ"
+                ],
+                "examples": [
+                ]
+            },
+            {
+                "title": "Good Evening",
+                "explanations": [
+                    "今晩[こんばん]は means 'good evening'",
+                    "[Note] は here is pronounced as わ"
+                ],
+                "examples": [
+                ]
+            },
+            {
+                "title": "Goodbye/Farewell",
+                "explanations": [
+                    "さようなら means 'goodbye' but is more formal and akin to farewell where you might not see the other party for a long time again",
+                    "じゃあね means 'see you' and is used casually among friends",
+                    "またね means 'later' and is also used casually among friends"
+                ],
+                "examples": [
+                ]
+            },
+            {
+                "title": "Goodnight",
+                "explanations": [
+                    "お休[やす]みなさい means 'goodnight' but is more formal",
+                    "Usually, it is shortend to お休[やす]み instead"
+                ],
+                "examples": [
+                ]
+            },
+            {
+                "title": "Thank you",
+                "explanations": [
+                    "有[あ]り難[がと]う means 'thank you'",
+                    "有[あ]り難[がと]う ございます is a more polite form of showing appreciation",
+                    "どうも is the casual form of saying thanks"
+                ],
+                "examples": [
+                ]
+            },
+            {
+                "title": "You're welcome",
+                "explanations": [
+                    "どういたしまして can be generally translated into 'you're welcome'"
+                ],
+                "examples": [
+                ]
+            },
+            {
+                "title": "Excuse me/Sorry/Thanks",
+                "explanations": [
+                    "すみません is a versatile word that can be used to grab someone's attention, apologise for a small error or show appreciation"
+                ],
+                "examples": [
+                ]
+            },
+            {
+                "title": "Not at all",
+                "explanations": [
+                    "いいえ means 'No'",
+                    "It can be used as a reply to すみません, when someone expresses gratitude or an apology towards you"
+                ],
+                "examples": [
+                ]
+            },
+            {
+                "title": "I'm going out and coming back",
+                "explanations": [
+                    "行[い]ってきます means that you are leaving but implies that you will be coming back",
+                    "It can be used amongst family or colleagues when leaving home or the office"
+                ],
+                "examples": [
+                ]
+            },
+            {
+                "title": "See you! Take care",
+                "explanations": [
+                    "行[い]ってらっしゃい is directly translated to 'go and come back' but it's meaning is closer to 'see you later' or 'take care'",
+                    "It is used as reply phrase to someone saying 行[い]ってきます"
+                ],
+                "examples": [
+                ]
+            },
+            {
+                "title": "I'm back",
+                "explanations": [
+                    "ただ今[いま] is used to annouce your return to somewhere"
+                ],
+                "examples": [
+                ]
+            },
+            {
+                "title": "I'm home",
+                "explanations": [
+                    "ただ今[いま] is used to annouce your return to a house"
+                ],
+                "examples": [
+                ]
+            },
+            {
+                "title": "Welcome home",
+                "explanations": [
+                    "お帰[かえ]りなさい means welcome home and is used as a reply to ただ今[いま]",
+                    "It can also be shortened to お帰[かえ]り"
+                ],
+                "examples": [
+                ]
+            },
+            {
+                "title": "Thank you for the meal (Before eating)",
+                "explanations": [
+                    "いだだきます express gratitude and is said before eating"
+                ],
+                "examples": [
+                ]
+            },
+            {
+                "title": "Thank you for the meal (After eating)",
+                "explanations": [
+                    "ごちそうさまでした express gratitude and is said after eating"
+                ],
+                "examples": [
+                ]
+            }
+        ]
+    }
+]
