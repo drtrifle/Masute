@@ -1,13 +1,5 @@
 [
     {
-        "songID" : "YORU-001",
-        "songURL": "https://www.youtube.com/embed/WwnZeQiI6hQ",
-        "songNameEng" : "The Old Man and the Sea",
-        "songNameJpn" : "老人と海",
-        "artistNameEng" : "Yorushika",
-        "artistNameJpn" : "ヨルシカ"
-    },
-    {
         "songID" : "FRED-001",
         "songURL": "https://www.youtube.com/embed/vn7vfza-6fQ",
         "songNameEng" : "Kanashii Ureshii",
@@ -15,6 +7,23 @@
         "artistNameEng" : "Frederic",
         "artistNameJpn" : "フレデリック"
 
+    },
+    {
+        "songID" : "HIGE-001",
+        "songURL": "https://www.youtube.com/embed/TQ8WlA2GXbk",
+        "songNameEng" : "Pretender",
+        "songNameJpn" : "",
+        "artistNameEng" : "Official Hige Dandism",
+        "artistNameJpn" : "Official髭男dism"
+
+    },
+    {
+        "songID" : "YORU-001",
+        "songURL": "https://www.youtube.com/embed/WwnZeQiI6hQ",
+        "songNameEng" : "The Old Man and the Sea",
+        "songNameJpn" : "老人と海",
+        "artistNameEng" : "Yorushika",
+        "artistNameJpn" : "ヨルシカ"
     },
     {
         "songID" : "YUZU-001",

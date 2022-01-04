@@ -23,10 +23,16 @@
     font-size: 20px;
 }
 
+.rb[b-21mdl9ckz5]{
+    font-size: 75%;
+}
+.rt[b-21mdl9ckz5]{
+    font-size: 75%;
+}
+
 .configBox[b-21mdl9ckz5]{
     margin-bottom: 0rem;
 }
-
 .configBox_Title[b-21mdl9ckz5]{
     color: #fff;
     font-size: 90%;
@@ -35,11 +41,9 @@
     margin-bottom: 5px;
     border-radius: 3px;
 }
-
 .configBox_Content[b-21mdl9ckz5]{
     margin-bottom: 0rem;
 }
-
 .songLyrics[b-21mdl9ckz5] {
     margin-bottom: .5rem;
 }
