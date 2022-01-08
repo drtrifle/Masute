@@ -23,7 +23,7 @@
     font-size: 20px;
 }
 
-.rb[b-21mdl9ckz5]{
+.ruby[b-21mdl9ckz5]{
     font-size: 75%;
 }
 .rt[b-21mdl9ckz5]{
@@ -32,6 +32,9 @@
 
 .configBox[b-21mdl9ckz5]{
     margin-bottom: 0rem;
+}
+.configBox_Btn[b-21mdl9ckz5]{
+    min-width: unset;
 }
 .configBox_Title[b-21mdl9ckz5]{
     color: #fff;
@@ -44,6 +47,8 @@
 .configBox_Content[b-21mdl9ckz5]{
     margin-bottom: 0rem;
 }
+
+
 .songLyrics[b-21mdl9ckz5] {
     margin-bottom: .5rem;
 }
