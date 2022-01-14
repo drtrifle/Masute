@@ -1,0 +1,111 @@
+[
+    {
+        "lesson" : "2",
+        "topic": "これ/それ/あれ", 
+        "explanations": [
+            "これ,それ and あれ are demonstratives and work as nouns",
+            "これ refers to something near the speaker",
+            "それ refers to something near the listener",
+            "あれ refers to something distant from both the speaker and the listener"
+        ],
+        "examples": [
+            "1) それは 辞書[じしょ]ですか。",
+            "1) Is that a dictionary?",
+            "2) これは だれの 傘[かさ]ですか。",
+            "2) Whose umbrella is this?"
+        ]
+    },
+    {
+        "lesson" : "2",
+        "topic": "この Noun/その Noun/あの Noun", 
+        "explanations": [
+            "この,その and あの are the same as これ/それ/あれ but they modify nouns instead"
+        ],
+        "examples": [
+            "1) この 本[ほん]は 私[わたし]のです。",
+            "1) This book is mine",
+            "2) あの かたは どなたですか。",
+            "2) Who is that person?"
+        ]
+    },
+    {
+        "lesson" : "2",
+        "topic": "そうです", 
+        "explanations": [
+            "そう is often used to answer a yes/no question in the affirmative",
+            "違[ちが]います is often used to answer a yes/no question in the affirmative"
+        ],
+        "examples": [
+            "1) それは 辞書[じしょ]ですか。",
+            "1) Is that a dictionary?",
+            "1) ... はい, そうです。",
+            "1) ... Yes, it is",
+            "2) それは ペンですか。",
+            "2) Is that a pen?",
+            "2) ... いいえ, 違[ちが]います。",
+            "2) ... No, it isn't"
+        ]
+    },
+    {
+        "lesson" : "2",
+        "topic": "～か，～か", 
+        "explanations": [
+            "This is a question where the listener has to choose between two options for the answer",
+            "For this type of questions, it is usual to state the chosen options"
+        ],
+        "examples": [
+            "1) これは 9 ですか, 7 ですか。",
+            "1) Is that a 9 or a 7?",
+            "1) ... 9 です。",
+            "1) It is a 9"
+        ]
+    },
+    {
+        "lesson" : "2",
+        "topic": "の substituting for a noun", 
+        "explanations": [
+            "の can be used instead of a noun , if it has already been mentioned",
+            "In the Noun1 の Noun2 format, this means that we can omit Noun2 to just Noun1 の",
+            "We can used の in this way for things but not for people"
+        ],
+        "examples": [
+            "1) あれは だれの 鞄[かばん]ですか。",
+            "1) Whose bag is that?",
+            "1) ... さとうさんのです。",
+            "1) ... It is Ms Sato's bag",
+            "2) この 鞄[かばん]は あなたのですか。",
+            "2) Is this bag yours?",
+            "2) ... いいえ, 私[わたし]の じゃありません",
+            "2) ... No, it isn't mine"
+        ]
+    },
+    {
+        "lesson" : "2",
+        "topic": "お～", 
+        "explanations": [
+            "The prefix お is attached to words when the speaker is speaking politely"
+        ],
+        "examples": [
+            "1) おみやげ",
+            "1) Souvenir",
+            "2) おさけ",
+            "2) Sake"
+        ]
+    },
+    {
+        "lesson" : "2",
+        "topic": "そうですか", 
+        "explanations": [
+            "This expression is used by the speaker to acknowledge new information he/she has just been given",
+            "It is pronounced with a falling intonation"
+        ],
+        "examples": [
+            "1) この 傘[かさ]は あなたのですか。",
+            "1) Is this umbrella yours?",
+            "1) ... いいえ, 違[ちが]います。シュミットさんのです。",
+            "1) ... No it isn't. It is Mr Schmidt's",
+            "1) そうですか。",
+            "1) Oh, I see"
+        ]
+    }
+]

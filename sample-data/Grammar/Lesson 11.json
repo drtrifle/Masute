@@ -1,0 +1,123 @@
+[
+    {
+        "lesson" : "11",
+        "topic": "Numbers", 
+        "explanations": [ 
+            "The words ひとつ，ふたつ，... とお are used to count things up to 10",
+            "From 11 and above, the numbers themselves are used when counting things",
+            "Different counter suffixes are used depending on what is counted"
+        ],
+        "examples": [
+            "01) ~人[にん] People except for one and two",
+            "02) ~台[だい] Machines and vehicles",
+            "03) ~枚[まい] Thin, flat things",
+            "04) ~回[かい] Frequency, number of time",
+            "05) ~分[ふん/ぷん] Minutes",
+            "06) ~時間[じかん] Hours",
+            "07) ~日[にち] Days",
+            "08) ~週間[しゅうかん] Weeks",
+            "09) ~か月[げつ] Months",
+            "10) ~年[ねん] Years"
+        ]
+    },
+    {
+        "lesson" : "11",
+        "topic": "Quantifiers", 
+        "explanations": [ 
+            "Quantifiers are usually put straight after the noun + perticle that determines the type of quantifier",
+            "However, this is not always not the case with length of time"
+        ],
+        "examples": [
+            "1) りんごを 四[よっ]つ 買[か]いました。",
+            "1) I bought four apples",
+            "2) 外国人[がいこくじん]の 学生[がくせい]が 二人[ふたり] います。",
+            "2) There are two foreign students",
+            "3) 国[くに]で 二[に]か月[げつ] 日本語[にほんご]を 勉強[べんきょう]しました。",
+            "3) I studied Japanese for two months in my home country"
+        ]
+    },
+    {
+        "lesson" : "11",
+        "topic": "Noun を いくつ", 
+        "explanations": [ 
+            "いくつ is used when asking how many there are of the items counted"
+        ],
+        "examples": [
+            "1) みかんを いくつ 買[か]いましたか。",
+            "1) How many mandarin oranges did you buy?",
+            "1) ... 八[やっ]つ 買[か]いました。",
+            "1) ... I bought eight"
+        ]
+    },
+    {
+        "lesson" : "11",
+        "topic": "なん + counter suffix", 
+        "explanations": [ 
+            "なん + counter suffix is used when asking how many there are of things with a counter suffix"
+        ],
+        "examples": [
+            "1) この 会社[かいしゃ]に 外国人[がいこくじん]が 何人[なんにん] いますか。",
+            "1) How many foreign people are there in this company?",
+            "1) ... 五人[ごにん] います。",
+            "1) ... There are five",
+            "2) 毎晩[まいばん] 何時間[なんじかん] 日本語[にほんご]を 勉強[べんきょう]しました。",
+            "2) How many hours do you study Japanese every night?",
+            "2) ... 二時間[にじかん] 勉強[べんきょう]します。",
+            "2) ... I study for two hours"
+        ]
+    },
+    {
+        "lesson" : "11",
+        "topic": "どのくらい", 
+        "explanations": [ 
+            "どのくらい is used to ask the length of time something takes"
+        ],
+        "examples": [
+            "1) どのくらい 日本語[にほんご]を 勉強[べんきょう]しましたか。",
+            "1) How long did you study Japanese for?",
+            "1) ... 三年[さんねん] 勉強[べんきょう]しました。",
+            "1) ... I studied it for three years",
+            "2) 大阪[おおさか]から 東京[とうきょう]まで どのくらい かかりますか。",
+            "2) How long does it take from Osaka to Tokyo?",
+            "2) ... 新幹線[しんかんせん]で 二時間半[にじかんはん] かかります。",
+            "2) ... It takes two and a half hours by Shinkansen"
+        ]
+    },
+    {
+        "lesson" : "11",
+        "topic": "~ぐらい", 
+        "explanations": [ 
+            "ぐらい is added after quantifiers to mean 'about'"
+        ],
+        "examples": [
+            "1) 学校[がっこう]に 先生[せんせい]が 三十人[さんじゅうにん]ぐらい います。",
+            "1) There are thirty teachers at our school",
+            "2) 十五分[じゅうごふん]ぐらい かかります。",
+            "2) It takes about fifteen minutes"
+        ]
+    },
+    {
+        "lesson" : "11",
+        "topic": "Quantifier(Time period)に 回[かい] Verb", 
+        "explanations": [ 
+            "This expression indicates frequency"
+        ],
+        "examples": [
+            "1) 一[いっ]か月[げつ]に 二回[にかい] 映画[えいが]を 見[み]ます。",
+            "1) I go to see a film about twice a month"
+        ]
+    },
+    {
+        "lesson" : "11",
+        "topic": "Quantifier だけ / Noun だけ", 
+        "explanations": [ 
+            "だけ means 'only'. It is added after quantifiers or nouns to indicate that there is no more or nothing else"
+        ],
+        "examples": [
+            "1) パワー電気[でんき]に 外国人[がいこくじん]の 社員[しゃいん]が 一人[ひとり]だけ います。",
+            "1) There is only one foreign employee at Power Electric",
+            "2) 休[やす]みは 日曜日[にちようび]だけです。",
+            "2) Sunday is my only day off"
+        ]
+    }
+]

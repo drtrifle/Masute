@@ -1,0 +1,70 @@
+[
+    {
+        "lesson" : "3",
+        "topic": "ここ/そこ/あそこ", 
+        "explanations": [
+            "ここ/そこ/あそこ refer to places",
+            "ここ refers to the place where the speaker is",
+            "そこ refers to the place where the listener is",
+            "あそこ refers to a place far from both speaker and listener",
+            "こちら/そちら/あちら are more polite alternatives for ここ/そこ/あそこ respectively",
+            "[Note] When the speaker regards the listener as in the same spot as themselves, that spot is regarded as ここ, そこ indicates a place slightly further away from where they both are, and あそこ somewhere even further away"
+        ],
+        "examples": [
+        ]
+    },
+    {
+        "lesson" : "3",
+        "topic": "Noun は place です", 
+        "explanations": [
+            "Using this sentence pattern, you can state where a place, thing or person is"
+        ],
+        "examples": [
+            "1) お手[て]洗[あら]いは あそこです。",
+            "1) The restroom is over there",
+            "2) 電[で]話[んわ]は 2階[かい]です。",
+            "2) The telephone is on the second floor",
+            "3) 山田[やまだ]さんは 事[じ]務[む]所[しょ]です。",
+            "3) Mr Yamada is in his office"
+        ]
+    },
+    {
+        "lesson" : "3",
+        "topic": "どこ/どちら", 
+        "explanations": [
+            "どこ is used for asking 'Where?' and どちら for 'Which direction?'",
+            "どちら can also be used to ask 'Where?' as a more polite form of どこ",
+            "どこ/どちら are also used to ask the name of the country/company/school/organisation to which someone belongs"
+        ],
+        "examples": [
+            "1) お手[て]洗[あら]いは どこうですか。",
+            "1) Where is the restroom",
+            "1) ... あそこです。",
+            "1) ... It's over there",
+            "2) エレベーターは どちらですか。",
+            "2) Where is the elevator",
+            "2) ... あちらです。",
+            "2) ... It's in that direction / It's over there",
+            "3) 国[くに]は どこですか。",
+            "3) Which country are you from?",
+            "4) 会社[かいしゃ]は どちらですか。",
+            "4) Which company do you work for?"
+        ]
+    },
+    {
+        "lesson" : "3",
+        "topic": "country の product", 
+        "explanations": [
+            "This sentence pattern means that the product was made in the stated country",
+            "We also use どこ to ask the country/company of origin of a product"
+        ],
+        "examples": [
+            "1) これは どこの コンピューターですか。",
+            "1) Where is this computer made?",
+            "1) ... 日[に]本[ほん]の コンピューターです。",
+            "1) ... It's made in Japan",
+            "1) ... IMCの コンピューターです。",
+            "1) ... It's made by the IMC company"
+        ]
+    }
+]

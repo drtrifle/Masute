@@ -33,9 +33,11 @@
 .configBox[b-21mdl9ckz5]{
     margin-bottom: 0rem;
 }
-.configBox_Btn[b-21mdl9ckz5]{
+
+[b-21mdl9ckz5] .configBox_Btn{
     min-width: unset;
 }
+
 .configBox_Title[b-21mdl9ckz5]{
     color: #fff;
     font-size: 90%;

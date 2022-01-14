@@ -1,0 +1,127 @@
+[
+    {
+        "lesson" : "9",
+        "topic": "Noun が Verb/Adj", 
+        "explanations": [ 
+            "The objects of some verbs and adjectives are marked with が"
+        ],
+        "examples": [
+            "1) 私[わたし]は イタリア料理[りょうり]が 好[す]きです。",
+            "1) I like Italian food.",
+            "2) 私[わたし]は 日本語[にほんご]が わかります。",
+            "2) I understand Japanese",
+            "3) 私[わたし]は 車[くるま]が あります。",
+            "3) I have a car"
+        ]
+    },
+    {
+        "lesson" : "9",
+        "topic": "どんな Noun", 
+        "explanations": [ 
+            "This expression means'What kind of'"
+        ],
+        "examples": [
+            "1) どんな スポーツが 好[す]きですか。",
+            "1) What kind of sports do you like?",
+            "1) ... サッカーが 好[す]きですか。",
+            "1) ... I like soccer"
+        ]
+    },
+    {
+        "lesson" : "9",
+        "topic": "Adverbs of degree: よく/だいたい/少[すこ]し/あまり/全然[ぜんぜん]", 
+        "explanations": [ 
+            "These adverbs are placed before verbs to convey their degree",
+            "よく is used affirmatively and means 'greatly'",
+            "だいたい is used affirmatively and means 'generally'",
+            "少[すこ]し is used affirmatively and means 'a little'",
+            "あまり is used negatively and means 'not very'",
+            "全然[ぜんぜん] is used negatively and means 'not at all'",
+            "[Note] When あまり or 全然[ぜんぜん] is used, the negative form of the verb must be used"
+        ],
+        "examples": [
+            "1) 英語[えいご]が よく わかります。",
+            "1) I understand English well",
+            "2) 英語[えいご]が だいたい わかります。",
+            "2) I generally understand English",
+            "3) 英語[えいご]が 少[すこ]し わかります。",
+            "3) I understand English a little",
+            "4) 英語[えいご]が あまり わかりません。",
+            "4) I don't understand English very well",
+            "5) 英語[えいご]が 全然[ぜんぜん] わかりません。",
+            "5) I don't understand English at all"
+        ]
+    },
+    {
+        "lesson" : "9",
+        "topic": "Adverbs of Quantity: たくさん/少[すこ]し/あまり/全然[ぜんぜん]", 
+        "explanations": [ 
+            "These adverbs are placed before verbs to convey their quantity",
+            "たくさん is used affirmatively and means 'a lot'",
+            "少[すこ]し is used affirmatively and means 'a little'",
+            "あまり is used negatively and means 'not much'",
+            "全然[ぜんぜん] is used negatively and means 'not at all'",
+            "[Note] When あまり or 全然[ぜんぜん] is used, the negative form of the verb must be used"
+        ],
+        "examples": [
+            "1) お金[かね]が たくさん あります。",
+            "1) I have a lot of money",
+            "2) お金[かね]が 少[すこ]し あります。",
+            "2) I have a little bit of money",
+            "3) お金[かね]が あまり ありません。",
+            "3) I don't have a lot of money",
+            "4) お金[かね]が 全然[ぜんぜん] ありません。",
+            "4) I don't have any money"
+        ]
+    },
+    {
+        "lesson" : "9",
+        "topic": "少[すこ]し/あまり/全然[ぜんぜん] Adj", 
+        "explanations": [ 
+            "少[すこ]し/あまり/全然[ぜんぜん] can be used on adjectives as well"
+        ],
+        "examples": [
+            "1) ここは 少[すこ]し 寒[さむ]いです。",
+            "1) It's a little cold here",
+            "2) あの 映画[えいが]は おもしろくないです。",
+            "2) That film is not at all interesting"
+        ]
+    },
+    {
+        "lesson" : "9",
+        "topic": "~から, ~", 
+        "explanations": [ 
+            "A statement before から gives the reason for a statement after it",
+            "[Note] It is also possible to state something and add the reason after it by adding ~から"
+        ],
+        "examples": [
+            "1) 時間[じかん]が ありませんから, 新聞[しんぶん]を 読[よ]みません。",
+            "1) I don't read newspapers because I don't have time",
+            "2) 毎朝[まいあさ] 新聞[しんぶん]を 読[よ]みまか。",
+            "2) Do you read the newspapers every morning?",
+            "2) ... いいえ，読[よ]みません。時間[じかん]が ありませんから。",
+            "2) ... No I don't．I don't have time."
+        ]
+    },
+    {
+        "lesson" : "9",
+        "topic": "どうして", 
+        "explanations": [ 
+            "The interrogative どうして is used to ask the reason for something",
+            "から is placed at the end of the reply giving the reason",
+            "The quesiton どうしてですか is used to ask the reason for something the other person already said, instead of repeating it"
+        ],
+        "examples": [
+            "1) どうして 朝[あさ] 新聞[しんぶん]を 読[よ]みませんか。",
+            "1) Why do you not read the newspaper in the morning?",
+            "1) ... 時間[じかん]が ありませんから。",
+            "1) ... Because I don't have time.",
+            "2) 今日[きょ]は 早[はや]く 帰[かえ]ります。",
+            "2) I'm going home early today",
+            "2) ... どうしてですか。",
+            "2) ... Why?",
+            "2) 子[こ]どもの 誕生日[たんじょうび]ですから。",
+            "2) Because it's my child's birthday"
+        ]
+    }
+]

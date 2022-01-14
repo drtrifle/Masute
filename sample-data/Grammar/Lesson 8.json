@@ -1,0 +1,128 @@
+[
+    {
+        "lesson" : "8",
+        "topic": "Adjectives", 
+        "explanations": [ 
+            "Adjectives are used as predicated, and in sentences like Noun は Adj です they indicate the state of a noun or are used to modify a noun",
+            "They are divided into 2 groups, い-adjs and な-adjs"
+        ],
+        "examples": [
+            ""
+        ]
+    },
+    {
+        "lesson" : "8",
+        "topic": "Noun は な-adj です", 
+        "explanations": [ 
+            "Adjective sentences that are non-past and affirmative end in です, which shows politeness towards the listener",
+            "な-adjs drop their な when added before です"
+        ],
+        "examples": [
+            "1) ワット先生[せんせい]は 親切[しんせつ]です。",
+            "1) Mr Watt is kind"
+        ]
+    },
+    {
+        "lesson" : "8",
+        "topic": "Noun は い-adj です", 
+        "explanations": [ 
+            "Adjective sentences that are non-past and affirmative end in です, which shows politeness towards the listener",
+            "い-adjs retain their い when added before です"
+        ],
+        "examples": [
+            "1) 富士山[ふじさん]は 高[たか]いです。",
+            "1) Mt Fuji is high"
+        ]
+    },
+    {
+        "lesson" : "8",
+        "topic": "Noun は な-adj じゃ/では ありません", 
+        "explanations": [ 
+            "The non-past negative form of a な-adj is formed by dropping the な and attaching じゃ/では ありません to it"
+        ],
+        "examples": [
+            "1) あそこは 静[しず]か じゃありません。",
+            "1) It's not quiet here"
+        ]
+    },
+    {
+        "lesson" : "8",
+        "topic": "Noun は い-adj ~くないいです", 
+        "explanations": [ 
+            "The non-past negative form of a い-adj is formed by dropping the final い and attaching じゃ/では ありません to it",
+            "[Note] The negative for いいです is よくないです"
+        ],
+        "examples": [
+            "1) この 本[ほん]は おもしろくないです。",
+            "1) This book is not interesting"
+        ]
+    },
+    {
+        "lesson" : "8",
+        "topic": "な-adjな Noun", 
+        "explanations": [ 
+            "When an adjective is used to modify a noun, its is placed in front of the noun",
+            "な-adjs have a な before the noun"
+        ],
+        "examples": [
+            "1) ワット先生[せんせい]は 親切[しんせつ]な 先生[せんせい]です。",
+            "1) Mr Watt is a considerate teacher"
+        ]
+    },
+    {
+        "lesson" : "8",
+        "topic": "い-adj Noun", 
+        "explanations": [ 
+            "When an adjective is used to modify a noun, its is placed in front of the noun"
+        ],
+        "examples": [
+            "1) 富士山[ふじさん]は 高[たか]い 山[やま]です。",
+            "1) Mt Fuji is a high mountain"
+        ]
+    },
+    {
+        "lesson" : "8",
+        "topic": "~が", 
+        "explanations": [ 
+            "が connects two sentences in an antithetical relationship.",
+            "When these are adjective clauses with the same subject, if the initial clause is positive, the other will be negative and vice versa"
+        ],
+        "examples": [
+            "1) 日本[にほん]の 食[た]べ物[もの]は 美味[おい]しいですが, 高[たか]いです。",
+            "1) Japanese food is delicious but expensive"
+        ]
+    },
+    {
+        "lesson" : "8",
+        "topic": "とても/あまり Adjective", 
+        "explanations": [ 
+            "とても and あまり are both adverbs of degree, both come before the adjectives they modify",
+            "とても is used in affirmative sentences and mean 'very'",
+            "あまり is used negatively and means 'not very'",
+            "[Note] When あまり is used, the negative form of the adjective must be used"
+        ],
+        "examples": [
+            "1) ペキンは とても 寒[さむ]いです。",
+            "1) Beijing is very cold",
+            "2) これは とても 有名[ゆうめい]な 映画[えいが]です。",
+            "2) This is a very famous movie",
+            "3) シャンハイは あまり 寒[さむ]くないです。",
+            "3) Shanghai is not very cold",
+            "4) さくら大学[だいがく]は あまり 有名[ゆうめい]な 大学[だいがく]じゃありません。",
+            "4) Sakura University is not a very famous university"
+        ]
+    },
+    {
+        "lesson" : "8",
+        "topic": "Nounは どうですか", 
+        "explanations": [ 
+            "This question 'Nounは どうですか' is used to inquire about someone's impression, opinion or feeling about a thing, place, person, etc that they experienced"
+        ],
+        "examples": [
+            "1) 日本[にほん]の 生活[せいかつ]は どうですか。",
+            "1) How do you find life in Japan?",
+            "1) ... 楽[たの]しいです。",
+            "1) ... It's fun"
+        ]
+    }
+]

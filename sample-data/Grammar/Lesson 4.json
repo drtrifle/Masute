@@ -1,0 +1,104 @@
+[
+    {
+        "lesson" : "4",
+        "topic": "今[いま] 時[じ] 分[ふん/ぷん] です", 
+        "explanations": [
+            "To express time, the counter suffixes 時[じ](o'clock) and 分[ふん/ぶん](minutes) are placed after the numbers",
+            "分 is read ふん after 2,5,7 or 9 and ぷん after 1,3,4,6,8 or 10",
+            "1,6,8 and 10 are read as いっ,ろっ,はっ,じゅっ(or じっ) before ぷん",
+            "To ask the time, なん is placed in front of じ or ぷん"
+        ],
+        "examples": [
+            "1) 今[いま] 何[なん]時[じ]ですか。",
+            "1) What time is it now?",
+            "1) ... 7時[じ]10分[ぷん]です。",
+            "1) ... It's 7:10"
+        ]
+    },
+    {
+        "lesson" : "4",
+        "topic": "Verb ます/ Verb ません/ Verb ました/ Verb ませんでした", 
+        "explanations": [
+            "Verb ます and its other forms works as predicates and shows respect to the listener",
+            "ます form is used when affirming something that is either habitual or in the present/future",
+            "ません form is used when denying something that is either habitual or in the present/future",
+            "ました form is used when affirming something that is in the past",
+            "ませんでした form is used when affirming something that is in the past"
+        ],
+        "examples": [
+            "1) 毎[まい]朝[あさ] 6時[じ] 起[お]きます。",
+            "1) I wake up at 6 every morning",
+            "2) 明日[あひた] 6時[じ] 起[お]きます。",
+            "2) I'm going to get up at 6 tomorrow",
+            "3) 今朝[けさ] 6時[じ] 起[お]きました。",
+            "3) I woke up at 6 this morning"
+        ]
+    },
+    {
+        "lesson" : "4",
+        "topic": "time に verb", 
+        "explanations": [
+            "The particle に is appended to a time noun to indicate the time of occurrence of an action",
+            "[Note] に should only be used for time nouns that include numbers such as 時[じ] and 分[ふん/ぶん]",
+            "[Note] に can be optionally used for the following nouns: ~ようび, あさ, ひる, ばん, よる"
+        ],
+        "examples": [
+            "1) 6時[じ]半[はん]に 起[お]きます。",
+            "1) I wake up at 6:30",
+            "2) 7月[がつ]2日[か]に 日[に]本[ほん]へ 来[き]ました。",
+            "2) I came to Japan on the 2nd of July",
+            "3) 日曜日[にちようび]に 奈良[なら]へ いきます。",
+            "3) I am going to Nara on Sunday"
+        ]
+    },
+    {
+        "lesson" : "4",
+        "topic": "Noun1 から Noun2 まで", 
+        "explanations": [
+            "から indicates a starting time or place, and まで indicates the finishing time or place",
+            "から and まで can be used separately and are not always used together",
+            "To indicate the starting or finishing time/date of a noun introduced as a topic, デスan be added after ~から or ~まで"
+        ],
+        "examples": [
+            "1) 9時[じ]から 5時[じ]まで 勉[べん]強[きょう]します。",
+            "1) I study from 9 to 5",
+            "2) 大[おお]阪[さか]から 東[とう]京[きょう]まで 9時[じ]間[かん] かかります。",
+            "2) It takes 3 hours from Osaka to Tokyo",
+            "3) 9時[じ]から 働[はたら]きます。",
+            "3) I start work at 9",
+            "4) 銀行[ぎんこう]は 9時[じ]から 3時[じ]までです。",
+            "4) The bank is open from 9 to 3",
+            "5) 昼休[ひるやす]みは 12時[じ]からです。",
+            "5) Lunchtime starts at 12"
+        ]
+    },
+    {
+        "lesson" : "4",
+        "topic": "Noun1 と Noun2", 
+        "explanations": [
+            "The particle と connects two nouns in coordinate relation"
+        ],
+        "examples": [
+            "1) 銀行[ぎんこう]は 休[やす]みは 土[ど]曜日[ようび]と 日[にち]曜日[ようび]です。",
+            "1) The bank is closed on Saturdays and Sundays"
+        ]
+    },
+    {
+        "lesson" : "4",
+        "topic": "~ね", 
+        "explanations": [
+            "The particle ね is attached to the end of a sentence and is used to elicit agreement from the listener",
+            "Or to check that the listener has understood, or emphasize something to the listener"
+        ],
+        "examples": [
+            "1) 毎[まい]日[にち] 10時[じ]まで 勉[べん]強[きょう]します。",
+            "1) I study till 10 every day",
+            "1) ... 大[たい]変[へん]ですね。",
+            "1) ... That's tough, isn't it",
+            "2) 山田[やまだ]さんの 電[でん]話[わ]番[ばん]号[ごう]は 871の 6813 です。",
+            "2) Mr Yamada's telephone number is 871-6813",
+            "2) ... 871の 6813ですね。",
+            "2) ... 871-6813 right?"
+        ]
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "lesson" : "10",
+        "topic": "Noun が あります/います", 
+        "explanations": [ 
+            "あります/います indicate that something/someone exists",
+            "あります is used for a inanimate subjects such as plants or furniture",
+            "います is used for a animate subjects such as humans or animals",
+            "The particle が is used to denote the subject"
+        ],
+        "examples": [
+            "1) コンピューターガ あります。",
+            "1) There is a computer",
+            "2) 桜[さくら]が あります。",
+            "2) There are cherry trees",
+            "3) 男[おとこ]の 人[ひと]が います。",
+            "3) There is a man",
+            "4) 犬[いぬ]が あります。",
+            "4) There is a dog"
+        ]
+    },
+    {
+        "lesson" : "10",
+        "topic": "Place に Noun が あります/います", 
+        "explanations": [ 
+            "The particle に is used to mark the place where the subject is at",
+            "We can use なに in place of the noun when asking what is present",
+            "We can use だれ in place of the noun when asking who is present"
+        ],
+        "examples": [
+            "1) 私[わたし]の 部屋[へや]に 机[つくえ]が あります。",
+            "1) There is a desk in my room",
+            "2) 地下[ちか]に 何[なに]か ありますか。",
+            "2) What's in the basement?",
+            "2) ... レストランが あります。",
+            "2) ... There's a restaurant",
+            "3) 受付[うけつけ]に だれが いますか。",
+            "3) Who's at the reception desk?",
+            "3) ... 木村[きむら]さんが います。",
+            "3) ... Ms Kimura"
+        ]
+    },
+    {
+        "lesson" : "10",
+        "topic": "Noun は Place に あります/います", 
+        "explanations": [ 
+            "In this expression, the noun is treated as the sentence topic talks about its existence",
+            "The particle は is used to indicate the topic sentence and the noun is placed at the head of the sentence",
+            "In this case, the noun must be something both speaker and listener are aware of"
+        ],
+        "examples": [
+            "1) 東京[とうきょう]デイズニーランドは 千葉県[ちばけん]に あります。",
+            "1) Tokyo Disneyland is in Chiba prefecture",
+            "2) ミラーさんは どこに いますか。",
+            "2) Where is Mr Miller?",
+            "2) ... 事務所[じむしょ]に います。",
+            "2) ... He's in the office"
+        ]
+    },
+    {
+        "lesson" : "10",
+        "topic": "Noun1(Thing/Person/Place) の Noun2(Direction/Position)", 
+        "explanations": [ 
+            "This expressions shows a positional relationship of Noun2 with Noun1",
+            "[Note] The particle で can be attached after Noun1 の Noun2 to indicate the location of an action"
+        ],  
+        "examples": [
+            "1) 机[つくえ]の 上[うえ]に 写真[しゃしん]が あります。",
+            "1) On the top of the desk, there is a phottograph",
+            "2) 郵便局[ゆうびんきょく]は 銀行[ぎんこう]の 隣[となり]に あります。",
+            "2) The post office is next to the bank",
+            "3) 本屋[ほんや]は 花屋[はなや]と スーパーの 間[あいだ]に あります。",
+            "3) The bookshop is in between the bookshop and the florist",
+            "4) 駅[えき]の 近[ちか]くで 友達[ともだち]に 会[あ]いました。",
+            "4) Near the train station, I met a friend"
+        ]
+    },
+    {
+        "lesson" : "10",
+        "topic": "Noun1 や Noun2", 
+        "explanations": [ 
+            "The particle と is used to connect nouns when going through a full list of nouns",
+            "The particle や is used when only a few items of the list of nouns are stated",
+            "など is sometimes added after the last noun to make it clear that the speaker has not mentioned all the nouns that could be in the list"
+        ],
+        "examples": [
+            "1) 箱[はこ]の 中[なか]に 手紙[てがみ]や 写真[しゃしん]が あります。",
+            "1) The are some letters, photographs and other items in the box",
+            "2) 箱[はこ]の 中[なか]に 手紙[てがみ]や 写真[しゃしん]などが あります。",
+            "2) The are some letters, photographs and other items in the box"
+        ]
+    }
+]
