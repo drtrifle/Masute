@@ -47,7 +47,7 @@
     },
     {
         "lesson" : "8",
-        "topic": "Noun は い-adj ~くないいです", 
+        "topic": "Noun は い-adj ~いいです", 
         "explanations": [ 
             "The non-past negative form of a い-adj is formed by dropping the final い and attaching じゃ/では ありません to it",
             "[Note] The negative for いいです is よくないです"
@@ -61,7 +61,7 @@
         "lesson" : "8",
         "topic": "な-adjな Noun", 
         "explanations": [ 
-            "When an adjective is used to modify a noun, its is placed in front of the noun",
+            "When an adjective is used to modify a noun, it is placed in front of the noun",
             "な-adjs have a な before the noun"
         ],
         "examples": [
@@ -73,7 +73,7 @@
         "lesson" : "8",
         "topic": "い-adj Noun", 
         "explanations": [ 
-            "When an adjective is used to modify a noun, its is placed in front of the noun"
+            "When an adjective is used to modify a noun, it is placed in front of the noun"
         ],
         "examples": [
             "1) 富士山[ふじさん]は 高[たか]い 山[やま]です。",

@@ -54,6 +54,11 @@
 .songLyrics[b-21mdl9ckz5] {
     margin-bottom: .5rem;
 }
+/* /Pages/QuizJKanji.razor.rz.scp.css */
+.inputDiv[b-2yo63zumay]{
+    display: flex;
+    align-items: center;
+}
 /* /Shared/MainLayout.razor.rz.scp.css */
 .mudblazor-main-content[b-352iyf90c3] {
     padding-top:86px;
