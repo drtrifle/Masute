@@ -55,9 +55,15 @@
     margin-bottom: .5rem;
 }
 /* /Pages/QuizJKanji.razor.rz.scp.css */
+.quizStats_Div[b-2yo63zumay]{
+    display: flex; 
+    justify-content: space-between;
+}
+
 .inputDiv[b-2yo63zumay]{
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 /* /Pages/QuizJVerbs.razor.rz.scp.css */
 .inputDiv[b-b244978vux]{
