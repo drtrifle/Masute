@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "Masute.dll": "sha256-C\/t+\/X7pG7SkRdXbrJpgX5bDUrzttCI2dBO+qdCczrk=",
+      "Masute.dll": "sha256-QcivjPSnPBDtI5BnfKeG01Du+0CyoijOqzEB9u4dL0k=",
       "Microsoft.AspNetCore.Components.dll": "sha256-6oSM4CKAOLsiL97OfnxEBcrgj80DLIluTL1XkAYTiK8=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-jl5A7Pv+VfrShD3mNcK1EVIQ1luoqe6N9FmQKx226kc=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-2Dr16dpAAiToxCh6DaJ9LyFdwcpB5wGqxvHTEjX0aMI=",
