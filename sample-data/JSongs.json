@@ -18,6 +18,22 @@
 
     },
     {
+        "songID" : "KENTA-001",
+        "songURL": "https://www.youtube.com/embed/-zQWavER7to",
+        "songNameEng" : "Voice of the Sea",
+        "songNameJpn" : "海の声",
+        "artistNameEng" : "Kenta Kiritani",
+        "artistNameJpn" : "桐谷 健太"
+    },
+    {
+        "songID" : "SAKA-001",
+        "songURL": "https://www.youtube.com/embed/T_WuE_AV6kg",
+        "songNameEng" : "I Look Up as I Walk / Sukiyaki",
+        "songNameJpn" : "上を向いて歩こう",
+        "artistNameEng" : "Kyu Sakamoto",
+        "artistNameJpn" : "坂本 九"
+    },
+    {
         "songID" : "YONE-001",
         "songURL": "https://www.youtube.com/embed/L_pRTyuZ9fk",
         "songNameEng" : "Shinigami",
