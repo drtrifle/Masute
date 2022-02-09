@@ -1,0 +1,92 @@
+[
+    {
+        "lesson" : "15",
+        "topic": "Verb て-form も いいですか", 
+        "explanations": [
+            "This expression is used for asking permission to do something"        
+        ],
+        "examples": [
+            "1) 写真[しゃしん]を 撮[と]っても いっですか。",
+            "1) May I take a photo?",
+            "2) ここで たばこを 吸[す]っても いいですか。",
+            "2) May I smoke here?",
+            "2) ... ええ，(吸[す]っても) いいですよ。",
+            "2) ... Yes, you may (smoke)",
+            "2) ... すみません，ちょっと...。のどが 痛[いた]いですから。",
+            "2) ... Sorry, I'd prefer if you didn't. I've got a sore throat",
+            "2) ... いいえ (吸[す]っては) いけません。禁煙[きんえん]ですから。",
+            "2) ... No, you may not (smoke). It's a non-smoking area"
+        ]
+    },
+    {
+        "lesson" : "15",
+        "topic": "Verb て-form は いけません", 
+        "explanations": [
+            "This expression is used to express prohibition"
+        ],
+        "examples": [
+            "1) ここで たばこを 吸[す]っては いけません。禁煙[きんえん]ですから。",
+            "1) You can't smoke here. It's a non-smoking area"
+        ]
+    },
+    {
+        "lesson" : "15",
+        "topic": "Verb て-form います", 
+        "explanations": [
+            "In Lesson 14, we learnt that this expression indicates that a certain action/motion is in progress",
+            "We can also this expression to indicate a habitual action, occupation or personal status",
+            "[Note] The negative of しって います is しりません not しって いません",
+            "[Note] もって います can mean either having something with you at the moment, or owning it"
+        ],
+        "examples": [
+            "1) 私[わたし]は 結婚[けっこん]して います。",
+            "1) I'm married",
+            "2) 私[わたし]は 田中[たなか]さんを 知[し]って います。",
+            "2) I know Mr Tanaka",
+            "3) 私[わたし]は カメラを 持[も]って います。",
+            "3) I have a camera",
+            "4) 私[わたし]は 大阪[おおさか]に 住[す]んで います。",
+            "4) I live in Osaka",
+            "5) 市役所[しやくしょ]の 電話番号[でんわばんごう]を 知[し]って いますか。",
+            "5) Do you know the number of City Hall?",
+            "5) ... はい，知[し]って います。",
+            "5) ... Yes I do",
+            "5) ... いいえ，知[し]りません。",
+            "5) ... No I dont",
+            "6) IMCは コンピューターソフトを 作[つく]って います。",
+            "6) IMC produces computer software",
+            "7) スーパーで ナンプラーを 売[う]っています。",
+            "7) Supermarkets sell Nam Pla",
+            "8) 妹[いもうと]は 大学[だいがく]で 勉強[べんきょう]して います。",
+            "8) My younger sister is studying at university"
+        ]
+    },
+    {
+        "lesson" : "15",
+        "topic": "Noun に Verb", 
+        "explanations": [
+            "The particle に is used to indicate the location of the subject resulting from the action expressed by the verb"
+        ],
+        "examples": [
+            "1) ここに 入[はい]っては いけません。",
+            "1) You cant come in here",
+            "2) ここに 座[すわ]っても いいですか。",
+            "2) May I see here?",
+            "3) 京都駅[きょうとえき]から 16番[ばん]の バスに 乗[の]って ください。",
+            "3) Take the number 16 bus from Kyoto Station"
+        ]
+    },
+    {
+        "lesson" : "15",
+        "topic": "Noun1 に Noun2 を Verb", 
+        "explanations": [
+            "The particle に is used to indicate the location(Noun1) of Noun2 as the result of an action"
+        ],
+        "examples": [
+            "1) ここに 車[くるま]を 止[と]めて ください。",
+            "1) Stop the car here, please",
+            "2) ここに 住所[じゅうしょ]を 書[か]いて ください。",
+            "2) Write your address here, please"
+        ]
+    }
+]

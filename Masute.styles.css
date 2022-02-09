@@ -46,6 +46,32 @@
 .songLyrics[b-21mdl9ckz5] {
     margin-bottom: .5rem;
 }
+/* /Pages/QuizJAdjs.razor.rz.scp.css */
+.quizStats_Div[b-l2rm3kesta]{
+    display: flex;
+    flex-flow:row wrap;
+}
+
+[b-l2rm3kesta] .quizStats_Left{
+    width:33.33333%;
+    text-align:left;
+}
+
+[b-l2rm3kesta] .quizStats_Center{
+    width:33.33333%;
+    text-align:center;
+}
+
+[b-l2rm3kesta] .quizStats_Right{
+    width:33.33333%;
+    text-align:right;
+}
+
+.inputDiv[b-l2rm3kesta]{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 /* /Pages/QuizJKanji.razor.rz.scp.css */
 .quizStats_Div[b-2yo63zumay]{
     display: flex;
