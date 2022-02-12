@@ -1,0 +1,135 @@
+[
+    {
+        "lesson" : "16",
+        "topic": "Verb1 て-form，(Verb2 て-form)，Verb3", 
+        "explanations": [
+            "When mentioning two or more actions that take place in succession, they are listed in their order of occurence using using the て-form.",
+            "The tense of the sentence is determined by the tense form of the last verb in the sentences"        
+        ],
+        "examples": [
+            "1) 朝[あさ] ジョギングを して，シャワーを 浴[あ]びて，会社[かいしゃ]へ 行[い]きます。",
+            "1) In the mornings, I go jogging, take a shower and then go to work",
+            "2) 神戸[こうべ]へ 行[い]って，映画[えいが]を 見[み]て，お茶[ちゃ]を 飲[の]みました。",
+            "2) I went to Kobe, where I saw a movie and drank some tea"
+        ]
+    },
+    {
+        "lesson" : "16",
+        "topic": "い-adj て-form", 
+        "explanations": [
+            "The て-form of a い-adj is formed by dropping the final い and attaching くて to it",
+            "[Note] ~て(で) cannot be used to connect two adjective sentences having the saem subject if they present two contrasting descriptions",
+            "[Note] In such cases, we use Adj1 が Adj2"
+        ],
+        "examples": [
+            "1) ミラーさんは 若[わか]くて，元気[げんき]です。",
+            "1) Mr Miller is young and energetic",
+            "2) 昨日[きのう]は 天気[てんき]が よくて，暑[あつ]かったです。",
+            "2) It was fine and hot yesterday"
+        ]
+    },
+    {
+        "lesson" : "16",
+        "topic": "な-adj て-form", 
+        "explanations": [
+            "The て-form of a な-adj is formed by appending で to it"   ,
+            "[Note] ~て(で) cannot be used to connect two adjective sentences having the saem subject if they present two contrasting descriptions",
+            "[Note] In such cases, we use Adj1 が Adj2"  
+        ],
+        "examples": [
+            "1) ミラーさんは ハンサムで，親切[しんせつ]です。",
+            "1) Mr Miller is handsome and kind",
+            "2) 奈良[なら]は 静[しず]かで，きれいな 町[まち]です。",
+            "2) Nara is a quiet, beautiful city"
+        ]
+    },
+    {
+        "lesson" : "16",
+        "topic": "Noun て-form", 
+        "explanations": [
+            "The て-form of a Noun is formed by appending で to it"     
+        ],
+        "examples": [
+            "1) カリナさんは インドネシア人[じん]で，富士[ふじ]大学[だいがく]の 留学生[りゅうがくせい]です。",
+            "1) Karina is Indonesian, she's a student at Fuji University",
+            "2) カリナさんは 学生[がくせい]で，マリアさんは 主婦[しゅふ]です。",
+            "2) Karina is a student, and Maria is a housewife"
+        ]
+    },
+    {
+        "lesson" : "16",
+        "topic": "Verb1 て-formから，Verb2", 
+        "explanations": [
+            "In this sentence pattern, Verb2 expresses something done after Verb1",
+            "Verb1 is often a precondition of doing Verb2 or an action preparatory to doing it",
+            "The tense of the sentence is determined by the tense of the last verb in the sentence"     
+        ],
+        "examples": [
+            "1) お金[かね]を 入[い]れてから，ボタンを 押[お]して ください。",
+            "1) Put the money in, and then please press the button",
+            "2) もう 昼[ひる]ごはんを たべましたか。",
+            "2) Have you already had your lunch?",
+            "2) ... この 仕事[しごと]が 終[お]わってから，食[た]べます。",
+            "2) ... No, I'm going to have it when I've finished this job"
+        ]
+    },
+    {
+        "lesson" : "16",
+        "topic": "Noun1 は Noun2 が Adj", 
+        "explanations": [
+            "This expression indicates that the topic Noun1 has the characteristic Noun2 が Adj"
+        ],
+        "examples": [
+            "1) 大阪[おおさか]は 食[た]べ物[もの]が おいしいです。",
+            "1) The food in Osaka is very good",
+            "2) ドイツの フランケンは ワインが 有名[ゆうめい]です。",
+            "2) Franken in Germany is famous for its wine",
+            "3) マリアさんは 髪が 長いです。",
+            "3) Maria has long hair"
+        ]
+    },
+    {
+        "lesson" : "16",
+        "topic": "Noun を Verb", 
+        "explanations": [
+            "Verbs such as でます and おります, are used together with the particle を, indicating a starting point"
+        ],
+        "examples": [
+            "1) 7時[じ]に うちを でます。",
+            "1) I leave home at seven",
+            "2) 梅田[うめだ]で 電車[でんしゃ]を 降[お]りました。",
+            "2) I got off the train at Umeda"
+        ]
+    },
+    {
+        "lesson" : "16",
+        "topic": "どうやって", 
+        "explanations": [
+            "どうやって is used when asking the way or how to do something"     
+        ],
+        "examples": [
+            "1) 大学[だいがく]まで どうやって 行[い]きますか。",
+            "1) How do you get to the University?",
+            "1) ... 京都駅[きょうとえき]から 16番[ばん]の バスに 乗[の]って，大学前[だいがくまえ]で 降[お]ります。",
+            "1) ... I take the number 16 bus from Kyoto Station and get off at Daigakumae"
+        ]
+    },
+    {
+        "lesson" : "16",
+        "topic": "どれ/どの Noun", 
+        "explanations": [
+            "どれ is an interrogative used when asking someone to specify one item out of a list of three of more",
+            "どれ cannot modify a noun directly. When modifying a noun, どの is used"
+        ],
+        "examples": [
+            "1) ミラーさんの 傘[かさ]は どれですか。",
+            "1) Which is Mr Miller's umbrella?",
+            "1) ... あの 青[あお]い 傘[かさ]です。",
+            "1) ... It's that blue one",
+            "2) サントスさんは どの 人[ひと]ですか。",
+            "2) Which is Mr Santos?",
+            "2) ... あの 背[せ]が 高[たか]くて，髪[かみ]が 黒[くろ]い 人[ひと]です。",
+            "2) ... That tall, black-haired man"
+        ]
+    }
+]

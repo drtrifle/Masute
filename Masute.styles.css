@@ -72,6 +72,32 @@
     align-items: center;
     justify-content: center;
 }
+/* /Pages/QuizJAlpha.razor.rz.scp.css */
+.quizStats_Div[b-ni0igx0tj9]{
+    display: flex;
+    flex-flow:row wrap;
+}
+
+[b-ni0igx0tj9] .quizStats_Left{
+    width:33.33333%;
+    text-align:left;
+}
+
+[b-ni0igx0tj9] .quizStats_Center{
+    width:33.33333%;
+    text-align:center;
+}
+
+[b-ni0igx0tj9] .quizStats_Right{
+    width:33.33333%;
+    text-align:right;
+}
+
+.inputDiv[b-ni0igx0tj9]{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 /* /Pages/QuizJKanji.razor.rz.scp.css */
 .quizStats_Div[b-2yo63zumay]{
     display: flex;
