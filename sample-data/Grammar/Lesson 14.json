@@ -1,0 +1,184 @@
+[
+    {
+        "lesson" : "14",
+        "topic": "Group 1 Verbs", 
+        "explanations": [
+            "In all verbs of this group, the last sound of the ます-form is from the い-column of the syllabary group"
+        ],
+        "examples": [
+            "1) かきます",
+            "1) To write",
+            "2) のみます",
+            "2) To drink"
+        ]
+    },
+    {
+        "lesson" : "14",
+        "topic": "Group 2 Verbs", 
+        "explanations": [
+            "In most verbs of this group, the last sound of the ます-form is from the え-column of the syllabary group",
+            "In some verbs of this group, it is a sound from the い-column"
+        ],
+        "examples": [
+            "1) たべます",
+            "1) To eat",
+            "2) みせます",
+            "2) To show",
+            "3) みます",
+            "3) To see"
+        ]
+    },
+    {
+        "lesson" : "14",
+        "topic": "Group 3 Verbs", 
+        "explanations": [
+            "Verbs of the group include します and きます",
+            "Other verbs of this group have ます-form that ends in します",
+            "Mosts verbs of this group are actually action-denoting nouns with します appended to them to transform them into a verb"
+        ],
+        "examples": [
+            "1) します",
+            "1) To do",
+            "2) きます",
+            "2) To come",
+            "3) べんきょうする",
+            "3) To study"
+        ]
+    },
+    {
+        "lesson" : "14",
+        "topic": "Group 1 Verb て-form", 
+        "explanations": [
+            "When last sound of the ます-form is い, ち or り, it is dropped and って is added",
+            "When last sound of the ます-form is み, び or に, it is dropped and んで is added",
+            "When last sound of the ます-form is き or ぎ, it is dropped and いて or いで is added",
+            "When last sound of the ます-form is し, て is added"
+        ],
+        "examples": [
+            "1) かいます → かって",
+            "1) To buy",
+            "2) まちます → まって",
+            "2) To wait",
+            "3) かえります → かえって",
+            "3) To return (somewhere)",
+            "4) のみます → のんで",
+            "4) To drink",
+            "5) よびます → よんで",
+            "5) To call out",
+            "6) しにます → しんで",
+            "6) To die",
+            "7) かきます → かいて",
+            "7) To write",
+            "8) いそぎます → いそいで",
+            "8) To hurry",
+            "9) かします → かして",
+            "9) To lend"
+        ]
+    },
+    {
+        "lesson" : "14",
+        "topic": "Group 2 Verb て-form", 
+        "explanations": [
+            "て is added to the ます-form"
+        ],
+        "examples": [
+            "1) たべます → たべて",
+            "1) To eat",
+            "2) みます → みて",
+            "2) To see"
+        ]
+    },
+    {
+        "lesson" : "14",
+        "topic": "Group 3 Verb て-form", 
+        "explanations": [
+            "て is added to the ます-form"
+        ],
+        "examples": [
+            "1) きます → きて",
+            "1) To come",
+            "2) します → して",
+            "2) To do"
+        ]
+    },
+    {
+        "lesson" : "14",
+        "topic": "Verb て-form ください", 
+        "explanations": [
+            "This expression is used to tell, request or invite the listener to do something",
+            "[Note] This is not a very polite way of asking someone to do something, so すみませんが is often added at the front"
+        ],
+        "examples": [
+            "1) すみませんが，この 漢字[かんじ]の 読[よ]み方[かた]を 教[おし]えて ください。",
+            "1) Excuse me, could you teach me how to reach this kanji, please?",
+            "2) ボールペンで 名前[なまえ]は 書いて ください。",
+            "2) Please write your name with a ballpoint pen",
+            "3) どうぞ たくさん 食[た]べて ください。",
+            "3) Please eat as much as you want"
+        ]
+    },
+    {
+        "lesson" : "14",
+        "topic": "Verb て-form います", 
+        "explanations": [
+            "This expression indicates that a certain action/motion is in progress"
+        ],
+        "examples": [
+            "1) ミラーさんは 今[いま] 電話[でんわ]を かけて います。",
+            "1) Mr Miller is making a phone call now.",
+            "2) 今[いま] 雨[あめ]が 降[ふ]って いますか。",
+            "2) ... はい，降[ふ]って います。",
+            "2) ... Yes, it is raining",
+            "2) ... いいえ，降[ふ]って いません。",
+            "2) ... No, it is not raining"
+        ]
+    },
+    {
+        "lesson" : "14",
+        "topic": "Verb ます-form ましょうか", 
+        "explanations": [
+            "This expression is used when the speaker is offering to do something for the listener"
+        ],
+        "examples": [
+            "1) あしたも 来[き]ましょうか。",
+            "1) Shall I come tomorrow too?",
+            "1) ... ええ，10時[じ]に 来[き]て ください。",
+            "1) ... Yes, please come at ten",
+            "2) 傘[かさ]を 貸[か]しましょうか。",
+            "2) Shall I lend you my umbrella?",
+            "2) ... すみません。お願[ねが]いします。",
+            "2) ... Yes, please",
+            "3) 荷物[にもつ]を 持[も]ちましょうか。",
+            "3) Shall I carry your luggage?",
+            "3) ... いいえ，けっこうです。",
+            "3) ... No, thank you"
+        ]
+    },
+    {
+        "lesson" : "14",
+        "topic": "Noun が Verb", 
+        "explanations": [
+            "The particle が is used when describing an event that was felt through the five senses",
+            "It is also used when telling someone objectively about an event"
+        ],
+        "examples": [
+            "1) 雨[あめ]が 降[ふ]って います。",
+            "1) It's raining",
+            "2) ミラーさんが いませんね。",
+            "2) Mr Miller isnt here, is he?"
+        ]
+    },
+    {
+        "lesson" : "14",
+        "topic": "すみませんが", 
+        "explanations": [
+            "The が in the すみませんが and 失礼[しつれい]ですが are not used in an antithetical sensse but as a casual preamble to a remark"
+        ],
+        "examples": [
+            "1) すみませんが，塩[しお]を 取[と]って ください。",
+            "1) Excuse me, could you pass me the salt please?",
+            "2) 失礼[しつれい]ですが，お名前[なまえ]は？",
+            "2) Excuse me, but what is your name?"
+        ]
+    }
+]

@@ -1,11 +1,3 @@
-/* /Pages/IndexSongs.razor.rz.scp.css */
-.songItem[b-uskh7aa19f] {
-    border-style: solid;
-    border-radius: 5px;
-    padding: 10px;
-    margin-bottom: .5rem;
-}
-
 /* /Pages/LessonGrammar.razor.rz.scp.css */
 .medium[b-jcynb6zh5i] {
     font-size: 16px;
@@ -23,8 +15,19 @@
     font-size: 20px;
 }
 
+.ruby[b-21mdl9ckz5]{
+    font-size: 75%;
+}
+.rt[b-21mdl9ckz5]{
+    font-size: 75%;
+}
+
 .configBox[b-21mdl9ckz5]{
     margin-bottom: 0rem;
+}
+
+[b-21mdl9ckz5] .configBox_Btn{
+    min-width: unset;
 }
 
 .configBox_Title[b-21mdl9ckz5]{
@@ -35,13 +38,117 @@
     margin-bottom: 5px;
     border-radius: 3px;
 }
-
 .configBox_Content[b-21mdl9ckz5]{
     margin-bottom: 0rem;
 }
 
+
 .songLyrics[b-21mdl9ckz5] {
     margin-bottom: .5rem;
+}
+/* /Pages/QuizJAdjs.razor.rz.scp.css */
+.quizStats_Div[b-l2rm3kesta]{
+    display: flex;
+    flex-flow:row wrap;
+}
+
+[b-l2rm3kesta] .quizStats_Left{
+    width:33.33333%;
+    text-align:left;
+}
+
+[b-l2rm3kesta] .quizStats_Center{
+    width:33.33333%;
+    text-align:center;
+}
+
+[b-l2rm3kesta] .quizStats_Right{
+    width:33.33333%;
+    text-align:right;
+}
+
+.inputDiv[b-l2rm3kesta]{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/* /Pages/QuizJAlpha.razor.rz.scp.css */
+.quizStats_Div[b-ni0igx0tj9]{
+    display: flex;
+    flex-flow:row wrap;
+}
+
+[b-ni0igx0tj9] .quizStats_Left{
+    width:33.33333%;
+    text-align:left;
+}
+
+[b-ni0igx0tj9] .quizStats_Center{
+    width:33.33333%;
+    text-align:center;
+}
+
+[b-ni0igx0tj9] .quizStats_Right{
+    width:33.33333%;
+    text-align:right;
+}
+
+.inputDiv[b-ni0igx0tj9]{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/* /Pages/QuizJKanji.razor.rz.scp.css */
+.quizStats_Div[b-2yo63zumay]{
+    display: flex;
+    flex-flow:row wrap;
+}
+
+[b-2yo63zumay] .quizStats_Left{
+    width:33.33333%;
+    text-align:left;
+}
+
+[b-2yo63zumay] .quizStats_Center{
+    width:33.33333%;
+    text-align:center;
+}
+
+[b-2yo63zumay] .quizStats_Right{
+    width:33.33333%;
+    text-align:right;
+}
+
+.inputDiv[b-2yo63zumay]{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/* /Pages/QuizJVerbs.razor.rz.scp.css */
+.quizStats_Div[b-b244978vux]{
+    display: flex;
+    flex-flow:row wrap;
+}
+
+[b-b244978vux] .quizStats_Left{
+    width:33.33333%;
+    text-align:left;
+}
+
+[b-b244978vux] .quizStats_Center{
+    width:33.33333%;
+    text-align:center;
+}
+
+[b-b244978vux] .quizStats_Right{
+    width:33.33333%;
+    text-align:right;
+}
+
+.inputDiv[b-b244978vux]{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 /* /Shared/MainLayout.razor.rz.scp.css */
 .mudblazor-main-content[b-352iyf90c3] {

@@ -1,0 +1,105 @@
+[
+    {
+        "lesson" : "13",
+        "topic": "Noun が 欲[ほ]しいです", 
+        "explanations": [ 
+            "欲[ほ]しい is an い-adj and its obj is marked by が",
+            "[Note] 欲[ほ]しい can only be used when talking about what the speaker/listener wants",
+            "[Note] 欲[ほ]しい cannot be used to talk about what a third person wants",
+            "[Note] 欲[ほ]しい cannot be used when offering something to someone or imviting them to do something"
+        ],
+        "examples": [
+            "1) 私[わたし]は 友達[ともだち]が 欲[ほ]しいです。",
+            "1) I want some friends",
+            "2) 今[いま] 何[なに]が いちばん 欲[ほ]しいですか。",
+            "2) What do you want most right now?",
+            "2) ... 車[くるま]が 欲[ほ]しいです。",
+            "2) ... I want a car",
+            "3) 子[こ]どもが 欲[ほ]しいですか。",
+            "3) Do you want children?",
+            "3) ... いいえ，欲[ほ]しくないだす。",
+            "3) ... No, I don't"
+        ]
+    },
+    {
+        "lesson" : "13",
+        "topic": "Verb-ますform-たいです", 
+        "explanations": [ 
+            "This expression is used to express the speaker's desire to do something",
+            "The object of ~たい can be marked either with particle を or が",
+            "~たい inflects in the same way as い-adjs",
+            "[Note] ~たい can only be used when talking about what the speaker/listener wants",
+            "[Note] ~たい cannot be used to talk about what a third person wants",
+            "[Note] ~たい cannot be used when offering something to someone or imviting them to do something"
+        ],
+        "examples": [
+            "1) 私[わたし]は 沖縄[おきなわ]へ 行[い]きたいます。",
+            "1) I want to go to Okinawa",
+            "2) 私[わたし]は てんぷらを 食[た]べたいです。",
+            "2) I'd like to eat tempura",
+            "3) 神戸[こうべ]で 何[なに]を 買[か]いたいですか。",
+            "3) What do you want to buy in Kobe?",
+            "3) ... 靴[くつ]を 買[か]いたいです。",
+            "3) ... I want to buy some shoes",
+            "4) おなかが 痛[いた]いですから，何[なに]も 食[た]べたくないです。",
+            "4) My stomach hurts, so I don't want to eat anything"
+        ]
+    },
+    {
+        "lesson" : "13",
+        "topic": "Placeへ N/V-ますformに 行[い]きます/来[き]ます/帰[かえ]ります", 
+        "explanations": [ 
+            "The purpose of the actions 行[い]きます/来[き]ます/帰[かえ]ります are marked by に",
+            "If the verb is grp 1/2, we use the verb ます form w/o the ます",
+            "If the verb is grp 3, we use the verb します form w/o the します",
+            "[Note] If a noun denoting an event comes before に, the purpose is intepreted as seeing the event"
+        ],
+        "examples": [
+            "1) 神戸[こうべ]へ インド料理[りょうり]を 食[た]べに 行[い]きます。",
+            "1) I'm going to Kobe to have some Indian food",
+            "2) 神戸[こうべ]へ  買[か]い物[もの]に 行[い]きます。",
+            "2) I'm going shopping in Kobe",
+            "3) 日本[にほん]へ 美術[びじゅつ]の 勉強[べんきょう]に 来[き]ました。",
+            "3) I came to Japan to study art",
+            "4) 明日[あした] 京都[きょうと]の お祭[まつ]りに 行[い]きます。",
+            "4) I'm going to see a festival in Kyoto tomorrow"
+        ]
+    },
+    {
+        "lesson" : "13",
+        "topic": "どこか", 
+        "explanations": [ 
+            "どこか means 'anywhere' or 'somewhere'",
+            "The particle へ comes after どこか but it can be omitted"
+        ],
+        "examples": [
+            "1) 冬休み[ふゆやすみ]は どこか(へ) 行[い]きましたか。",
+            "1) Did you go anywhere for your winter holiday?",
+            "1) ... はい。北海道[ほっかいどう]へ スキーに 行[い]きました。",
+            "1) ... Yes, I went skiing in Hokkaido"
+        ]
+    },
+    {
+        "lesson" : "13",
+        "topic": "何[なに]か", 
+        "explanations": [ 
+            "何[なに]か means 'anything' or 'something'",
+            "The particle を comes after 何[なに]か but it can be omitted "
+        ],
+        "examples": [
+            "1) のどが かわきましたから 何[なに]かを 飲[の]みたいです。",
+            "1) I'm thirsty, I'll like something to drink"
+        ]
+    },
+    {
+        "lesson" : "13",
+        "topic": "ご~", 
+        "explanations": [ 
+            "Adding ご before some items shows respect"
+        ],
+        "examples": [
+            "1) ご注文[ちゅうもん]は。",
+            "1) May I take your order?"
+        ]
+    }
+]

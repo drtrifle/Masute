@@ -1,0 +1,93 @@
+[
+    {
+        "lesson" : "1",
+        "topic": "Noun1 は Noun2 です", 
+        "explanations": [
+            "The particle は indicates that the noun before it is the topic of the sentence",
+            "です used here shows politeness to the listener",
+            "[Note] the particle は is read as わ"
+        ],
+        "examples": [
+            "1) 私[わたし]は ケンワイ です。",
+            "1) I am KenWhy",
+            "2) 私[わたし]は 会社員[かいしゃいん] です。",
+            "2) I am a company employee"
+        ]
+    },
+    {
+        "lesson" : "1",
+        "topic": "Noun1 は Noun2 じゃ/では ありません", 
+        "explanations": [
+            "じゃ/では ありません is the negative form of です",
+            "じゃ ありません is used in spoken conversations",
+            "では ありません is used in formal speech and writing",
+            "[Note] the particle は in では is read as わ"
+        ],
+        "examples": [
+            "1) サントさんは 学生[がくせい] じゃありません。",
+            "1) サントさんは 学生[がくせい] ではありません。",
+            "1) Mr Santos is not a student"
+        ]
+    },
+    {
+        "lesson" : "1",
+        "topic": "Noun1 は Noun2 ですか", 
+        "explanations": [
+            "The particle か at the end of the sentence indicates that it is a question",
+            "A question usually ends with a rising intonation",
+            "Replies to a yes/no question usaully begins with はい for agreement and いいえ for disagreement",
+            "An iterrogative question replaces"
+        ],
+        "examples": [
+            "1) ミラーさんは アメリカじんですか。",
+            "1) Is Mr Miller an American?",
+            "1) ... はい，アメリカじんです。",
+            "1) ... Yes, he is an American",
+            "1) ... いいえ，アメリカじんじゃありません。",
+            "1) ... No, he is not an American"
+        ]
+    },
+    {
+        "lesson" : "1",
+        "topic": "Noun も", 
+        "explanations": [
+            "も is used when the same things applies to what was stated previously"
+        ],
+        "examples": [
+            "1) ミラーさん は 先生[せんせい]です。グプタさん も 先生[せんせい]です",
+            "1) Mr Miller is a teacher. Mr Gupta is also a teacher"
+        ]
+    },
+    {
+        "lesson" : "1",
+        "topic": "Noun1 の Noun2", 
+        "explanations": [
+            "When a noun Noun1 modifies a following noun Noun2, の is used to connect the two nouns",
+            "Other uses include when Noun1 explains what Noun2 is about",
+            "And when Noun1 indicates who owns Noun2"
+        ],
+        "examples": [
+            "1) ミラーさんは IMCの社員[しゃいん]です。",
+            "1) Mr Miller is an employee of IMC",
+            "2) これは コンピューターの 本[ほん]です。",
+            "2) This is a book on computers",
+            "3) これは 私[わたし]の 本[ほん]です。",
+            "3) This is my book"
+        ]
+    },
+    {
+        "lesson" : "1",
+        "topic": "～さん", 
+        "explanations": [
+            "さん is added to the name or family name of another person to show respect",
+            "Do not add さん to your own name when speaking about yourself",
+            "ちゃん is added to small children names instead of さん to indicate familiarity",
+            "[Note] あなた which means 'you', is only used for someone who you are very familiar with",
+            "To be polite, use their name with さん whenever addressing someone or drop あなた entirely if it is implied"
+        ],
+        "examples": [
+            "1) ミラーさんは IMCの社員[しゃいん]です。",
+            "1) Mr Miller is an employee of IMC"
+        ]
+    }
+]

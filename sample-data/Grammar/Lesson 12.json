@@ -1,0 +1,116 @@
+[
+    {
+        "lesson" : "12",
+        "topic": "Noun / な-adj でした", 
+        "explanations": [ 
+            "The polite, past, positive form of a noun / な-adj is formed by attaching でした after it"
+        ],
+        "examples": [
+            "1) 昨日[きのう] は 雨[あめ]でした。",
+            "1) It was rainy yesterday"
+        ]
+    },
+    {
+        "lesson" : "12",
+        "topic": "Noun / な-adj じゃ/では ありませんでした", 
+        "explanations": [ 
+            "The polite, past, negative form of a noun / な-adj is formed by attaching じゃ/では ありませんでした to it"
+        ],
+        "examples": [
+            "1) 昨日[きのう] は 試験[しけん] は 簡単[かんたん] じゃありませんでした。",
+            "1) Yesterday's exam wasn't easy"
+        ]
+    },
+    {
+        "lesson" : "12",
+        "topic": "い-adj ~かったです", 
+        "explanations": [ 
+            "The polite, past, positive form of a い-adj is formed by dropping the final い and attaching かったです to it"
+        ],
+        "examples": [
+            "1) 昨日[きのう] は 暑[あつ]かったです。",
+            "1) It was hot yesterday"
+        ]
+    },
+    {
+        "lesson" : "12",
+        "topic": "い-adj ~くなかったです", 
+        "explanations": [ 
+            "The polite, past, negative form of a い-adj is formed by dropping the final い and attaching くなかったです to it"
+        ],
+        "examples": [
+            "1) 昨日[きのう]の パーチイーは あまり 楽しくなかったです。",
+            "1) Yesterday's party wasn't very fun"
+        ]
+    },
+    {
+        "lesson" : "12",
+        "topic": "Noun1 は Noun2 より Adj です", 
+        "explanations": [ 
+            "This expression describes the state/quality of Noun1 in comparison to Noun2"
+        ],
+        "examples": [
+            "1) この 車[くるま]は あの 車[くるま]より 大[おお]きいです。",
+            "1) This car is bigger than that car"
+        ]
+    },
+    {
+        "lesson" : "12",
+        "topic": "Noun1 と Noun2 と どちらが Adj ですか", 
+        "explanations": [ 
+            "This expression is used when asking someone to choose between two items",
+            "[Note] ほうが is used in a reply to reference that one item is more _ than the other",
+            "[Note] どちらも can be used in a reply to reference both items"
+        ],
+        "examples": [
+            "1) サッカーと 野球[やきゅう]と どちらが おもしろいですか。",
+            "1) Soccer or baseball, which is more interesting?",
+            "1) ... サッカーの ほうが おもしろいです。",
+            "1) ... Soccer is more interesting",
+            "2) 春[はる]と 秋[あき]と どちらが 好[す]きですか。",
+            "2) Which do you prefer, spring or autumn?",
+            "2) ... どちらも 好[す]きです。",
+            "2) ... I like them both"
+        ]
+    },
+    {
+        "lesson" : "12",
+        "topic": "Noun1 (の中[なか])で なに/どこ/だれ/いつ が いちばん Adj ですか", 
+        "explanations": [ 
+            "This expression is used to ask the listener to list their favorite item within a category",
+            "[Note] の中[なか] is optional and means within the category. It is often implied"
+        ],
+        "examples": [
+            "1) 日本[にほん]料理[りょうり]で 何[なに]が いちばん 美味[おい]しいですか。",
+            "1) Which of all the Japanese dishes is the most delicious?",
+            "1) ... てんぷらが いちばん 美味[おい]しいです。",
+            "1) ... Tempura is the most delicious",
+            "2) ヨーロッパで どこが いちばん よかったですか。",
+            "2) What was your favorite place in Europe?",
+            "2) ... スイスが いちばん よかったです。",
+            "2) ... Switzerland was the best",
+            "3) 家族[かそく]で だれが いちばん 背[せ]が 高[たか]いですか。",
+            "3) Who is the tallest in your family?",
+            "3) ... 弟[おとうと]が いちばん 背[せ]が 高[たか]いです。",
+            "3) ... My younger brother is the tallest",
+            "4) 一年で いつが いちばん 寒[さむ]いですか。",
+            "4) What's the coldest time of the year?",
+            "4) ... 二月が いちばん 寒[さむ]いで。",
+            "4) ... February is the coldest"
+        ]
+    },
+    {
+        "lesson" : "12",
+        "topic": "Adj の (の substituting for a noun)", 
+        "explanations": [ 
+            "の can be used instead of a noun , if it has already been mentioned",
+            "We can used の in this way for things but not for people"
+        ],
+        "examples": [
+            "1) カリナさんの かばんは どれですか。",
+            "1) Which is Karina's bag?",
+            "1) ... あの 赤くで，大[おお]きいのです。",
+            "1) ... That big red one"
+        ]
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "lesson" : "7",
+        "topic": "Noun(tool/means) で Verb", 
+        "explanations": [
+            "The particle で indicates a method or a means used for an action."
+        ],
+        "examples": [
+            "1) はしで 食[た]べます。",
+            "1) I eat with chopsticks",
+            "2) 日本語[にほんご]で レポートを 書[か]きます。",
+            "2) I'm going to write the report in Japanese"
+        ]
+    },
+    {
+        "lesson" : "7",
+        "topic": "Word/Sentence は ~語[ご]で 何[なん]ですか。", 
+        "explanations": [
+            "This question is used to ask how to say a word or a sentence in another language"
+        ],
+        "examples": [
+            "1) ありがとう は 英語[えいご]で 何[なん]でえすか。",
+            "1) What's 'Arigato' in English?",
+            "1) ... Thank you です。",
+            "1) ... It's 'Thank you'",
+            "2) Thank you は 日本語[にほんご]で  何[なん]ですか。",
+            "2) What's 'Thank you' in Japanese?",
+            "2) ... ありがとう です。",
+            "2) ... It's 'Arigato'"
+        ]
+    },
+    {
+        "lesson" : "7",
+        "topic": "Person に Noun を あげます", 
+        "explanations": [
+            "Verbs like あげます, かします and おしえます indicate imparting things or information, so they must be used with a noun saying to whom those things on information is imparted",
+            "The particle に is used to denote the recipient",
+            "The particle を is used to denote the object"
+        ],
+        "examples": [
+            "1) 私[わたし]は 木村[きむら]さんに 花[はな]を あげました。",
+            "1) I gave Ms Kimura some flowers",
+            "2) 私[わたし]は イーさんに 本[ほん]を 貸[か]しました。",
+            "2) I lent Ms Lee a book",
+            "3) 私[わたし]は 山田[やまだ]さんに 英語[えいご]を 教[おし]えます。",
+            "3) I teach Mr Yamada english"
+        ]
+    },
+    {
+        "lesson" : "7",
+        "topic": "Person に Noun を もらいます", 
+        "explanations": [
+            "Verbs like もらいます，かります and ならいます indicate receiving things or information, so they are used with a noun indicating the person from whom those things or information are received",
+            "The particle に is used to denote the recipient",
+            "The particle を is used to denote the object"
+        ],
+        "examples": [
+            "1) 私[わたし]は 山田[やまだ]さんに 花[はな]を もらいました。",
+            "1) I received some flowers from Mr Yamada",
+            "2) 私[わたし]は カリナさんに CDを 借[か]りました。",
+            "2) I borrowed a CD from Karina",
+            "3) 私[わたし]は ワンさんに 中国語[ちゅうごくご]を 習[なら]います。",
+            "3) I'm learning Chinese from Mr Wang"
+        ]
+    },
+    {
+        "lesson" : "7",
+        "topic": "もう Verbました", 
+        "explanations": [
+            "もう means 'already' and is used with Verbました to indicate that an action has been completed",
+            "The answer to the question もう Verbましたか as to whether an action has been completed is はい，もう Verbました if affirmative",
+            "If negative, we use いいえ，Verbて いません, this means that something has not been completed in the present",
+            "[Note] we do not use いいえ，Verbませんでした as that means that something was not done in the past"
+        ],
+        "examples": [
+            "1) もう 荷物[にもつ]を 送[おく]りましたか。",
+            "1) Have you sent the baggage yet?",
+            "2) ... はい，(もう) 送[おく]りました。",
+            "2) ... Yes, I have sent it",
+            "3) ... いいえ, まだ 送[おく]っていません。",
+            "3) ... No, I haven't sent it yet．",
+            "4) ... いいえ, まだです。",
+            "4) ... No, not yet．"
+        ]
+    },
+    {
+        "lesson" : "7",
+        "topic": "Omission of Particles", 
+        "explanations": [ 
+            "Particles are often omitted in informal speech when the relationship between the parts of the speech before and after them are obvious"
+        ],
+        "examples": [
+            "1) この スプーン(は)，すてきですね。",
+            "1) This is a lovely sppon, isn't it?",
+            "2) コーヒー(を)，もう 一杯[いっぱい] いかがですか。",
+            "2) Would you like another cup of coffee?"
+        ]
+    }
+]

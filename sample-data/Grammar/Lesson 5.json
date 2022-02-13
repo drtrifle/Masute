@@ -1,0 +1,107 @@
+[
+    {
+        "lesson" : "5",
+        "topic": "place へ 行[い]きます/来[き]ます/帰[かえ]ります", 
+        "explanations": [
+            "When a verb indicates movement to a certain place, the particle へ is put after the place noun to show the direction fo the move",
+            "[Note] the particle へ is read as え"
+        ],
+        "examples": [
+            "1) 京[きょう]都[と]へ 行[い]きます。",
+            "1) I'm going to Kyoto",
+            "2) 日[に]本[ほん]へ 来[き]ました。",
+            "2) I came to Japan",
+            "3) 家[うち]へ 帰[かえり]ます。",
+            "3) I'm going home"
+        ]
+    },
+    {
+        "lesson" : "5",
+        "topic": "どこ(へ)も 行きません/行きませんでした", 
+        "explanations": [
+            "When you want to deny everything covered by an interrogative, you attach the particle も and put ther verb in its negative form",
+            "[Note] The particle へ here is optional"
+        ],
+        "examples": [
+            "1) どこ(へ)も 行[い]きません。",
+            "1) I'm not going anywhere",
+            "2) 何[なに]も 食[た]べません。",
+            "2) I'm not going to eat anything",
+            "3) だれも 行[き]ませんでした。",
+            "3) Nobody came"
+        ]
+    },
+    {
+        "lesson" : "5",
+        "topic": "vehicle で 行[い]きます/来[き]ます/帰[かえ]ります", 
+        "explanations": [
+            "The particle で indicates a means or a method",
+            "Attach it after a vehicle noun and use it together with movement verb to indicate means of transport",
+            "For walking, speaker uses the expression 歩[ある]いて. In this case で is not used"
+        ],
+        "examples": [
+            "1) 電[でん]車[しゃ]で 行[い]きます。",
+            "1) I'm going by train",
+            "2) タクシーで 来[き]ました。",
+            "2) I came by Taxi",
+            "3) 駅[えき]から 歩[ある]いて 帰[かえ]りました。",
+            "3) I walked home from the station"
+        ]
+    },
+    {
+        "lesson" : "5",
+        "topic": "(person/animal) と verb", 
+        "explanations": [
+            "When talking about doing something with a person/animal, the person/animal is marked with particle と",
+            "If doing something by oneself, the expression 一人で．In this case, the particle と is not used"
+        ],
+        "examples": [
+            "1) 家[か]族[ぞく]と 日[に]本[ほん]へ 来[き]ました。",
+            "1) I came to Japan with my family",
+            "2) 一人[ひとり]で 東[とう]京[きょう]へ 行[い]きます。",
+            "2) I'm going to Tokyo on my own"
+        ]
+    },
+    {
+        "lesson" : "5",
+        "topic": "いつ", 
+        "explanations": [
+            "Use いつ to ask when something happened or will happen",
+            "[Note] We do not use the に particle after いつ"
+        ],
+        "examples": [
+            "1) いつ 日[に]本[ほん]へ 来[き]ましたか。",
+            "1) When did you come to Japan?",
+            "1) ... 3月[がつ]25日[にち]に 来[き]ました。",
+            "1) ... I came on 25th March"
+        ]
+    },
+    {
+        "lesson" : "5",
+        "topic": "～よ", 
+        "explanations": [
+            "The particle よ is placed at the end of the sentence to emphasize information that the listener does not know",
+            "It can also be used to show that the speaker is giving their judgement assertively"
+        ],
+        "examples": [
+            "1) 北海道[ほっかいどう]に 馬[うま]が たくさん いますよ。",
+            "1) There are a lot of horses in Hokkaido, you know",
+            "2) マリヤさん このアイスクリーム おいしいですよ。",
+            "2) Maria, this ice-cream is delicious, you know"
+        ]
+    },
+    {
+        "lesson" : "5",
+        "topic": "そうですね", 
+        "explanations": [
+            "そうですね is used to express sympathy or agreement with the speaker",
+            "It is similar to そうですか, but while that is used to acknowledge new information, そうですね is used to show sympathy or agree with something the speaker already knew"
+        ],
+        "examples": [
+            "1) 明日[あした]は 日曜日[にちようび]ですね。",
+            "1) It's Sunday tomorrow, isn't it?",
+            "2) ... あ, そうですね。",
+            "2) ... Oh, so it is"
+        ]
+    }
+]

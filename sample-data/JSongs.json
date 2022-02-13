@@ -1,5 +1,47 @@
 [
     {
+        "songID" : "FRED-001",
+        "songURL": "https://www.youtube.com/embed/vn7vfza-6fQ",
+        "songNameEng" : "Kanashii Ureshii",
+        "songNameJpn" : "かなしいうれしい",
+        "artistNameEng" : "Frederic",
+        "artistNameJpn" : "フレデリック"
+
+    },
+    {
+        "songID" : "HIGE-001",
+        "songURL": "https://www.youtube.com/embed/TQ8WlA2GXbk",
+        "songNameEng" : "Pretender",
+        "songNameJpn" : "",
+        "artistNameEng" : "Official Hige Dandism",
+        "artistNameJpn" : "Official髭男dism"
+
+    },
+    {
+        "songID" : "KENTA-001",
+        "songURL": "https://www.youtube.com/embed/-zQWavER7to",
+        "songNameEng" : "Voice of the Sea",
+        "songNameJpn" : "海の声",
+        "artistNameEng" : "Kenta Kiritani",
+        "artistNameJpn" : "桐谷 健太"
+    },
+    {
+        "songID" : "SAKA-001",
+        "songURL": "https://www.youtube.com/embed/T_WuE_AV6kg",
+        "songNameEng" : "I Look Up as I Walk / Sukiyaki",
+        "songNameJpn" : "上を向いて歩こう",
+        "artistNameEng" : "Kyu Sakamoto",
+        "artistNameJpn" : "坂本 九"
+    },
+    {
+        "songID" : "YONE-001",
+        "songURL": "https://www.youtube.com/embed/L_pRTyuZ9fk",
+        "songNameEng" : "Shinigami",
+        "songNameJpn" : "死神",
+        "artistNameEng" : "Kenshi Yonezu",
+        "artistNameJpn" : "米津玄師"
+    },
+    {
         "songID" : "YORU-001",
         "songURL": "https://www.youtube.com/embed/WwnZeQiI6hQ",
         "songNameEng" : "The Old Man and the Sea",
@@ -8,13 +50,12 @@
         "artistNameJpn" : "ヨルシカ"
     },
     {
-        "songID" : "FRED-001",
-        "songURL": "https://www.youtube.com/embed/vn7vfza-6fQ",
-        "songNameEng" : "Kanashii Ureshii",
-        "songNameJpn" : "かなしいうれしい",
-        "artistNameEng" : "Frederic",
-        "artistNameJpn" : "フレデリック"
-
+        "songID" : "YUURI-001",
+        "songURL": "https://www.youtube.com/embed/jVGmah8Ul8M",
+        "songNameEng" : "Shutter",
+        "songNameJpn" : "シャッター",
+        "artistNameEng" : "Yuuri",
+        "artistNameJpn" : "優里"
     },
     {
         "songID" : "YUZU-001",

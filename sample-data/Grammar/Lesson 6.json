@@ -1,0 +1,121 @@
+[
+    {
+        "lesson" : "6",
+        "topic": "Noun を Transitive Verb", 
+        "explanations": [
+            "The particle を is used to indicate the direct object of a transitive verb"
+        ],
+        "examples": [
+            "1) ジュース を 飲[の]みます。",
+            "1) I drink juice"
+        ]
+    },
+    {
+        "lesson" : "6",
+        "topic": "Noun を します", 
+        "explanations": [
+            "A wide range of nouns are used as object of the verb します, which means that the action denoted by the noun is performed."
+        ],
+        "examples": [
+            "1) サッカー を します。",
+            "1) To play soccer",
+            "2) 会議[かいぎ] を します。",
+            "2) To hold a meeting",
+            "3) 宿題[しゅくだい] を します。",
+            "3) To do homework"
+        ]
+    },
+    {
+        "lesson" : "6",
+        "topic": "何[なに] を しますか", 
+        "explanations": [
+            "To ask about someone's actions"
+        ],
+        "examples": [
+            "1) 月曜日[げつようび] 何[なに] を しますか。",
+            "1) What will you be doing on Monday?",
+            "1) ... 京都[きょうと] へ 行[い]きます。",
+            "1) ... I'll be going to Kyoto",
+            "2) 昨日[きのう] 何[なに] を しましたか。",
+            "2) What did you do yesterday",
+            "2) ... サッカー を しました。",
+            "2) ... I played soccer"
+        ]
+    },
+    {
+        "lesson" : "6",
+        "topic": "何: なん vs なに", 
+        "explanations": [
+            "Both なん and なに mean 'what'",
+            "We use なん when it precedes a word whose first sound is either in the た，だ or な row, or when using it with a counting suffix",
+            "In other cases, we use なに",
+            "[Note] なんで is used for asking 'Why' or 'How', なにで can be used when to only ask for 'How'"
+        ],
+        "examples": [
+            "1) それは 何[なん]ですか。",
+            "1) What's that?",
+            "2) 何[なん]の 本[ほん]ですか。",
+            "2) What's that book about?",
+            "3) 寝[ね]る 前[まえ]に 何[なん]と 言[い]いますか。",
+            "3) What do you say before going to bed?",
+            "4) テレーザちゃんは 何[なん]歳[さい]ですか。",
+            "4) How old is Teresa?"
+        ]
+    },
+    {
+        "lesson" : "6",
+        "topic": "Place で Verb", 
+        "explanations": [
+            "The particle で, when added after a noun denoting a place, indicates the occurrence of an action at that place"
+        ],
+        "examples": [
+            "1) 駅[えき]で 新聞[しんぶん]を 買[か]います。",
+            "1) I'm going to buy a newspaper at the station"
+        ]
+    },
+    {
+        "lesson" : "6",
+        "topic": "Verb ませんか", 
+        "explanations": [
+            "This expression is used when the speaker wants to invite someone to do something"
+        ],
+        "examples": [
+            "1) 一緒[いっしょ]に 京都[きょうと]へ いきませんか。",
+            "1) Would you like to go to Kyoto with us?",
+            "1) ... ええ，いいですね。",
+            "1) ... Yes, that's a nice idea"
+        ]
+    },
+    {
+        "lesson" : "6",
+        "topic": "Verb ましょう", 
+        "explanations": [
+            "This expression is used when the speaker is inviting someone to do something",
+            "It can also be used when responding positively to an invitation",
+            "[Note] Verb ませんか and Verb ましょう are used to invite someone to do something but Verb ませんか shows that the speaker gives more consideration to what the listener might want"
+        ],
+        "examples": [
+            "1) ちょっと 休[やす]みましょう。",
+            "1) Let's take a break",
+            "2) 一緒[いっしょ]に 昼[ひる]ご飯[はん]を 食[た]べましょう。",
+            "2) Let's have lunch together",
+            "2) ... ええ，食[た]べましょう。",
+            "2) ... Yes, lets do that"
+
+        ]
+    },
+    {
+        "lesson" : "6",
+        "topic": "~か", 
+        "explanations": [
+            "~か as a response indicates that the listener has accepted some new information",
+            "It is used in the same way as そうですか"
+        ],
+        "examples": [
+            "1) 日曜日[にちようび] 京都[きょうと]へ 行[い]きました。",
+            "1) I went to Kyoto on Sunday",
+            "1) ... 京都[きょうと]ですか。いいですね。",
+            "1) ... Kyoto,eh? Great!"
+        ]
+    }
+]
