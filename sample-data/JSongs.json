@@ -50,6 +50,14 @@
         "artistNameJpn" : "ヨルシカ"
     },
     {
+        "songID" : "YUURI-001",
+        "songURL": "https://www.youtube.com/embed/jVGmah8Ul8M",
+        "songNameEng" : "Shutter",
+        "songNameJpn" : "シャッター",
+        "artistNameEng" : "Yuuri",
+        "artistNameJpn" : "優里"
+    },
+    {
         "songID" : "YUZU-001",
         "songURL": "https://www.youtube.com/embed/dgKocTADT0I",
         "songNameEng" : "Sakuragicho",

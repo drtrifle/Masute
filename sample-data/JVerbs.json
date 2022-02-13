@@ -31,13 +31,13 @@
   { "grpNum": "1", "chap": "07", "eng":"to return (something)", "jisho": "かえす", "masu": "かえします", "te": "かえして", "nai": "かえさない" },
   { "grpNum": "2", "chap": "07", "eng":"to teach", "jisho": "おしえる", "masu": "おしえます", "te": "おしえて", "nai": "おしえない" },
   { "grpNum": "1", "chap": "07", "eng":"to learn", "jisho": "ならう", "masu": "ならいます", "te": "ならって", "nai": "ならわない" },
-  { "grpNum": "2", "chap": "07", "eng":"to call (phone)", "jisho": "かける", "masu": "かけます", "te": "かけて", "nai": "かけない" },
+  { "grpNum": "2", "chap": "07", "eng":"to make a call", "jisho": "かける", "masu": "かけます", "te": "かけて", "nai": "かけない" },
   
   { "grpNum": "1", "chap": "09", "eng":"to understand", "jisho": "わかる", "masu": "わかります", "te": "わかって", "nai": "わからない" },
   { "grpNum": "1", "chap": "09", "eng":"to exist (inanimate)", "jisho": "ある", "masu": "あります", "te": "あって", "nai": "ない" },
   { "grpNum": "1", "chap": "09", "eng":"to exist (animate)", "jisho": "いる", "masu": "います", "te": "いて", "nai": "いない" },
   
-  { "grpNum": "1", "chap": "13", "eng":"to play", "jisho": "あそぶ", "masu": "あそびます", "te": "あそんで", "nai": "あそばない" },  
+  { "grpNum": "1", "chap": "13", "eng":"to play", "jisho": "あそぶ", "masu": "あそびます", "te": "あそんで", "nai": "あそばない" },
   { "grpNum": "1", "chap": "13", "eng":"to swim", "jisho": "およぐ", "masu": "およぎます", "te": "およいで", "nai": "およがない" },
   { "grpNum": "2", "chap": "13", "eng":"to welcome", "jisho": "むかえる", "masu": "むかえます", "te": "むかえて", "nai": "むかえない" },
   { "grpNum": "2", "chap": "13", "eng":"to get tired", "jisho": "つかれる", "masu": "つかれます", "te": "つかれて", "nai": "つかれない" },
