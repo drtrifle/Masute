@@ -34,6 +34,14 @@
         "artistNameJpn" : "坂本 九"
     },
     {
+        "songID" : "TAICHI-001",
+        "songURL": "https://www.youtube.com/embed/oTH0s0iRA0g",
+        "songNameEng" : "Reset",
+        "songNameJpn" : "リセット",
+        "artistNameEng" : "Taichi Mukai",
+        "artistNameJpn" : "向井太一"
+    },
+    {
         "songID" : "YONE-001",
         "songURL": "https://www.youtube.com/embed/L_pRTyuZ9fk",
         "songNameEng" : "Shinigami",
