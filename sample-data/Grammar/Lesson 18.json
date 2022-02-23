@@ -1,0 +1,172 @@
+[
+    {
+        "lesson" : "18",
+        "topic": "Verb じしょ-form",
+        "explanations": [
+            "This is basic form of a verb, as given in the dictionary"
+        ],
+        "examples": [
+            ""
+        ]
+    },
+    {
+        "lesson" : "18",
+        "topic": "Group 1 Verb じしょ-form",
+        "explanations": [
+            "For group 1 verbs, the last sound of the ます-form is changed from the い-column to う-column"
+        ],
+        "examples": [
+            "1) かきます → かく",
+            "1) To write",
+            "2) よみます → よむ",
+            "2) To read",
+            "3) とります → とる",
+            "3) To take",
+            "4) すいます → すう",
+            "4) To smoke",
+            "5) いそぎます → いそぐ",
+            "5) To hurry",
+            "6) あそびます → あそぶ",
+            "6) To play",
+            "7) まちます → まつ",
+            "7) To wait",
+            "8) はなします → はなす",
+            "8) To talk"
+        ]
+    },
+    {
+        "lesson" : "18",
+        "topic": "Group 2 Verb じしょ-form",
+        "explanations": [
+            "For group 2 verbs, る is added to ます-form"
+        ],
+        "examples": [
+            "1) たべます → たべる",
+            "1) To eat",
+            "2) みます → みる",
+            "2) To see"
+        ]
+    },
+    {
+        "lesson" : "18",
+        "topic": "Group 3 Verb じしょ-form",
+        "explanations": [
+            "For group 3 ます-form verbs, if it ends in します，change the end to する",
+            "For group 3 ます-form verbs, if it ends in きます，change the end to くる"   
+        ],
+        "examples": [
+            "1) べんきょうします → べんきょうする",
+            "1) To study",
+            "2) きます → くる",
+            "2) To come"
+        ]
+    },
+    {
+        "lesson" : "18",
+        "topic": "Noun が できます",
+        "explanations": [
+            "This expression is used to indicate that a person has the ability to do something",
+            "It can be also be used to indicate that some behavior is possible as a result of the situation",
+            "The object of できます is marked by が"
+        ],
+        "examples": [
+            "1) ミラーさんは 日本語[にほんご]が できます。",
+            "1) Mr Miller can speak Japanese",
+            "2) 雪[ゆき]が たくさん 降[ふ]りましたから，ことしは スキーが できます。",
+            "2) A lot of snow has fallen, so we can ski this year"
+        ]
+    },
+    {
+        "lesson" : "18",
+        "topic": "Verb じしょ-form こと が できます",
+        "explanations": [
+            "This expression is used to indicate that a person has the ability to do something",
+            "It can be also be used to indicate that some behavior is possible as a result of the situation",
+            "The object of できます is marked by が",
+            "We use the verb じしょ-form with こと to turn it into a noun phrase"
+        ],
+        "examples": [
+            "1) ミラーさんは 漢字[かんじ]は 読む[よむ] ことが できます。",
+            "1) Mr Miller can read Kanji",
+            "2) カードで 払[はら]う ことが できます。",
+            "2) You can pay by card"
+        ]
+    },
+    {
+        "lesson" : "18",
+        "topic": "私[わたし]の 趣味[しゅみ]は Noun です",
+        "explanations": [
+            "This expression is used to indicate your hobby/interest",
+            "Using the verb じしょ-form with こと enables the interests to be described more specifically than just a noun"
+        ],
+        "examples": [
+            "1) 私[わたし]の 趣味[しゅみ]は 音楽[おんがく]です。",
+            "1) I'm interested in music",
+            "2) 私[わたし]の 趣味[しゅみ]は 音楽[おんがく]を きく ことです。",
+            "2) I like listening to music"
+        ]
+    },
+    {
+        "lesson" : "18",
+        "topic": "Verb1 じしょ-form まえに，Verb2",
+        "explanations": [
+            "This expression shows that Verb2 occurs before Verb1",
+            "[Note] Verb1 always takes the じしょ-form while Verb2 takes the tense of the sentence"
+        ],
+        "examples": [
+            "1) 日本[にほん]へ 来[く]る 前[まえ]に，日本語[にほんご]を 勉強[べんきょう]しました。",
+            "1) Before I came to Japan, I studied Japanese",
+            "2) 寝[ね]る 前[まえ]に，本[ほん]を 読[よ]みます。",
+            "2) Before going to sleep, I read a book"
+        ]
+    },
+    {
+        "lesson" : "18",
+        "topic": "Noun の まえに，Verb",
+        "explanations": [
+            "This expression shows that Verb occurs before Noun",
+            "の is added after the noun"
+        ],
+        "examples": [
+            "1) 食事[しょくじ]の まえに，手[て]を 洗[あら]います。",
+            "1) I wash my hands before eating"
+
+        ]
+    },
+    {
+        "lesson" : "18",
+        "topic": "Time period quantifier まえに，Verb",
+        "explanations": [
+            "This expression shows how much time has passed after Verb occurs",
+            "[Note] that の is not added to a time period quantifier"
+        ],
+        "examples": [
+            "1) 田中[たなか]さんは 1時間[じかん]前[まえ]に，出[で]かけました。",
+            "1) Tanaka went out an hour ago"
+        ]
+    },
+    {
+        "lesson" : "18",
+        "topic": "なかなか",
+        "explanations": [
+            "When なかなか is followed by a negative expression, it means not easily or not as expected"
+        ],
+        "examples": [
+            "1) 日本[にほん]へ なかなか 馬[うま]を 見[み]る ことが できません。",
+            "1) You don't see many horses in Japan"
+        ]
+    },
+    {
+        "lesson" : "18",
+        "topic": "せび",
+        "explanations": [
+            "せび is used by speakers to intensify their expressions of hope"
+        ],
+        "examples": [
+            "1) せび 北海道[ほっかいどう]へ いきたいです。",
+            "1) I really want to goto Hokkaido",
+            "2) せび 遊[あそ]びに来て ください",
+            "2) Please do come and visit me"
+        ]
+    }
+]

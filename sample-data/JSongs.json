@@ -26,6 +26,14 @@
         "artistNameJpn" : "桐谷 健太"
     },
     {
+        "songID" : "PEGG-001",
+        "songURL": "https://www.youtube.com/embed/xdc9DgV0aDA",
+        "songNameEng" : "Dive to Love",
+        "songNameJpn" : "",
+        "artistNameEng" : "the peggies",
+        "artistNameJpn" : ""
+    },
+    {
         "songID" : "SAKA-001",
         "songURL": "https://www.youtube.com/embed/T_WuE_AV6kg",
         "songNameEng" : "I Look Up as I Walk / Sukiyaki",

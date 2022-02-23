@@ -1,7 +1,7 @@
 [
     {
         "lesson" : "14",
-        "topic": "Group 1 Verbs", 
+        "topic": "Group 1 Verb ます-form", 
         "explanations": [
             "In all verbs of this group, the last sound of the ます-form is from the い-column of the syllabary group"
         ],
@@ -14,7 +14,7 @@
     },
     {
         "lesson" : "14",
-        "topic": "Group 2 Verbs", 
+        "topic": "Group 2 Verb ます-form", 
         "explanations": [
             "In most verbs of this group, the last sound of the ます-form is from the え-column of the syllabary group",
             "In some verbs of this group, it is a sound from the い-column"
@@ -30,7 +30,7 @@
     },
     {
         "lesson" : "14",
-        "topic": "Group 3 Verbs", 
+        "topic": "Group 3 Verb ます-form", 
         "explanations": [
             "Verbs of the group include します and きます",
             "Other verbs of this group have ます-form that ends in します",

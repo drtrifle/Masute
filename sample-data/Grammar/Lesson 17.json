@@ -1,0 +1,119 @@
+[
+    {
+        "lesson" : "17",
+        "topic": "Group 1 Verb ない-form",
+        "explanations": [
+            "For group 1 ます-form verbs, drop ます, change the last syllable from the い-column to the あ-column",
+            "[Note] Exception for group 1 ます-form verbs where the last vowel is い, we change it to わ instead of あ"
+        ],
+        "examples": [
+            "1) かきます → かかない",
+            "1) To write",
+            "2) よみます → よまない",
+            "2) To read",
+            "3) きります → きらない",
+            "3) To cut",
+            "4) すいます → すわない",
+            "4) To smoke/inhale",
+            "5) いそぎます → いそがない",
+            "5) To hurry",
+            "6) あそびます → あそばない",
+            "6) To play",
+            "7) まちます → またない",
+            "7) To wait",
+            "8) はなします → はなさない",
+            "8) To speak/talk"
+        ]
+    },
+    {
+        "lesson" : "17",
+        "topic": "Group 2 Verb ない-form",
+        "explanations": [
+            "Group 2 ない-form verbs are the same as their ます-form" 
+        ],
+        "examples": [
+            "1) たべます → たべない",
+            "1) To eat",
+            "2) みます → みない",
+            "2) To see"
+        ]
+    },
+    {
+        "lesson" : "17",
+        "topic": "Group 3 Verb ない-form",
+        "explanations": [
+            "For group 3 ます-form verbs, if it ends in します，change the end to しない",
+            "For group 3 ます-form verbs, if it ends in きます，change the end to こない"        
+        ],
+        "examples": [
+            "1) べんきょうします → べんきょうしない",
+            "1) To study",
+            "2) きます → こない",
+            "2) To come"
+        ]
+    },
+    {
+        "lesson" : "17",
+        "topic": "Verb ない-form ないで ください",
+        "explanations": [
+            "This expression is used to ask or tell someone not to do something"        
+        ],
+        "examples": [
+            "1) ここで 写真[しゃしん]を 取[と]らないで ください。",
+            "1) Please don't take photgraph here",
+            "2) わたしは 元気[げんき]ですから，心配[しんぱい]しないで ください。",
+            "2) I'm fine, so please don't worry about me"
+        ]
+    },
+    {
+        "lesson" : "17",
+        "topic": "Verb ない-form なければ なりません",
+        "explanations": [
+            "This expression is used to say that something must be done",
+            "Not that despite ending in ません, it is not in the negative"             
+        ],
+        "examples": [
+            "1) 薬[くすり]を 飲[の]まなければ なりません。",
+            "1) I must take some medicine"
+        ]
+    },
+    {
+        "lesson" : "17",
+        "topic": "Verb ない-form なくても いいです",
+        "explanations": [
+            "This expression is used to say that its not necessary to do something"        
+        ],
+        "examples": [
+            "1) あした 来なくても いいです。",
+            "1) You don't have to come tomorrow"
+        ]
+    },
+    {
+        "lesson" : "17",
+        "topic": "Making an object the topic of a sentence",
+        "explanations": [
+            "When making a noun in the expression Noun を Verb into the topic of a sentence",
+            "We place the noun at the start of the sentence and the particle を is replaced by は"        
+        ],
+        "examples": [
+            "1) ここに 荷物[にもつ]を 置[お]かないで ください。 → 荷物[にもつ]は ここに 置[お]かないで ください。",
+            "1) Don't put your bags here please",
+            "2) 会社[かいしゃ]の 食堂[しょくどう]で 昼[ひる]ご飯[はん]を たべます。 → 昼[ひる]ご飯[はん]は 会社[かいしゃ]の 食堂[しょくどう]で たべます。",
+            "2) I have lunch in the company cafeteria"
+        ]
+    },
+    {
+        "lesson" : "17",
+        "topic": "Noun (time) までに Verb",
+        "explanations": [
+            "This indicates a time by which an event will end or an action must be completed",
+            "[Note] The particle まで indicates the end point of a continuing action, be careful not to confuse it with までに"      
+        ],
+        "examples": [
+            "1) 会議[かいぎ]は 5時[じ]までに 終[お]わります。",
+            "1) The meeting will end by 5",
+            "2) 土曜日[どようび]までに 本[ほん]を 返さなければ なりません。",
+            "2) I have to return the book by Saturday"
+        ]
+    }
+]
