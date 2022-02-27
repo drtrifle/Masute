@@ -35,7 +35,7 @@
   
   { "grpNum": "1", "chap": "09", "eng":"to understand", "jisho": "わかる", "masu": "わかります", "te": "わかって", "nai": "わからない" },
   { "grpNum": "1", "chap": "09", "eng":"to exist (inanimate)", "jisho": "ある", "masu": "あります", "te": "あって", "nai": "ない" },
-  { "grpNum": "1", "chap": "09", "eng":"to exist (animate)", "jisho": "いる", "masu": "います", "te": "いて", "nai": "いない" },
+  { "grpNum": "2", "chap": "09", "eng":"to exist (animate)", "jisho": "いる", "masu": "います", "te": "いて", "nai": "いない" },
   
   { "grpNum": "1", "chap": "13", "eng":"to play", "jisho": "あそぶ", "masu": "あそびます", "te": "あそんで", "nai": "あそばない" },
   { "grpNum": "1", "chap": "13", "eng":"to swim", "jisho": "およぐ", "masu": "およぎます", "te": "およいで", "nai": "およがない" },
@@ -112,7 +112,7 @@
   { "grpNum": "3", "chap": "18", "eng":"to reserve", "jisho": "よやくする", "masu": "よやくします", "te": "よやくして", "nai": "よやくしない" },
 
   { "grpNum": "1", "chap": "19", "eng":"to climb", "jisho": "のぼる", "masu": "のぼります", "te": "のぼって", "nai": "のぼらない" },
-  { "grpNum": "1", "chap": "19", "eng":"to stay", "jisho": "とまる", "masu": "とまります", "te": "とまって", "nai": "とまらない" },
+  { "grpNum": "1", "chap": "19", "eng":"to stay at (hotel/inn/house)", "jisho": "とまる", "masu": "とまります", "te": "とまって", "nai": "とまらない" },
   { "grpNum": "3", "chap": "19", "eng":"to clean", "jisho": "そうじする", "masu": "そうじします", "te": "そうじして", "nai": "そうじしない" },
   { "grpNum": "3", "chap": "19", "eng":"to wash laundry", "jisho": "せんたくする", "masu": "せんたくします", "te": "せんたくして", "nai": "せんたくしない" },
   { "grpNum": "1", "chap": "19", "eng":"to become", "jisho": "なる", "masu": "なります", "te": "なって", "nai": "ならない" },

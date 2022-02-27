@@ -1,0 +1,98 @@
+[
+    {
+        "lesson" : "19",
+        "topic": "Verb た-form",
+        "explanations": [
+            "This is the past casual form of a verb",
+            "It either ends in た or だ and is formed by changing the て or で of the て-form to た or だ respectively"
+        ],
+        "examples": [
+            "1) かいて → かいた",
+            "1) To write",
+            "2) のんで → のんだ",
+            "2) To drink",
+            "3) たべて → たべた",
+            "3) To eat",
+            "4) きて → きた",
+            "4) To come",
+            "5) して → した",
+            "5) To do"
+        ]
+    },
+    {
+        "lesson" : "19",
+        "topic": "Verb た-form ことが あります",
+        "explanations": [
+            "This expression is used to say that one has experienced something before, without saying when it occured",
+            "[Note] Since the experience was in the past, make sure to use the past tense of the verb"
+        ],
+        "examples": [
+            "1) うまに 乗[の]った ことが あります。",
+            "1) I've ridden a horse",
+            "2) 去年[きょねん] 北海道[ほっかいどう]で 馬[うま]に のりました。",
+            "2) I rode a horse last yaear in Hokkaido"
+        ]
+    },
+    {
+        "lesson" : "19",
+        "topic": "Verb1 た-formり，... Verb2 た-formり します",
+        "explanations": [
+            "Previously, we used the particle や when citing two or more nouns as examples from a longer list",
+            "We use り appended to the end of the verb to do the same for verbs",
+            "[Note] The tense is only shown at the end of the sentence"
+        ],
+        "examples": [
+            "1) 日曜日[にちようび]は テニスを したり，映画[えいが]を 見[み]たり します。",
+            "1) On Sundays, I play tennis, watch a film, and so on",
+            "2) 日曜日[にちようび]は テニスを したり，映画[えいが]を 見[み]たり しました。",
+            "2) Last Sunday, I played tennis, watched a film, and did other stuff"
+        ]
+    },
+    {
+        "lesson" : "19",
+        "topic": "Verb1 て-form，... Verb2 た-form",
+        "explanations": [
+            "This expression is used to express two or more actions that occur one after another"
+        ],
+        "examples": [
+            "1) 日曜日[にちようび]は テニスを して，映画[えいが]を 見[み]た。",
+            "1) On Sunday, I played tennis and then watched a film"
+        ]
+    },
+    {
+        "lesson" : "19",
+        "topic": "い-adj なります",
+        "explanations": [
+            "なります indicates a change of state",
+            "For い-adjs, remove the trailing い and append く before なります"
+        ],
+        "examples": [
+            "1) 寒い[さむい] → 寒く なります",
+            "1) To become cold"
+        ]
+    },
+    {
+        "lesson" : "19",
+        "topic": "な-adj なります",
+        "explanations": [
+            "なります indicates a change of state",
+            "For な-adjs, remove the trailing な and append に before なります"
+        ],
+        "examples": [
+            "1) 元気[げんき](な) → 元気[げんき]に なります",
+            "1) To become better"
+        ]
+    },
+    {
+        "lesson" : "19",
+        "topic": "Noun なります",
+        "explanations": [
+            "なります indicates a change of state",
+            "For Nouns, just append に before なります"
+        ],
+        "examples": [
+            "1) 25歳[さい] → 25歳[さい]に なります",
+            "1) To become 25 years old"
+        ]
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "lesson" : "20",
+        "topic": "Polite style and Casual style",
+        "explanations": [
+            "The Japanese language has two styles of speech: Polite style and Casual style",
+            "Predicates used in polite-style sentences accompanied by です or ます are called the polite form",
+            "Predicates used in casual-style sentences are called the casual form"
+        ],
+        "examples": [
+            "Polite style vs Casual Style",
+            "1) 明日[あした] 東京[とうきょう]へ 行[い]きます。 vs 明日[あした] 東京[とうきょう]へ 行[い]く",
+            "1) I'm going to Tokyo tomorrow",
+            "2) 毎日[まいにち] 忙[いそが]しいです。 vs 毎日[まいにち] 忙[いそが]しい。",
+            "2) I'm busy every day",
+            "3) 相撲[すもう]が 好[す]きです。 vs 相撲[すもう]が 好[す]きだ。",
+            "3) I like sumo",
+            "4) 富士山[すじさん]に 登[のぼ]りたいです。 vs 富士山[すじさん]に 登[のぼ]りたい。",
+            "4) I like climbing Mt Fuji",
+            "5) ドイツへ 行[い]った ことが ありません。 vs ドイツへ 行[い]った ことが ない。",
+            "5) I've never been to Germany"
+        ]
+    },
+    {
+        "lesson" : "20",
+        "topic": "When to use Polite style or Casual style in Conversation",
+        "explanations": [
+            "Polite style is used when talking to someone you meet for the first time, to someone of higher status or to people in a similar age-group that you do not know well",
+            "Casual style is used when talking to one's close friend, colleagues or family members",
+            "[Note] Be careful not to use casual style to the wrong person as this would be discourteous"
+        ],
+        "examples": []
+    },
+    {
+        "lesson" : "20",
+        "topic": "When to use Polite style or Casual style in Writing",
+        "explanations": [
+            "Polite style is used in writing letters",
+            "Casual style is used when writing dissertations, reports, diaries, etc"
+        ],
+        "examples": []
+    },
+    {
+        "lesson" : "20",
+        "topic": "(Conversational) Casual style questions",
+        "explanations": [
+            "Questions in the casual style usually omit the particle か at the end",
+            "Instead, we pronounce the last character in the sentence with a rising intonation (⤴)",
+            "For Noun and な-adjs, we omit the だ at the end of a question.",
+            "For a affirmative reply to a Noun and な-adj question, ending the sentece with だ couls cound a bit harsh",
+            "Hence we either omit the だ or add a sentence ending particle to soften the reply"
+        ],
+        "examples": [
+            "1) コーヒーを 飲[の]む(⤴)。",
+            "1) Want some coffee?",
+            "1) ... うん，飲[の]む。",
+            "1) ... Yea, okay",
+            "2) 今晩[こんばん] ひま(⤴)。",
+            "2) Are you free tonight?",
+            "2) ... うん，暇[ひま] / 暇[ひま]だ / 暇[ひま]だよ。",
+            "2) ... Yes, I'm free (used by men)",
+            "2) ... うん，暇[ひま] / 暇[ひま]よ / 暇[ひま]だよ。",
+            "2) ... Yes, I'm free (used by women)",
+            "2) ... ううん，暇[ひま]じゃない。",
+            "2) ... No, I'm not free"
+        ]
+    },
+    {
+        "lesson" : "20",
+        "topic": "(Conversational) Casual style particles",
+        "explanations": [
+            "For casual style, certain particles are often omitted if the meaning of the sentence is evident from the context"
+        ],
+        "examples": [
+            "1) ご飯[はん](を) 食[た]べる。",
+            "1) Would you like something to eat?",
+            "2) 明日[あした] 京都[きょうと](へ) 行[い]かない。",
+            "2) How about going to Kyoto tomorrow?",
+            "3) この りんご(は) あいしいね。",
+            "3) These apples are nice, aren't there?",
+            "4) そこに はさみ(が) ある?",
+            "4) Are there any scissors left?"
+        ]
+    },
+    {
+        "lesson" : "20",
+        "topic": "(Conversational) Casual style Verb て-form いる",
+        "explanations": [
+            "For casual style, the い for the Verb て-form いる expression often dropped"
+        ],
+        "examples": [
+            "1) 辞書[じしょ]，持[も]って (い)る。",
+            "1) Have you got a dictionary?",
+            "1) ... うん，持[も]って (い)る。",
+            "1) ... Yes I have",
+            "1) ... ううん，持[も]って (い)ない。",
+            "1) ... No, I haven't"
+        ]
+    },
+    {
+        "lesson" : "20",
+        "topic": "(Conversational) Casual style けど",
+        "explanations": [
+            "けど works the same way as が and is often used in conversations"
+        ],
+        "examples": [
+            "1) この カレー[は] おいしい。",
+            "1) Is that curry tasty?",
+            "1) ... うん，辛[から]いけど，おいしい。",
+            "1) ... Yes, its spicy but tasty",
+            "2) 相撲[すもう]の チケット[が] あるけど いっしょうに 行[い]かない。",
+            "2) I've got tickets for the sumo. Would you like to go with me?",
+            "2) ... いいね。",
+            "2) ... That'll be great"
+        ]
+    }
+]
