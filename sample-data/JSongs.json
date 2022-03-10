@@ -66,6 +66,14 @@
         "artistNameJpn" : "ヨルシカ"
     },
     {
+        "songID" : "YORU-002",
+        "songURL": "https://www.youtube.com/embed/-VKIqrvVOpo",
+        "songNameEng" : "Just a Sunny Day for You",
+        "songNameJpn" : "ただ君に晴れ",
+        "artistNameEng" : "Yorushika",
+        "artistNameJpn" : "ヨルシカ"
+    },
+    {
         "songID" : "YUURI-001",
         "songURL": "https://www.youtube.com/embed/jVGmah8Ul8M",
         "songNameEng" : "Shutter",

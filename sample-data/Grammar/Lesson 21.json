@@ -1,0 +1,142 @@
+[
+    {
+        "lesson" : "21",
+        "topic": "じしょ-form と 思[おも]います",
+        "explanations": [
+            "This expression is used to express conjecture or state an opinion",
+            "The ideas or judgements expressed with 思[おも]います are indicated by the particle と",
+            "For a negative conjecture, the clause before と is negative"
+        ],
+        "examples": [
+            "1) あひた 雨[あめ]が 降[ふ]る と 思[おも]います。",
+            "1) I think it's going to rain tomorrow",
+            "2) テレーザちゃんは もう 寝[ね]た と 思[おも]います。",
+            "2) I think Teresa's already gone to bed",
+            "3) ミラーさんは この ニュースを 知[し]って いますか。",
+            "3) Has Mr Miller heard the news?",
+            "3) ... いいえ，知[し]らない と 思[おも]います。",
+            "3) ... No, I don't think he has",
+            "4) 日本[にほん]は 物価[ぶっか]が 高[たか]い と 思[おも]います。",
+            "4) I think that the prices in Japan are high"
+        ]
+    },
+    {
+        "lesson" : "21",
+        "topic": "~に ついてどう 思[おも]いますか",
+        "explanations": [
+            "This expression is used to ask someone's opinion about something without と after どう"
+        ],
+        "examples": [
+            "1) 新[あたら]しい 空港[くうこう]に ついて どう 思[おも]いますか。",
+            "1) What do you think of the new airport?",
+            "1) ... きれいですが，ちょっと 交通[こうつう]が 不便[ふべん]だ と 思[おも]います。",
+            "1) ... I think its lovely, but its a bit hard to get"
+        ]
+    },
+    {
+        "lesson" : "21",
+        "topic": "そう 思[おも]います",
+        "explanations": [
+            "This expression is used to agree with someone's else opinion"
+        ],
+        "examples": [
+            "1) ケータイは 便利[べんり]ですね。",
+            "1) Mobile phones are convenient aren't they?",
+            "1) ... 私[わたし]も そう 思[おも]います。"
+        ]
+    },
+    {
+        "lesson" : "21",
+        "topic": "「Sentence」と 言[い]います",
+        "explanations": [
+            "The particle と is used to report speech",
+            "For reporting speech directly, in speech, the sentence is repeated word for word",
+            "In writing, the sentence is placed inside the square brackets「」"
+        ],
+        "examples": [
+            "1) 寝[ね]る まえに，「お休[やす]みなさい」と 言[い]います。",
+            "1) We say 'Good night' before going to bed",
+            "2) ミラーさんは 「来週[らいしゅう] 東京[とうきょう]へ 出張[しゅっちょう]します」と 言[い]います。",
+            "2) Mr Miller said, 'I'm going to Tokyo on business next week'"
+        ]
+    },
+    {
+        "lesson" : "21",
+        "topic": "じしょ-form と 言[い]います",
+        "explanations": [
+            "For reporting speech indirectly, the じしょ-form is used before と",
+            "[Note] The tense of the quoted sentence is not affected by the tense of the main sentence",
+            "[Note] The particle に is used to indicate the person spoken to"
+        ],
+        "examples": [
+            "1) ミラーさんは 東京[とうきょう]へ 出張[しゅっちょう]する」と 言[い]います。",
+            "1) Mr Miller said that he would be going to Tokyo on business",
+            "2) 父[ちち]に 留学[りゅうがく]したい と 言[い]います。",
+            "2) I told my father that I wanted to study abroad"
+        ]
+    },
+    {
+        "lesson" : "21",
+        "topic": "じしょ-form でしょう",
+        "explanations": [
+            "This expression is used when seeking agreement or confirmation from the listener",
+            "でしょう is spoken with a rising intonation",
+            "The じしょ-form is used before でしょう, but without the ~だ for な-adj and nouns"
+        ],
+        "examples": [
+            "1) 明日[あした] パーテイーに 行くでしょう。",
+            "1) You're going to the party tomorrow, right?",
+            "1) ... ええ，行[い]きます。",
+            "1) ... Yes, I am",
+            "2) 北海道[ほっかいどう]は 寒[さむ]かったでしょう。",
+            "2) I bet it was cold in Hokkaido, wasn't it?",
+            "2) ... いいえ，そんなに 寒[さむ]くなかったです。",
+            "2) ... No, it wasn't so cold"
+        ]
+    },
+    {
+        "lesson" : "21",
+        "topic": "Noun1(place) で Noun2 が あります",
+        "explanations": [
+            "When Noun2 is a ceremony or event, あります is used in the sense of 'to take place' or 'to occur'"
+        ],
+        "examples": [
+            "1) 東京[とうきょう]で 日本[にほん]と ブラジルの サッカーの 試合[しあい]が あります。"
+        ]
+    },
+    {
+        "lesson" : "21",
+        "topic": "Noun(occasion) で",
+        "explanations": [
+            "The occasion at which an action takes place is marked by で"
+        ],
+        "examples": [
+            "1) 会議[かいぎ]で 何[なに]か 意見[いけん]を 言[い]いましたか。",
+            "1) Did you say anything at the meeting?"
+        ]
+    },
+    {
+        "lesson" : "21",
+        "topic": "Noun でも Verb",
+        "explanations": [
+            "When recommending, suggesting or expressing a hope for something, the particle でも is used to give an example, without restricting it to a particular one"
+        ],
+        "examples": [
+            "1) ちょうと ビールでも 飲[の]みませんか。",
+            "1) How about drinking a beer or something?"
+        ]
+    },
+    {
+        "lesson" : "21",
+        "topic": "Verb ない-form ないと...",
+        "explanations": [
+            "This expression is used to say that something must be done",
+            "This expression is created by omitting the いけません from Verb ない-form ないと いけません",
+            "Verb ない-form ないと いけません means more or less the same as Verb ない-form なければ なりません"
+        ],
+        "examples": [
+            "1) もう 帰らないと...",
+            "1) I have to be getting home..."
+        ]
+    }
+]

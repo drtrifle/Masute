@@ -1,0 +1,91 @@
+[
+    {
+        "lesson" : "22",
+        "topic": "Noun Modification",
+        "explanations": [
+            "Verbs, adjectives and nouns in a clause that modifies a noun are in the plain form"
+        ],
+        "examples": [
+            "1) 京都[きょとう]へ 行[い]く 人[ひと]",
+            "1) A person who goes to Kyoto",
+            "2) 京都[きょとう]へ 行[い]かない 人[ひと]",
+            "2) A person who does not go to Kyoto",
+            "3) 京都[きょとう]へ 行[い]った 人[ひと]",
+            "3) A person who went to Kyoto",
+            "4) 京都[きょとう]へ 行[い]かなかった 人[ひと]",
+            "4) A person who did not go to Kyoto",
+            "5) 背[せ]が 高[たか]くて，髪[かみ]が 黒[くろ]い 人[ひと]",
+            "5) A tall, black-haired person",
+            "6) 親切[しんせつ]で，きれいな 人[ひと]",
+            "6) A beautiful, kind person",
+            "7) 65歳[さい]の 人[ひと]",
+            "7) A 65-year-old person"
+        ]
+    },
+    {
+        "lesson" : "22",
+        "topic": "Noun Modification",
+        "explanations": [
+            "Noun-modifying clauses are used with the various sentence pattern illustrated below"
+        ],
+        "examples": [
+            "1) これは ミラーさんが 住[す]んで いた うちです。",
+            "1) This is the house where Mr Miller used to live",
+            "2) ミラーさんが 住[す]んで いた うちは 古[ふる]いです。",
+            "2) The house where Mr Miller used to live is old",
+            "3) ミラーさんが 住[す]んで いた うちは 買[か]いました。",
+            "3) I bought the house where Mr Miller used to live",
+            "4) 私[わたし]は  ミラーさんが 住[す]んで いた うちが 好[す]きです。",
+            "4) I like the house where Mr Miller used to live",
+            "5) ミラーさんが 住[す]んで いた うちに 猫[ねこ]が いました。",
+            "5) There was a cat in the house where Mr Miller used to live",
+            "6) ミラーさんが 住[す]んで いた うちへ 行[い]った ことが あります。",
+            "6) I've been to the house where Mr Miller used to live"
+        ]
+    },
+    {
+        "lesson" : "22",
+        "topic": "Noun Modification",
+        "explanations": [
+            "The subject of a noun-modifying clause is marked by が"
+        ],
+        "examples": [
+            "1) これは ミラーさんが 作[つく]った ケーキです。",
+            "1) This cake was baked by Mr Miller",
+            "2) 私[わたし]は カリナさんが かいた 絵[え]が 好[す]きです。",
+            "2) I like the picture that Karina painted",
+            "3) (あなたは) 彼[かれ]が 生[う]まれた 所[ところ]を 知[し]って いますか。",
+            "3) Do you know the place where he was born?"
+        ]
+    },
+    {
+        "lesson" : "22",
+        "topic": "Verb じしょ-form 時間[じかん]/約束[やくそく]/用事[ようじ]",
+        "explanations": [
+            "When talking about the time required for doing something or describing an appointment, errand, etc",
+            "The verb is put in the dictionary form and is placed in front of the noun 時間[じかん]/約束[やくそく]/用事[ようじ], etc"
+        ],
+        "examples": [
+            "1) 私[わたし]は 朝[あさ]ごはんを 食[た]べる 時間[じかん]が ありません。",
+            "1) I don't have time to eat breakfast",
+            "2) 私[わたし]は 友達[ともだち]と 映画[えいが]を 見[み]る 約束[やくそく]が あります。",
+            "2) I've arranged to see a film with some friends",
+            "3) きょうは 市役所[しやくしょ]へ 行[い]く 用事[ようじ]が あります。",
+            "3) I have to do something at City Hall today"
+        ]
+    },
+    {
+        "lesson" : "22",
+        "topic": "Verb ます-form ましょうか",
+        "explanations": [
+            "This expression in Lesson 14 was used for when the speaker is offering to do something for the listener",
+            "However, it can be presented as an expresion for when the speaker is suggesting to the listener to do something together"
+        ],
+        "examples": [
+            "1) この 部屋[へや]，きょう 見[み]る ことが できますか。",
+            "1) Can I see this flat today?",
+            "1) ... ええ。今[いま]から 行[い]きましょうか。",
+            "1) ... Yes. Shall we go now?"
+        ]
+    }
+]
