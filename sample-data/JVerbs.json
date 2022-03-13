@@ -152,7 +152,7 @@
   { "grpNum": "3", "chap": "24", "eng":"to bring (someone somewhere)", "jisho": "つれてくる", "masu": "つれてきます", "te": "つれてきて", "nai": "つれてきない" },
   { "grpNum": "1", "chap": "24", "eng":"to escort (someone)", "jisho": "おくる", "masu": "おくります", "te": "おくって", "nai": "おくらない" },
   { "grpNum": "3", "chap": "24", "eng":"to introduce", "jisho": "しょうかいする", "masu": "しょうかいします", "te": "しょうかいして", "nai": "しょうかいしない" },
-  { "grpNum": "3", "chap": "24", "eng":"to show around", "jisho": "あんあいする", "masu": "あんないします", "te": "あんないして", "nai": "あんないしない" },
+  { "grpNum": "3", "chap": "24", "eng":"to show around", "kanji": "案内する", "jisho": "あんないする", "masu": "あんないします", "te": "あんないして", "nai": "あんないしない" },
   { "grpNum": "3", "chap": "24", "eng":"to explain", "jisho": "せつめいする", "masu": "せつめいします", "te": "せつめいして", "nai": "せつめいしない" },
   
   { "grpNum": "2", "chap": "25", "eng":"to think/consider", "jisho": "かんがえる", "masu": "かんがえます", "te": "かんがえて", "nai": "かんがえない" },

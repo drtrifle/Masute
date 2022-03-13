@@ -1,0 +1,136 @@
+[
+    {
+        "lesson" : "23",
+        "topic": "Verb じしょ-form とき, ~(main clause)",
+        "explanations": [
+            "とき is used to connect two sentences while expressing a time or occasion when the state or action described in the main sentence exists or occurs",
+            "The form of the word preceding とき is the same as the from that modifies a noun",
+            "The tense of the clause modifying とき is not affected by the tense of the main clause"
+        ],
+        "examples": [
+            "1) 図書館[としょかん]で 本[ほん]を 借[か]りる とき，カードが 要[い]ります。",
+            "1) You need your card when you borrow a book from the library"
+        ]
+    },
+    {
+        "lesson" : "23",
+        "topic": "Verb ない-form とき, ~(main clause)",
+        "explanations": [
+            "とき is used to connect two sentences while expressing a time or occasion when the state or action described in the main sentence exists or occurs",
+            "The form of the word preceding とき is the same as the from that modifies a noun",
+            "The tense of the clause modifying とき is not affected by the tense of the main clause"
+        ],
+        "examples": [
+            "1) 使[つか]い方[かた]が わからない とき，私[わたし]に 聞[き]いて ください。",
+            "1) If you don't know how to use it, please ask me"
+        ]
+    },
+    {
+        "lesson" : "23",
+        "topic": "い-adj(~い) とき, ~(main clause)",
+        "explanations": [
+            "とき is used to connect two sentences while expressing a time or occasion when the state or action described in the main sentence exists or occurs",
+            "The form of the word preceding とき is the same as the from that modifies a noun",
+            "The tense of the clause modifying とき is not affected by the tense of the main clause"
+        ],
+        "examples": [
+            "1) 体[からだ]の 調[ちょう]子[し]が 悪[わる]い とき，「元気[げんき]茶[ちゃ]」を 飲[の]みます。",
+            "1) When I don't feel very well, I drink 'Genki-cha'",
+            "2) 若[わか]い とき，あまり 勉強[べんきょう]しませんでした。",
+            "2) I didn't study very much when I was a child"
+        ]
+    },
+    {
+        "lesson" : "23",
+        "topic": "な-adj な とき, ~(main clause)",
+        "explanations": [
+            "とき is used to connect two sentences while expressing a time or occasion when the state or action described in the main sentence exists or occurs",
+            "The form of the word preceding とき is the same as the from that modifies a noun",
+            "The tense of the clause modifying とき is not affected by the tense of the main clause"
+        ],
+        "examples": [
+            "1) 暇[ひま]な とき，うちへ 遊[あそ]びに 来[き]ませんか。",
+            "1) Please come and visit me when you have some free time"
+        ]
+    },
+    {
+        "lesson" : "23",
+        "topic": "Noun とき, ~(main clause)",
+        "explanations": [
+            "とき is used to connect two sentences while expressing a time or occasion when the state or action described in the main sentence exists or occurs",
+            "The form of the word preceding とき is the same as the from that modifies a noun",
+            "The tense of the clause modifying とき is not affected by the tense of the main clause"
+        ],
+        "examples": [
+            "1) 妻[つま]が 病気[びょうき]の とき，会社[かいしゃ]を 休[やす]みます。",
+            "1) I take time off when my wife is ill",
+            "2) 子[こ]どもの とき，よく 川[かわ]で 泳[およ]ぎました。",
+            "2) I often swam in the river when I was a child"
+        ]
+    },
+    {
+        "lesson" : "23",
+        "topic": "Non-past Verb (じしょ-form) とき, ~(main clause)",
+        "explanations": [
+            "When the verb is front of とき is in the dictionary form, whatever is described in the main clause happened before whatever is described in the ~とき clause"
+        ],
+        "examples": [
+            "1) パリへ 行[い]く とき，かばんを 買[か]いました。",
+            "1) I bought a bag when going to Paris (means that the bag was brought before arriving in Paris)"
+        ]
+    },
+    {
+        "lesson" : "23",
+        "topic": "Past Verb (た-form) とき, ~(main clause)",
+        "explanations": [
+            "When the verb is front of とき is in the た-form, whatever is described in the main clause happened after whatever is described in the ~とき clause"
+        ],
+        "examples": [
+            "1) パリへ 行[い]った とき，かばんを 買[か]いました。",
+            "1) I bought a bag when I went to Paris (means that the bag was bought after arriving in Paris)"
+        ]
+    },
+    {
+        "lesson" : "23",
+        "topic": "Verb じしょ-form と，~(main clause)",
+        "explanations": [
+            "This expression is used to indicate that if a certain action, situation or phenomenon (the one before と) occurs",
+            "Then another action, situation or phenomenon (the main clause) will inevitably occur"
+        ],
+        "examples": [
+            "1) この ボタンを 押[お]すと，お釣[つ]りが 出[で]ます。",
+            "1) If you press this button, you'll get your change",
+            "2) これを 回[まわ]すと，音[おと]が 大[おお]きく なります。",
+            "2) When you turn this, it gets louder",
+            "3) 右[みぎ]へ 曲[ま]がると 郵便局[ゆうびんきょく]が あります。",
+            "3) If you turn right, you'll see a post office"
+        ]
+    },
+    {
+        "lesson" : "23",
+        "topic": "Noun が adj",
+        "explanations": [
+            "In lesson 14, が is used when describing a phenomenon in terms of how it was perceived with the five senses or when objectively reporting an event",
+            "が can be used not only with verb sentences but also with adjective sentences"
+        ],
+        "examples": [
+            "1) 音[おと]が 小[ちい]さいです。",
+            "1) The volume is low"
+        ]
+    },
+    {
+        "lesson" : "23",
+        "topic": "Noun を Motion Verb",
+        "explanations": [
+            "を is used with motion verbs such as さんぽします，わたります and あるきます to indicate the place that people or things pass through"
+        ],
+        "examples": [
+            "1) 公園[こうえん]を 散歩[さんぽ]します。",
+            "1) I go for a walk in the park",
+            "2) 道[みち]を 渡[わた]ります。",
+            "2) I cross the road",
+            "3) 交差点[こうさてん] 右[みぎ]へ 曲[ま]がります。",
+            "3) I turn right at the intersection"
+        ]
+    }
+]
