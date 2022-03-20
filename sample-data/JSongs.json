@@ -1,5 +1,14 @@
 [
     {
+        "songID" : "AIMYON-001",
+        "songURL": "https://www.youtube.com/embed/yOAwvRmVIyo",
+        "songNameEng" : "Naked Heart",
+        "songNameJpn" : "裸の心",
+        "artistNameEng" : "Aimyon",
+        "artistNameJpn" : "あいみょん "
+
+    },
+    {
         "songID" : "AYA-001",
         "songURL": "https://www.youtube.com/embed/5QNaSMiZ_-o",
         "songNameEng" : "God knows...",

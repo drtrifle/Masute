@@ -1,0 +1,79 @@
+[
+    {
+        "lesson" : "24",
+        "topic": "くれます",
+        "explanations": [
+            "あげます (to give) cannot be used to talk about someone giving somthing to the speaker or the speaker's family",
+            "In such a scenario, we use くれます"
+        ],
+        "examples": [
+            "1) 私[わたし]は 佐藤[さとう]さんに 花[はな]を あげました。",
+            "1) I gave some flowers to Ms Sato",
+            "2) 佐藤[さとう]さんは 私[わたし]に クリスマスカードを くれました。",
+            "2) Ms Sato gave me a Christmas card",
+            "3) 佐藤[さとう]さんは 妹[いもうと]に お菓子[かし]を くれました。",
+            "3) Ms Sato gave some candies to my younger sister"
+        ]
+    },
+    {
+        "lesson" : "24",
+        "topic": "Verb て-form あげます。",
+        "explanations": [
+            "This expression is used to denote that an action confers some kind of profit or benefit on the recipient",
+            "Because the Verb て-form あげます pattern denotes the conferral of a benefit, it may sound pratronizing if used when the recipient is of a higher status",
+            "In this case, we use the pattern Verb ます-form ましょうか。",
+            "[Note] the particle that marks the person receiving the benefit is the same as a sentence that doesn't use ~て あげます"
+        ],
+        "examples": [
+            "1) 私[わたし]は 木村[きむら]さんに 本[ほん]を あげました。",
+            "1) I lent Ms Kimura a book",
+            "2) タクシーを 呼[よ]びましょうか。",
+            "2) Shall I call a cab?",
+            "3) 手伝[てつだ]いましょうか。",
+            "3) May I help you?"
+        ]
+    },
+    {
+        "lesson" : "24",
+        "topic": "Verb て-form もらいます",
+        "explanations": [
+            "This expression is used to denote that the speaker feels that the person whom the action was performed for has received some benefit from the action",
+            "[Note] when the subject is the speaker themselves, it is usually omitted"
+        ],
+        "examples": [
+            "1) 私[わたし]は 山田[やまだ]さんに 図書館[としょかん]の 電話[でんわ]番号[ばんごう]を 教[おし]えて もらいました。",
+            "1) Mr Yamada told me the telephone number of the library",
+            "2) 私[わたし]は 山田[やまだ]さんに 道[みち]を 教[おし]えて もらいました。",
+            "2) I received directions from Mr Yamada"
+        ]
+    },
+    {
+        "lesson" : "24",
+        "topic": "Verb て-form くれます",
+        "explanations": [
+            "Here, the person performing the action is taken as the subject of the sentence",
+            "This expresison shows that the speaker feels that the person whom performed has benefited from the action",
+            "[Note] when the person benefiting is the speaker themselves, it is usually omitted",
+            "[Note] the particle that marks the person receiving the benefit is the same as a sentence that doesn't use ~て くれます"
+        ],
+        "examples": [
+            "1) 母[はは]は (私[わたし]に) セーターを 送[おく]って くれました。",
+            "1) My mother sent me a sweater"
+        ]
+    },
+    {
+        "lesson" : "24",
+        "topic": "Noun1 は Noun2 が Verb",
+        "explanations": [
+            "In the example below, the response to this question takes the object of the sentence as its topic (この，ワインは)",
+            "Since この，ワインは is understood by both speaker and listener, it can be omitted",
+            "As the subject of the sentence is 佐藤[さとう]さん, it is marked by the particle が"
+        ],
+        "examples": [
+            "1) おいしい ワインですね。",
+            "1) This wine is very nice, isn't it?",
+            "1) ... ええ，(この，ワインは) 佐藤[さとう]さんが くれました。",
+            "1) ... Yes, Ms Sato gave it to me"
+        ]
+    }
+]
