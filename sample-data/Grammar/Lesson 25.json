@@ -23,92 +23,91 @@
     },
     {
         "lesson" : "25",
-        "topic": "",
+        "topic": "Verb た-formら，~(main clause)",
         "explanations": [
-            ""
+            "This expression is used to show that a certain action will be done or a certain situation will arise on the completition or occurence of a matter, action or state that the speaker is certain will happen"
         ],
         "examples": [
-            ""
+            "1) 10時[じ]に なったら，出[で]かけましょう。",
+            "1) Shall we go out once it gets to 10 o'clock",
+            "2) うちへ 帰[かえ]ったら，すぐ シャワーを 浴[あ]びます。",
+            "2) I take a shower as soon as I get home"
         ]
     },
     {
         "lesson" : "25",
-        "topic": "",
+        "topic": "Verb て-from も，~(main clause)",
         "explanations": [
-            ""
+            "This expression is used to present contrasting conditions",
+            "The clause that follows て-form も，~(main clause) describes something that will happen that would not normally be expected to happen if what was stated in the main caluse were true"
         ],
         "examples": [
-            ""
+            "1) 雨[あめ]が 降[ふ]っても，洗濯[せんたく]します。",
+            "1) I'll do the laundry even if it rains"
         ]
     },
     {
         "lesson" : "25",
-        "topic": "",
+        "topic": "い-adj ~くても，~(main clause)",
         "explanations": [
-            ""
+            "This expression is used to present contrasting conditions",
+            "The clause that follows て-form も，~(main clause) describes something that will happen that would not normally be expected to happen if what was stated in the main caluse were true"
         ],
         "examples": [
-            ""
+            "1) 安[やす]くても，私[わたし]は グループ旅行[りょこう]が 嫌[き]いです。",
+            "1) I hate package holidays, even if they are cheap"
         ]
     },
     {
         "lesson" : "25",
-        "topic": "",
+        "topic": "な-adj ~でも，~(main clause)",
         "explanations": [
-            ""
+            "This expression is used to present contrasting conditions",
+            "The clause that follows て-form も，~(main clause) describes something that will happen that would not normally be expected to happen if what was stated in the main caluse were true"
         ],
         "examples": [
-            ""
+            "1) 便利[べんり]でも，パソコンを 使[つか]いません。",
+            "1) I'm not going to use a PC, even if it is convenient"
         ]
     },
     {
         "lesson" : "25",
-        "topic": "",
+        "topic": "Noun でも，~(main clause)",
         "explanations": [
-            ""
+            "This expression is used to present contrasting conditions",
+            "The clause that follows て-form も，~(main clause) describes something that will happen that would not normally be expected to happen if what was stated in the main caluse were true"
         ],
         "examples": [
-            ""
+            "1) 日曜日[にちようび]でも，働[はたら]きます。",
+            "1) I'm going to work, even if its Sunday"
         ]
     },
     {
         "lesson" : "25",
-        "topic": "",
+        "topic": "もし",
         "explanations": [
-            ""
+            "もし is used in conjuction with ~たら to give notice that the clause following it is conditional",
+            "It intensifies the speaker's sense of conditionality"
         ],
         "examples": [
-            ""
+            "1) もし 一億円[いちおくえん] あったら，いろいろな 国[くに]を 旅行[りょこう]したいです。",
+            "1) If I had a hundred million yen, I'd like to travel around the world"
         ]
     },
     {
         "lesson" : "25",
-        "topic": "",
+        "topic": "Subject of a subordinate clause",
         "explanations": [
-            ""
+            "In lesson 16, the subject of the clause ~てから is marked by が",
+            "In the same way as ~てから, ~とき，~と，~まえに，etc the subject of a subordinate clause containing ~たら or ~ても is also marked by が"
         ],
         "examples": [
-            ""
-        ]
-    },
-    {
-        "lesson" : "25",
-        "topic": "",
-        "explanations": [
-            ""
-        ],
-        "examples": [
-            ""
-        ]
-    },
-    {
-        "lesson" : "25",
-        "topic": "",
-        "explanations": [
-            ""
-        ],
-        "examples": [
-            ""
+            "1) 友達[ともだち]が 來[く]る 前[まえ]に，部屋[へや]を 掃除[そうじ]します。",
+            "1) I'm going to clean up my room before my friends arrive",
+            "2) 馬[うま]が 病気[びょうき]の とき，会社[かいしゃ]を 休[やす]みます。",
+            "2) I take time off when my wife is ill",
+            "3) 友達[ともだち]が 約束[やくそく]の 時間[じかん]に 来[こ]なかったら，どう しますか。",
+            "3) What will you do if your friends don't arrive at the agreed time?"
         ]
     }
 ]

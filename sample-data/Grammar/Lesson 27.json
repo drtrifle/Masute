@@ -1,0 +1,155 @@
+[
+    {
+        "lesson": "27",
+        "topic": "Potential Verbs",
+        "explanations": [
+            "Noun/Verb じしょ-form + ことが できません was explained in lesson 18 as a form expressing potential",
+            "Here we explain potential verbs in another form"
+        ],
+        "examples": [
+            ""
+        ]
+    },
+    {
+        "lesson": "27",
+        "topic": "Group 1 Verb Potential form",
+        "explanations": [
+            "For group 1 ます-form verbs, drop ます, change the last syllable from the う-column to the え-column"
+        ],
+        "examples": [
+            "1) かきます → かけます",
+            "1) かきます → かける",
+            "1) To write",
+            "1) かいます → かえます",
+            "1) かいます → かえる",
+            "1) To buy"
+        ]
+    },
+    {
+        "lesson": "27",
+        "topic": "Group 2 Verb Potential form",
+        "explanations": [
+            "From じしょ-form, remove the last る and append られる"
+        ],
+        "examples": [
+            "1) たべます → たべられます",
+            "1) たべます → たべられる",
+            "1) To eat"
+        ]
+    },
+    {
+        "lesson": "27",
+        "topic": "Group 3 Verb Potential form",
+        "explanations": [
+            "From じしょ-form, if くる，remove last する and append こられる",
+            "From じしょ-form, if not くる, remove last する and append できる"
+        ],
+        "examples": [
+            "1) きます → こられます",
+            "1) きます → こられる",
+            "1) To come",
+            "2) します → できます",
+            "2) します → できる",
+            "2) To be able to"
+        ]
+    },
+    {
+        "lesson": "27",
+        "topic": "Sentences in which potential verbs are used",
+        "explanations": [
+            "Potential verbs indicate states, not actions.",
+            "Hence, although the object of a transitive verb is indicated by by the particle を, the object of a potential verb is usually indicated by が",
+            "A potential verb can be used to state someone's ability to do something, or to indicate that an action is possible in a certain situation",
+            "[Note] Particles other than を remain the same"
+        ],
+        "examples": [
+            "1) 私[わたし]は 日本語[にほんご]を はなします。",
+            "1) I speak Japanese",
+            "2) 私[わたし]は 日本語[にほんご]を はなせます。",
+            "2) I can speak Japanese",
+            "3) 一人[ひとり]で 病院[びょういん]へ 行[い]けますか。",
+            "3) Can you get to the hospital by yourself?",
+            "4) 田中[たなか]さんに 会[あ]えませんでした。",
+            "4) I was unable to see Tanaka",
+            "5) ミラさんは 漢字[かんじ]が 読[よ]めます。",
+            "5) Mr Miller can read Kanji",
+            "6) この 銀行[ぎんこう]で ドルが 換[か]えられます",
+            "6) You can exchange dollars at this bank"
+        ]
+    },
+    {
+        "lesson": "27",
+        "topic": "見[み]えます and 聞[き]こえます",
+        "explanations": [
+            "みえます and きこえます are not volitional, they denote something(indicated by が) natturally coming into sight, or a sound naturally reaching one's ears, independent of one's will",
+            "みえます and きこえます cannot be used to talk about a person deliberately pasying attention to something, in that case, a potential verb is used"
+        ],
+        "examples": [
+            "1) 新幹線[しんかんせん]から 富士山[ふじさん]が 見[み]えます。",
+            "1) You can see Mt Fuji from the Shinkansen",
+            "2) ラジオの 音[おと]が 聞[き]こえます。",
+            "2) The sound of a radio can be heard",
+            "3) 新宿[しんじゅく]で 今[いま] 黒沢[くろさわ]の 映画[えいが]が 見[み]られます。",
+            "3) You can watch a Kurosawa movie at Shinjuku at the moment",
+            "4) 電話[でんわ]で 天気[てんき]予報[よほう]が 聞[き]けます。",
+            "4) You can listen to the weather forcast on the telephone"
+        ]
+    },
+    {
+        "lesson": "27",
+        "topic": "できます",
+        "explanations": [
+            "The sense of the verb できます introduced here is to 'come into being', 'be completed', 'be finished', 'be made', etc"
+        ],
+        "examples": [
+            "1) 駅[えき]の 前[まえ]に 大[おお]きい スーパーが できました。",
+            "1) A big supermarket has been built in front of the station",
+            "2) 時計[とけい]の 修理[しゅうり]は いつ できますか。",
+            "2) When can this watch be repaired?"
+        ]
+    },
+    {
+        "lesson": "27",
+        "topic": "しか",
+        "explanations": [
+            "しか is appended to nouns, quantifiers, etc, and is always used with a negative.",
+            "A sentence that contains it negates everything except the word to which it was attached",
+            "When used with a noun to which a particle is attached, it is appended to the particle unless this is が or を，which is replaces",
+            "It suggests insufficiency or inadequacy"
+        ],
+        "examples": [
+            "1) ローマ字[じ]しか 書[か]けません。",
+            "1) I can only write Romanji (But nothing else)",
+            "2) ローマ字[じ]だけ かけます。",
+            "2) I can only write Romanji"
+        ]
+    },
+    {
+        "lesson": "27",
+        "topic": "Nounは (Contrast)",
+        "explanations": [
+            "In addition to introducing a topic, は can also indicate a contrast"
+        ],
+        "examples": [
+            "1) ワインは 飲[の]みますが，ビールは 飲[の]みません。",
+            "1) I drink wine, but I don't drink beer",
+            "2) 昨日[きのう]は 山[やま]が 見[み]えましたが，今日[きょう]は 見[み]えません。",
+            "2) The mountains were visible yesterday, but not today"
+        ]
+    },
+    {
+        "lesson": "27",
+        "topic": "は used to highlight a word with another particle already attached",
+        "explanations": [
+            "When は is used with a noun to which a particle is attached, it is appended to the particle unless this is が or を，which is replaces"
+        ],
+        "examples": [
+            "1) 日本[にほん]では 馬[うま]を 見[み]る ことが できます。",
+            "1) You can't see any horses in Japan",
+            "2) 天気[てんき]の いい 日[ひ]には 海[うみ]が 見[み]えるんです。",
+            "2) On a fine day, you can see the sea",
+            "3) ここからは 東京[とうきょう]スカイツリーが 見[み]えません。",
+            "3) You can't see the Tokyo Sky Tree from here"
+        ]
+    }
+]

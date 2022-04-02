@@ -161,6 +161,15 @@
   { "grpNum": "2", "chap": "25", "eng":"to be enough", "jisho": "たりる", "masu": "たります", "te": "たりて", "nai": "たりない" },
   { "grpNum": "1", "chap": "25", "eng":"to persevere", "jisho": "がんばる", "masu": "がんばります", "te": "がんばって", "nai": "がんばらない" },
 
+  { "grpNum": "2", "chap": "26", "eng":"to examine (medically)", "kanji": "診る", "jisho": "みる", "masu": "みます", "te": "みて", "nai": "みない" },
+  { "grpNum": "1", "chap": "26", "eng":"to search/look for", "kanji": "探す", "jisho": "さがす", "masu": "さがします", "te": "さがして", "nai": "さがさない" },
+  { "grpNum": "2", "chap": "26", "eng":"to be late", "kanji": "遅れる", "jisho": "おくれる", "masu": "おくれます", "te": "おくれて", "nai": "おくれない" },
+  { "grpNum": "1", "chap": "26", "eng":"to be on time", "kanji": "間に 合います", "jisho": "まに あう", "masu": "まに あいます", "te": "まに あって", "nai": "まに あわない" },
+  { "grpNum": "1", "chap": "26", "eng":"to do", "kanji": "遣る",  "jisho": "やる", "masu": "やります", "te": "やって", "nai": "やらない" },
+  { "grpNum": "1", "chap": "26", "eng":"to pick up", "kanji": "拾う", "jisho": "ひろう", "masu": "ひろいます", "te": "ひろって", "nai": "ひろわない" },
+  { "grpNum": "3", "chap": "26", "eng":"to contact/get in touch with", "kanji": "連絡する", "jisho": "れんらくする", "masu": "れんらくします", "te": "れんらくして", "nai": "れんらくしない" },
+
+  { "grpNum": "1", "chap": "00", "eng":"to swell (from inflammation)", "kanji": "腫れる", "jisho": "はれる", "masu": "はれます", "te": "はれて", "nai": "はれない" },
   { "grpNum": "1", "chap": "00", "eng":"to draw", "jisho": "えがく", "masu": "えがきます", "te": "えがいて", "nai": "えがかない" },
   { "grpNum": "1", "chap": "00", "eng":"to brush", "jisho": "みがく", "masu": "みがきます", "te": "みがいて", "nai": "みがかない" },
   { "grpNum": "3", "chap": "00", "eng":"to be in transit", "jisho": "いどうする", "masu": "いどうします", "te": "いどうして", "nai": "いどうしない" },

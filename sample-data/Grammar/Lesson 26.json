@@ -1,0 +1,116 @@
+[
+    {
+        "lesson" : "26",
+        "topic": "~んです forms",
+        "explanations": [
+            "Verb じしょform んです",
+            "い-adj じしょform んです",
+            "な-adjな じしょform んです",
+            "Nounな じしょform んです",
+            "[Note] ~んです is used in speech, in writing, ~のです is used"
+        ],
+        "examples": [
+           ""
+        ]
+    },
+    {
+        "lesson" : "26",
+        "topic": "~んですか",
+        "explanations": [
+            "This expression is used when asking the listener to confirm something that the speaker has seen or heard",
+            "Or when asking the listener for more detailed information about something that the speaker has seen or heard",
+            "Or when asking the listener for a reason for something that the speaker has seen or heard",
+            "Or when asking for an explanation of a situation"
+        ],
+        "examples": [
+           "1) (ぬれた 傘[かさ] 持[も]って いる 人[ひと]を 見[み]て) 雨[あめ]が 降[ふ]って いるんですか。",
+           "1) (On seeing someone holding a umbrella) Is it raining?",
+           "2) おもしろい デサインの 靴[くつ]ですね。どこで 買[か]ったんですか。",
+           "2) Those shoes have an interesting design. Where did you buy them?",
+           "3) どうして 遅[おく]れたんですか。",
+           "3) Why were you late?",
+           "4) どう したんですか。",
+           "4) What's the matter?"
+        ]
+    },
+    {
+        "lesson" : "26",
+        "topic": "~んです",
+        "explanations": [
+            "When giving a reason or explanation in reply to a sentence with ~んですか in it",
+            "When adding a reason to explain something one has just said",
+            "[Note] ~んです is not used when merely stating a fact"
+        ],
+        "examples": [
+           "1) どうして 遅[おく]れたんですか。",
+           "1) Why were you late?",
+           "1) ... バスが 来[こ]なかったんです。",
+           "1) ... Because the bus didn't come",
+           "2) どうしたんですか。",
+           "2) Whats the matter?",
+           "2) ... ちょうと 気分[きぶん]が 悪[わる]いんです。",
+           "2) ... I don't feel very well",
+           "3) よく カラオケに いきますか。",
+           "3) Do you often go to Karaoke?",
+           "3) ... いいえ，あまり 行[い]きません。カラオケは 好[す]きじゃないんです。",
+           "3) ... No, I dont go very often. I don't like Karaoke."
+        ]
+    },
+    {
+        "lesson" : "26",
+        "topic": "~んですが ~",
+        "explanations": [
+            "~んですが is used to introduce a topic when this is followed by a request, invitation, expression seeking permission",
+            "The が in this case is used to preface what is coming next",
+            "What follows ~んですが may be omitted when it is obvious"
+        ],
+        "examples": [
+           "1) 頭[あたま]が 痛[いた]いんですが，帰[かえ]っても いいですか。",
+           "1) I've got a headache, may I go home?",
+           "2) 来週[らいしゅう] 友達[ともだち]と スキーに行[い]くんですが，ミラーさんも いしょうに いきませんか。",
+           "2) I'm going skiing with some friends next week. Would you like to come too, Mr Miller?"
+        ]
+    },
+    {
+        "lesson" : "26",
+        "topic": "Verb て-form いただけませんか",
+        "explanations": [
+            "This expresison means 'Would you be as so kind as to ~'",
+            "This is a more polite way of asking for somthing than ~て ください。"
+        ],
+        "examples": [
+           "1) いい 先生[せんせん]を 紹介[しょうかい]して いただけませんか。",
+           "1) Would you be as so kind as to introduce me to an good teacher?"
+        ]
+    },
+    {
+        "lesson" : "26",
+        "topic": "Interrogative Verb た-form いいですか。",
+        "explanations": [
+            "This expression is used to ask the listener for advice or instructions"
+        ],
+        "examples": [
+           "1) どこで カメラを 買[か]ったら いいですか。",
+           "1) Where would be a good place to buy a camera?",
+           "1) ... ABCストアが 安[やす]いですよ。",
+           "1) ... ABC store is cheap, you know",
+           "2) 国会議事堂[こっかいぎじどう]を 見学[けんがく]したいですが，どこ したら いいですか。",
+           "2) I'll like to visit the National Diet, how should I go about it?",
+           "2) ... 直接[ちょくせつ] 行[い]ったら いいですよ。",
+           "2) ... You can head there directly, you know."
+        ]
+    },
+    {
+        "lesson" : "26",
+        "topic": "Object Noun は 好[す]きです/きらいです",
+        "explanations": [
+            "Nouns indicated by が that are the object of phrases such as 好[す]きです can also be made into a topic"
+        ],
+        "examples": [
+           "1) よく カラオケに 行[いき]ますか。",
+           "1) Do you often go to Karaoke?",
+           "1) ... いいえ，あまり 行[い]きません。カラオケは 好[す]きじゃないんです。",
+           "3) ... No, I dont go very often. I don't like Karaoke."
+        ]
+    }
+]
