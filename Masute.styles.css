@@ -150,6 +150,32 @@
     align-items: center;
     justify-content: center;
 }
+/* /Pages/QuizProgJKanji.razor.rz.scp.css */
+.quizStats_Div[b-j6anbg0afz]{
+    display: flex;
+    flex-flow:row wrap;
+}
+
+[b-j6anbg0afz] .quizStats_Left{
+    width:33.33333%;
+    text-align:left;
+}
+
+[b-j6anbg0afz] .quizStats_Center{
+    width:33.33333%;
+    text-align:center;
+}
+
+[b-j6anbg0afz] .quizStats_Right{
+    width:33.33333%;
+    text-align:right;
+}
+
+.inputDiv[b-j6anbg0afz]{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 /* /Shared/MainLayout.razor.rz.scp.css */
 .mudblazor-main-content[b-352iyf90c3] {
     padding-top:86px;
