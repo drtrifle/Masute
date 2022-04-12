@@ -19,7 +19,7 @@
     {"chap":"08", "type":"い", "eng":"cold (temperature)", "kanji":"寒い", "jpn":"さむい"},
     {"chap":"08", "type":"い", "eng":"cold (touch)", "kanji":"冷たい", "jpn":"つめたい"},
     {"chap":"08", "type":"い", "eng":"difficult", "kanji":"難しい", "jpn":"むずかしい"},
-    {"chap":"08", "type":"い", "eng":"easy", "kanji":"易しい", "jpn":"やさしい"},
+    {"chap":"08", "type":"い", "eng":"easy/plain/simple", "kanji":"易しい", "jpn":"やさしい"},
     {"chap":"08", "type":"い", "eng":"expensive/tall", "kanji":"高い", "jpn":"たかい"},
     {"chap":"08", "type":"い", "eng":"cheap", "kanji":"安い", "jpn":"やすい"},
     {"chap":"08", "type":"い", "eng":"low", "kanji":"低い", "jpn":"ひくい"},
@@ -37,7 +37,7 @@
     {"chap":"09", "type":"な", "eng":"good at (something)", "kanji":"上手", "jpn":"じょうず"},
     {"chap":"09", "type":"な", "eng":"bad at (something)", "kanji":"下手", "jpn":"へた"},
 
-    {"chap":"10", "type":"な", "eng":"simple", "kanji":"簡単", "jpn":"かんたん"},
+    {"chap":"10", "type":"な", "eng":"simple/easy/uncomplicated", "kanji":"簡単", "jpn":"かんたん"},
     {"chap":"10", "type":"い", "eng":"near", "kanji":"近い", "jpn":"ちかい"},
     {"chap":"00", "type":"い", "eng":"far", "kanji":"遠い", "jpn":"とおい"},
     {"chap":"10", "type":"い", "eng":"fast/early", "kanji":"早い", "jpn":"はやい"},
@@ -56,7 +56,7 @@
     {"chap":"13", "type":"い", "eng":"wide/spacious", "kanji":"広い", "jpn":"ひろい"},
     {"chap":"13", "type":"い", "eng":"narrow/small", "kanji":"狭い", "jpn":"せまい"},
 
-    {"chap":"16", "type":"い", "eng":"Young", "kanji":"若い", "jpn":"わかい"},
+    {"chap":"16", "type":"い", "eng":"young", "kanji":"若い", "jpn":"わかい"},
     {"chap":"16", "type":"い", "eng":"long", "kanji":"長い", "jpn":"ながい"},
     {"chap":"16", "type":"い", "eng":"short", "kanji":"短い", "jpn":"みじかい"},
     {"chap":"16", "type":"い", "eng":"bright", "kanji":"明るい", "jpn":"あかるい"},
