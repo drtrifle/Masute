@@ -1,36 +1,36 @@
-/* /Pages/LessonGrammar.razor.rz.scp.css */
-.medium[b-jcynb6zh5i] {
+/* /Pages/Lessons/LessonGrammar.razor.rz.scp.css */
+.medium[b-2nmmtol4ds] {
     font-size: 16px;
 }
-/* /Pages/LessonSong.razor.rz.scp.css */
-.font-small[b-21mdl9ckz5] {
+/* /Pages/Lessons/LessonSong.razor.rz.scp.css */
+.font-small[b-0lq6o3rvj3] {
     font-size: 14px;
 }
 
-.font-medium[b-21mdl9ckz5] {
+.font-medium[b-0lq6o3rvj3] {
     font-size: 17px;
 }
 
-.font-large[b-21mdl9ckz5] {
+.font-large[b-0lq6o3rvj3] {
     font-size: 20px;
 }
 
-.ruby[b-21mdl9ckz5]{
+.ruby[b-0lq6o3rvj3]{
     font-size: 75%;
 }
-.rt[b-21mdl9ckz5]{
+.rt[b-0lq6o3rvj3]{
     font-size: 75%;
 }
 
-.configBox[b-21mdl9ckz5]{
+.configBox[b-0lq6o3rvj3]{
     margin-bottom: 0rem;
 }
 
-[b-21mdl9ckz5] .configBox_Btn{
+[b-0lq6o3rvj3] .configBox_Btn{
     min-width: unset;
 }
 
-.configBox_Title[b-21mdl9ckz5]{
+.configBox_Title[b-0lq6o3rvj3]{
     color: #fff;
     font-size: 90%;
     text-align: center;
@@ -38,140 +38,140 @@
     margin-bottom: 5px;
     border-radius: 3px;
 }
-.configBox_Content[b-21mdl9ckz5]{
+.configBox_Content[b-0lq6o3rvj3]{
     margin-bottom: 0rem;
 }
 
 
-.songLyrics[b-21mdl9ckz5] {
+.songLyrics[b-0lq6o3rvj3] {
     margin-bottom: .5rem;
 }
-/* /Pages/QuizJAdjs.razor.rz.scp.css */
-.quizStats_Div[b-l2rm3kesta]{
+/* /Pages/Quizzes/QuizJAdjs.razor.rz.scp.css */
+.quizStats_Div[b-g182x2on88]{
     display: flex;
     flex-flow:row wrap;
 }
 
-[b-l2rm3kesta] .quizStats_Left{
+[b-g182x2on88] .quizStats_Left{
     width:33.33333%;
     text-align:left;
 }
 
-[b-l2rm3kesta] .quizStats_Center{
+[b-g182x2on88] .quizStats_Center{
     width:33.33333%;
     text-align:center;
 }
 
-[b-l2rm3kesta] .quizStats_Right{
+[b-g182x2on88] .quizStats_Right{
     width:33.33333%;
     text-align:right;
 }
 
-.inputDiv[b-l2rm3kesta]{
+.inputDiv[b-g182x2on88]{
     display: flex;
     align-items: center;
     justify-content: center;
 }
-/* /Pages/QuizJAlpha.razor.rz.scp.css */
-.quizStats_Div[b-ni0igx0tj9]{
+/* /Pages/Quizzes/QuizJAlpha.razor.rz.scp.css */
+.quizStats_Div[b-3iv0150xbu]{
     display: flex;
     flex-flow:row wrap;
 }
 
-[b-ni0igx0tj9] .quizStats_Left{
+[b-3iv0150xbu] .quizStats_Left{
     width:33.33333%;
     text-align:left;
 }
 
-[b-ni0igx0tj9] .quizStats_Center{
+[b-3iv0150xbu] .quizStats_Center{
     width:33.33333%;
     text-align:center;
 }
 
-[b-ni0igx0tj9] .quizStats_Right{
+[b-3iv0150xbu] .quizStats_Right{
     width:33.33333%;
     text-align:right;
 }
 
-.inputDiv[b-ni0igx0tj9]{
+.inputDiv[b-3iv0150xbu]{
     display: flex;
     align-items: center;
     justify-content: center;
 }
-/* /Pages/QuizJKanji.razor.rz.scp.css */
-.quizStats_Div[b-2yo63zumay]{
+/* /Pages/Quizzes/QuizJKanji.razor.rz.scp.css */
+.quizStats_Div[b-ltgccd2na1]{
     display: flex;
     flex-flow:row wrap;
 }
 
-[b-2yo63zumay] .quizStats_Left{
+[b-ltgccd2na1] .quizStats_Left{
     width:33.33333%;
     text-align:left;
 }
 
-[b-2yo63zumay] .quizStats_Center{
+[b-ltgccd2na1] .quizStats_Center{
     width:33.33333%;
     text-align:center;
 }
 
-[b-2yo63zumay] .quizStats_Right{
+[b-ltgccd2na1] .quizStats_Right{
     width:33.33333%;
     text-align:right;
 }
 
-.inputDiv[b-2yo63zumay]{
+.inputDiv[b-ltgccd2na1]{
     display: flex;
     align-items: center;
     justify-content: center;
 }
-/* /Pages/QuizJVerbs.razor.rz.scp.css */
-.quizStats_Div[b-b244978vux]{
+/* /Pages/Quizzes/QuizJVerbs.razor.rz.scp.css */
+.quizStats_Div[b-wq7bfvxezv]{
     display: flex;
     flex-flow:row wrap;
 }
 
-[b-b244978vux] .quizStats_Left{
+[b-wq7bfvxezv] .quizStats_Left{
     width:33.33333%;
     text-align:left;
 }
 
-[b-b244978vux] .quizStats_Center{
+[b-wq7bfvxezv] .quizStats_Center{
     width:33.33333%;
     text-align:center;
 }
 
-[b-b244978vux] .quizStats_Right{
+[b-wq7bfvxezv] .quizStats_Right{
     width:33.33333%;
     text-align:right;
 }
 
-.inputDiv[b-b244978vux]{
+.inputDiv[b-wq7bfvxezv]{
     display: flex;
     align-items: center;
     justify-content: center;
 }
-/* /Pages/QuizProgJKanji.razor.rz.scp.css */
-.quizStats_Div[b-j6anbg0afz]{
+/* /Pages/Quizzes/QuizProgJKanji.razor.rz.scp.css */
+.quizStats_Div[b-nlpcx13zxh]{
     display: flex;
     flex-flow:row wrap;
 }
 
-[b-j6anbg0afz] .quizStats_Left{
+[b-nlpcx13zxh] .quizStats_Left{
     width:33.33333%;
     text-align:left;
 }
 
-[b-j6anbg0afz] .quizStats_Center{
+[b-nlpcx13zxh] .quizStats_Center{
     width:33.33333%;
     text-align:center;
 }
 
-[b-j6anbg0afz] .quizStats_Right{
+[b-nlpcx13zxh] .quizStats_Right{
     width:33.33333%;
     text-align:right;
 }
 
-.inputDiv[b-j6anbg0afz]{
+.inputDiv[b-nlpcx13zxh]{
     display: flex;
     align-items: center;
     justify-content: center;
