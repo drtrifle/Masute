@@ -1,10 +1,83 @@
 [
     {
         "lesson": "28",
-        "topic": "",
+        "topic": "Verb1 ます-form ながら Verb2",
         "explanations": [
+            "This expression indicates that someone performing an action indicated by verb1 is simultaneously performing a separate action indicated by verb2, where verb2 indicates the main action",
+            "It can also be used to describe someone doing 2 things continuously over a period of time"
         ],
         "examples": [
+            "1) 音楽[おんがく]を 聞[き]きながら 食事[しょくじ]します。",
+            "1) I listen to music while eating",
+            "2) 働[はたら]きながら 日本語[にほんご]を 勉強[べんきょう]して います。",
+            "2) I work while studying Japanese"
+        ]
+    },
+    {
+        "lesson": "28",
+        "topic": "Verb て-form います",
+        "explanations": [
+            "As well as indicating what someone is doing now, this sentence pattern can also indicate a habitual behavior",
+            "Such a behavior taking place in the past is indicated by using verb て-form いました"
+        ],
+        "examples": [
+            "1) 毎朝[まいあさ] ジョギングを して います。",
+            "1) I jog every morning",
+            "2) 子[こ]どもの とき，毎晩[まいばん] 8時[じ]に 寝[ね]ていました。",
+            "2) When I was a child, I slept every evening at 8 o'clock"
+        ]
+    },
+    {
+        "lesson": "28",
+        "topic": "じしょ-formし，じしょ-formし，~",
+        "explanations": [
+            "This expression is used when mentioning two or more similar things one after the other about the topic",
+            "This excpression can also be used when the ~し, ~し part gives the reasons for what follows",
+            "If the conclusing is obvious, it may be omitted, leaving only the reasons"
+        ],
+        "examples": [
+            "1) 鈴木[すずき]さんは ピアノも弾[ひ]けるし，歌[うた]も歌[うた]えるし，ダンスも できます。",
+            "1) Suzuki can play the piano, sing and dance",
+            "2) 田中[たなか]さんは まじめだし，中国語[ちゅうごく]も 上手[じょうず]だし，それに 経験[けいけん]も あります。",
+            "2) Tanaka is serious, speaks good Chinese and also has experience",
+            "3) ここは 値段[ねだん]も 安い[やすい]し，魚[さかな]も 新[あたら]しいし，よく 食[た]べに 来[き]ます。",
+            "3) The prices are low here and the fish is fresh, so I often come here to eat",
+            "4) どうして この店[みせ]へ 来[く]るんですか。",
+            "4) Why do you come to this shop?",
+            "4) ... ここは 値段[ねだん]も 安い[やすい]し，魚[さかな]も 新[あたら]しいし...",
+            "4) ... The prices are low here and the fish is fresh...",
+            "5) どうして 日本[にほん]の アニメが 好[す]きなんですか。",
+            "5) Why do you like Japanese anime?",
+            "5) ... 話[はなし]も おもしろいし，音楽[おんがく]も すてきですから。",
+            "5) ... Because the stories are interesting and I like the music"
+        ]
+    },
+    {
+        "lesson": "28",
+        "topic": "それで",
+        "explanations": [
+            "This expression indicates that what is about to be said follows from what has just been said"
+        ],
+        "examples": [
+            "1) 将来[しょうらい] 小説家[しょうせつか]に なりたいです。それで，今[いま]は アルバイトを しながら 小説[しょうせつ]を 書[か]いて います。",
+            "1) I want to be a novelist in the future. So, I'm writing novels while I work part-time",
+            "2) ここは コーヒーも おいしいし，食事[しょくじ]も できるし...",
+            "2) Here the coffee is delicious and you can also have a meal...",
+            "2) ... それで，人気[にんき]が あるんですね。",
+            "2) ... So, that's why it's popular, isn't it?"
+        ]
+    },
+    {
+        "lesson": "28",
+        "topic": "~とき + particle",
+        "explanations": [
+            "In lesson 23, the とき explained was a noun, hence it can be used with a particle appended to it"
+        ],
+        "examples": [
+            "1) 勉強[べんきょう]する ときは，音楽[おんがく]を 聞[き]きません。",
+            "1) I don't listen to music when I'm studying",
+            "2) 疲[つか]れた ときや 寂[さび]しい とき，よく 田舎[いなか]の 青[あお]い 空[そら]を 思[おも]い出[だ]す。",
+            "2) When I'm tired or lonely, I think of the blue skies over my home town"
         ]
     }
 ]
