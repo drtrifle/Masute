@@ -727,13 +727,13 @@
     {"Id":36013,"Chap":"36","Eng":"island country","Kanji":"島国","Jpn":"しまぐに"},
     {"Id":36014,"Chap":"36","Eng":"traffic light","Kanji":"信号","Jpn":"しんごう"},
     {"Id":36015,"Chap":"36","Eng":"to believe","Kanji":"信じる","Jpn":"しんじる"},
-    {"Id":36016,"Chap":"36","Eng":"to be late","Kanji":"遅刻する","Jpn":"ちこくする"},
+    {"Id":36016,"Chap":"36","Eng":"lateness/tardiness","Kanji":"遅刻する","Jpn":"ちこくする"},
     {"Id":36017,"Chap":"36","Eng":"late","Kanji":"遅い","Jpn":"おそい"},
     {"Id":36018,"Chap":"36","Eng":"to be late","Kanji":"遅れる","Jpn":"おくれる"},
     {"Id":36019,"Chap":"36","Eng":"license","Kanji":"免許","Jpn":"めんきょ"},
     {"Id":36020,"Chap":"36","Eng":"to allow","Kanji":"許す","Jpn":"ゆるす"},
     {"Id":36021,"Chap":"36","Eng":"driving license","Kanji":"運転免許証","Jpn":"うんてんめんきょしょう"},
-    {"Id":36022,"Chap":"36","Eng":"premission","Kanji":"許可","Jpn":"きょか"},
+    {"Id":36022,"Chap":"36","Eng":"permission","Kanji":"許可","Jpn":"きょか"},
     {"Id":36023,"Chap":"36","Eng":"prohibition","Kanji":"禁止","Jpn":"きんし"},
     {"Id":37000,"Chap":"37","Eng":"","Kanji":"","Jpn":""}
 ]

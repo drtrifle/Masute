@@ -1,10 +1,120 @@
 [
     {
         "lesson": "30",
-        "topic": "",
+        "topic": "(Transitive) Verb て-form あります",
+        "explanations": [
+            "Verb て-form あります indicates a continuing state resulting from a purposeful action",
+            "We only use Transitive Verbs for this expression"
+        ],
+        "examples": [
+        ]
+    },
+    {
+        "lesson": "30",
+        "topic": "Noun1 に Noun2が Transitive Verb て-form あります",
         "explanations": [
         ],
         "examples": [
+            "1) 机[つくえ]の 上[うえ]に メモが 置[お]いて あります。",
+            "1) Someone's left a note on the desk",
+            "2) カレンダーに 今月[こんげつ]の 予定[よてい]が 置[お]いて あります。",
+            "2) This month's schedule is written on the calendar"
+        ]
+    },
+    {
+        "lesson": "30",
+        "topic": "Noun1 は Noun2に Transitive Verb て-form あります",
+        "explanations": [
+        ],
+        "examples": [
+            "1) メモは どこですか。",
+            "1) Where is the note?",
+            "1) ... (メモは) 机[つくえ]の 上[うえ]に 置[お]いて あります。",
+            "1) ... (the note is) on the desk",
+            "2) 今月[こんげつ]の 予定[よてい]は カレンダーに 書[か]いて あります。",
+            "2) This month's schedule is written on the calendar"
+        ]
+    },
+    {
+        "lesson": "30",
+        "topic": "Verb て-form います vs Verb て-form あります",
+        "explanations": [
+            "1) and 2) illustrate the difference between the Intransitive Verb て-form います and Transitive Verb て-form あります",
+            "1) simply indicates that the situation exists, while 2) emphasizes that the situation exists as a result of someone's deliberate action"
+        ],
+        "examples": [
+            "1) 窓[まど]が 閉[し]まって います。",
+            "1) The window is closed",
+            "2) 窓[まど]が 閉[し]めて あります。",
+            "2) The window has been closed"
+        ]
+    },
+    {
+        "lesson": "30",
+        "topic": "Transitive Verb て-form おきます",
+        "explanations": [
+            "This can indicate that a necessary action or behavior is to be performed by a certain time",
+            "It can also indicate taking some temporary measures or completing a necessary action in preparation for the next time one uses something",
+            "It can also indicate keeping a resultant state as it is",
+            "[Note] In speech, ~て おきます often become ~ときます"
+        ],
+        "examples": [
+            "1) 旅行[りょこう]の 前[まえ]に 切符[きっぷ]を 買[か]って おきます。",
+            "1) I buy tickets to the trip before travelling",
+            "2) 次[つぎ]の 会議[かいぎ]までに 何[なに]を して おいたら いいですか。",
+            "2) What should I do before the next meeting?",
+            "2) ... この 資料[しりょう]を 読[よ]んで おいて ください。",
+            "2) ... Please read these documents",
+            "3) はさみを 使[つか]ったら，元[もと]の 所[ところ]に 戻[もど]して おいて ください。",
+            "3) When you've finished using the scissors, please put them back where they were",
+            "4) 明日[あした] 会議[かいぎ]が ありますから， いすは この ままに して おいて ください。",
+            "4) There's a meeting here tomorrow, so please leave the chairs as they are",
+            "5) そこに 置[お]いといて ください。",
+            "5) Please leave it there"
+        ]
+    },
+    {
+        "lesson": "30",
+        "topic": "まだ + affirmative",
+        "explanations": [
+            "This expression is used to mean that an action or situation is still happening"
+        ],
+        "examples": [
+            "1) まだ 雨[あめ]が 降[ふ]って います。",
+            "1) It's still raining",
+            "2) 道具[どうぐ]を 方[かた]づけましょうか。",
+            "2) Shall I put the tools away?",
+            "2) ... まだ 使[つか]って いますから，その ままに して おいて ください。",
+            "2) ... I'm still using the tools, please leave them where they are"
+        ]
+    },
+    {
+        "lesson": "30",
+        "topic": "とか",
+        "explanations": [
+            "とか is used in the same way as や in listing instances of something",
+            "It is more colloquial than や, and may also be used after the final noun in a list"
+        ],
+        "examples": [
+            "1) どんな スポーツを して いますか。",
+            "1) What kind of sports do you like?",
+            "1) ... そうですね。テニスとか 水泳[すいえい]とか...",
+            "1) ... I like tennis, swimming, etc."
+        ]
+    },
+    {
+        "lesson": "30",
+        "topic": "Particle + も",
+        "explanations": [
+            "When も is attached to a noun to which が or を is already attached, it replaces these",
+            "When another particle (Such as に, で，から, まで or ど) is already atatched to the noun, that particle is left in place and も is appended to it.",
+            "If the other particle is へ, then も may either replace it or be appended to it"
+        ],
+        "examples": [
+            "1) ほかにも いろいろ あります。",
+            "1) There are various other things as well",
+            "2) どこ(へ)も 行[いき]ません。",
+            "2) I'm not going anywhere"
         ]
     }
 ]
