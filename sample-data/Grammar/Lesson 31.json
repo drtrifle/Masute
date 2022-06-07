@@ -6,6 +6,14 @@
             "For group 1 ます-form verbs, drop ます, change the last syllable from the い-column to the お-column and add う"
         ],
         "examples": [
+            "1) かきます → かこう",
+            "1) To write",
+            "2) よみます → よもう",
+            "2) To read",
+            "3) いそぎます → いそごう",
+            "3) To hurry",
+            "4) あそびます → あそぼう",
+            "4) To play"
         ]
     },
     {
@@ -15,64 +23,133 @@
             "For group 2 ます-form verbs, drop ます, and add よう"
         ],
         "examples": [
+            "1) たべます → たべよう",
+            "1) To eat",
+            "2) みます → みよう",
+            "2) To see"
         ]
     },
     {
         "lesson": "31",
         "topic": "Group 3 Verb Volitional form",
         "explanations": [
-            "From ます-form, if します，becomes しよう",
+            "From ます-form, if します, becomes しよう",
             "From ます-form, if きます, becomes こよう"
         ],
         "examples": [
+            "1) します → しよう",
+            "1) To do",
+            "2) きます → こよう",
+            "2) To go"
         ]
     },
     {
         "lesson": "31",
-        "topic": "",
+        "topic": "Volition form can replace ~ましょう in casual sentences",
         "explanations": [
+            "Instead of using Verb-ましょう, we can replace it with the Volition form of the verb",
+            "[Note] Although plain style questions do not usually take the particle か on their end, it is required when using the plain form of ~ましょうか as in examples 2) and 3)"
         ],
         "examples": [
+            "1) ちょうと 休まない。",
+            "1) Shall we take a quick break",
+            "1) ... うん, 休[やす]もう。",
+            "1) ... Yes let's",
+            "2) 手伝[てつだ]おうか。",
+            "2) May I help?",
+            "3) 傘[かさ]を 持[も]って 行[い]こうか。",
+            "3) Shall we bring our umbrellas?"
         ]
     },
     {
         "lesson": "31",
-        "topic": "",
+        "topic": "Verb Volition-form と 思[おも]って います",
         "explanations": [
+            "This expression is used to convey the speaker's intention to the listener.",
+            "Verb Volition-form と 思[おも]います can also be used with the same meaning, but Verb Volition-form と 思[おも]って います indicates that the speaker made the decisons some time ago",
+            "[Note] Verb Volition-form と 思[おも]います can only be use to conveys the speaker's intention, but Verb Volition-form と 思[おも]って います can also be used to indicate a third party's intention"
         ],
         "examples": [
+            "1) 週末[しゅうます]は 海[うみ]は 行[い]こう と 思[おも]って います",
+            "1) I'm thinking of going to the seaside at the weekend",
+            "2) 今[いま]から 銀行[ぎんこう]へ 行[い]こうと 思[おも]います。",
+            "2) I think I'll go to the bank now",
+            "3) 彼[かれ]は 学校[がっこう]を 作[つく]ろうと 思[おも]って います。",
+            "3) He's thinking of setting up a school"
         ]
     },
     {
         "lesson": "31",
-        "topic": "",
+        "topic": "Verb じしょ-form つもりです",
         "explanations": [
+            "Verb じしょ-form つもりで expresses the speaker's intention to do something.",
+            "[Note] There is little difference in meaning between Verb Volitional-form と 思[おも]って います and Verb じしょ-form つもりです, but the latter sounds more determined"
         ],
         "examples": [
+            "1) 国[くに]へ 帰[かえ]っても，日本語[にほんご]の勉強[べんきょう]を 続[つづ]ける つもりです。",
+            "1) I intend to continue studying Japanese language even after I've returned to my home country"
         ]
     },
     {
         "lesson": "31",
-        "topic": "",
+        "topic": "Verb ない-form ない つもりです",
         "explanations": [
+            "To indicate an intention not to do something, Verb ない-form ない つもりです is usually used",
+            "[Note] There is little difference in meaning between Verb Volitional-form と 思[おも]って います and Verb じしょ-form つもりです, but the latter sounds more determined"
         ],
         "examples": [
+            "1) 明日[あした]からは たばこを 吸[す]わない つもいます。",
+            "1) I intend not to smoke from tomorrow on"
         ]
     },
     {
         "lesson": "31",
-        "topic": "",
+        "topic": "Verb じしょ-form 予定[よてい]です",
         "explanations": [
+            "This is a way of stating something one plans to do"
         ],
         "examples": [
+            "1) 7月[がつ]の 終[お]わりに ドイツへ 出張[しゅっちょう]する 予定[よてい]です。",
+            "1) I plan to go to Germany at the end of July"
         ]
     },
     {
         "lesson": "31",
-        "topic": "",
+        "topic": "Noun の 予定[よてい]です",
         "explanations": [
+            "This is a way of stating something one plans to do"
         ],
         "examples": [
+            "1) 旅行[りょこう]を 1週間[しゅうかん]ぐらいの 予定[よてい]です。",
+            "1) The trip is schedueled to last for a week"
+        ]
+    },
+    {
+        "lesson": "31",
+        "topic": "まだ Verb て-form いません",
+        "explanations": [
+            "This expression indicates that a situation has not yet occured, or something has not yet be done"
+        ],
+        "examples": [
+            "1) 銀行[ぢんこう]は まだ 開[あ]いて いません。",
+            "1) The bank isn't open yet",
+            "2) レポートは もう 書[か]きましたか。",
+            "2) Have you written the report yet?",
+            "2) ... いいえ，まだ 書[か]いて いません。",
+            "2) ... No, I haven't written it yet"
+        ]
+    },
+    {
+        "lesson": "31",
+        "topic": "帰[かえ]ります - 帰[かえ]り",
+        "explanations": [
+            "The same form as ます-form can be used as a noun, as in example 1) and 2)"
+        ],
+        "examples": [
+            "1) 帰[かえ]りの 新幹線[しんかんせん]は どこから 乗[の]りますか。",
+            "1) Where do we get on the Shinkannsenn to go back?",
+            "2) 休[やす]みは 何曜日[なんようび]ですか。",
+            "2) Which days do you have off?"
         ]
     }
 ]
