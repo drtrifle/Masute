@@ -1,837 +1,6682 @@
 [
-    {"Id":1000,"Chap":"01","Eng":"january","Kanji":"一月","Jpn":"いちがつ"},
-    {"Id":1001,"Chap":"01","Eng":"one person","Kanji":"一人","Jpn":"ひとり"},
-    {"Id":1002,"Chap":"01","Eng":"first day of the month","Kanji":"一日 (月)","Jpn":"ついたち"},
-    {"Id":1003,"Chap":"01","Eng":"one day/all day","Kanji":"一日 (日)","Jpn":"いちにち"},
-    {"Id":1004,"Chap":"01","Eng":"february","Kanji":"二月","Jpn":"にがつ"},
-    {"Id":1005,"Chap":"01","Eng":"two persons","Kanji":"二人","Jpn":"ふたり"},
-    {"Id":1006,"Chap":"01","Eng":"the second day","Kanji":"二日","Jpn":"ふつか"},
-    {"Id":1007,"Chap":"01","Eng":"march","Kanji":"三月","Jpn":"さんがつ"},
-    {"Id":1008,"Chap":"01","Eng":"the third day","Kanji":"三日","Jpn":"みっか"},
-    {"Id":1009,"Chap":"01","Eng":"april","Kanji":"四月","Jpn":"しがつ"},
-    {"Id":1010,"Chap":"01","Eng":"four people","Kanji":"四人","Jpn":"よにん"},
-    {"Id":1011,"Chap":"01","Eng":"the fourth day","Kanji":"四日","Jpn":"よっか"},
-    {"Id":1012,"Chap":"01","Eng":"may","Kanji":"五月","Jpn":"ごがつ"},
-    {"Id":1013,"Chap":"01","Eng":"the fifth day","Kanji":"五日","Jpn":"いつか"},
-    {"Id":1014,"Chap":"01","Eng":"june","Kanji":"六月","Jpn":"ろくがつ"},
-    {"Id":1015,"Chap":"01","Eng":"the sixth day","Kanji":"六日","Jpn":"むいか"},
-    {"Id":1016,"Chap":"01","Eng":"july","Kanji":"七月","Jpn":"しちがつ"},
-    {"Id":1017,"Chap":"01","Eng":"the seventh day","Kanji":"七日","Jpn":"なのか"},
-    {"Id":1018,"Chap":"01","Eng":"star festival","Kanji":"七夕","Jpn":"たなばた"},
-    {"Id":1019,"Chap":"01","Eng":"august","Kanji":"八月","Jpn":"はちがつ"},
-    {"Id":1020,"Chap":"01","Eng":"the eighth day","Kanji":"八日","Jpn":"ようか"},
-    {"Id":1021,"Chap":"01","Eng":"greengrocer","Kanji":"八百屋","Jpn":"やおや"},
-    {"Id":1022,"Chap":"01","Eng":"nine people","Kanji":"九人","Jpn":"きゅうにん"},
-    {"Id":1023,"Chap":"01","Eng":"september","Kanji":"九月","Jpn":"くがつ"},
-    {"Id":1024,"Chap":"01","Eng":"the ninth day","Kanji":"九日","Jpn":"ここのか"},
-    {"Id":1025,"Chap":"01","Eng":"october","Kanji":"十月","Jpn":"じゅうがつ"},
-    {"Id":1026,"Chap":"01","Eng":"the twentieth day","Kanji":"二十日","Jpn":"はつか"},
-    {"Id":1027,"Chap":"01","Eng":"twenty years old","Kanji":"二十歳","Jpn":"はたち"},
-    {"Id":2000,"Chap":"02","Eng":"japanese","Kanji":"日本人","Jpn":"にほんじん"},
-    {"Id":2001,"Chap":"02","Eng":"three people","Kanji":"三人","Jpn":"さんにん"},
-    {"Id":2002,"Chap":"02","Eng":"that person (casual)","Kanji":"あの人","Jpn":"あのひと"},
-    {"Id":2003,"Chap":"02","Eng":"famous","Kanji":"有名","Jpn":"ゆうめい"},
-    {"Id":2004,"Chap":"02","Eng":"surname","Kanji":"名字","Jpn":"みょうじ"},
-    {"Id":2005,"Chap":"02","Eng":"name","Kanji":"名前","Jpn":"なまえ"},
-    {"Id":2006,"Chap":"02","Eng":"way/method/solution","Kanji":"方法","Jpn":"ほうほう"},
-    {"Id":2007,"Chap":"02","Eng":"that person (polite)","Kanji":"あの方","Jpn":"あのかた"},
-    {"Id":2008,"Chap":"02","Eng":"evening","Kanji":"夕方","Jpn":"ゆうがた"},
-    {"Id":2009,"Chap":"02","Eng":"japan","Kanji":"日本","Jpn":"にほん"},
-    {"Id":2010,"Chap":"02","Eng":"yamamoto (person name)","Kanji":"山本さん","Jpn":"やまもとさん"},
-    {"Id":2011,"Chap":"02","Eng":"daily","Kanji":"毎日","Jpn":"まいにち"},
-    {"Id":2012,"Chap":"02","Eng":"diary","Kanji":"日記","Jpn":"にっき"},
-    {"Id":2013,"Chap":"02","Eng":"holiday","Kanji":"休日","Jpn":"きゅうじつ"},
-    {"Id":2014,"Chap":"02","Eng":"monday","Kanji":"月曜日","Jpn":"げつようび"},
-    {"Id":2015,"Chap":"02","Eng":"what","Kanji":"何","Jpn":"なに"},
-    {"Id":2016,"Chap":"02","Eng":"what time","Kanji":"何時","Jpn":"なんじ"},
-    {"Id":2017,"Chap":"02","Eng":"university","Kanji":"大学","Jpn":"だいがく"},
-    {"Id":2018,"Chap":"02","Eng":"big","Kanji":"大きい","Jpn":"おおきい"},
-    {"Id":2019,"Chap":"02","Eng":"student","Kanji":"学生","Jpn":"がくせい"},
-    {"Id":2020,"Chap":"02","Eng":"school","Kanji":"学校","Jpn":"がっこう"},
-    {"Id":2021,"Chap":"02","Eng":"to study (in depth)","Kanji":"学ぶ","Jpn":"まなぶ"},
-    {"Id":2022,"Chap":"02","Eng":"employee","Kanji":"社員","Jpn":"しゃいん"},
-    {"Id":2023,"Chap":"02","Eng":"shrine","Kanji":"神社","Jpn":"じんじゃ"},
-    {"Id":2024,"Chap":"02","Eng":"station employee","Kanji":"駅員","Jpn":"えきいん"},
-    {"Id":2025,"Chap":"02","Eng":"company","Kanji":"会社","Jpn":"かいしゃ"},
-    {"Id":2026,"Chap":"02","Eng":"to meet","Kanji":"会う","Jpn":"あう"},
-    {"Id":2027,"Chap":"02","Eng":"teacher","Kanji":"先生","Jpn":"せんせい"},
-    {"Id":2028,"Chap":"02","Eng":"ahead","Kanji":"先に","Jpn":"さきに"},
-    {"Id":2029,"Chap":"02","Eng":"life/lifestyle","Kanji":"生活","Jpn":"せいかつ"},
-    {"Id":2030,"Chap":"02","Eng":"birthday","Kanji":"誕生日","Jpn":"たんじょうび"},
-    {"Id":2031,"Chap":"02","Eng":"to be born","Kanji":"生まれる","Jpn":"うまれる"},
-    {"Id":2032,"Chap":"02","Eng":"to be alive","Kanji":"生きる","Jpn":"いきる"},
-    {"Id":2033,"Chap":"02","Eng":"bank","Kanji":"銀行","Jpn":"ぎんこう"},
-    {"Id":2034,"Chap":"02","Eng":"one line","Kanji":"一行","Jpn":"いちぎょう"},
-    {"Id":2035,"Chap":"02","Eng":"to go","Kanji":"行く","Jpn":"いく"},
-    {"Id":2036,"Chap":"02","Eng":"to carry out","Kanji":"行う","Jpn":"おこなう"},
-    {"Id":2037,"Chap":"02","Eng":"next week","Kanji":"来週","Jpn":"らいしゅう"},
-    {"Id":2038,"Chap":"02","Eng":"to come","Kanji":"来る","Jpn":"くる"},
-    {"Id":2039,"Chap":"02","Eng":"train (vehicle)","Kanji":"電車","Jpn":"でんしゃ"},
-    {"Id":2040,"Chap":"02","Eng":"car","Kanji":"車","Jpn":"くるま"},
-    {"Id":3000,"Chap":"03","Eng":"hundred","Kanji":"百","Jpn":"ひゃく"},
-    {"Id":3001,"Chap":"03","Eng":"three hundred","Kanji":"三百","Jpn":"さんびゃく"},
-    {"Id":3002,"Chap":"03","Eng":"eight hundred","Kanji":"八百","Jpn":"はっぴゃく"},
-    {"Id":3003,"Chap":"03","Eng":"thousand","Kanji":"千","Jpn":"せん"},
-    {"Id":3004,"Chap":"03","Eng":"three thousand","Kanji":"三千","Jpn":"さんぜん"},
-    {"Id":3005,"Chap":"03","Eng":"one million yen","Kanji":"百万円","Jpn":"ひゃくまんえん"},
-    {"Id":3006,"Chap":"03","Eng":"completely","Kanji":"万全","Jpn":"ばんぜん"},
-    {"Id":3007,"Chap":"03","Eng":"ten thousand yen","Kanji":"一万円","Jpn":"いちまんえん"},
-    {"Id":3008,"Chap":"03","Eng":"round","Kanji":"円い","Jpn":"まるい"},
-    {"Id":3009,"Chap":"03","Eng":"every five hours","Kanji":"ご時間毎","Jpn":"ごじかんごと"},
-    {"Id":3010,"Chap":"03","Eng":"time","Kanji":"時間","Jpn":"じかん"},
-    {"Id":3011,"Chap":"03","Eng":"sometimes","Kanji":"時々","Jpn":"ときどき"},
-    {"Id":3012,"Chap":"03","Eng":"ten minutes","Kanji":"10分","Jpn":"じっぷん"},
-    {"Id":3013,"Chap":"03","Eng":"half","Kanji":"半分","Jpn":"はんぶん"},
-    {"Id":3014,"Chap":"03","Eng":"to divide","Kanji":"分ける","Jpn":"わける"},
-    {"Id":3015,"Chap":"03","Eng":"to understand","Kanji":"分かる","Jpn":"わかる"},
-    {"Id":3016,"Chap":"03","Eng":"half a year","Kanji":"半年","Jpn":"はんとし"},
-    {"Id":3017,"Chap":"03","Eng":"the middle","Kanji":"半ば","Jpn":"なかば"},
-    {"Id":4000,"Chap":"04","Eng":"foreign country","Kanji":"外国","Jpn":"がいこく"},
-    {"Id":4001,"Chap":"04","Eng":"china","Kanji":"中国","Jpn":"ちゅうごく"},
-    {"Id":4002,"Chap":"04","Eng":"country","Kanji":"国","Jpn":"くに"},
-    {"Id":4003,"Chap":"04","Eng":"moon","Kanji":"月","Jpn":"つき"},
-    {"Id":4004,"Chap":"04","Eng":"tuesday","Kanji":"火曜日","Jpn":"かようび"},
-    {"Id":4005,"Chap":"04","Eng":"fireworks","Kanji":"花火","Jpn":"はなび"},
-    {"Id":4006,"Chap":"04","Eng":"wednesday","Kanji":"水曜日","Jpn":"すいようび"},
-    {"Id":4007,"Chap":"04","Eng":"water","Kanji":"水","Jpn":"みず"},
-    {"Id":4008,"Chap":"04","Eng":"thursday","Kanji":"木曜日","Jpn":"もくようび"},
-    {"Id":4009,"Chap":"04","Eng":"tree","Kanji":"木","Jpn":"き"},
-    {"Id":4010,"Chap":"04","Eng":"friday","Kanji":"金曜日","Jpn":"きんようび"},
-    {"Id":4011,"Chap":"04","Eng":"money","Kanji":"お金","Jpn":"おかね"},
-    {"Id":4012,"Chap":"04","Eng":"saturday","Kanji":"土曜日","Jpn":"どようび"},
-    {"Id":4013,"Chap":"04","Eng":"soil","Kanji":"土","Jpn":"つち"},
-    {"Id":4014,"Chap":"04","Eng":"dictionary","Kanji":"辞書","Jpn":"じしょ"},
-    {"Id":4015,"Chap":"04","Eng":"to write","Kanji":"書く","Jpn":"かく"},
-    {"Id":5000,"Chap":"05","Eng":"best friend","Kanji":"親友","Jpn":"しんゆう"},
-    {"Id":5001,"Chap":"05","Eng":"friend","Kanji":"友達","Jpn":"ともだち"},
-    {"Id":5002,"Chap":"05","Eng":"last year","Kanji":"去年","Jpn":"きょねん"},
-    {"Id":5003,"Chap":"05","Eng":"this year","Kanji":"今年","Jpn":"ことし"},
-    {"Id":5004,"Chap":"05","Eng":"this month","Kanji":"今月","Jpn":"こんげつ"},
-    {"Id":5005,"Chap":"05","Eng":"now","Kanji":"今","Jpn":"いま"},
-    {"Id":5006,"Chap":"05","Eng":"weekend","Kanji":"週末","Jpn":"しゅうまつ"},
-    {"Id":5007,"Chap":"05","Eng":"rest day","Kanji":"休み","Jpn":"やすみ"},
-    {"Id":5008,"Chap":"05","Eng":"rest/break/recess/intermission","Kanji":"休憩","Jpn":"きゅうけい"},
-    {"Id":5009,"Chap":"05","Eng":"the first half","Kanji":"前半","Jpn":"ぜんはん"},
-    {"Id":5010,"Chap":"05","Eng":"am","Kanji":"午前","Jpn":"ごぜん"},
-    {"Id":5011,"Chap":"05","Eng":"pm","Kanji":"午後","Jpn":"ごご"},
-    {"Id":5012,"Chap":"05","Eng":"back/behind","Kanji":"後ろ","Jpn":"うしろ"},
-    {"Id":5013,"Chap":"05","Eng":"later","Kanji":"後で","Jpn":"あとで"},
-    {"Id":6000,"Chap":"06","Eng":"return to ones country","Kanji":"帰国","Jpn":"きこく"},
-    {"Id":6001,"Chap":"06","Eng":"to return","Kanji":"帰る","Jpn":"かえる"},
-    {"Id":6002,"Chap":"06","Eng":"to visit for study","Kanji":"見学する","Jpn":"けんがくする"},
-    {"Id":6003,"Chap":"06","Eng":"to see","Kanji":"見る","Jpn":"みる"},
-    {"Id":6004,"Chap":"06","Eng":"newspaper","Kanji":"新聞","Jpn":"しんぶん"},
-    {"Id":6005,"Chap":"06","Eng":"to listen","Kanji":"聞く","Jpn":"きく"},
-    {"Id":6006,"Chap":"06","Eng":"reading","Kanji":"読書","Jpn":"どくしょ"},
-    {"Id":6007,"Chap":"06","Eng":"to read","Kanji":"読む","Jpn":"よむ"},
-    {"Id":6008,"Chap":"06","Eng":"dining room/canteen","Kanji":"食堂","Jpn":"しょくどう"},
-    {"Id":6009,"Chap":"06","Eng":"to eat","Kanji":"食べる","Jpn":"たべる"},
-    {"Id":6010,"Chap":"06","Eng":"set meal","Kanji":"定食","Jpn":"ていしょく"},
-    {"Id":6011,"Chap":"06","Eng":"drink driving","Kanji":"飲酒運転","Jpn":"いんしゅうんてん"},
-    {"Id":6012,"Chap":"06","Eng":"beverage","Kanji":"飲み物","Jpn":"のみもの"},
-    {"Id":6013,"Chap":"06","Eng":"sell and buy","Kanji":"売買","Jpn":"ばいばい"},
-    {"Id":6014,"Chap":"06","Eng":"shopping","Kanji":"買い物","Jpn":"かいもの"},
-    {"Id":7000,"Chap":"07","Eng":"grandmother (mine)","Kanji":"祖母","Jpn":"そぼ"},
-    {"Id":7001,"Chap":"07","Eng":"mother (mine)","Kanji":"母","Jpn":"はは"},
-    {"Id":7002,"Chap":"07","Eng":"mother (other)","Kanji":"お母さん","Jpn":"おかあさん"},
-    {"Id":7003,"Chap":"07","Eng":"grandfather (mine)","Kanji":"祖父","Jpn":"そぶ"},
-    {"Id":7004,"Chap":"07","Eng":"father (mine)","Kanji":"父","Jpn":"ちち"},
-    {"Id":7005,"Chap":"07","Eng":"father (other)","Kanji":"お父さん","Jpn":"おとうさん"},
-    {"Id":7006,"Chap":"07","Eng":"zoo","Kanji":"動物園","Jpn":"どうぶつえん"},
-    {"Id":7007,"Chap":"07","Eng":"parcel/luggage","Kanji":"荷物","Jpn":"にもつ"},
-    {"Id":7008,"Chap":"07","Eng":"food","Kanji":"食べ物","Jpn":"たべもの"},
-    {"Id":7009,"Chap":"07","Eng":"breakfast","Kanji":"朝食","Jpn":"ちょうしょく"},
-    {"Id":7010,"Chap":"07","Eng":"every morning","Kanji":"毎朝","Jpn":"まいあさ"},
-    {"Id":7011,"Chap":"07","Eng":"lunch","Kanji":"昼食","Jpn":"ちゅうしょく"},
-    {"Id":7012,"Chap":"07","Eng":"lunchtime","Kanji":"昼休み","Jpn":"ひるやすみ"},
-    {"Id":7013,"Chap":"07","Eng":"tonight","Kanji":"今夜","Jpn":"こんや"},
-    {"Id":7014,"Chap":"07","Eng":"night","Kanji":"夜","Jpn":"よる"},
-    {"Id":7015,"Chap":"07","Eng":"every night","Kanji":"毎晩","Jpn":"まいばん"},
-    {"Id":7016,"Chap":"07","Eng":"municipality","Kanji":"市町村","Jpn":"しちょうそん"},
-    {"Id":7017,"Chap":"07","Eng":"town","Kanji":"町","Jpn":"まち"},
-    {"Id":8000,"Chap":"08","Eng":"mt fuji","Kanji":"富士山","Jpn":"ふじさん"},
-    {"Id":8001,"Chap":"08","Eng":"mountain","Kanji":"山","Jpn":"やま"},
-    {"Id":8002,"Chap":"08","Eng":"white horse","Kanji":"白馬","Jpn":"はくば"},
-    {"Id":8003,"Chap":"08","Eng":"white","Kanji":"白い","Jpn":"しろい"},
-    {"Id":8004,"Chap":"08","Eng":"steam rice with red beans","Kanji":"赤飯","Jpn":"せきはん"},
-    {"Id":8005,"Chap":"08","Eng":"red","Kanji":"赤い","Jpn":"あかい"},
-    {"Id":8006,"Chap":"08","Eng":"young person","Kanji":"青年","Jpn":"せいねん"},
-    {"Id":8007,"Chap":"08","Eng":"blue","Kanji":"青い","Jpn":"あおい"},
-    {"Id":8008,"Chap":"08","Eng":"blackboard","Kanji":"黒板","Jpn":"こくばん"},
-    {"Id":8009,"Chap":"08","Eng":"black","Kanji":"黒い","Jpn":"くろい"},
-    {"Id":8010,"Chap":"08","Eng":"safety","Kanji":"安全","Jpn":"あんぜん"},
-    {"Id":8011,"Chap":"08","Eng":"cheap","Kanji":"安い","Jpn":"やすい"},
-    {"Id":8012,"Chap":"08","Eng":"high school","Kanji":"高校","Jpn":"こうこう"},
-    {"Id":8013,"Chap":"08","Eng":"tall/expensive","Kanji":"高い","Jpn":"たかい"},
-    {"Id":8014,"Chap":"08","Eng":"elementary school","Kanji":"小学校","Jpn":"しょうがっこう"},
-    {"Id":8015,"Chap":"08","Eng":"small bird","Kanji":"小鳥","Jpn":"ことり"},
-    {"Id":8016,"Chap":"08","Eng":"small","Kanji":"小さい","Jpn":"ちいさい"},
-    {"Id":9000,"Chap":"09","Eng":"male","Kanji":"男性","Jpn":"だんせい"},
-    {"Id":9001,"Chap":"09","Eng":"man","Kanji":"男の人","Jpn":"おとこのひと"},
-    {"Id":9002,"Chap":"09","Eng":"female","Kanji":"女性","Jpn":"じょせい"},
-    {"Id":9003,"Chap":"09","Eng":"woman","Kanji":"女の人","Jpn":"おんなのひと"},
-    {"Id":9004,"Chap":"09","Eng":"good at","Kanji":"上手","Jpn":"じょうず"},
-    {"Id":9005,"Chap":"09","Eng":"on/above/up","Kanji":"上","Jpn":"うえ"},
-    {"Id":9006,"Chap":"09","Eng":"to raise","Kanji":"上げる","Jpn":"あげる"},
-    {"Id":9007,"Chap":"09","Eng":"to get off","Kanji":"下車する","Jpn":"げしゃする"},
-    {"Id":9008,"Chap":"09","Eng":"below/down","Kanji":"下","Jpn":"した"},
-    {"Id":9009,"Chap":"09","Eng":"to lower","Kanji":"下げる","Jpn":"さげる"},
-    {"Id":9010,"Chap":"09","Eng":"turn left","Kanji":"左折","Jpn":"させつ"},
-    {"Id":9011,"Chap":"09","Eng":"left hand","Kanji":"左手","Jpn":"ひだりて"},
-    {"Id":9012,"Chap":"09","Eng":"turn right","Kanji":"右折","Jpn":"うせつ"},
-    {"Id":9013,"Chap":"09","Eng":"right","Kanji":"右","Jpn":"みぎ"},
-    {"Id":9014,"Chap":"09","Eng":"during class","Kanji":"授業中","Jpn":"じゅぎょうちゅう"},
-    {"Id":9015,"Chap":"09","Eng":"whole day","Kanji":"一日中","Jpn":"いちにちじゅう"},
-    {"Id":9016,"Chap":"09","Eng":"inside","Kanji":"中","Jpn":"なか"},
-    {"Id":9017,"Chap":"09","Eng":"gate","Kanji":"門","Jpn":"もん"},
-    {"Id":10000,"Chap":"10","Eng":"between/among","Kanji":"間","Jpn":"あいだ"},
-    {"Id":10001,"Chap":"10","Eng":"to be in time","Kanji":"間に合う","Jpn":"まにあう"},
-    {"Id":10002,"Chap":"10","Eng":"neighborhood/neighbourhood","Kanji":"近所","Jpn":"きんじょ"},
-    {"Id":10003,"Chap":"10","Eng":"near","Kanji":"近く","Jpn":"ちかく"},
-    {"Id":10004,"Chap":"10","Eng":"goldfish","Kanji":"金魚","Jpn":"きんぎょ"},
-    {"Id":10005,"Chap":"10","Eng":"fish","Kanji":"魚","Jpn":"さかな"},
-    {"Id":10006,"Chap":"10","Eng":"player","Kanji":"選手","Jpn":"せんしゅ"},
-    {"Id":10007,"Chap":"10","Eng":"letter","Kanji":"手紙","Jpn":"てがみ"},
-    {"Id":10008,"Chap":"10","Eng":"police dog","Kanji":"警察犬","Jpn":"けいさつけん"},
-    {"Id":10009,"Chap":"10","Eng":"dog","Kanji":"犬","Jpn":"いぬ"},
-    {"Id":10010,"Chap":"10","Eng":"early morning","Kanji":"早朝","Jpn":"そうちょう"},
-    {"Id":10011,"Chap":"10","Eng":"early","Kanji":"早く","Jpn":"はやく"},
-    {"Id":10012,"Chap":"10","Eng":"watch/clock","Kanji":"時計","Jpn":"とけい"},
-    {"Id":10013,"Chap":"10","Eng":"to measure","Kanji":"計る","Jpn":"はかる"},
-    {"Id":10014,"Chap":"10","Eng":"outside","Kanji":"外","Jpn":"そと"},
-    {"Id":10015,"Chap":"10","Eng":"to undo","Kanji":"外す","Jpn":"はずす"},
-    {"Id":10016,"Chap":"10","Eng":"to be undone","Kanji":"外れる","Jpn":"はずれる"},
-    {"Id":11000,"Chap":"11","Eng":"siblings/brothers and sisters","Kanji":"兄弟","Jpn":"きょうだい"},
-    {"Id":11001,"Chap":"11","Eng":"older brother/elder brother (mine)","Kanji":"兄","Jpn":"あに"},
-    {"Id":11002,"Chap":"11","Eng":"older brother/elder brother (other)","Kanji":"お兄さん","Jpn":"おにいさん"},
-    {"Id":11003,"Chap":"11","Eng":"younger brother (mine)","Kanji":"弟","Jpn":"おとうと"},
-    {"Id":11004,"Chap":"11","Eng":"sister school","Kanji":"姉妹校","Jpn":"しまいこう"},
-    {"Id":11005,"Chap":"11","Eng":"older sister/elder sister (mine)","Kanji":"姉","Jpn":"あね"},
-    {"Id":11006,"Chap":"11","Eng":"older sister/elder sister (other)","Kanji":"お姉さん","Jpn":"おねえさん"},
-    {"Id":11007,"Chap":"11","Eng":"sister city","Kanji":"姉妹都市","Jpn":"しまいとし"},
-    {"Id":11008,"Chap":"11","Eng":"younger sister (mine)","Kanji":"妹","Jpn":"いもうと"},
-    {"Id":11009,"Chap":"11","Eng":"musician","Kanji":"音楽家","Jpn":"おんがくか"},
-    {"Id":11010,"Chap":"11","Eng":"tanaka family","Kanji":"田中家","Jpn":"たなかけ"},
-    {"Id":11011,"Chap":"11","Eng":"house","Kanji":"家 (physical)","Jpn":"いえ"},
-    {"Id":11012,"Chap":"11","Eng":"home","Kanji":"家 (environment)","Jpn":"うち"},
-    {"Id":11013,"Chap":"11","Eng":"family","Kanji":"家族","Jpn":"かぞく"},
-    {"Id":11014,"Chap":"11","Eng":"youth","Kanji":"青春","Jpn":"せいしゅん"},
-    {"Id":11015,"Chap":"11","Eng":"spring","Kanji":"春","Jpn":"はる"},
-    {"Id":11016,"Chap":"11","Eng":"before spring","Kanji":"迎春","Jpn":"げいしゅん"},
-    {"Id":11017,"Chap":"11","Eng":"early summer","Kanji":"初夏","Jpn":"しょか"},
-    {"Id":11018,"Chap":"11","Eng":"summer vacation","Kanji":"夏休み","Jpn":"なつやすみ"},
-    {"Id":12000,"Chap":"12","Eng":"late authumn","Kanji":"晩秋","Jpn":"ばんしゅう"},
-    {"Id":12001,"Chap":"12","Eng":"authumn","Kanji":"秋","Jpn":"あき"},
-    {"Id":12002,"Chap":"12","Eng":"wintertime","Kanji":"冬季","Jpn":"とうき"},
-    {"Id":12003,"Chap":"12","Eng":"winter vacation","Kanji":"冬休み","Jpn":"ふゆやすみ"},
-    {"Id":12004,"Chap":"12","Eng":"electricity/electric light","Kanji":"電気","Jpn":"でんき"},
-    {"Id":12005,"Chap":"12","Eng":"chill","Kanji":"寒気がする","Jpn":"さむけがする"},
-    {"Id":12006,"Chap":"12","Eng":"weather","Kanji":"天気","Jpn":"てんき"},
-    {"Id":12007,"Chap":"12","Eng":"milky way","Kanji":"天の川","Jpn":"あまのがわ"},
-    {"Id":12008,"Chap":"12","Eng":"maybe","Kanji":"多分","Jpn":"たぶん"},
-    {"Id":12009,"Chap":"12","Eng":"many/much","Kanji":"多い","Jpn":"おおい"},
-    {"Id":12010,"Chap":"12","Eng":"a little","Kanji":"少々","Jpn":"しょうしょう"},
-    {"Id":12011,"Chap":"12","Eng":"a little/a few","Kanji":"少ない","Jpn":"すくない"},
-    {"Id":12012,"Chap":"12","Eng":"fine/healthy","Kanji":"元気","Jpn":"げんき"},
-    {"Id":12013,"Chap":"12","Eng":"new years day","Kanji":"元日","Jpn":"がんじつ"},
-    {"Id":12014,"Chap":"12","Eng":"original place","Kanji":"元の所","Jpn":"もとのところ"},
-    {"Id":12015,"Chap":"12","Eng":"sidewalk","Kanji":"歩道","Jpn":"ほどう"},
-    {"Id":12016,"Chap":"12","Eng":"to stroll","Kanji":"散歩する","Jpn":"さんぽする"},
-    {"Id":12017,"Chap":"12","Eng":"to walk","Kanji":"歩く","Jpn":"あるく"},
-    {"Id":13000,"Chap":"13","Eng":"to enter","Kanji":"入る","Jpn":"はいる"},
-    {"Id":13001,"Chap":"13","Eng":"to put in","Kanji":"入れる","Jpn":"いれる"},
-    {"Id":13002,"Chap":"13","Eng":"departure","Kanji":"出発","Jpn":"しゅっぱつ"},
-    {"Id":13003,"Chap":"13","Eng":"to leave","Kanji":"出る","Jpn":"でる"},
-    {"Id":13004,"Chap":"13","Eng":"to remember","Kanji":"思い出す","Jpn":"おもいだす"},
-    {"Id":13005,"Chap":"13","Eng":"advertisement","Kanji":"広告","Jpn":"こうこく"},
-    {"Id":13006,"Chap":"13","Eng":"spacious","Kanji":"広い","Jpn":"ひろい"},
-    {"Id":13007,"Chap":"13","Eng":"cancellation","Kanji":"中止","Jpn":"ちゅうし"},
-    {"Id":13008,"Chap":"13","Eng":"to stop/park","Kanji":"止める","Jpn":"とめる"},
-    {"Id":13009,"Chap":"13","Eng":"to come to a halt","Kanji":"止まる","Jpn":"とまる"},
-    {"Id":13010,"Chap":"13","Eng":"rain","Kanji":"雨","Jpn":"あめ"},
-    {"Id":13011,"Chap":"13","Eng":"rainy season","Kanji":"雨季","Jpn":"うき"},
-    {"Id":13012,"Chap":"13","Eng":"to open shop","Kanji":"開店する","Jpn":"かいてんする"},
-    {"Id":13013,"Chap":"13","Eng":"to open","Kanji":"開ける","Jpn":"あける"},
-    {"Id":13014,"Chap":"13","Eng":"to open by itself (single direction)","Kanji":"開く (single direction)","Jpn":"あく"},
-    {"Id":13015,"Chap":"13","Eng":"to open up/bloom/hold events (multiple directions)","Kanji":"開く (multiple directions)","Jpn":"ひらく"},
-    {"Id":13016,"Chap":"13","Eng":"overseas","Kanji":"海外","Jpn":"かいがい"},
-    {"Id":13017,"Chap":"13","Eng":"sea","Kanji":"海","Jpn":"うみ"},
-    {"Id":13018,"Chap":"13","Eng":"river","Kanji":"川","Jpn":"かわ"},
-    {"Id":14000,"Chap":"14","Eng":"care","Kanji":"世話","Jpn":"せわ"},
-    {"Id":14001,"Chap":"14","Eng":"world","Kanji":"世界","Jpn":"せかい"},
-    {"Id":14002,"Chap":"14","Eng":"painter","Kanji":"画家","Jpn":"がか"},
-    {"Id":14003,"Chap":"14","Eng":"plan","Kanji":"計画","Jpn":"けいかく"},
-    {"Id":14004,"Chap":"14","Eng":"movie","Kanji":"映画","Jpn":"えいが"},
-    {"Id":14005,"Chap":"14","Eng":"to reflect","Kanji":"映る","Jpn":"うつる"},
-    {"Id":14006,"Chap":"14","Eng":"vase","Kanji":"花瓶","Jpn":"かびん"},
-    {"Id":14007,"Chap":"14","Eng":"tea","Kanji":"お茶","Jpn":"おちゃ"},
-    {"Id":14008,"Chap":"14","Eng":"tea ceremony","Kanji":"茶道","Jpn":"さどう"},
-    {"Id":14009,"Chap":"14","Eng":"chinese","Kanji":"中国語","Jpn":"ちゅうごくご"},
-    {"Id":14010,"Chap":"14","Eng":"english","Kanji":"英語","Jpn":"えいご"},
-    {"Id":15000,"Chap":"15","Eng":"physical education","Kanji":"体育","Jpn":"たいいく"},
-    {"Id":15001,"Chap":"15","Eng":"body","Kanji":"体","Jpn":"からだ"},
-    {"Id":15002,"Chap":"15","Eng":"to not be enough","Kanji":"不足する","Jpn":"ふそくする"},
-    {"Id":15003,"Chap":"15","Eng":"to be enough","Kanji":"足りる","Jpn":"たりる"},
-    {"Id":15004,"Chap":"15","Eng":"to add","Kanji":"足す","Jpn":"たす"},
-    {"Id":15005,"Chap":"15","Eng":"leg/foot","Kanji":"足","Jpn":"あし"},
-    {"Id":15006,"Chap":"15","Eng":"population","Kanji":"人口","Jpn":"じんこう"},
-    {"Id":15007,"Chap":"15","Eng":"mouth","Kanji":"口","Jpn":"くち"},
-    {"Id":15008,"Chap":"15","Eng":"entrance","Kanji":"入口","Jpn":"いりぐち"},
-    {"Id":15009,"Chap":"15","Eng":"exit","Kanji":"出口","Jpn":"でぐち"},
-    {"Id":15010,"Chap":"15","Eng":"to wash the face","Kanji":"洗顔する","Jpn":"せんがんする"},
-    {"Id":15011,"Chap":"15","Eng":"face","Kanji":"顔","Jpn":"かお"},
-    {"Id":15012,"Chap":"15","Eng":"ear, nose and throat clinic","Kanji":"耳鼻科","Jpn":"じびか"},
-    {"Id":15013,"Chap":"15","Eng":"ear","Kanji":"耳","Jpn":"みみ"},
-    {"Id":15014,"Chap":"15","Eng":"purpose","Kanji":"目的","Jpn":"もくてき"},
-    {"Id":15015,"Chap":"15","Eng":"eye","Kanji":"目","Jpn":"め"},
-    {"Id":15016,"Chap":"15","Eng":"national","Kanji":"国立","Jpn":"こくりつ"},
-    {"Id":15017,"Chap":"15","Eng":"to stand up","Kanji":"立つ","Jpn":"たつ"},
-    {"Id":15018,"Chap":"15","Eng":"acquaintance","Kanji":"知人","Jpn":"ちじん"},
-    {"Id":15019,"Chap":"15","Eng":"to know","Kanji":"知る","Jpn":"しる"},
-    {"Id":16000,"Chap":"16","Eng":"address","Kanji":"住所","Jpn":"じゅうしょ"},
-    {"Id":16001,"Chap":"16","Eng":"to live","Kanji":"住む","Jpn":"すむ"},
-    {"Id":16002,"Chap":"16","Eng":"mind","Kanji":"意思","Jpn":"いし"},
-    {"Id":16003,"Chap":"16","Eng":"to think","Kanji":"思う","Jpn":"おもう"},
-    {"Id":16004,"Chap":"16","Eng":"in use","Kanji":"使用中","Jpn":"しようちゅう"},
-    {"Id":16005,"Chap":"16","Eng":"to use","Kanji":"使う","Jpn":"つかう"},
-    {"Id":16006,"Chap":"16","Eng":"short essay/composition","Kanji":"作文","Jpn":"さくぶん"},
-    {"Id":16007,"Chap":"16","Eng":"author","Kanji":"作家","Jpn":"さっか"},
-    {"Id":16008,"Chap":"16","Eng":"operation","Kanji":"操作","Jpn":"そうさ"},
-    {"Id":16009,"Chap":"16","Eng":"to make","Kanji":"作る","Jpn":"つくる"},
-    {"Id":16010,"Chap":"16","Eng":"product","Kanji":"製品","Jpn":"せいひん"},
-    {"Id":16011,"Chap":"16","Eng":"goods","Kanji":"品物","Jpn":"しなもの"},
-    {"Id":16012,"Chap":"16","Eng":"department chief","Kanji":"部長","Jpn":"ぶちょう"},
-    {"Id":16013,"Chap":"16","Eng":"long","Kanji":"長い","Jpn":"ながい"},
-    {"Id":16014,"Chap":"16","Eng":"to explain","Kanji":"説明する","Jpn":"せつめいする"},
-    {"Id":16015,"Chap":"16","Eng":"bright","Kanji":"明るい","Jpn":"あかるい"},
-    {"Id":16016,"Chap":"16","Eng":"meat","Kanji":"肉","Jpn":"にく"},
-    {"Id":17000,"Chap":"17","Eng":"to ask a question","Kanji":"質問する","Jpn":"しつもんする"},
-    {"Id":17001,"Chap":"17","Eng":"to inquire","Kanji":"問い合わせる","Jpn":"といあわせる"},
-    {"Id":17002,"Chap":"17","Eng":"answer sheet","Kanji":"答案用紙","Jpn":"とうあんようし"},
-    {"Id":17003,"Chap":"17","Eng":"to answer","Kanji":"答える","Jpn":"こたえる"},
-    {"Id":17004,"Chap":"17","Eng":"center","Kanji":"中心","Jpn":"ちゅうしん"},
-    {"Id":17005,"Chap":"17","Eng":"heart","Kanji":"心","Jpn":"こころ"},
-    {"Id":17006,"Chap":"17","Eng":"to worry","Kanji":"心配する","Jpn":"しんぱいする"},
-    {"Id":17007,"Chap":"17","Eng":"to deliver","Kanji":"配る","Jpn":"くばる"},
-    {"Id":17008,"Chap":"17","Eng":"hat/cap","Kanji":"帽子","Jpn":"ぼうし"},
-    {"Id":17009,"Chap":"17","Eng":"child","Kanji":"子ども","Jpn":"こども"},
-    {"Id":17010,"Chap":"17","Eng":"vending machine","Kanji":"自動販売機","Jpn":"じどうはんばいき"},
-    {"Id":17011,"Chap":"17","Eng":"to sell","Kanji":"売る","Jpn":"うる"},
-    {"Id":17012,"Chap":"17","Eng":"parking","Kanji":"駐車場","Jpn":"ちゅうしゃじょう"},
-    {"Id":17013,"Chap":"17","Eng":"counter","Kanji":"売り場","Jpn":"うりば"},
-    {"Id":17014,"Chap":"17","Eng":"letter/character","Kanji":"文字","Jpn":"もじ"},
-    {"Id":18000,"Chap":"18","Eng":"kanji","Kanji":"漢字","Jpn":"かんじ"},
-    {"Id":18001,"Chap":"18","Eng":"free of charge","Kanji":"無料","Jpn":"むりょう"},
-    {"Id":18002,"Chap":"18","Eng":"cooking","Kanji":"料理","Jpn":"りょうり"},
-    {"Id":18003,"Chap":"18","Eng":"husband (mine)","Kanji":"主人","Jpn":"しゅじん"},
-    {"Id":18004,"Chap":"18","Eng":"husband (other)","Kanji":"ご主人","Jpn":"ごしゅじん"},
-    {"Id":18005,"Chap":"18","Eng":"main","Kanji":"主な","Jpn":"おもな"},
-    {"Id":18006,"Chap":"18","Eng":"owner","Kanji":"持ち主","Jpn":"もちぬし"},
-    {"Id":18007,"Chap":"18","Eng":"to arrive","Kanji":"到着する","Jpn":"とうちゃくする"},
-    {"Id":18008,"Chap":"18","Eng":"to wear (shirt)","Kanji":"着る","Jpn":"きる"},
-    {"Id":18009,"Chap":"18","Eng":"to arrive","Kanji":"着く","Jpn":"つく"},
-    {"Id":18010,"Chap":"18","Eng":"new","Kanji":"新しい","Jpn":"あたらしい"},
-    {"Id":18011,"Chap":"18","Eng":"used car","Kanji":"中古車","Jpn":"ちゅうこしゃ"},
-    {"Id":18012,"Chap":"18","Eng":"old","Kanji":"古い","Jpn":"ふるい"},
-    {"Id":18013,"Chap":"18","Eng":"support","Kanji":"支持","Jpn":"しじ"},
-    {"Id":18014,"Chap":"18","Eng":"to have","Kanji":"持つ","Jpn":"もつ"},
-    {"Id":19000,"Chap":"19","Eng":"telephone","Kanji":"電話","Jpn":"でんわ"},
-    {"Id":19001,"Chap":"19","Eng":"story","Kanji":"話","Jpn":"はなし"},
-    {"Id":19002,"Chap":"19","Eng":"to speak","Kanji":"話す","Jpn":"はなす"},
-    {"Id":19003,"Chap":"19","Eng":"pronunciation","Kanji":"発音","Jpn":"はつおん"},
-    {"Id":19004,"Chap":"19","Eng":"sound","Kanji":"音","Jpn":"おと"},
-    {"Id":19005,"Chap":"19","Eng":"music","Kanji":"音楽","Jpn":"おんがく"},
-    {"Id":19006,"Chap":"19","Eng":"comfortable","Kanji":"楽","Jpn":"らく"},
-    {"Id":19007,"Chap":"19","Eng":"fun","Kanji":"楽しい","Jpn":"たのしい"},
-    {"Id":19008,"Chap":"19","Eng":"singer","Kanji":"歌手","Jpn":"かしゅ"},
-    {"Id":19009,"Chap":"19","Eng":"song","Kanji":"歌","Jpn":"うた"},
-    {"Id":19010,"Chap":"19","Eng":"to sing","Kanji":"歌う","Jpn":"うたう"},
-    {"Id":19011,"Chap":"19","Eng":"next time","Kanji":"今度","Jpn":"こんど"},
-    {"Id":19012,"Chap":"19","Eng":"35 degree","Kanji":"三十五度","Jpn":"さんじゅうごど"},
-    {"Id":19013,"Chap":"19","Eng":"this time","Kanji":"この度","Jpn":"このたび"},
-    {"Id":19014,"Chap":"19","Eng":"church","Kanji":"教会","Jpn":"きょうかい"},
-    {"Id":19015,"Chap":"19","Eng":"to teach","Kanji":"教える","Jpn":"おしえる"},
-    {"Id":19016,"Chap":"19","Eng":"to practice","Kanji":"練習する","Jpn":"れんしゅうする"},
-    {"Id":19017,"Chap":"19","Eng":"to learn","Kanji":"習う","Jpn":"ならう"},
-    {"Id":20000,"Chap":"20","Eng":"rental","Kanji":"賃貸","Jpn":"ちんたい"},
-    {"Id":20001,"Chap":"20","Eng":"to lend","Kanji":"貸す","Jpn":"かす"},
-    {"Id":20002,"Chap":"20","Eng":"loan","Kanji":"借金","Jpn":"しゃっきん"},
-    {"Id":20003,"Chap":"20","Eng":"to borrow","Kanji":"借りる","Jpn":"かりる"},
-    {"Id":20004,"Chap":"20","Eng":"postage","Kanji":"送料","Jpn":"そうりょう"},
-    {"Id":20005,"Chap":"20","Eng":"to send","Kanji":"送る","Jpn":"おくる"},
-    {"Id":20006,"Chap":"20","Eng":"to give","Kanji":"贈る","Jpn":"おくる"},
-    {"Id":20007,"Chap":"20","Eng":"strong wind","Kanji":"強風","Jpn":"きょうふう"},
-    {"Id":20008,"Chap":"20","Eng":"strong","Kanji":"強い","Jpn":"つよい"},
-    {"Id":20009,"Chap":"20","Eng":"to study","Kanji":"勉強する","Jpn":"べんきょうする"},
-    {"Id":20010,"Chap":"20","Eng":"to travel","Kanji":"旅行する","Jpn":"りょこうする"},
-    {"Id":20011,"Chap":"20","Eng":"journey","Kanji":"旅","Jpn":"たび"},
-    {"Id":20012,"Chap":"20","Eng":"classroom","Kanji":"教室","Jpn":"きょうしつ"},
-    {"Id":20013,"Chap":"20","Eng":"mountain climbing","Kanji":"登山","Jpn":"とざん"},
-    {"Id":20014,"Chap":"20","Eng":"to climb","Kanji":"登る","Jpn":"のぼる"},
-    {"Id":21000,"Chap":"21","Eng":"inconvenient","Kanji":"不便","Jpn":"ふべん"},
-    {"Id":21001,"Chap":"21","Eng":"to start/begin","Kanji":"開始する","Jpn":"かいしする"},
-    {"Id":21002,"Chap":"21","Eng":"to start/begin","Kanji":"始める","Jpn":"はじめる"},
-    {"Id":21003,"Chap":"21","Eng":"to start/begin","Kanji":"始まる","Jpn":"はじまる"},
-    {"Id":21004,"Chap":"21","Eng":"language","Kanji":"言語","Jpn":"げんご"},
-    {"Id":21005,"Chap":"21","Eng":"message","Kanji":"伝言","Jpn":"でんごん"},
-    {"Id":21006,"Chap":"21","Eng":"to say","Kanji":"言う","Jpn":"いう"},
-    {"Id":21007,"Chap":"21","Eng":"opinion","Kanji":"意見","Jpn":"いけん"},
-    {"Id":21008,"Chap":"21","Eng":"errand","Kanji":"用事","Jpn":"ようじ"},
-    {"Id":21009,"Chap":"21","Eng":"matter","Kanji":"事","Jpn":"こと"},
-    {"Id":21010,"Chap":"21","Eng":"job","Kanji":"仕事","Jpn":"しごと"},
-    {"Id":21011,"Chap":"21","Eng":"cannot be helped","Kanji":"仕方がない","Jpn":"しかたがない"},
-    {"Id":21012,"Chap":"21","Eng":"illness/disease (common)","Kanji":"病気","Jpn":"びょうき"},
-    {"Id":21013,"Chap":"21","Eng":"illness/disease (serious)","Kanji":"病","Jpn":"やまい"},
-    {"Id":21014,"Chap":"21","Eng":"hospital","Kanji":"病院","Jpn":"びょういん"},
-    {"Id":22000,"Chap":"22","Eng":"medical science","Kanji":"医学","Jpn":"いがく"},
-    {"Id":22001,"Chap":"22","Eng":"doctor","Kanji":"医者","Jpn":"いしゃ"},
-    {"Id":22002,"Chap":"22","Eng":"young people","Kanji":"若者","Jpn":"わかもの"},
-    {"Id":22003,"Chap":"22","Eng":"rooftop","Kanji":"屋上","Jpn":"おくじょう"},
-    {"Id":22004,"Chap":"22","Eng":"room","Kanji":"部屋","Jpn":"へや"},
-    {"Id":22005,"Chap":"22","Eng":"to prepare","Kanji":"用意する","Jpn":"よういする"},
-    {"Id":22006,"Chap":"22","Eng":"to possess","Kanji":"有る","Jpn":"ある"},
-    {"Id":22007,"Chap":"22","Eng":"inside the shop","Kanji":"店内","Jpn":"てんない"},
-    {"Id":22008,"Chap":"22","Eng":"shop","Kanji":"店","Jpn":"みせ"},
-    {"Id":22009,"Chap":"22","Eng":"citizen","Kanji":"国民","Jpn":"こくみん"},
-    {"Id":23000,"Chap":"23","Eng":"accurate/precise","Kanji":"正確","Jpn":"せいかく"},
-    {"Id":23001,"Chap":"23","Eng":"new year","Kanji":"お正月","Jpn":"おしょうがつ"},
-    {"Id":23002,"Chap":"23","Eng":"correct","Kanji":"正しい","Jpn":"ただしい"},
-    {"Id":23003,"Chap":"23","Eng":"map","Kanji":"地図","Jpn":"ちず"},
-    {"Id":23004,"Chap":"23","Eng":"library","Kanji":"図書館","Jpn":"としょかん"},
-    {"Id":23005,"Chap":"23","Eng":"to plan","Kanji":"図る","Jpn":"はかる"},
-    {"Id":23006,"Chap":"23","Eng":"cinema","Kanji":"映画館","Jpn":"えいがかん"},
-    {"Id":23007,"Chap":"23","Eng":"roadway","Kanji":"車道","Jpn":"しゃどう"},
-    {"Id":23008,"Chap":"23","Eng":"street","Kanji":"道","Jpn":"みち"},
-    {"Id":23009,"Chap":"23","Eng":"car/automobile","Kanji":"自動車","Jpn":"じどうしゃ"},
-    {"Id":23010,"Chap":"23","Eng":"to move","Kanji":"動く","Jpn":"うごく"},
-    {"Id":23011,"Chap":"23","Eng":"national foundation","Kanji":"建国","Jpn":"けんこく"},
-    {"Id":23012,"Chap":"23","Eng":"to be built","Kanji":"建つ","Jpn":"たつ"},
-    {"Id":23013,"Chap":"23","Eng":"to build","Kanji":"建てる","Jpn":"たてる"},
-    {"Id":23014,"Chap":"23","Eng":"building","Kanji":"建物","Jpn":"たてもの"},
-    {"Id":24000,"Chap":"24","Eng":"especially","Kanji":"特に","Jpn":"とくに"},
-    {"Id":24001,"Chap":"24","Eng":"limited express","Kanji":"特急","Jpn":"とっきゅう"},
-    {"Id":24002,"Chap":"24","Eng":"all day","Kanji":"終日","Jpn":"しゅうじつ"},
-    {"Id":24003,"Chap":"24","Eng":"to finish","Kanji":"終わる","Jpn":"おわる"},
-    {"Id":24004,"Chap":"24","Eng":"last train","Kanji":"終電","Jpn":"しゅうでん"},
-    {"Id":24005,"Chap":"24","Eng":"station","Kanji":"駅","Jpn":"えき"},
-    {"Id":24006,"Chap":"24","Eng":"photograph","Kanji":"写真","Jpn":"しゃしん"},
-    {"Id":24007,"Chap":"24","Eng":"to copy","Kanji":"写す","Jpn":"うつす"},
-    {"Id":24008,"Chap":"24","Eng":"truth","Kanji":"真実","Jpn":"しんじつ"},
-    {"Id":24009,"Chap":"24","Eng":"middle/centre","Kanji":"真ん中","Jpn":"まんなか"},
-    {"Id":24010,"Chap":"24","Eng":"beef","Kanji":"牛肉","Jpn":"ぎゅうにく"},
-    {"Id":24011,"Chap":"24","Eng":"cow","Kanji":"牛","Jpn":"うし"},
-    {"Id":24012,"Chap":"24","Eng":"woodland","Kanji":"山林","Jpn":"さんりん"},
-    {"Id":24013,"Chap":"24","Eng":"grove","Kanji":"林","Jpn":"はやし"},
-    {"Id":24014,"Chap":"24","Eng":"forest","Kanji":"森林","Jpn":"しんりん"},
-    {"Id":24015,"Chap":"24","Eng":"woods","Kanji":"森","Jpn":"もり"},
-    {"Id":24016,"Chap":"24","Eng":"forest bathing","Kanji":"森林浴","Jpn":"しんりんよく"},
-    {"Id":25000,"Chap":"25","Eng":"tanaka (person name)","Kanji":"田中さん","Jpn":"たなかさん"},
-    {"Id":25001,"Chap":"25","Eng":"yamada (person name)","Kanji":"山田さん","Jpn":"やまださん"},
-    {"Id":25002,"Chap":"25","Eng":"archaelogy","Kanji":"考古学","Jpn":"こうこがく"},
-    {"Id":25003,"Chap":"25","Eng":"to consider","Kanji":"考える","Jpn":"かんがえる"},
-    {"Id":25004,"Chap":"25","Eng":"parents","Kanji":"両親","Jpn":"りょうしん"},
-    {"Id":25005,"Chap":"25","Eng":"parent","Kanji":"親","Jpn":"おや"},
-    {"Id":25006,"Chap":"25","Eng":"close/intimate","Kanji":"親しい","Jpn":"したしい"},
-    {"Id":25007,"Chap":"25","Eng":"kind","Kanji":"親切","Jpn":"しんせつ"},
-    {"Id":25008,"Chap":"25","Eng":"important","Kanji":"大切","Jpn":"たいせつぃ"},
-    {"Id":25009,"Chap":"25","Eng":"to cut","Kanji":"切る","Jpn":"きる"},
-    {"Id":25010,"Chap":"25","Eng":"stamp","Kanji":"切手","Jpn":"きって"},
-    {"Id":25011,"Chap":"25","Eng":"game","Kanji":"試合","Jpn":"しあい"},
-    {"Id":25012,"Chap":"25","Eng":"to try/test (qualities of something)","Kanji":"試す","Jpn":"ためす"},
-    {"Id":25013,"Chap":"25","Eng":"to try/attempt (to do something)","Kanji":"試みる","Jpn":"こころみる"},
-    {"Id":25014,"Chap":"25","Eng":"examination","Kanji":"試験","Jpn":"しけん"},
-    {"Id":25015,"Chap":"25","Eng":"all","Kanji":"全部","Jpn":"ぜんぶ"},
-    {"Id":25016,"Chap":"25","Eng":"22 years old","Kanji":"二十二歳","Jpn":"にじゅうにさい"},
-    {"Id":25017,"Chap":"25","Eng":"to study abroad","Kanji":"留学する","Jpn":"りゅうがくする"},
-    {"Id":25018,"Chap":"25","Eng":"absent/away","Kanji":"留守","Jpn":"るす"},
-    {"Id":25019,"Chap":"25","Eng":"to keep in mind","Kanji":"留める","Jpn":"とめる"},
-    {"Id":25020,"Chap":"25","Eng":"meeting","Kanji":"会議","Jpn":"かいぎ"},
-    {"Id":25021,"Chap":"25","Eng":"to drop","Kanji":"散る","Jpn":"ちる"},
-    {"Id":25022,"Chap":"25","Eng":"bathroom","Kanji":"浴室","Jpn":"よくしつ"},
-    {"Id":25023,"Chap":"25","Eng":"to bathe","Kanji":"浴びる","Jpn":"あびる"},
-    {"Id":25024,"Chap":"25","Eng":"after","Kanji":"以降","Jpn":"いこう"},
-    {"Id":25025,"Chap":"25","Eng":"to fall (rain/snow)","Kanji":"降る","Jpn":"ふる"},
-    {"Id":25026,"Chap":"25","Eng":"to get off","Kanji":"降りる","Jpn":"おりる"},
-    {"Id":25027,"Chap":"25","Eng":"appetite","Kanji":"食欲","Jpn":"しょくよく"},
-    {"Id":25028,"Chap":"25","Eng":"to want","Kanji":"欲しい","Jpn":"ほしい"},
-    {"Id":25029,"Chap":"25","Eng":"greed","Kanji":"物欲","Jpn":"ぶつよく"},
-    {"Id":25030,"Chap":"25","Eng":"one hundred million","Kanji":"一億","Jpn":"いちおく"},
-    {"Id":26000,"Chap":"26","Eng":"the worst","Kanji":"最悪","Jpn":"さいあく"},
-    {"Id":26001,"Chap":"26","Eng":"bad","Kanji":"悪い","Jpn":"わるい"},
-    {"Id":26002,"Chap":"26","Eng":"express train","Kanji":"急行","Jpn":"きゅうこう"},
-    {"Id":26003,"Chap":"26","Eng":"to hurry","Kanji":"急ぐ","Jpn":"いそぐ"},
-    {"Id":26004,"Chap":"26","Eng":"to leave","Kanji":"去る","Jpn":"さる"},
-    {"Id":26005,"Chap":"26","Eng":"form","Kanji":"用紙","Jpn":"ようし"},
-    {"Id":26006,"Chap":"26","Eng":"chiba prefecture","Kanji":"千葉県","Jpn":"ちばけん"},
-    {"Id":26007,"Chap":"26","Eng":"urban area","Kanji":"都会","Jpn":"とかい"},
-    {"Id":26008,"Chap":"26","Eng":"convenience","Kanji":"都合","Jpn":"つごう"},
-    {"Id":26009,"Chap":"26","Eng":"metropolis","Kanji":"都","Jpn":"みやこ"},
-    {"Id":26010,"Chap":"26","Eng":"to pass","Kanji":"合格する","Jpn":"ごうかくする"},
-    {"Id":26011,"Chap":"26","Eng":"rain jacket","Kanji":"合羽","Jpn":"かっぱ"},
-    {"Id":26012,"Chap":"26","Eng":"to discuss","Kanji":"話し合う","Jpn":"はなしあう"},
-    {"Id":26013,"Chap":"26","Eng":"expressway","Kanji":"高速道路","Jpn":"こうそくどうろ"},
-    {"Id":26014,"Chap":"26","Eng":"fast","Kanji":"速い","Jpn":"はやい"},
-    {"Id":26015,"Chap":"26","Eng":"directly","Kanji":"直接","Jpn":"ちょくせつ"},
-    {"Id":26016,"Chap":"26","Eng":"honest","Kanji":"正直","Jpn":"しょうじき"},
-    {"Id":26017,"Chap":"26","Eng":"to correct","Kanji":"直す","Jpn":"なおす"},
-    {"Id":26018,"Chap":"26","Eng":"interview","Kanji":"面接","Jpn":"めんせつ"},
-    {"Id":26019,"Chap":"26","Eng":"public bath","Kanji":"銭湯","Jpn":"せんとう"},
-    {"Id":26020,"Chap":"26","Eng":"hot water","Kanji":"お湯","Jpn":"おゆ"},
-    {"Id":26021,"Chap":"26","Eng":"exploration","Kanji":"探検","Jpn":"たんけん"},
-    {"Id":26022,"Chap":"26","Eng":"to search","Kanji":"探す","Jpn":"さがす"},
-    {"Id":26023,"Chap":"26","Eng":"peace","Kanji":"平和","Jpn":"へいわ"},
-    {"Id":26024,"Chap":"26","Eng":"equality","Kanji":"平等","Jpn":"びょうどう"},
-    {"Id":26025,"Chap":"26","Eng":"flat","Kanji":"平ら","Jpn":"たいら"},
-    {"Id":26026,"Chap":"26","Eng":"low level employee","Kanji":"平社員","Jpn":"ひらしゃいん"},
-    {"Id":26027,"Chap":"26","Eng":"religious building","Kanji":"寺院","Jpn":"じいん"},
-    {"Id":26028,"Chap":"26","Eng":"temple","Kanji":"お寺","Jpn":"おてら"},
-    {"Id":26029,"Chap":"26","Eng":"victory","Kanji":"勝利","Jpn":"しょうり"},
-    {"Id":26030,"Chap":"26","Eng":"to win","Kanji":"勝つ","Jpn":"かつ"},
-    {"Id":26031,"Chap":"26","Eng":"superior","Kanji":"勝る","Jpn":"まさる"},
-    {"Id":26032,"Chap":"26","Eng":"contest","Kanji":"勝負","Jpn":"しょうぶ"},
-    {"Id":26033,"Chap":"26","Eng":"to lose","Kanji":"負ける","Jpn":"まける"},
-    {"Id":26034,"Chap":"26","Eng":"to bear","Kanji":"負う","Jpn":"おう"},
-    {"Id":26035,"Chap":"26","Eng":"desire","Kanji":"願望","Jpn":"がんぼう"},
-    {"Id":26036,"Chap":"26","Eng":"please","Kanji":"お願いします","Jpn":"おねがいします"},
-    {"Id":26037,"Chap":"26","Eng":"to sit japanese style","Kanji":"正座する","Jpn":"せいざする"},
-    {"Id":26038,"Chap":"26","Eng":"to sit","Kanji":"座る","Jpn":"すわる"},
-    {"Id":26039,"Chap":"26","Eng":"sleep","Kanji":"睡眠","Jpn":"すいみん"},
-    {"Id":26040,"Chap":"26","Eng":"sleepy","Kanji":"眠い","Jpn":"ねむい"},
-    {"Id":26041,"Chap":"26","Eng":"narrow","Kanji":"狭い","Jpn":"せまい"},
-    {"Id":26042,"Chap":"26","Eng":"sweet (noun, flavor)","Kanji":"甘味","Jpn":"かんみ"},
-    {"Id":26043,"Chap":"26","Eng":"sweet/fragrant (adj)","Kanji":"甘い","Jpn":"あまい"},
-    {"Id":26044,"Chap":"26","Eng":"perseverance","Kanji":"辛抱","Jpn":"しんぼう"},
-    {"Id":26045,"Chap":"26","Eng":"spicy (taste)","Kanji":"辛い (味覚)","Jpn":"からい"},
-    {"Id":26046,"Chap":"26","Eng":"difficult (experience)","Kanji":"辛い (経験)","Jpn":"つらい"},
-    {"Id":26047,"Chap":"26","Eng":"yolk","Kanji":"卵黄","Jpn":"らんおう"},
-    {"Id":26048,"Chap":"26","Eng":"egg","Kanji":"卵","Jpn":"たまご"},
-    {"Id":26049,"Chap":"26","Eng":"raw egg","Kanji":"生卵","Jpn":"なまたまご"},
-    {"Id":26050,"Chap":"26","Eng":"finder","Kanji":"拾得者","Jpn":"しゅうとくしゃ"},
-    {"Id":26051,"Chap":"26","Eng":"to pick up","Kanji":"拾う","Jpn":"ひろう"},
-    {"Id":27000,"Chap":"27","Eng":"school lesson","Kanji":"授業","Jpn":"じゅぎょう"},
-    {"Id":27001,"Chap":"27","Eng":"task","Kanji":"業","Jpn":"わざ"},
-    {"Id":27002,"Chap":"27","Eng":"swan","Kanji":"白鳥","Jpn":"はくちょう"},
-    {"Id":27003,"Chap":"27","Eng":"bird","Kanji":"鳥","Jpn":"とり"},
-    {"Id":27004,"Chap":"27","Eng":"local train","Kanji":"普通","Jpn":"ふつう"},
-    {"Id":27005,"Chap":"27","Eng":"to commute","Kanji":"通う","Jpn":"かよう"},
-    {"Id":27006,"Chap":"27","Eng":"to pass","Kanji":"通る","Jpn":"とおる"},
-    {"Id":27007,"Chap":"27","Eng":"hobby","Kanji":"趣味","Jpn":"しゅみ"},
-    {"Id":27008,"Chap":"27","Eng":"taste","Kanji":"味","Jpn":"あじ"},
-    {"Id":27009,"Chap":"27","Eng":"miso","Kanji":"味噌","Jpn":"みそ"},
-    {"Id":27010,"Chap":"27","Eng":"to exercise","Kanji":"運動する","Jpn":"うんどうする"},
-    {"Id":27011,"Chap":"27","Eng":"to carry","Kanji":"運ぶ","Jpn":"はこぶ"},
-    {"Id":27012,"Chap":"27","Eng":"lucky","Kanji":"運がいい","Jpn":"うんがいい"},
-    {"Id":27013,"Chap":"27","Eng":"to drive","Kanji":"運転する","Jpn":"うんてんする"},
-    {"Id":27014,"Chap":"27","Eng":"to fall","Kanji":"転ぶ","Jpn":"ころぶ"},
-    {"Id":27015,"Chap":"27","Eng":"real ability","Kanji":"実力","Jpn":"じつりょく"},
-    {"Id":27016,"Chap":"27","Eng":"horsepower","Kanji":"馬力","Jpn":"ばりき"},
-    {"Id":27017,"Chap":"27","Eng":"power","Kanji":"力","Jpn":"ちから"},
-    {"Id":27018,"Chap":"27","Eng":"characteristic","Kanji":"特色","Jpn":"とくしょく"},
-    {"Id":27019,"Chap":"27","Eng":"scenery","Kanji":"景色","Jpn":"けしき"},
-    {"Id":27020,"Chap":"27","Eng":"color","Kanji":"色","Jpn":"いろ"},
-    {"Id":27021,"Chap":"27","Eng":"complexion","Kanji":"顔色","Jpn":"かおいろ"},
-    {"Id":27022,"Chap":"27","Eng":"furniture","Kanji":"家具","Jpn":"かぐ"},
-    {"Id":27023,"Chap":"27","Eng":"to acquire","Kanji":"取得する","Jpn":"しゅとくする"},
-    {"Id":27024,"Chap":"27","Eng":"to take","Kanji":"取る","Jpn":"とる"},
-    {"Id":27025,"Chap":"27","Eng":"to ship","Kanji":"出荷する","Jpn":"しゅっかする"},
-    {"Id":27026,"Chap":"27","Eng":"easy","Kanji":"簡単","Jpn":"かんたん"},
-    {"Id":28000,"Chap":"28","Eng":"word","Kanji":"単語","Jpn":"たんご"},
-    {"Id":28001,"Chap":"28","Eng":"a sense","Kanji":"感覚","Jpn":"かんかく"},
-    {"Id":28002,"Chap":"28","Eng":"to remember","Kanji":"覚える","Jpn":"おぼえる"},
-    {"Id":28003,"Chap":"28","Eng":"to wake","Kanji":"覚める","Jpn":"さめる"},
-    {"Id":28004,"Chap":"28","Eng":"busy (formal)","Kanji":"多忙","Jpn":"たぼう"},
-    {"Id":28005,"Chap":"28","Eng":"busy (casual)","Kanji":"忙しい","Jpn":"いそがしい"},
-    {"Id":28006,"Chap":"28","Eng":"salary","Kanji":"給料","Jpn":"きゅうりょう"},
-    {"Id":28007,"Chap":"28","Eng":"school meal","Kanji":"給食","Jpn":"きゅうしょく"},
-    {"Id":28008,"Chap":"28","Eng":"to tell you the truth","Kanji":"実は","Jpn":"じつは"},
-    {"Id":28009,"Chap":"28","Eng":"experiment","Kanji":"実験","Jpn":"じっけん"},
-    {"Id":28010,"Chap":"28","Eng":"cooler","Kanji":"清涼","Jpn":"せいりょう"},
-    {"Id":28011,"Chap":"28","Eng":"cool","Kanji":"涼しい","Jpn":"すずしい"},
-    {"Id":28012,"Chap":"28","Eng":"future (usually near)","Kanji":"将来","Jpn":"しょうらい"},
-    {"Id":28013,"Chap":"28","Eng":"be absorbed","Kanji":"夢中","Jpn":"むちゅう"},
-    {"Id":28014,"Chap":"28","Eng":"dream","Kanji":"夢","Jpn":"ゆめ"},
-    {"Id":28015,"Chap":"28","Eng":"fatigue","Kanji":"疲労","Jpn":"ひろう"},
-    {"Id":28016,"Chap":"28","Eng":"to get tired","Kanji":"疲れる","Jpn":"つかれる"},
-    {"Id":28017,"Chap":"28","Eng":"headache","Kanji":"頭痛","Jpn":"ずつう"},
-    {"Id":28018,"Chap":"28","Eng":"painful","Kanji":"痛い","Jpn":"いたい"},
-    {"Id":28019,"Chap":"28","Eng":"he/boyfriend","Kanji":"彼","Jpn":"かれ"},
-    {"Id":28020,"Chap":"28","Eng":"she/girlfriend","Kanji":"彼女","Jpn":"かのじょ"},
-    {"Id":29000,"Chap":"29","Eng":"earthquake","Kanji":"地震","Jpn":"じしん"},
-    {"Id":29001,"Chap":"29","Eng":"rumor","Kanji":"走者","Jpn":"そうしゃ"},
-    {"Id":29002,"Chap":"29","Eng":"to run","Kanji":"走る","Jpn":"はしる"},
-    {"Id":29003,"Chap":"29","Eng":"to concentrate","Kanji":"集中する","Jpn":"しゅうちゅうする"},
-    {"Id":29004,"Chap":"29","Eng":"to gather","Kanji":"集まる","Jpn":"あつまる"},
-    {"Id":29005,"Chap":"29","Eng":"to collect","Kanji":"集める","Jpn":"あつめる"},
-    {"Id":29006,"Chap":"29","Eng":"to research","Kanji":"研究する","Jpn":"けんきゅうする"},
-    {"Id":29007,"Chap":"29","Eng":"to sharpen","Kanji":"研ぐ","Jpn":"とぐ"},
-    {"Id":29008,"Chap":"29","Eng":"researcher","Kanji":"研究者","Jpn":"けんきゅうしゃ"},
-    {"Id":29009,"Chap":"29","Eng":"weight","Kanji":"体重","Jpn":"たいじゅう"},
-    {"Id":29010,"Chap":"29","Eng":"heavy","Kanji":"重い","Jpn":"おもい"},
-    {"Id":29011,"Chap":"29","Eng":"pond","Kanji":"池","Jpn":"いけ"},
-    {"Id":29012,"Chap":"29","Eng":"triangle","Kanji":"三角形","Jpn":"さんかくけい"},
-    {"Id":29013,"Chap":"29","Eng":"doll","Kanji":"人形","Jpn":"にんぎょう"},
-    {"Id":29014,"Chap":"29","Eng":"shape/form","Kanji":"形","Jpn":"かたち"},
-    {"Id":29015,"Chap":"29","Eng":"crosswalk","Kanji":"横断歩道","Jpn":"おうだんほどう"},
-    {"Id":29016,"Chap":"29","Eng":"side","Kanji":"横","Jpn":"よこ"},
-    {"Id":29017,"Chap":"29","Eng":"overpass","Kanji":"歩道橋","Jpn":"ほどうきょう"},
-    {"Id":29018,"Chap":"29","Eng":"bridge","Kanji":"橋","Jpn":"はし"},
-    {"Id":29019,"Chap":"29","Eng":"decision","Kanji":"決心","Jpn":"けっしん"},
-    {"Id":29020,"Chap":"29","Eng":"to decide","Kanji":"決める","Jpn":"きめる"},
-    {"Id":29021,"Chap":"29","Eng":"to be decided","Kanji":"決まる","Jpn":"きまる"},
-    {"Id":30000,"Chap":"30","Eng":"emergency","Kanji":"非常","Jpn":"ひじょう"},
-    {"Id":30001,"Chap":"30","Eng":"emergency exit","Kanji":"非常口","Jpn":"ひじょうぐち"},
-    {"Id":30002,"Chap":"30","Eng":"always","Kanji":"常に","Jpn":"つねに"},
-    {"Id":30003,"Chap":"30","Eng":"year-end party","Kanji":"忘年会","Jpn":"ぼうねんかい"},
-    {"Id":30004,"Chap":"30","Eng":"to forget","Kanji":"忘れる","Jpn":"わすれる"},
-    {"Id":30005,"Chap":"30","Eng":"leave/neglect","Kanji":"放置","Jpn":"ほうち"},
-    {"Id":30006,"Chap":"30","Eng":"to put","Kanji":"置く","Jpn":"おく"},
-    {"Id":30007,"Chap":"30","Eng":"professor","Kanji":"教授","Jpn":"きょうじゅ"},
-    {"Id":30008,"Chap":"30","Eng":"to confer","Kanji":"授ける","Jpn":"さずける"},
-    {"Id":30009,"Chap":"30","Eng":"to be given","Kanji":"授かる","Jpn":"さずかる"},
-    {"Id":30010,"Chap":"30","Eng":"technology","Kanji":"技術","Jpn":"ぎじゅつ"},
-    {"Id":30011,"Chap":"30","Eng":"skill","Kanji":"技","Jpn":"わざ"},
-    {"Id":30012,"Chap":"30","Eng":"art","Kanji":"美術","Jpn":"びじゅつ"},
-    {"Id":30013,"Chap":"30","Eng":"material","Kanji":"資料","Jpn":"しりょう"},
-    {"Id":30014,"Chap":"30","Eng":"document","Kanji":"書類","Jpn":"しょるい"},
-    {"Id":30015,"Chap":"30","Eng":"to review","Kanji":"復習する","Jpn":"ふくしゅうする"},
-    {"Id":30016,"Chap":"30","Eng":"plant","Kanji":"植物","Jpn":"しょくぶつ"},
-    {"Id":30017,"Chap":"30","Eng":"to plant","Kanji":"植える","Jpn":"うえる"},
-    {"Id":30018,"Chap":"30","Eng":"on the desk","Kanji":"机上","Jpn":"きじょう"},
-    {"Id":30019,"Chap":"30","Eng":"desk","Kanji":"机","Jpn":"つくえ"},
-    {"Id":31000,"Chap":"31","Eng":"tokyo","Kanji":"東京","Jpn":"とうきょう"},
-    {"Id":31001,"Chap":"31","Eng":"east","Kanji":"東","Jpn":"ひがし"},
-    {"Id":31002,"Chap":"31","Eng":"western","Kanji":"西洋","Jpn":"せいよう"},
-    {"Id":31003,"Chap":"31","Eng":"west","Kanji":"西","Jpn":"にし"},
-    {"Id":31004,"Chap":"31","Eng":"south wast asia","Kanji":"東南アジア","Jpn":"とうなんアジア"},
-    {"Id":31005,"Chap":"31","Eng":"south","Kanji":"南","Jpn":"みなみ"},
-    {"Id":31006,"Chap":"31","Eng":"north america","Kanji":"北米","Jpn":"ほくべい"},
-    {"Id":31007,"Chap":"31","Eng":"north","Kanji":"北","Jpn":"きた"},
-    {"Id":31008,"Chap":"31","Eng":"hokkaido","Kanji":"北海道","Jpn":"ほっかいどう"},
-    {"Id":31009,"Chap":"31","Eng":"city hall","Kanji":"市役所","Jpn":"しやくしょ"},
-    {"Id":31010,"Chap":"31","Eng":"market","Kanji":"市場","Jpn":"いちば"},
-    {"Id":31011,"Chap":"31","Eng":"typhoon","Kanji":"台風","Jpn":"たいふう"},
-    {"Id":31012,"Chap":"31","Eng":"wind","Kanji":"風","Jpn":"かぜ"},
-    {"Id":31013,"Chap":"31","Eng":"airport","Kanji":"空港","Jpn":"くうこう"},
-    {"Id":31014,"Chap":"31","Eng":"sky","Kanji":"空","Jpn":"そら"},
-    {"Id":31015,"Chap":"31","Eng":"ward/district","Kanji":"区","Jpn":"く"},
-    {"Id":31016,"Chap":"31","Eng":"fine weather","Kanji":"晴天","Jpn":"せいてん"},
-    {"Id":31017,"Chap":"31","Eng":"to clear up","Kanji":"晴れる","Jpn":"はれる"},
-    {"Id":31018,"Chap":"31","Eng":"constellation","Kanji":"星座","Jpn":"せいざ"},
-    {"Id":31019,"Chap":"31","Eng":"star","Kanji":"星","Jpn":"ほし"},
-    {"Id":31020,"Chap":"31","Eng":"fever","Kanji":"熱","Jpn":"ねつ"},
-    {"Id":31021,"Chap":"31","Eng":"enthusiastic","Kanji":"熱心","Jpn":"ねっしん"},
-    {"Id":31022,"Chap":"31","Eng":"hot","Kanji":"熱い","Jpn":"あつい"},
-    {"Id":32000,"Chap":"32","Eng":"to reserve/book","Kanji":"予する","Jpn":"よやくする"},
-    {"Id":32001,"Chap":"32","Eng":"approximately/about","Kanji":"約","Jpn":"やく"},
-    {"Id":32002,"Chap":"32","Eng":"promise","Kanji":"束","Jpn":"やくそく"},
-    {"Id":32003,"Chap":"32","Eng":"to bind","Kanji":"束ねる","Jpn":"たばねる"},
-    {"Id":32004,"Chap":"32","Eng":"to quit","Kanji":"辞める","Jpn":"やめる"},
-    {"Id":32005,"Chap":"32","Eng":"to resign","Kanji":"辞職する","Jpn":"じしょくする"},
-    {"Id":32006,"Chap":"32","Eng":"to knead/make a plan","Kanji":"練る","Jpn":"ねる"},
-    {"Id":32007,"Chap":"32","Eng":"reply","Kanji":"返事","Jpn":"へんじ"},
-    {"Id":32008,"Chap":"32","Eng":"to return","Kanji":"返す","Jpn":"かえす"},
-    {"Id":32009,"Chap":"32","Eng":"recently","Kanji":"最近","Jpn":"さいきん"},
-    {"Id":32010,"Chap":"32","Eng":"most","Kanji":"最も","Jpn":"もっとも"},
-    {"Id":32011,"Chap":"32","Eng":"series","Kanji":"連続","Jpn":"れんぞく"},
-    {"Id":32012,"Chap":"32","Eng":"to continue","Kanji":"続ける","Jpn":"つづける"},
-    {"Id":32013,"Chap":"32","Eng":"to be continued","Kanji":"続く","Jpn":"つづく"},
-    {"Id":32014,"Chap":"32","Eng":"square","Kanji":"四角形","Jpn":"しかくけい"},
-    {"Id":32015,"Chap":"32","Eng":"corner/edge","Kanji":"角 (street/sharpness)","Jpn":"かど"},
-    {"Id":32016,"Chap":"32","Eng":"horn","Kanji":"角 (animal)","Jpn":"つの"},
-    {"Id":32017,"Chap":"32","Eng":"be crowded","Kanji":"込む","Jpn":"くむ"},
-    {"Id":32018,"Chap":"32","Eng":"to load","Kanji":"込める","Jpn":"こめる"},
-    {"Id":32019,"Chap":"32","Eng":"to declare","Kanji":"申告する","Jpn":"しんこくする"},
-    {"Id":32020,"Chap":"32","Eng":"application","Kanji":"申し込み","Jpn":"もうしこみ"},
-    {"Id":32021,"Chap":"32","Eng":"weather forecast","Kanji":"天気予報","Jpn":"てんきよほう"},
-    {"Id":33000,"Chap":"33","Eng":"pharmacy","Kanji":"薬局","Jpn":"やっきょく"},
-    {"Id":33001,"Chap":"33","Eng":"medicine","Kanji":"薬","Jpn":"くすり"},
-    {"Id":33002,"Chap":"33","Eng":"clothes","Kanji":"服","Jpn":"ふく"},
-    {"Id":33003,"Chap":"33","Eng":"sunlight","Kanji":"日光","Jpn":"にっこう"},
-    {"Id":33004,"Chap":"33","Eng":"to shine","Kanji":"光る","Jpn":"ひかる"},
-    {"Id":33005,"Chap":"33","Eng":"light","Kanji":"光","Jpn":"ひかり"},
-    {"Id":33006,"Chap":"33","Eng":"to close the shop","Kanji":"閉店する","Jpn":"へいてんする"},
-    {"Id":33007,"Chap":"33","Eng":"to close","Kanji":"閉める","Jpn":"しめる"},
-    {"Id":33008,"Chap":"33","Eng":"to be closed","Kanji":"閉まる","Jpn":"しまる"},
-    {"Id":33009,"Chap":"33","Eng":"to close/shut","Kanji":"閉じる","Jpn":"とじる"},
-    {"Id":33010,"Chap":"33","Eng":"the most","Kanji":"一番","Jpn":"いちばん"},
-    {"Id":33011,"Chap":"33","Eng":"number","Kanji":"番号","Jpn":"ばんごう"},
-    {"Id":33012,"Chap":"33","Eng":"police box","Kanji":"交番","Jpn":"こうばん"},
-    {"Id":33013,"Chap":"33","Eng":"to cross/associate","Kanji":"交わる","Jpn":"まじわる"},
-    {"Id":33014,"Chap":"33","Eng":"danger","Kanji":"危険","Jpn":"きけん"},
-    {"Id":33015,"Chap":"33","Eng":"dangerous","Kanji":"危ない","Jpn":"あぶない"},
-    {"Id":33016,"Chap":"33","Eng":"to attend","Kanji":"出席する","Jpn":"しゅっせきする"},
-    {"Id":33017,"Chap":"33","Eng":"to return","Kanji":"戻す","Jpn":"もどす"},
-    {"Id":33018,"Chap":"33","Eng":"to pay","Kanji":"払う","Jpn":"はらう"},
-    {"Id":34000,"Chap":"34","Eng":"nonexistent","Kanji":"無い","Jpn":"ない"},
-    {"Id":34001,"Chap":"34","Eng":"to fail","Kanji":"失敗する","Jpn":"しっぱいする"},
-    {"Id":34002,"Chap":"34","Eng":"to lose","Kanji":"失う","Jpn":"うしなう"},
-    {"Id":34003,"Chap":"34","Eng":"excuse me","Kanji":"失礼します","Jpn":"しつれいします"},
-    {"Id":34004,"Chap":"34","Eng":"gold","Kanji":"黄金","Jpn":"おうごん"},
-    {"Id":34005,"Chap":"34","Eng":"yellow sand","Kanji":"黄砂","Jpn":"こうさ"},
-    {"Id":34006,"Chap":"34","Eng":"yellow","Kanji":"黄色","Jpn":"きいろ"},
-    {"Id":34007,"Chap":"34","Eng":"complaint","Kanji":"苦情","Jpn":"くじょう"},
-    {"Id":34008,"Chap":"34","Eng":"hard","Kanji":"苦しい","Jpn":"くるしい"},
-    {"Id":34009,"Chap":"34","Eng":"bitter","Kanji":"苦い","Jpn":"にがい"},
-    {"Id":34010,"Chap":"34","Eng":"to escape","Kanji":"逃亡する","Jpn":"とうぼうする"},
-    {"Id":34011,"Chap":"34","Eng":"to run away","Kanji":"逃げる","Jpn":"にげる"},
-    {"Id":34012,"Chap":"34","Eng":"rule","Kanji":"規則","Jpn":"きそく"},
-    {"Id":34013,"Chap":"34","Eng":"foul","Kanji":"反則","Jpn":"はんそく"},
-    {"Id":34014,"Chap":"34","Eng":"guard","Kanji":"守衛","Jpn":"しゅえい"},
-    {"Id":34015,"Chap":"34","Eng":"to keep/protect","Kanji":"守る","Jpn":"まもる"},
-    {"Id":34016,"Chap":"34","Eng":"dentistry","Kanji":"歯科","Jpn":"しか"},
-    {"Id":34017,"Chap":"34","Eng":"tooth","Kanji":"歯","Jpn":"は"},
-    {"Id":34018,"Chap":"34","Eng":"dentist","Kanji":"歯医者","Jpn":"はいしゃ"},
-    {"Id":34019,"Chap":"34","Eng":"parallel","Kanji":"並列","Jpn":"へいれつ"},
-    {"Id":34020,"Chap":"34","Eng":"to line up","Kanji":"並ぶ","Jpn":"ならぶ"},
-    {"Id":34021,"Chap":"34","Eng":"to arrange","Kanji":"並べる","Jpn":"ならべる"},
-    {"Id":34022,"Chap":"34","Eng":"ordinary","Kanji":"並","Jpn":"なみ"},
-    {"Id":35000,"Chap":"35","Eng":"same time","Kanji":"同時に","Jpn":"どうじに"},
-    {"Id":35001,"Chap":"35","Eng":"same","Kanji":"同じ","Jpn":"おなじ"},
-    {"Id":35002,"Chap":"35","Eng":"politics","Kanji":"政治","Jpn":"せいじ"},
-    {"Id":35003,"Chap":"35","Eng":"medical treatment","Kanji":"治療","Jpn":"ちりょう"},
-    {"Id":35004,"Chap":"35","Eng":"to get well","Kanji":"治る","Jpn":"なおる"},
-    {"Id":35005,"Chap":"35","Eng":"to calm","Kanji":"治まる","Jpn":"おさまる"},
-    {"Id":35006,"Chap":"35","Eng":"place","Kanji":"所","Jpn":"ところ"},
-    {"Id":35007,"Chap":"35","Eng":"summer resort","Kanji":"避暑地","Jpn":"ひしょち"},
-    {"Id":35008,"Chap":"35","Eng":"hot","Kanji":"暑い","Jpn":"あつい"},
-    {"Id":35009,"Chap":"35","Eng":"cold wave","Kanji":"寒波","Jpn":"かんぱ"},
-    {"Id":35010,"Chap":"35","Eng":"cold","Kanji":"寒い","Jpn":"さむい"},
-    {"Id":35011,"Chap":"35","Eng":"convenient","Kanji":"便利","Jpn":"べんり"},
-    {"Id":35012,"Chap":"35","Eng":"post office","Kanji":"郵便局","Jpn":"ゆうびんきょく"},
-    {"Id":35013,"Chap":"35","Eng":"letter","Kanji":"便り","Jpn":"たより"},
-    {"Id":35014,"Chap":"35","Eng":"to use","Kanji":"利用する","Jpn":"りようする"},
-    {"Id":35015,"Chap":"35","Eng":"left handed","Kanji":"左利き","Jpn":"ひだりきき"},
-    {"Id":35016,"Chap":"35","Eng":"swimming","Kanji":"水泳","Jpn":"すいえい"},
-    {"Id":35017,"Chap":"35","Eng":"to swim","Kanji":"泳ぐ","Jpn":"およぐ"},
-    {"Id":35018,"Chap":"35","Eng":"direction","Kanji":"方向","Jpn":"ほうこう"},
-    {"Id":35019,"Chap":"35","Eng":"over there","Kanji":"向こう","Jpn":"むこう"},
-    {"Id":35020,"Chap":"35","Eng":"to turn towards","Kanji":"向く","Jpn":"むく"},
-    {"Id":35021,"Chap":"35","Eng":"difficulty","Kanji":"困難","Jpn":"こんなん"},
-    {"Id":35022,"Chap":"35","Eng":"to have a problem","Kanji":"困る","Jpn":"こまる"},
-    {"Id":35023,"Chap":"35","Eng":"bullet","Kanji":"弾丸","Jpn":"だんがん"},
-    {"Id":35024,"Chap":"35","Eng":"circle","Kanji":"丸","Jpn":"まる"},
-    {"Id":35025,"Chap":"35","Eng":"round","Kanji":"丸い","Jpn":"まるい"},
-    {"Id":36000,"Chap":"36","Eng":"airplane","Kanji":"飛行機","Jpn":"ひこうき"},
-    {"Id":36001,"Chap":"36","Eng":"tune","Kanji":"曲","Jpn":"きょく"},
-    {"Id":36002,"Chap":"36","Eng":"to turn","Kanji":"曲がる","Jpn":"まがる"},
-    {"Id":36003,"Chap":"36","Eng":"nothing","Kanji":"皆無","Jpn":"かいむ"},
-    {"Id":36004,"Chap":"36","Eng":"everyone","Kanji":"皆さん","Jpn":"みなさん"},
-    {"Id":36005,"Chap":"36","Eng":"illegal","Kanji":"違法","Jpn":"いほう"},
-    {"Id":36006,"Chap":"36","Eng":"to differ","Kanji":"違う","Jpn":"ちがう"},
-    {"Id":36007,"Chap":"36","Eng":"illegal action","Kanji":"違法行為","Jpn":"いほうこうい"},
-    {"Id":36008,"Chap":"36","Eng":"law","Kanji":"法律","Jpn":"ほうりつ"},
-    {"Id":36009,"Chap":"36","Eng":"office","Kanji":"事務所","Jpn":"じむしょ"},
-    {"Id":36010,"Chap":"36","Eng":"to serve","Kanji":"務める","Jpn":"つとめる"},
-    {"Id":36011,"Chap":"36","Eng":"customer","Kanji":"お客","Jpn":"おきゃく"},
-    {"Id":36012,"Chap":"36","Eng":"japan archipelago","Kanji":"日本列島","Jpn":"にほんれっとう"},
-    {"Id":36013,"Chap":"36","Eng":"island country","Kanji":"島国","Jpn":"しまぐに"},
-    {"Id":36014,"Chap":"36","Eng":"traffic light","Kanji":"信号","Jpn":"しんごう"},
-    {"Id":36015,"Chap":"36","Eng":"to believe","Kanji":"信じる","Jpn":"しんじる"},
-    {"Id":36016,"Chap":"36","Eng":"lateness/tardiness","Kanji":"遅刻する","Jpn":"ちこくする"},
-    {"Id":36017,"Chap":"36","Eng":"late","Kanji":"遅い","Jpn":"おそい"},
-    {"Id":36018,"Chap":"36","Eng":"to be late","Kanji":"遅れる","Jpn":"おくれる"},
-    {"Id":36019,"Chap":"36","Eng":"license","Kanji":"免許","Jpn":"めんきょ"},
-    {"Id":36020,"Chap":"36","Eng":"to allow","Kanji":"許す","Jpn":"ゆるす"},
-    {"Id":36021,"Chap":"36","Eng":"driving license","Kanji":"運転免許証","Jpn":"うんてんめんきょしょう"},
-    {"Id":36022,"Chap":"36","Eng":"permission","Kanji":"許可","Jpn":"きょか"},
-    {"Id":36023,"Chap":"36","Eng":"prohibition","Kanji":"禁止","Jpn":"きんし"},
-    {"Id":37000,"Chap":"37","Eng":"to invent","Kanji":"発明する","Jpn":"はつめいする"},
-    {"Id":37001,"Chap":"37","Eng":"to depart","Kanji":"出発する","Jpn":"しゅっぱつする"},
-    {"Id":37002,"Chap":"37","Eng":"factory","Kanji":"工場","Jpn":"こうじょう"},
-    {"Id":37003,"Chap":"37","Eng":"carpenter","Kanji":"大工","Jpn":"だいく"},
-    {"Id":37004,"Chap":"37","Eng":"rice/meal (polite)","Kanji":"ご飯","Jpn":"ごはん"},
-    {"Id":37005,"Chap":"37","Eng":"rice/meal","Kanji":"飯","Jpn":"めし"},
-    {"Id":37006,"Chap":"37","Eng":"kitchen","Kanji":"台所","Jpn":"だいどころ"},
-    {"Id":37007,"Chap":"37","Eng":"title","Kanji":"題名","Jpn":"だいめい"},
-    {"Id":37008,"Chap":"37","Eng":"to expect","Kanji":"期待する","Jpn":"きたいする"},
-    {"Id":37009,"Chap":"37","Eng":"to wait","Kanji":"待つ","Jpn":"まつ"},
-    {"Id":37010,"Chap":"37","Eng":"beginner","Kanji":"新米","Jpn":"しんまい"},
-    {"Id":37011,"Chap":"37","Eng":"USA","Kanji":"米国","Jpn":"べいこく"},
-    {"Id":37012,"Chap":"37","Eng":"rice grains","Kanji":"米","Jpn":"こめ"},
-    {"Id":37013,"Chap":"37","Eng":"old rice","Kanji":"古米","Jpn":"こまい"},
-    {"Id":37014,"Chap":"37","Eng":"village mayor","Kanji":"村長","Jpn":"そんちょう"},
-    {"Id":37015,"Chap":"37","Eng":"village","Kanji":"村","Jpn":"むら"},
-    {"Id":37016,"Chap":"37","Eng":"to pay attention","Kanji":"注意する","Jpn":"ちゅういする"},
-    {"Id":37017,"Chap":"37","Eng":"to pour","Kanji":"注ぐ","Jpn":"そそぐ"},
-    {"Id":37018,"Chap":"37","Eng":"to order","Kanji":"注文する","Jpn":"ちゅうもんする"},
-    {"Id":37019,"Chap":"37","Eng":"to leave port","Kanji":"出港する","Jpn":"しゅっこうする"},
-    {"Id":37020,"Chap":"37","Eng":"port","Kanji":"港","Jpn":"みなと"},
-    {"Id":37021,"Chap":"37","Eng":"homework","Kanji":"宿題","Jpn":"しゅくだい"},
-    {"Id":37022,"Chap":"37","Eng":"inn","Kanji":"宿","Jpn":"やど"},
-    {"Id":37023,"Chap":"37","Eng":"to choose","Kanji":"取捨する","Jpn":"しゅしゃする"},
-    {"Id":37024,"Chap":"37","Eng":"to throw away","Kanji":"捨てる","Jpn":"すてる"},
-    {"Id":38000,"Chap":"38","Eng":"to import","Kanji":"輸入する","Jpn":"ゆにゅうする"},
-    {"Id":38001,"Chap":"38","Eng":"to invite","Kanji":"招待する","Jpn":"しょうたいする"},
-    {"Id":38002,"Chap":"38","Eng":"to invite","Kanji":"招く","Jpn":"まねく"},
-    {"Id":38003,"Chap":"38","Eng":"to breathe","Kanji":"呼吸する","Jpn":"こきゅうする"},
-    {"Id":38004,"Chap":"38","Eng":"to call","Kanji":"呼ぶ","Jpn":"よぶ"},
-    {"Id":38005,"Chap":"38","Eng":"materials","Kanji":"原料","Jpn":"げんりょう"},
-    {"Id":38006,"Chap":"38","Eng":"fields","Kanji":"野原","Jpn":"のはら"},
-    {"Id":38007,"Chap":"38","Eng":"custom/habit/pratice","Kanji":"習慣","Jpn":"しゅうかん"},
-    {"Id":38008,"Chap":"38","Eng":"to get used to","Kanji":"慣れる","Jpn":"なれる"},
-    {"Id":38009,"Chap":"38","Eng":"daily ritual","Kanji":"毎日習慣","Jpn":"まいにちしゅうかん"},
-    {"Id":38010,"Chap":"38","Eng":"request","Kanji":"依頼","Jpn":"いらい"},
-    {"Id":38011,"Chap":"38","Eng":"to ask to do a favor","Kanji":"頼む","Jpn":"たのむ"},
-    {"Id":38012,"Chap":"38","Eng":"to rely on","Kanji":"頼る","Jpn":"たよる"},
-    {"Id":38013,"Chap":"38","Eng":"to succeed","Kanji":"成功する","Jpn":"せいこうする"},
-    {"Id":38014,"Chap":"38","Eng":"to achieve","Kanji":"成就する","Jpn":"じょうじゅする"},
-    {"Id":38015,"Chap":"38","Eng":"to become","Kanji":"成る","Jpn":"なる"},
-    {"Id":38016,"Chap":"38","Eng":"to leave hospital","Kanji":"退院する","Jpn":"たいいんする"},
-    {"Id":38017,"Chap":"38","Eng":"to retreat","Kanji":"退く","Jpn":"しりぞく"},
-    {"Id":38018,"Chap":"38","Eng":"to resign","Kanji":"退職する","Jpn":"たいしょくする"},
-    {"Id":38019,"Chap":"38","Eng":"to join","Kanji":"参加する","Jpn":"さんかする"},
-    {"Id":38020,"Chap":"38","Eng":"to go/come","Kanji":"参る","Jpn":"まいる"},
-    {"Id":38021,"Chap":"38","Eng":"to add","Kanji":"加える","Jpn":"くわえる"},
-    {"Id":38022,"Chap":"38","Eng":"beach","Kanji":"海岸","Jpn":"かいがん"},
-    {"Id":38023,"Chap":"38","Eng":"shore","Kanji":"岸","Jpn":"きし"},
-    {"Id":39000,"Chap":"39","Eng":"electricity fee","Kanji":"電気代","Jpn":"でんきだい"},
-    {"Id":39001,"Chap":"39","Eng":"to replace","Kanji":"代わる","Jpn":"かわる"},
-    {"Id":39002,"Chap":"39","Eng":"the deceased","Kanji":"死者","Jpn":"ししゃ"},
-    {"Id":39003,"Chap":"39","Eng":"to die","Kanji":"死ぬ","Jpn":"しぬ"},
-    {"Id":39004,"Chap":"39","Eng":"prime minister","Kanji":"首相","Jpn":"しゅしょう"},
-    {"Id":39005,"Chap":"39","Eng":"neck","Kanji":"首","Jpn":"くび"},
-    {"Id":39006,"Chap":"39","Eng":"result","Kanji":"結果","Jpn":"けっか"},
-    {"Id":39007,"Chap":"39","Eng":"to tie/bind/link/connect","Kanji":"結ぶ","Jpn":"むすぶ"},
-    {"Id":39008,"Chap":"39","Eng":"to tie/dress/arrange","Kanji":"結う","Jpn":"ゆう"},
-    {"Id":39009,"Chap":"39","Eng":"to get married","Kanji":"結婚する","Jpn":"けっこんする"},
-    {"Id":39010,"Chap":"39","Eng":"entrance ceremony","Kanji":"入学式","Jpn":"にゅうがくしき"},
-    {"Id":39011,"Chap":"39","Eng":"wedding ceremony","Kanji":"結婚式","Jpn":"けっこんしき"},
-    {"Id":39012,"Chap":"39","Eng":"really/truly/entirely","Kanji":"全く","Jpn":"またっく"},
-    {"Id":39013,"Chap":"39","Eng":"next time","Kanji":"次回","Jpn":"じかい"},
-    {"Id":39014,"Chap":"39","Eng":"next","Kanji":"次","Jpn":"つぎ"},
-    {"Id":39015,"Chap":"39","Eng":"to come after","Kanji":"次ぐ","Jpn":"つぐ"},
-    {"Id":39016,"Chap":"39","Eng":"within","Kanji":"以内","Jpn":"いない"},
-    {"Id":39017,"Chap":"39","Eng":"desperate","Kanji":"必死","Jpn":"ひっし"},
-    {"Id":39018,"Chap":"39","Eng":"certainly","Kanji":"必ず","Jpn":"かならず"},
-    {"Id":39019,"Chap":"39","Eng":"necessary","Kanji":"必要","Jpn":"ひつよう"},
-    {"Id":39020,"Chap":"39","Eng":"to need","Kanji":"要る","Jpn":"いる"},
-    {"Id":39021,"Chap":"39","Eng":"definitely","Kanji":"絶対に","Jpn":"ぜったいに"},
-    {"Id":39022,"Chap":"39","Eng":"to cut off/sever/suppress","Kanji":"絶つ","Jpn":"たつ"},
-    {"Id":39023,"Chap":"39","Eng":"to cease","Kanji":"絶える","Jpn":"たえる"},
-    {"Id":40000,"Chap":"40","Eng":"to oppose","Kanji":"反対する","Jpn":"はんたいする"},
-    {"Id":40001,"Chap":"40","Eng":"one pair","Kanji":"一対","Jpn":"いっつい"},
-    {"Id":40002,"Chap":"40","Eng":"not at all","Kanji":"全然","Jpn":"ぜんぜん"},
-    {"Id":40003,"Chap":"40","Eng":"natural","Kanji":"天然","Jpn":"てんねん"},
-    {"Id":40004,"Chap":"40","Eng":"difficult question","Kanji":"難問","Jpn":"なんもん"},
-    {"Id":40005,"Chap":"40","Eng":"difficult (for noun)","Kanji":"難しい","Jpn":"むずかしい"},
-    {"Id":40006,"Chap":"40","Eng":"difficult (for verbs)","Kanji":"難い","Jpn":"かたい"},
-    {"Id":40007,"Chap":"40","Eng":"to do overtime","Kanji":"残業する","Jpn":"ざんぎょうする"},
-    {"Id":40008,"Chap":"40","Eng":"to remain","Kanji":"残る","Jpn":"のこる"},
-    {"Id":40009,"Chap":"40","Eng":"unlucky","Kanji":"残念","Jpn":"ざんねん"},
-    {"Id":40010,"Chap":"40","Eng":"complicated","Kanji":"複雑","Jpn":"づくざつ"},
-    {"Id":40011,"Chap":"40","Eng":"magazine","Kanji":"雑誌","Jpn":"ざっし"},
-    {"Id":40012,"Chap":"40","Eng":"copse (small group of trees)","Kanji":"雑木林","Jpn":"ぞうきばやし"},
-    {"Id":40013,"Chap":"40","Eng":"stigma","Kanji":"汚名","Jpn":"おめい"},
-    {"Id":40014,"Chap":"40","Eng":"to dirty","Kanji":"汚す","Jpn":"よごす"},
-    {"Id":40015,"Chap":"40","Eng":"to be dirty","Kanji":"汚れる","Jpn":"よごれる"},
-    {"Id":40016,"Chap":"40","Eng":"dirty","Kanji":"汚い","Jpn":"きたない"},
-    {"Id":40017,"Chap":"40","Eng":"delegate","Kanji":"代表","Jpn":"だいひょう"},
-    {"Id":40018,"Chap":"40","Eng":"surface","Kanji":"表","Jpn":"おもて"},
-    {"Id":40019,"Chap":"40","Eng":"to go bankrupt","Kanji":"倒産する","Jpn":"とうさんする"},
-    {"Id":40020,"Chap":"40","Eng":"to throw down","Kanji":"倒す","Jpn":"たおす"},
-    {"Id":40021,"Chap":"40","Eng":"to fall/collapse","Kanji":"倒れる","Jpn":"たおれる"},
-    {"Id":40022,"Chap":"40","Eng":"accident","Kanji":"事故","Jpn":"じこ"},
-    {"Id":40023,"Chap":"40","Eng":"reason","Kanji":"故","Jpn":"ゆえ"},
-    {"Id":40024,"Chap":"40","Eng":"to make sure","Kanji":"確かめる","Jpn":"たしかえる"},
-    {"Id":41000,"Chap":"41","Eng":"","Kanji":"","Jpn":""}
+    {
+        "Id": 1000,
+        "Chap": "01",
+        "Furi": "一[いち]月[がつ]",
+        "Kanji": "一月",
+        "Jpn": "いちがつ",
+        "Eng": "january"
+    },
+    {
+        "Id": 1001,
+        "Chap": "01",
+        "Furi": "一[ひと]人[り]",
+        "Kanji": "一人",
+        "Jpn": "ひとり",
+        "Eng": "one person"
+    },
+    {
+        "Id": 1002,
+        "Chap": "01",
+        "Furi": "一日[ついたち] (月)",
+        "Kanji": "一日 (月)",
+        "Jpn": "ついたち",
+        "Eng": "first day of the month"
+    },
+    {
+        "Id": 1003,
+        "Chap": "01",
+        "Furi": "一[いち]日[にち] (日)",
+        "Kanji": "一日 (日)",
+        "Jpn": "いちにち",
+        "Eng": "one day/all day"
+    },
+    {
+        "Id": 1004,
+        "Chap": "01",
+        "Furi": "二[に]月[がつ]",
+        "Kanji": "二月",
+        "Jpn": "にがつ",
+        "Eng": "february"
+    },
+    {
+        "Id": 1005,
+        "Chap": "01",
+        "Furi": "二[ふた]人[り]",
+        "Kanji": "二人",
+        "Jpn": "ふたり",
+        "Eng": "two people"
+    },
+    {
+        "Id": 1006,
+        "Chap": "01",
+        "Furi": "二日[ふつか]",
+        "Kanji": "二日",
+        "Jpn": "ふつか",
+        "Eng": "the second day"
+    },
+    {
+        "Id": 1007,
+        "Chap": "01",
+        "Furi": "三[さん]月[がつ]",
+        "Kanji": "三月",
+        "Jpn": "さんがつ",
+        "Eng": "march"
+    },
+    {
+        "Id": 1008,
+        "Chap": "01",
+        "Furi": "三日[みっか]",
+        "Kanji": "三日",
+        "Jpn": "みっか",
+        "Eng": "the third day"
+    },
+    {
+        "Id": 1009,
+        "Chap": "01",
+        "Furi": "四[し]月[がつ]",
+        "Kanji": "四月",
+        "Jpn": "しがつ",
+        "Eng": "april"
+    },
+    {
+        "Id": 1010,
+        "Chap": "01",
+        "Furi": "四[よ]人[にん]",
+        "Kanji": "四人",
+        "Jpn": "よにん",
+        "Eng": "four people"
+    },
+    {
+        "Id": 1011,
+        "Chap": "01",
+        "Furi": "四日[よっか]",
+        "Kanji": "四日",
+        "Jpn": "よっか",
+        "Eng": "the fourth day"
+    },
+    {
+        "Id": 1012,
+        "Chap": "01",
+        "Furi": "五[ご]月[がつ]",
+        "Kanji": "五月",
+        "Jpn": "ごがつ",
+        "Eng": "may"
+    },
+    {
+        "Id": 1013,
+        "Chap": "01",
+        "Furi": "五日[いつか]",
+        "Kanji": "五日",
+        "Jpn": "いつか",
+        "Eng": "the fifth day"
+    },
+    {
+        "Id": 1014,
+        "Chap": "01",
+        "Furi": "六[ろく]月[がつ]",
+        "Kanji": "六月",
+        "Jpn": "ろくがつ",
+        "Eng": "june"
+    },
+    {
+        "Id": 1015,
+        "Chap": "01",
+        "Furi": "六日[むいか]",
+        "Kanji": "六日",
+        "Jpn": "むいか",
+        "Eng": "the sixth day"
+    },
+    {
+        "Id": 1016,
+        "Chap": "01",
+        "Furi": "七[しち]月[がつ]",
+        "Kanji": "七月",
+        "Jpn": "しちがつ",
+        "Eng": "july"
+    },
+    {
+        "Id": 1017,
+        "Chap": "01",
+        "Furi": "七日[なのか]",
+        "Kanji": "七日",
+        "Jpn": "なのか",
+        "Eng": "the seventh day"
+    },
+    {
+        "Id": 1018,
+        "Chap": "01",
+        "Furi": "七夕[たなばた]",
+        "Kanji": "七夕",
+        "Jpn": "たなばた",
+        "Eng": "star festival"
+    },
+    {
+        "Id": 1019,
+        "Chap": "01",
+        "Furi": "八[はち]月[がつ]",
+        "Kanji": "八月",
+        "Jpn": "はちがつ",
+        "Eng": "august"
+    },
+    {
+        "Id": 1020,
+        "Chap": "01",
+        "Furi": "八日[ようか]",
+        "Kanji": "八日",
+        "Jpn": "ようか",
+        "Eng": "the eighth day"
+    },
+    {
+        "Id": 1021,
+        "Chap": "01",
+        "Furi": "八[や]百[お]屋[や]",
+        "Kanji": "八百屋",
+        "Jpn": "やおや",
+        "Eng": "greengrocer"
+    },
+    {
+        "Id": 1022,
+        "Chap": "01",
+        "Furi": "九[きゅう]人[にん]",
+        "Kanji": "九人",
+        "Jpn": "きゅうにん",
+        "Eng": "nine people"
+    },
+    {
+        "Id": 1023,
+        "Chap": "01",
+        "Furi": "九[く]月[がつ]",
+        "Kanji": "九月",
+        "Jpn": "くがつ",
+        "Eng": "september"
+    },
+    {
+        "Id": 1024,
+        "Chap": "01",
+        "Furi": "九[ここの]日[か]",
+        "Kanji": "九日",
+        "Jpn": "ここのか",
+        "Eng": "the ninth day"
+    },
+    {
+        "Id": 1025,
+        "Chap": "01",
+        "Furi": "十[じゅう]月[がつ]",
+        "Kanji": "十月",
+        "Jpn": "じゅうがつ",
+        "Eng": "october"
+    },
+    {
+        "Id": 1026,
+        "Chap": "01",
+        "Furi": "二十日[はつか]",
+        "Kanji": "二十日",
+        "Jpn": "はつか",
+        "Eng": "the twentieth day"
+    },
+    {
+        "Id": 1027,
+        "Chap": "01",
+        "Furi": "二十歳[はたち]",
+        "Kanji": "二十歳",
+        "Jpn": "はたち",
+        "Eng": "twenty years old"
+    },
+    {
+        "Id": 2000,
+        "Chap": "02",
+        "Furi": "日[に]本[ほん]人[じん]",
+        "Kanji": "日本人",
+        "Jpn": "にほんじん",
+        "Eng": "japanese (nationality)"
+    },
+    {
+        "Id": 2001,
+        "Chap": "02",
+        "Furi": "三[さん]人[にん]",
+        "Kanji": "三人",
+        "Jpn": "さんにん",
+        "Eng": "three people"
+    },
+    {
+        "Id": 2002,
+        "Chap": "02",
+        "Furi": "あの人[ひと]",
+        "Kanji": "あの人",
+        "Jpn": "あのひと",
+        "Eng": "that person (casual)"
+    },
+    {
+        "Id": 2003,
+        "Chap": "02",
+        "Furi": "有[ゆう]名[めい]",
+        "Kanji": "有名",
+        "Jpn": "ゆうめい",
+        "Eng": "famous"
+    },
+    {
+        "Id": 2004,
+        "Chap": "02",
+        "Furi": "名[みょう]字[じ]",
+        "Kanji": "名字",
+        "Jpn": "みょうじ",
+        "Eng": "surname"
+    },
+    {
+        "Id": 2005,
+        "Chap": "02",
+        "Furi": "名[な]前[まえ]",
+        "Kanji": "名前",
+        "Jpn": "なまえ",
+        "Eng": "name"
+    },
+    {
+        "Id": 2006,
+        "Chap": "02",
+        "Furi": "方[ほう]法[ほう]",
+        "Kanji": "方法",
+        "Jpn": "ほうほう",
+        "Eng": "way/method/solution"
+    },
+    {
+        "Id": 2007,
+        "Chap": "02",
+        "Furi": "あの方[かた]",
+        "Kanji": "あの方",
+        "Jpn": "あのかた",
+        "Eng": "that person (polite)"
+    },
+    {
+        "Id": 2008,
+        "Chap": "02",
+        "Furi": "夕[ゆう]方[がた]",
+        "Kanji": "夕方",
+        "Jpn": "ゆうがた",
+        "Eng": "evening"
+    },
+    {
+        "Id": 2009,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "日本",
+        "Jpn": "にほん",
+        "Eng": "japan"
+    },
+    {
+        "Id": 2010,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "山本さん",
+        "Jpn": "やまもとさん",
+        "Eng": "yamamoto (person name)"
+    },
+    {
+        "Id": 2011,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "毎日",
+        "Jpn": "まいにち",
+        "Eng": "daily"
+    },
+    {
+        "Id": 2012,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "日記",
+        "Jpn": "にっき",
+        "Eng": "diary"
+    },
+    {
+        "Id": 2013,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "休日",
+        "Jpn": "きゅうじつ",
+        "Eng": "holiday"
+    },
+    {
+        "Id": 2014,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "月曜日",
+        "Jpn": "げつようび",
+        "Eng": "monday"
+    },
+    {
+        "Id": 2015,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "何",
+        "Jpn": "なに",
+        "Eng": "what"
+    },
+    {
+        "Id": 2016,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "何時",
+        "Jpn": "なんじ",
+        "Eng": "what time"
+    },
+    {
+        "Id": 2017,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "大学",
+        "Jpn": "だいがく",
+        "Eng": "university"
+    },
+    {
+        "Id": 2018,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "大きい",
+        "Jpn": "おおきい",
+        "Eng": "big"
+    },
+    {
+        "Id": 2019,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "学生",
+        "Jpn": "がくせい",
+        "Eng": "student"
+    },
+    {
+        "Id": 2020,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "学校",
+        "Jpn": "がっこう",
+        "Eng": "school"
+    },
+    {
+        "Id": 2021,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "学ぶ",
+        "Jpn": "まなぶ",
+        "Eng": "to study (in depth)"
+    },
+    {
+        "Id": 2022,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "社員",
+        "Jpn": "しゃいん",
+        "Eng": "employee"
+    },
+    {
+        "Id": 2023,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "神社",
+        "Jpn": "じんじゃ",
+        "Eng": "shrine"
+    },
+    {
+        "Id": 2024,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "駅員",
+        "Jpn": "えきいん",
+        "Eng": "station employee"
+    },
+    {
+        "Id": 2025,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "会社",
+        "Jpn": "かいしゃ",
+        "Eng": "company"
+    },
+    {
+        "Id": 2026,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "会う",
+        "Jpn": "あう",
+        "Eng": "to meet"
+    },
+    {
+        "Id": 2027,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "先生",
+        "Jpn": "せんせい",
+        "Eng": "teacher"
+    },
+    {
+        "Id": 2028,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "先に",
+        "Jpn": "さきに",
+        "Eng": "ahead"
+    },
+    {
+        "Id": 2029,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "生活",
+        "Jpn": "せいかつ",
+        "Eng": "life/lifestyle"
+    },
+    {
+        "Id": 2030,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "誕生日",
+        "Jpn": "たんじょうび",
+        "Eng": "birthday"
+    },
+    {
+        "Id": 2031,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "生まれる",
+        "Jpn": "うまれる",
+        "Eng": "to be born"
+    },
+    {
+        "Id": 2032,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "生きる",
+        "Jpn": "いきる",
+        "Eng": "to be alive"
+    },
+    {
+        "Id": 2033,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "銀行",
+        "Jpn": "ぎんこう",
+        "Eng": "bank"
+    },
+    {
+        "Id": 2034,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "一行",
+        "Jpn": "いちぎょう",
+        "Eng": "one line"
+    },
+    {
+        "Id": 2035,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "行く",
+        "Jpn": "いく",
+        "Eng": "to go"
+    },
+    {
+        "Id": 2036,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "行う",
+        "Jpn": "おこなう",
+        "Eng": "to carry out"
+    },
+    {
+        "Id": 2037,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "来週",
+        "Jpn": "らいしゅう",
+        "Eng": "next week"
+    },
+    {
+        "Id": 2038,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "来る",
+        "Jpn": "くる",
+        "Eng": "to come"
+    },
+    {
+        "Id": 2039,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "電車",
+        "Jpn": "でんしゃ",
+        "Eng": "train (vehicle)"
+    },
+    {
+        "Id": 2040,
+        "Chap": "02",
+        "Furi": "",
+        "Kanji": "車",
+        "Jpn": "くるま",
+        "Eng": "car"
+    },
+    {
+        "Id": 3000,
+        "Chap": "03",
+        "Furi": "",
+        "Kanji": "百",
+        "Jpn": "ひゃく",
+        "Eng": "hundred"
+    },
+    {
+        "Id": 3001,
+        "Chap": "03",
+        "Furi": "",
+        "Kanji": "三百",
+        "Jpn": "さんびゃく",
+        "Eng": "three hundred"
+    },
+    {
+        "Id": 3002,
+        "Chap": "03",
+        "Furi": "",
+        "Kanji": "八百",
+        "Jpn": "はっぴゃく",
+        "Eng": "eight hundred"
+    },
+    {
+        "Id": 3003,
+        "Chap": "03",
+        "Furi": "",
+        "Kanji": "千",
+        "Jpn": "せん",
+        "Eng": "thousand"
+    },
+    {
+        "Id": 3004,
+        "Chap": "03",
+        "Furi": "",
+        "Kanji": "三千",
+        "Jpn": "さんぜん",
+        "Eng": "three thousand"
+    },
+    {
+        "Id": 3005,
+        "Chap": "03",
+        "Furi": "",
+        "Kanji": "百万円",
+        "Jpn": "ひゃくまんえん",
+        "Eng": "one million yen"
+    },
+    {
+        "Id": 3006,
+        "Chap": "03",
+        "Furi": "",
+        "Kanji": "万全",
+        "Jpn": "ばんぜん",
+        "Eng": "completely"
+    },
+    {
+        "Id": 3007,
+        "Chap": "03",
+        "Furi": "",
+        "Kanji": "一万円",
+        "Jpn": "いちまんえん",
+        "Eng": "ten thousand yen"
+    },
+    {
+        "Id": 3008,
+        "Chap": "03",
+        "Furi": "",
+        "Kanji": "円い",
+        "Jpn": "まるい",
+        "Eng": "round"
+    },
+    {
+        "Id": 3009,
+        "Chap": "03",
+        "Furi": "",
+        "Kanji": "ご時間毎",
+        "Jpn": "ごじかんごと",
+        "Eng": "every five hours"
+    },
+    {
+        "Id": 3010,
+        "Chap": "03",
+        "Furi": "",
+        "Kanji": "時間",
+        "Jpn": "じかん",
+        "Eng": "time"
+    },
+    {
+        "Id": 3011,
+        "Chap": "03",
+        "Furi": "",
+        "Kanji": "時々",
+        "Jpn": "ときどき",
+        "Eng": "sometimes"
+    },
+    {
+        "Id": 3012,
+        "Chap": "03",
+        "Furi": "",
+        "Kanji": "10分",
+        "Jpn": "じっぷん",
+        "Eng": "ten minutes"
+    },
+    {
+        "Id": 3013,
+        "Chap": "03",
+        "Furi": "",
+        "Kanji": "半分",
+        "Jpn": "はんぶん",
+        "Eng": "half"
+    },
+    {
+        "Id": 3014,
+        "Chap": "03",
+        "Furi": "",
+        "Kanji": "分ける",
+        "Jpn": "わける",
+        "Eng": "to divide/ to separate"
+    },
+    {
+        "Id": 3015,
+        "Chap": "03",
+        "Furi": "",
+        "Kanji": "分かる",
+        "Jpn": "わかる",
+        "Eng": "to understand"
+    },
+    {
+        "Id": 3016,
+        "Chap": "03",
+        "Furi": "",
+        "Kanji": "半年",
+        "Jpn": "はんとし",
+        "Eng": "half a year"
+    },
+    {
+        "Id": 3017,
+        "Chap": "03",
+        "Furi": "",
+        "Kanji": "半ば",
+        "Jpn": "なかば",
+        "Eng": "the middle"
+    },
+    {
+        "Id": 4000,
+        "Chap": "04",
+        "Furi": "",
+        "Kanji": "外国",
+        "Jpn": "がいこく",
+        "Eng": "foreign country"
+    },
+    {
+        "Id": 4001,
+        "Chap": "04",
+        "Furi": "",
+        "Kanji": "中国",
+        "Jpn": "ちゅうごく",
+        "Eng": "china"
+    },
+    {
+        "Id": 4002,
+        "Chap": "04",
+        "Furi": "",
+        "Kanji": "国",
+        "Jpn": "くに",
+        "Eng": "country"
+    },
+    {
+        "Id": 4003,
+        "Chap": "04",
+        "Furi": "",
+        "Kanji": "月",
+        "Jpn": "つき",
+        "Eng": "moon"
+    },
+    {
+        "Id": 4004,
+        "Chap": "04",
+        "Furi": "",
+        "Kanji": "火曜日",
+        "Jpn": "かようび",
+        "Eng": "tuesday"
+    },
+    {
+        "Id": 4005,
+        "Chap": "04",
+        "Furi": "",
+        "Kanji": "花火",
+        "Jpn": "はなび",
+        "Eng": "fireworks"
+    },
+    {
+        "Id": 4006,
+        "Chap": "04",
+        "Furi": "",
+        "Kanji": "水曜日",
+        "Jpn": "すいようび",
+        "Eng": "wednesday"
+    },
+    {
+        "Id": 4007,
+        "Chap": "04",
+        "Furi": "",
+        "Kanji": "水",
+        "Jpn": "みず",
+        "Eng": "water"
+    },
+    {
+        "Id": 4008,
+        "Chap": "04",
+        "Furi": "",
+        "Kanji": "木曜日",
+        "Jpn": "もくようび",
+        "Eng": "thursday"
+    },
+    {
+        "Id": 4009,
+        "Chap": "04",
+        "Furi": "",
+        "Kanji": "木",
+        "Jpn": "き",
+        "Eng": "tree"
+    },
+    {
+        "Id": 4010,
+        "Chap": "04",
+        "Furi": "",
+        "Kanji": "金曜日",
+        "Jpn": "きんようび",
+        "Eng": "friday"
+    },
+    {
+        "Id": 4011,
+        "Chap": "04",
+        "Furi": "",
+        "Kanji": "お金",
+        "Jpn": "おかね",
+        "Eng": "money"
+    },
+    {
+        "Id": 4012,
+        "Chap": "04",
+        "Furi": "",
+        "Kanji": "土曜日",
+        "Jpn": "どようび",
+        "Eng": "saturday"
+    },
+    {
+        "Id": 4013,
+        "Chap": "04",
+        "Furi": "",
+        "Kanji": "土",
+        "Jpn": "つち",
+        "Eng": "soil"
+    },
+    {
+        "Id": 4014,
+        "Chap": "04",
+        "Furi": "",
+        "Kanji": "辞書",
+        "Jpn": "じしょ",
+        "Eng": "dictionary"
+    },
+    {
+        "Id": 4015,
+        "Chap": "04",
+        "Furi": "",
+        "Kanji": "書く",
+        "Jpn": "かく",
+        "Eng": "to write"
+    },
+    {
+        "Id": 5000,
+        "Chap": "05",
+        "Furi": "",
+        "Kanji": "親友",
+        "Jpn": "しんゆう",
+        "Eng": "best friend"
+    },
+    {
+        "Id": 5001,
+        "Chap": "05",
+        "Furi": "",
+        "Kanji": "友達",
+        "Jpn": "ともだち",
+        "Eng": "friend"
+    },
+    {
+        "Id": 5002,
+        "Chap": "05",
+        "Furi": "",
+        "Kanji": "去年",
+        "Jpn": "きょねん",
+        "Eng": "last year"
+    },
+    {
+        "Id": 5003,
+        "Chap": "05",
+        "Furi": "",
+        "Kanji": "今年",
+        "Jpn": "ことし",
+        "Eng": "this year"
+    },
+    {
+        "Id": 5004,
+        "Chap": "05",
+        "Furi": "",
+        "Kanji": "今月",
+        "Jpn": "こんげつ",
+        "Eng": "this month"
+    },
+    {
+        "Id": 5005,
+        "Chap": "05",
+        "Furi": "",
+        "Kanji": "今",
+        "Jpn": "いま",
+        "Eng": "now"
+    },
+    {
+        "Id": 5006,
+        "Chap": "05",
+        "Furi": "",
+        "Kanji": "週末",
+        "Jpn": "しゅうまつ",
+        "Eng": "weekend"
+    },
+    {
+        "Id": 5007,
+        "Chap": "05",
+        "Furi": "",
+        "Kanji": "休み",
+        "Jpn": "やすみ",
+        "Eng": "rest day"
+    },
+    {
+        "Id": 5008,
+        "Chap": "05",
+        "Furi": "",
+        "Kanji": "休憩",
+        "Jpn": "きゅうけい",
+        "Eng": "rest/break/recess/intermission"
+    },
+    {
+        "Id": 5009,
+        "Chap": "05",
+        "Furi": "",
+        "Kanji": "前半",
+        "Jpn": "ぜんはん",
+        "Eng": "the first half"
+    },
+    {
+        "Id": 5010,
+        "Chap": "05",
+        "Furi": "",
+        "Kanji": "午前",
+        "Jpn": "ごぜん",
+        "Eng": "am"
+    },
+    {
+        "Id": 5011,
+        "Chap": "05",
+        "Furi": "",
+        "Kanji": "午後",
+        "Jpn": "ごご",
+        "Eng": "pm"
+    },
+    {
+        "Id": 5012,
+        "Chap": "05",
+        "Furi": "",
+        "Kanji": "後ろ",
+        "Jpn": "うしろ",
+        "Eng": "back/behind"
+    },
+    {
+        "Id": 5013,
+        "Chap": "05",
+        "Furi": "",
+        "Kanji": "後で",
+        "Jpn": "あとで",
+        "Eng": "later"
+    },
+    {
+        "Id": 6000,
+        "Chap": "06",
+        "Furi": "",
+        "Kanji": "帰国",
+        "Jpn": "きこく",
+        "Eng": "return to ones country"
+    },
+    {
+        "Id": 6001,
+        "Chap": "06",
+        "Furi": "",
+        "Kanji": "帰る",
+        "Jpn": "かえる",
+        "Eng": "to return"
+    },
+    {
+        "Id": 6002,
+        "Chap": "06",
+        "Furi": "",
+        "Kanji": "見学する",
+        "Jpn": "けんがくする",
+        "Eng": "to visit for study"
+    },
+    {
+        "Id": 6003,
+        "Chap": "06",
+        "Furi": "",
+        "Kanji": "見る",
+        "Jpn": "みる",
+        "Eng": "to see"
+    },
+    {
+        "Id": 6004,
+        "Chap": "06",
+        "Furi": "",
+        "Kanji": "新聞",
+        "Jpn": "しんぶん",
+        "Eng": "newspaper"
+    },
+    {
+        "Id": 6005,
+        "Chap": "06",
+        "Furi": "",
+        "Kanji": "聞く",
+        "Jpn": "きく",
+        "Eng": "to listen"
+    },
+    {
+        "Id": 6006,
+        "Chap": "06",
+        "Furi": "",
+        "Kanji": "読書",
+        "Jpn": "どくしょ",
+        "Eng": "reading"
+    },
+    {
+        "Id": 6007,
+        "Chap": "06",
+        "Furi": "",
+        "Kanji": "読む",
+        "Jpn": "よむ",
+        "Eng": "to read"
+    },
+    {
+        "Id": 6008,
+        "Chap": "06",
+        "Furi": "",
+        "Kanji": "食堂",
+        "Jpn": "しょくどう",
+        "Eng": "dining room/canteen"
+    },
+    {
+        "Id": 6009,
+        "Chap": "06",
+        "Furi": "",
+        "Kanji": "食べる",
+        "Jpn": "たべる",
+        "Eng": "to eat"
+    },
+    {
+        "Id": 6010,
+        "Chap": "06",
+        "Furi": "",
+        "Kanji": "定食",
+        "Jpn": "ていしょく",
+        "Eng": "set meal"
+    },
+    {
+        "Id": 6011,
+        "Chap": "06",
+        "Furi": "",
+        "Kanji": "飲酒運転",
+        "Jpn": "いんしゅうんてん",
+        "Eng": "drink driving"
+    },
+    {
+        "Id": 6012,
+        "Chap": "06",
+        "Furi": "",
+        "Kanji": "飲み物",
+        "Jpn": "のみもの",
+        "Eng": "beverage"
+    },
+    {
+        "Id": 6013,
+        "Chap": "06",
+        "Furi": "",
+        "Kanji": "売買",
+        "Jpn": "ばいばい",
+        "Eng": "sell and buy"
+    },
+    {
+        "Id": 6014,
+        "Chap": "06",
+        "Furi": "",
+        "Kanji": "買い物",
+        "Jpn": "かいもの",
+        "Eng": "shopping"
+    },
+    {
+        "Id": 7000,
+        "Chap": "07",
+        "Furi": "",
+        "Kanji": "祖母",
+        "Jpn": "そぼ",
+        "Eng": "grandmother (mine)"
+    },
+    {
+        "Id": 7001,
+        "Chap": "07",
+        "Furi": "",
+        "Kanji": "母",
+        "Jpn": "はは",
+        "Eng": "mother (mine)"
+    },
+    {
+        "Id": 7002,
+        "Chap": "07",
+        "Furi": "",
+        "Kanji": "お母さん",
+        "Jpn": "おかあさん",
+        "Eng": "mother (other)"
+    },
+    {
+        "Id": 7003,
+        "Chap": "07",
+        "Furi": "",
+        "Kanji": "祖父",
+        "Jpn": "そぶ",
+        "Eng": "grandfather (mine)"
+    },
+    {
+        "Id": 7004,
+        "Chap": "07",
+        "Furi": "",
+        "Kanji": "父",
+        "Jpn": "ちち",
+        "Eng": "father (mine)"
+    },
+    {
+        "Id": 7005,
+        "Chap": "07",
+        "Furi": "",
+        "Kanji": "お父さん",
+        "Jpn": "おとうさん",
+        "Eng": "father (other)"
+    },
+    {
+        "Id": 7006,
+        "Chap": "07",
+        "Furi": "",
+        "Kanji": "動物園",
+        "Jpn": "どうぶつえん",
+        "Eng": "zoo"
+    },
+    {
+        "Id": 7007,
+        "Chap": "07",
+        "Furi": "",
+        "Kanji": "荷物",
+        "Jpn": "にもつ",
+        "Eng": "parcel/luggage"
+    },
+    {
+        "Id": 7008,
+        "Chap": "07",
+        "Furi": "",
+        "Kanji": "食べ物",
+        "Jpn": "たべもの",
+        "Eng": "food"
+    },
+    {
+        "Id": 7009,
+        "Chap": "07",
+        "Furi": "",
+        "Kanji": "朝食",
+        "Jpn": "ちょうしょく",
+        "Eng": "breakfast"
+    },
+    {
+        "Id": 7010,
+        "Chap": "07",
+        "Furi": "",
+        "Kanji": "毎朝",
+        "Jpn": "まいあさ",
+        "Eng": "every morning"
+    },
+    {
+        "Id": 7011,
+        "Chap": "07",
+        "Furi": "",
+        "Kanji": "昼食",
+        "Jpn": "ちゅうしょく",
+        "Eng": "lunch"
+    },
+    {
+        "Id": 7012,
+        "Chap": "07",
+        "Furi": "",
+        "Kanji": "昼休み",
+        "Jpn": "ひるやすみ",
+        "Eng": "lunchtime"
+    },
+    {
+        "Id": 7013,
+        "Chap": "07",
+        "Furi": "",
+        "Kanji": "今夜",
+        "Jpn": "こんや",
+        "Eng": "tonight"
+    },
+    {
+        "Id": 7014,
+        "Chap": "07",
+        "Furi": "",
+        "Kanji": "夜",
+        "Jpn": "よる",
+        "Eng": "night"
+    },
+    {
+        "Id": 7015,
+        "Chap": "07",
+        "Furi": "",
+        "Kanji": "毎晩",
+        "Jpn": "まいばん",
+        "Eng": "every night"
+    },
+    {
+        "Id": 7016,
+        "Chap": "07",
+        "Furi": "",
+        "Kanji": "市町村",
+        "Jpn": "しちょうそん",
+        "Eng": "municipality"
+    },
+    {
+        "Id": 7017,
+        "Chap": "07",
+        "Furi": "",
+        "Kanji": "町",
+        "Jpn": "まち",
+        "Eng": "town"
+    },
+    {
+        "Id": 8000,
+        "Chap": "08",
+        "Furi": "",
+        "Kanji": "富士山",
+        "Jpn": "ふじさん",
+        "Eng": "mt fuji"
+    },
+    {
+        "Id": 8001,
+        "Chap": "08",
+        "Furi": "",
+        "Kanji": "山",
+        "Jpn": "やま",
+        "Eng": "mountain"
+    },
+    {
+        "Id": 8002,
+        "Chap": "08",
+        "Furi": "",
+        "Kanji": "白馬",
+        "Jpn": "はくば",
+        "Eng": "white horse"
+    },
+    {
+        "Id": 8003,
+        "Chap": "08",
+        "Furi": "",
+        "Kanji": "白い",
+        "Jpn": "しろい",
+        "Eng": "white"
+    },
+    {
+        "Id": 8004,
+        "Chap": "08",
+        "Furi": "",
+        "Kanji": "赤飯",
+        "Jpn": "せきはん",
+        "Eng": "steam rice with red beans"
+    },
+    {
+        "Id": 8005,
+        "Chap": "08",
+        "Furi": "",
+        "Kanji": "赤い",
+        "Jpn": "あかい",
+        "Eng": "red"
+    },
+    {
+        "Id": 8006,
+        "Chap": "08",
+        "Furi": "",
+        "Kanji": "青年",
+        "Jpn": "せいねん",
+        "Eng": "young person"
+    },
+    {
+        "Id": 8007,
+        "Chap": "08",
+        "Furi": "",
+        "Kanji": "青い",
+        "Jpn": "あおい",
+        "Eng": "blue"
+    },
+    {
+        "Id": 8008,
+        "Chap": "08",
+        "Furi": "",
+        "Kanji": "黒板",
+        "Jpn": "こくばん",
+        "Eng": "blackboard"
+    },
+    {
+        "Id": 8009,
+        "Chap": "08",
+        "Furi": "",
+        "Kanji": "黒い",
+        "Jpn": "くろい",
+        "Eng": "black"
+    },
+    {
+        "Id": 8010,
+        "Chap": "08",
+        "Furi": "",
+        "Kanji": "安全",
+        "Jpn": "あんぜん",
+        "Eng": "safety"
+    },
+    {
+        "Id": 8011,
+        "Chap": "08",
+        "Furi": "",
+        "Kanji": "安い",
+        "Jpn": "やすい",
+        "Eng": "cheap"
+    },
+    {
+        "Id": 8012,
+        "Chap": "08",
+        "Furi": "",
+        "Kanji": "高校",
+        "Jpn": "こうこう",
+        "Eng": "high school"
+    },
+    {
+        "Id": 8013,
+        "Chap": "08",
+        "Furi": "",
+        "Kanji": "高い",
+        "Jpn": "たかい",
+        "Eng": "tall/expensive"
+    },
+    {
+        "Id": 8014,
+        "Chap": "08",
+        "Furi": "",
+        "Kanji": "小学校",
+        "Jpn": "しょうがっこう",
+        "Eng": "elementary school"
+    },
+    {
+        "Id": 8015,
+        "Chap": "08",
+        "Furi": "",
+        "Kanji": "小鳥",
+        "Jpn": "ことり",
+        "Eng": "small bird"
+    },
+    {
+        "Id": 8016,
+        "Chap": "08",
+        "Furi": "",
+        "Kanji": "小さい",
+        "Jpn": "ちいさい",
+        "Eng": "small"
+    },
+    {
+        "Id": 9000,
+        "Chap": "09",
+        "Furi": "",
+        "Kanji": "男性",
+        "Jpn": "だんせい",
+        "Eng": "male"
+    },
+    {
+        "Id": 9001,
+        "Chap": "09",
+        "Furi": "",
+        "Kanji": "男の人",
+        "Jpn": "おとこのひと",
+        "Eng": "man"
+    },
+    {
+        "Id": 9002,
+        "Chap": "09",
+        "Furi": "",
+        "Kanji": "女性",
+        "Jpn": "じょせい",
+        "Eng": "female"
+    },
+    {
+        "Id": 9003,
+        "Chap": "09",
+        "Furi": "",
+        "Kanji": "女の人",
+        "Jpn": "おんなのひと",
+        "Eng": "woman"
+    },
+    {
+        "Id": 9004,
+        "Chap": "09",
+        "Furi": "",
+        "Kanji": "上手",
+        "Jpn": "じょうず",
+        "Eng": "good at"
+    },
+    {
+        "Id": 9005,
+        "Chap": "09",
+        "Furi": "",
+        "Kanji": "上",
+        "Jpn": "うえ",
+        "Eng": "on/above/up"
+    },
+    {
+        "Id": 9006,
+        "Chap": "09",
+        "Furi": "",
+        "Kanji": "上げる",
+        "Jpn": "あげる",
+        "Eng": "to raise"
+    },
+    {
+        "Id": 9007,
+        "Chap": "09",
+        "Furi": "",
+        "Kanji": "下車する",
+        "Jpn": "げしゃする",
+        "Eng": "to get off"
+    },
+    {
+        "Id": 9008,
+        "Chap": "09",
+        "Furi": "",
+        "Kanji": "下",
+        "Jpn": "した",
+        "Eng": "below/down"
+    },
+    {
+        "Id": 9009,
+        "Chap": "09",
+        "Furi": "",
+        "Kanji": "下げる",
+        "Jpn": "さげる",
+        "Eng": "to lower"
+    },
+    {
+        "Id": 9010,
+        "Chap": "09",
+        "Furi": "",
+        "Kanji": "左折",
+        "Jpn": "させつ",
+        "Eng": "turn left"
+    },
+    {
+        "Id": 9011,
+        "Chap": "09",
+        "Furi": "",
+        "Kanji": "左手",
+        "Jpn": "ひだりて",
+        "Eng": "left hand"
+    },
+    {
+        "Id": 9012,
+        "Chap": "09",
+        "Furi": "",
+        "Kanji": "右折",
+        "Jpn": "うせつ",
+        "Eng": "turn right"
+    },
+    {
+        "Id": 9013,
+        "Chap": "09",
+        "Furi": "",
+        "Kanji": "右",
+        "Jpn": "みぎ",
+        "Eng": "right"
+    },
+    {
+        "Id": 9014,
+        "Chap": "09",
+        "Furi": "",
+        "Kanji": "授業中",
+        "Jpn": "じゅぎょうちゅう",
+        "Eng": "during class"
+    },
+    {
+        "Id": 9015,
+        "Chap": "09",
+        "Furi": "",
+        "Kanji": "一日中",
+        "Jpn": "いちにちじゅう",
+        "Eng": "whole day"
+    },
+    {
+        "Id": 9016,
+        "Chap": "09",
+        "Furi": "",
+        "Kanji": "中",
+        "Jpn": "なか",
+        "Eng": "inside"
+    },
+    {
+        "Id": 9017,
+        "Chap": "09",
+        "Furi": "",
+        "Kanji": "門",
+        "Jpn": "もん",
+        "Eng": "gate"
+    },
+    {
+        "Id": 10000,
+        "Chap": "10",
+        "Furi": "",
+        "Kanji": "間",
+        "Jpn": "あいだ",
+        "Eng": "between/among"
+    },
+    {
+        "Id": 10001,
+        "Chap": "10",
+        "Furi": "",
+        "Kanji": "間に合う",
+        "Jpn": "まにあう",
+        "Eng": "to be in time"
+    },
+    {
+        "Id": 10002,
+        "Chap": "10",
+        "Furi": "",
+        "Kanji": "近所",
+        "Jpn": "きんじょ",
+        "Eng": "neighborhood/neighbourhood"
+    },
+    {
+        "Id": 10003,
+        "Chap": "10",
+        "Furi": "",
+        "Kanji": "近く",
+        "Jpn": "ちかく",
+        "Eng": "near"
+    },
+    {
+        "Id": 10004,
+        "Chap": "10",
+        "Furi": "",
+        "Kanji": "金魚",
+        "Jpn": "きんぎょ",
+        "Eng": "goldfish"
+    },
+    {
+        "Id": 10005,
+        "Chap": "10",
+        "Furi": "",
+        "Kanji": "魚",
+        "Jpn": "さかな",
+        "Eng": "fish"
+    },
+    {
+        "Id": 10006,
+        "Chap": "10",
+        "Furi": "",
+        "Kanji": "選手",
+        "Jpn": "せんしゅ",
+        "Eng": "player"
+    },
+    {
+        "Id": 10007,
+        "Chap": "10",
+        "Furi": "",
+        "Kanji": "手紙",
+        "Jpn": "てがみ",
+        "Eng": "letter"
+    },
+    {
+        "Id": 10008,
+        "Chap": "10",
+        "Furi": "",
+        "Kanji": "警察犬",
+        "Jpn": "けいさつけん",
+        "Eng": "police dog"
+    },
+    {
+        "Id": 10009,
+        "Chap": "10",
+        "Furi": "",
+        "Kanji": "犬",
+        "Jpn": "いぬ",
+        "Eng": "dog"
+    },
+    {
+        "Id": 10010,
+        "Chap": "10",
+        "Furi": "",
+        "Kanji": "早朝",
+        "Jpn": "そうちょう",
+        "Eng": "early morning"
+    },
+    {
+        "Id": 10011,
+        "Chap": "10",
+        "Furi": "",
+        "Kanji": "早く",
+        "Jpn": "はやく",
+        "Eng": "early"
+    },
+    {
+        "Id": 10012,
+        "Chap": "10",
+        "Furi": "",
+        "Kanji": "時計",
+        "Jpn": "とけい",
+        "Eng": "watch/clock"
+    },
+    {
+        "Id": 10013,
+        "Chap": "10",
+        "Furi": "",
+        "Kanji": "計る",
+        "Jpn": "はかる",
+        "Eng": "to measure"
+    },
+    {
+        "Id": 10014,
+        "Chap": "10",
+        "Furi": "",
+        "Kanji": "外",
+        "Jpn": "そと",
+        "Eng": "outside"
+    },
+    {
+        "Id": 10015,
+        "Chap": "10",
+        "Furi": "",
+        "Kanji": "外す",
+        "Jpn": "はずす",
+        "Eng": "to undo"
+    },
+    {
+        "Id": 10016,
+        "Chap": "10",
+        "Furi": "",
+        "Kanji": "外れる",
+        "Jpn": "はずれる",
+        "Eng": "to be undone"
+    },
+    {
+        "Id": 11000,
+        "Chap": "11",
+        "Furi": "",
+        "Kanji": "兄弟",
+        "Jpn": "きょうだい",
+        "Eng": "siblings/brothers and sisters"
+    },
+    {
+        "Id": 11001,
+        "Chap": "11",
+        "Furi": "",
+        "Kanji": "兄",
+        "Jpn": "あに",
+        "Eng": "older brother/elder brother (mine)"
+    },
+    {
+        "Id": 11002,
+        "Chap": "11",
+        "Furi": "",
+        "Kanji": "お兄さん",
+        "Jpn": "おにいさん",
+        "Eng": "older brother/elder brother (other)"
+    },
+    {
+        "Id": 11003,
+        "Chap": "11",
+        "Furi": "",
+        "Kanji": "弟",
+        "Jpn": "おとうと",
+        "Eng": "younger brother (mine)"
+    },
+    {
+        "Id": 11004,
+        "Chap": "11",
+        "Furi": "",
+        "Kanji": "姉妹校",
+        "Jpn": "しまいこう",
+        "Eng": "sister school"
+    },
+    {
+        "Id": 11005,
+        "Chap": "11",
+        "Furi": "",
+        "Kanji": "姉",
+        "Jpn": "あね",
+        "Eng": "older sister/elder sister (mine)"
+    },
+    {
+        "Id": 11006,
+        "Chap": "11",
+        "Furi": "",
+        "Kanji": "お姉さん",
+        "Jpn": "おねえさん",
+        "Eng": "older sister/elder sister (other)"
+    },
+    {
+        "Id": 11007,
+        "Chap": "11",
+        "Furi": "",
+        "Kanji": "姉妹都市",
+        "Jpn": "しまいとし",
+        "Eng": "sister city"
+    },
+    {
+        "Id": 11008,
+        "Chap": "11",
+        "Furi": "",
+        "Kanji": "妹",
+        "Jpn": "いもうと",
+        "Eng": "younger sister (mine)"
+    },
+    {
+        "Id": 11009,
+        "Chap": "11",
+        "Furi": "",
+        "Kanji": "音楽家",
+        "Jpn": "おんがくか",
+        "Eng": "musician"
+    },
+    {
+        "Id": 11010,
+        "Chap": "11",
+        "Furi": "",
+        "Kanji": "田中家",
+        "Jpn": "たなかけ",
+        "Eng": "tanaka family"
+    },
+    {
+        "Id": 11011,
+        "Chap": "11",
+        "Furi": "",
+        "Kanji": "家 (physical)",
+        "Jpn": "いえ",
+        "Eng": "house"
+    },
+    {
+        "Id": 11012,
+        "Chap": "11",
+        "Furi": "",
+        "Kanji": "家 (environment)",
+        "Jpn": "うち",
+        "Eng": "home"
+    },
+    {
+        "Id": 11013,
+        "Chap": "11",
+        "Furi": "",
+        "Kanji": "家族",
+        "Jpn": "かぞく",
+        "Eng": "family"
+    },
+    {
+        "Id": 11014,
+        "Chap": "11",
+        "Furi": "",
+        "Kanji": "青春",
+        "Jpn": "せいしゅん",
+        "Eng": "youth"
+    },
+    {
+        "Id": 11015,
+        "Chap": "11",
+        "Furi": "",
+        "Kanji": "春",
+        "Jpn": "はる",
+        "Eng": "spring"
+    },
+    {
+        "Id": 11016,
+        "Chap": "11",
+        "Furi": "",
+        "Kanji": "迎春",
+        "Jpn": "げいしゅん",
+        "Eng": "before spring"
+    },
+    {
+        "Id": 11017,
+        "Chap": "11",
+        "Furi": "",
+        "Kanji": "初夏",
+        "Jpn": "しょか",
+        "Eng": "early summer"
+    },
+    {
+        "Id": 11018,
+        "Chap": "11",
+        "Furi": "",
+        "Kanji": "夏休み",
+        "Jpn": "なつやすみ",
+        "Eng": "summer vacation"
+    },
+    {
+        "Id": 12000,
+        "Chap": "12",
+        "Furi": "",
+        "Kanji": "晩秋",
+        "Jpn": "ばんしゅう",
+        "Eng": "late authumn"
+    },
+    {
+        "Id": 12001,
+        "Chap": "12",
+        "Furi": "",
+        "Kanji": "秋",
+        "Jpn": "あき",
+        "Eng": "authumn"
+    },
+    {
+        "Id": 12002,
+        "Chap": "12",
+        "Furi": "",
+        "Kanji": "冬季",
+        "Jpn": "とうき",
+        "Eng": "wintertime"
+    },
+    {
+        "Id": 12003,
+        "Chap": "12",
+        "Furi": "",
+        "Kanji": "冬休み",
+        "Jpn": "ふゆやすみ",
+        "Eng": "winter vacation"
+    },
+    {
+        "Id": 12004,
+        "Chap": "12",
+        "Furi": "",
+        "Kanji": "電気",
+        "Jpn": "でんき",
+        "Eng": "electricity/electric light"
+    },
+    {
+        "Id": 12005,
+        "Chap": "12",
+        "Furi": "",
+        "Kanji": "寒気がする",
+        "Jpn": "さむけがする",
+        "Eng": "chill"
+    },
+    {
+        "Id": 12006,
+        "Chap": "12",
+        "Furi": "",
+        "Kanji": "天気",
+        "Jpn": "てんき",
+        "Eng": "weather"
+    },
+    {
+        "Id": 12007,
+        "Chap": "12",
+        "Furi": "",
+        "Kanji": "天の川",
+        "Jpn": "あまのがわ",
+        "Eng": "milky way"
+    },
+    {
+        "Id": 12008,
+        "Chap": "12",
+        "Furi": "",
+        "Kanji": "多分",
+        "Jpn": "たぶん",
+        "Eng": "maybe"
+    },
+    {
+        "Id": 12009,
+        "Chap": "12",
+        "Furi": "",
+        "Kanji": "多い",
+        "Jpn": "おおい",
+        "Eng": "many/much"
+    },
+    {
+        "Id": 12010,
+        "Chap": "12",
+        "Furi": "",
+        "Kanji": "少々",
+        "Jpn": "しょうしょう",
+        "Eng": "a little"
+    },
+    {
+        "Id": 12011,
+        "Chap": "12",
+        "Furi": "",
+        "Kanji": "少ない",
+        "Jpn": "すくない",
+        "Eng": "a little/a few"
+    },
+    {
+        "Id": 12012,
+        "Chap": "12",
+        "Furi": "",
+        "Kanji": "元気",
+        "Jpn": "げんき",
+        "Eng": "fine/healthy"
+    },
+    {
+        "Id": 12013,
+        "Chap": "12",
+        "Furi": "",
+        "Kanji": "元日",
+        "Jpn": "がんじつ",
+        "Eng": "new years day"
+    },
+    {
+        "Id": 12014,
+        "Chap": "12",
+        "Furi": "",
+        "Kanji": "元の所",
+        "Jpn": "もとのところ",
+        "Eng": "original place"
+    },
+    {
+        "Id": 12015,
+        "Chap": "12",
+        "Furi": "",
+        "Kanji": "歩道",
+        "Jpn": "ほどう",
+        "Eng": "sidewalk"
+    },
+    {
+        "Id": 12016,
+        "Chap": "12",
+        "Furi": "",
+        "Kanji": "散歩する",
+        "Jpn": "さんぽする",
+        "Eng": "to stroll"
+    },
+    {
+        "Id": 12017,
+        "Chap": "12",
+        "Furi": "",
+        "Kanji": "歩く",
+        "Jpn": "あるく",
+        "Eng": "to walk"
+    },
+    {
+        "Id": 13000,
+        "Chap": "13",
+        "Furi": "",
+        "Kanji": "入る",
+        "Jpn": "はいる",
+        "Eng": "to enter"
+    },
+    {
+        "Id": 13001,
+        "Chap": "13",
+        "Furi": "",
+        "Kanji": "入れる",
+        "Jpn": "いれる",
+        "Eng": "to put in"
+    },
+    {
+        "Id": 13002,
+        "Chap": "13",
+        "Furi": "",
+        "Kanji": "出発",
+        "Jpn": "しゅっぱつ",
+        "Eng": "departure"
+    },
+    {
+        "Id": 13003,
+        "Chap": "13",
+        "Furi": "",
+        "Kanji": "出る",
+        "Jpn": "でる",
+        "Eng": "to leave"
+    },
+    {
+        "Id": 13004,
+        "Chap": "13",
+        "Furi": "",
+        "Kanji": "思い出す",
+        "Jpn": "おもいだす",
+        "Eng": "to remember"
+    },
+    {
+        "Id": 13005,
+        "Chap": "13",
+        "Furi": "",
+        "Kanji": "広告",
+        "Jpn": "こうこく",
+        "Eng": "advertisement"
+    },
+    {
+        "Id": 13006,
+        "Chap": "13",
+        "Furi": "",
+        "Kanji": "広い",
+        "Jpn": "ひろい",
+        "Eng": "spacious"
+    },
+    {
+        "Id": 13007,
+        "Chap": "13",
+        "Furi": "",
+        "Kanji": "中止",
+        "Jpn": "ちゅうし",
+        "Eng": "cancellation"
+    },
+    {
+        "Id": 13008,
+        "Chap": "13",
+        "Furi": "",
+        "Kanji": "止める",
+        "Jpn": "とめる",
+        "Eng": "to stop/ to park"
+    },
+    {
+        "Id": 13009,
+        "Chap": "13",
+        "Furi": "",
+        "Kanji": "止まる",
+        "Jpn": "とまる",
+        "Eng": "to come to a halt"
+    },
+    {
+        "Id": 13010,
+        "Chap": "13",
+        "Furi": "",
+        "Kanji": "雨",
+        "Jpn": "あめ",
+        "Eng": "rain"
+    },
+    {
+        "Id": 13011,
+        "Chap": "13",
+        "Furi": "",
+        "Kanji": "雨季",
+        "Jpn": "うき",
+        "Eng": "rainy season"
+    },
+    {
+        "Id": 13012,
+        "Chap": "13",
+        "Furi": "",
+        "Kanji": "開店する",
+        "Jpn": "かいてんする",
+        "Eng": "to open shop"
+    },
+    {
+        "Id": 13013,
+        "Chap": "13",
+        "Furi": "",
+        "Kanji": "開ける",
+        "Jpn": "あける",
+        "Eng": "to open"
+    },
+    {
+        "Id": 13014,
+        "Chap": "13",
+        "Furi": "",
+        "Kanji": "開く (single direction)",
+        "Jpn": "あく",
+        "Eng": "to open by itself (single direction)"
+    },
+    {
+        "Id": 13015,
+        "Chap": "13",
+        "Furi": "",
+        "Kanji": "開く (multiple directions)",
+        "Jpn": "ひらく",
+        "Eng": "to open up/ to bloom/ to hold events (multiple directions)"
+    },
+    {
+        "Id": 13016,
+        "Chap": "13",
+        "Furi": "",
+        "Kanji": "海外",
+        "Jpn": "かいがい",
+        "Eng": "overseas"
+    },
+    {
+        "Id": 13017,
+        "Chap": "13",
+        "Furi": "",
+        "Kanji": "海",
+        "Jpn": "うみ",
+        "Eng": "sea"
+    },
+    {
+        "Id": 13018,
+        "Chap": "13",
+        "Furi": "",
+        "Kanji": "川",
+        "Jpn": "かわ",
+        "Eng": "river"
+    },
+    {
+        "Id": 14000,
+        "Chap": "14",
+        "Furi": "",
+        "Kanji": "世話",
+        "Jpn": "せわ",
+        "Eng": "care"
+    },
+    {
+        "Id": 14001,
+        "Chap": "14",
+        "Furi": "",
+        "Kanji": "世界",
+        "Jpn": "せかい",
+        "Eng": "world"
+    },
+    {
+        "Id": 14002,
+        "Chap": "14",
+        "Furi": "",
+        "Kanji": "画家",
+        "Jpn": "がか",
+        "Eng": "painter"
+    },
+    {
+        "Id": 14003,
+        "Chap": "14",
+        "Furi": "",
+        "Kanji": "計画",
+        "Jpn": "けいかく",
+        "Eng": "plan"
+    },
+    {
+        "Id": 14004,
+        "Chap": "14",
+        "Furi": "",
+        "Kanji": "映画",
+        "Jpn": "えいが",
+        "Eng": "movie"
+    },
+    {
+        "Id": 14005,
+        "Chap": "14",
+        "Furi": "",
+        "Kanji": "映る",
+        "Jpn": "うつる",
+        "Eng": "to reflect"
+    },
+    {
+        "Id": 14006,
+        "Chap": "14",
+        "Furi": "",
+        "Kanji": "花瓶",
+        "Jpn": "かびん",
+        "Eng": "vase"
+    },
+    {
+        "Id": 14007,
+        "Chap": "14",
+        "Furi": "",
+        "Kanji": "お茶",
+        "Jpn": "おちゃ",
+        "Eng": "tea"
+    },
+    {
+        "Id": 14008,
+        "Chap": "14",
+        "Furi": "",
+        "Kanji": "茶道",
+        "Jpn": "さどう",
+        "Eng": "tea ceremony"
+    },
+    {
+        "Id": 14009,
+        "Chap": "14",
+        "Furi": "",
+        "Kanji": "中国語",
+        "Jpn": "ちゅうごくご",
+        "Eng": "chinese"
+    },
+    {
+        "Id": 14010,
+        "Chap": "14",
+        "Furi": "",
+        "Kanji": "英語",
+        "Jpn": "えいご",
+        "Eng": "english"
+    },
+    {
+        "Id": 15000,
+        "Chap": "15",
+        "Furi": "",
+        "Kanji": "体育",
+        "Jpn": "たいいく",
+        "Eng": "physical education"
+    },
+    {
+        "Id": 15001,
+        "Chap": "15",
+        "Furi": "",
+        "Kanji": "体",
+        "Jpn": "からだ",
+        "Eng": "body"
+    },
+    {
+        "Id": 15002,
+        "Chap": "15",
+        "Furi": "",
+        "Kanji": "不足する",
+        "Jpn": "ふそくする",
+        "Eng": "to not be enough"
+    },
+    {
+        "Id": 15003,
+        "Chap": "15",
+        "Furi": "",
+        "Kanji": "足りる",
+        "Jpn": "たりる",
+        "Eng": "to be enough"
+    },
+    {
+        "Id": 15004,
+        "Chap": "15",
+        "Furi": "",
+        "Kanji": "足す",
+        "Jpn": "たす",
+        "Eng": "to add"
+    },
+    {
+        "Id": 15005,
+        "Chap": "15",
+        "Furi": "",
+        "Kanji": "足",
+        "Jpn": "あし",
+        "Eng": "leg/foot"
+    },
+    {
+        "Id": 15006,
+        "Chap": "15",
+        "Furi": "",
+        "Kanji": "人口",
+        "Jpn": "じんこう",
+        "Eng": "population"
+    },
+    {
+        "Id": 15007,
+        "Chap": "15",
+        "Furi": "",
+        "Kanji": "口",
+        "Jpn": "くち",
+        "Eng": "mouth"
+    },
+    {
+        "Id": 15008,
+        "Chap": "15",
+        "Furi": "",
+        "Kanji": "入口",
+        "Jpn": "いりぐち",
+        "Eng": "entrance"
+    },
+    {
+        "Id": 15009,
+        "Chap": "15",
+        "Furi": "",
+        "Kanji": "出口",
+        "Jpn": "でぐち",
+        "Eng": "exit"
+    },
+    {
+        "Id": 15010,
+        "Chap": "15",
+        "Furi": "",
+        "Kanji": "洗顔する",
+        "Jpn": "せんがんする",
+        "Eng": "to wash the face"
+    },
+    {
+        "Id": 15011,
+        "Chap": "15",
+        "Furi": "",
+        "Kanji": "顔",
+        "Jpn": "かお",
+        "Eng": "face"
+    },
+    {
+        "Id": 15012,
+        "Chap": "15",
+        "Furi": "",
+        "Kanji": "耳鼻科",
+        "Jpn": "じびか",
+        "Eng": "ear, nose and throat clinic"
+    },
+    {
+        "Id": 15013,
+        "Chap": "15",
+        "Furi": "",
+        "Kanji": "耳",
+        "Jpn": "みみ",
+        "Eng": "ear"
+    },
+    {
+        "Id": 15014,
+        "Chap": "15",
+        "Furi": "",
+        "Kanji": "目的",
+        "Jpn": "もくてき",
+        "Eng": "purpose"
+    },
+    {
+        "Id": 15015,
+        "Chap": "15",
+        "Furi": "",
+        "Kanji": "目",
+        "Jpn": "め",
+        "Eng": "eye"
+    },
+    {
+        "Id": 15016,
+        "Chap": "15",
+        "Furi": "",
+        "Kanji": "国立",
+        "Jpn": "こくりつ",
+        "Eng": "national"
+    },
+    {
+        "Id": 15017,
+        "Chap": "15",
+        "Furi": "",
+        "Kanji": "立つ",
+        "Jpn": "たつ",
+        "Eng": "to stand up"
+    },
+    {
+        "Id": 15018,
+        "Chap": "15",
+        "Furi": "",
+        "Kanji": "知人",
+        "Jpn": "ちじん",
+        "Eng": "acquaintance"
+    },
+    {
+        "Id": 15019,
+        "Chap": "15",
+        "Furi": "",
+        "Kanji": "知る",
+        "Jpn": "しる",
+        "Eng": "to know"
+    },
+    {
+        "Id": 16000,
+        "Chap": "16",
+        "Furi": "",
+        "Kanji": "住所",
+        "Jpn": "じゅうしょ",
+        "Eng": "address"
+    },
+    {
+        "Id": 16001,
+        "Chap": "16",
+        "Furi": "",
+        "Kanji": "住む",
+        "Jpn": "すむ",
+        "Eng": "to live"
+    },
+    {
+        "Id": 16002,
+        "Chap": "16",
+        "Furi": "",
+        "Kanji": "意思",
+        "Jpn": "いし",
+        "Eng": "mind"
+    },
+    {
+        "Id": 16003,
+        "Chap": "16",
+        "Furi": "",
+        "Kanji": "思う",
+        "Jpn": "おもう",
+        "Eng": "to think"
+    },
+    {
+        "Id": 16004,
+        "Chap": "16",
+        "Furi": "",
+        "Kanji": "使用中",
+        "Jpn": "しようちゅう",
+        "Eng": "in use"
+    },
+    {
+        "Id": 16005,
+        "Chap": "16",
+        "Furi": "",
+        "Kanji": "使う",
+        "Jpn": "つかう",
+        "Eng": "to use"
+    },
+    {
+        "Id": 16006,
+        "Chap": "16",
+        "Furi": "",
+        "Kanji": "作文",
+        "Jpn": "さくぶん",
+        "Eng": "short essay/composition"
+    },
+    {
+        "Id": 16007,
+        "Chap": "16",
+        "Furi": "",
+        "Kanji": "作家",
+        "Jpn": "さっか",
+        "Eng": "author"
+    },
+    {
+        "Id": 16008,
+        "Chap": "16",
+        "Furi": "",
+        "Kanji": "操作",
+        "Jpn": "そうさ",
+        "Eng": "operation"
+    },
+    {
+        "Id": 16009,
+        "Chap": "16",
+        "Furi": "",
+        "Kanji": "作る",
+        "Jpn": "つくる",
+        "Eng": "to make"
+    },
+    {
+        "Id": 16010,
+        "Chap": "16",
+        "Furi": "",
+        "Kanji": "製品",
+        "Jpn": "せいひん",
+        "Eng": "product"
+    },
+    {
+        "Id": 16011,
+        "Chap": "16",
+        "Furi": "",
+        "Kanji": "品物",
+        "Jpn": "しなもの",
+        "Eng": "goods"
+    },
+    {
+        "Id": 16012,
+        "Chap": "16",
+        "Furi": "",
+        "Kanji": "部長",
+        "Jpn": "ぶちょう",
+        "Eng": "department chief"
+    },
+    {
+        "Id": 16013,
+        "Chap": "16",
+        "Furi": "",
+        "Kanji": "長い",
+        "Jpn": "ながい",
+        "Eng": "long"
+    },
+    {
+        "Id": 16014,
+        "Chap": "16",
+        "Furi": "",
+        "Kanji": "説明する",
+        "Jpn": "せつめいする",
+        "Eng": "to explain"
+    },
+    {
+        "Id": 16015,
+        "Chap": "16",
+        "Furi": "",
+        "Kanji": "明るい",
+        "Jpn": "あかるい",
+        "Eng": "bright"
+    },
+    {
+        "Id": 16016,
+        "Chap": "16",
+        "Furi": "",
+        "Kanji": "肉",
+        "Jpn": "にく",
+        "Eng": "meat"
+    },
+    {
+        "Id": 17000,
+        "Chap": "17",
+        "Furi": "",
+        "Kanji": "質問する",
+        "Jpn": "しつもんする",
+        "Eng": "to ask a question"
+    },
+    {
+        "Id": 17001,
+        "Chap": "17",
+        "Furi": "",
+        "Kanji": "問い合わせる",
+        "Jpn": "といあわせる",
+        "Eng": "to inquire"
+    },
+    {
+        "Id": 17002,
+        "Chap": "17",
+        "Furi": "",
+        "Kanji": "答案用紙",
+        "Jpn": "とうあんようし",
+        "Eng": "answer sheet"
+    },
+    {
+        "Id": 17003,
+        "Chap": "17",
+        "Furi": "",
+        "Kanji": "答える",
+        "Jpn": "こたえる",
+        "Eng": "to answer"
+    },
+    {
+        "Id": 17004,
+        "Chap": "17",
+        "Furi": "",
+        "Kanji": "中心",
+        "Jpn": "ちゅうしん",
+        "Eng": "center"
+    },
+    {
+        "Id": 17005,
+        "Chap": "17",
+        "Furi": "",
+        "Kanji": "心",
+        "Jpn": "こころ",
+        "Eng": "heart"
+    },
+    {
+        "Id": 17006,
+        "Chap": "17",
+        "Furi": "",
+        "Kanji": "心配する",
+        "Jpn": "しんぱいする",
+        "Eng": "to worry"
+    },
+    {
+        "Id": 17007,
+        "Chap": "17",
+        "Furi": "",
+        "Kanji": "配る",
+        "Jpn": "くばる",
+        "Eng": "to deliver"
+    },
+    {
+        "Id": 17008,
+        "Chap": "17",
+        "Furi": "",
+        "Kanji": "帽子",
+        "Jpn": "ぼうし",
+        "Eng": "hat/cap"
+    },
+    {
+        "Id": 17009,
+        "Chap": "17",
+        "Furi": "",
+        "Kanji": "子ども",
+        "Jpn": "こども",
+        "Eng": "child"
+    },
+    {
+        "Id": 17010,
+        "Chap": "17",
+        "Furi": "",
+        "Kanji": "自動販売機",
+        "Jpn": "じどうはんばいき",
+        "Eng": "vending machine"
+    },
+    {
+        "Id": 17011,
+        "Chap": "17",
+        "Furi": "",
+        "Kanji": "売る",
+        "Jpn": "うる",
+        "Eng": "to sell"
+    },
+    {
+        "Id": 17012,
+        "Chap": "17",
+        "Furi": "",
+        "Kanji": "駐車場",
+        "Jpn": "ちゅうしゃじょう",
+        "Eng": "parking"
+    },
+    {
+        "Id": 17013,
+        "Chap": "17",
+        "Furi": "",
+        "Kanji": "売り場",
+        "Jpn": "うりば",
+        "Eng": "counter"
+    },
+    {
+        "Id": 17014,
+        "Chap": "17",
+        "Furi": "",
+        "Kanji": "文字",
+        "Jpn": "もじ",
+        "Eng": "letter/character"
+    },
+    {
+        "Id": 18000,
+        "Chap": "18",
+        "Furi": "",
+        "Kanji": "漢字",
+        "Jpn": "かんじ",
+        "Eng": "kanji"
+    },
+    {
+        "Id": 18001,
+        "Chap": "18",
+        "Furi": "",
+        "Kanji": "無料",
+        "Jpn": "むりょう",
+        "Eng": "free of charge"
+    },
+    {
+        "Id": 18002,
+        "Chap": "18",
+        "Furi": "",
+        "Kanji": "料理",
+        "Jpn": "りょうり",
+        "Eng": "cooking"
+    },
+    {
+        "Id": 18003,
+        "Chap": "18",
+        "Furi": "",
+        "Kanji": "主人",
+        "Jpn": "しゅじん",
+        "Eng": "husband (mine)"
+    },
+    {
+        "Id": 18004,
+        "Chap": "18",
+        "Furi": "",
+        "Kanji": "ご主人",
+        "Jpn": "ごしゅじん",
+        "Eng": "husband (other)"
+    },
+    {
+        "Id": 18005,
+        "Chap": "18",
+        "Furi": "",
+        "Kanji": "主な",
+        "Jpn": "おもな",
+        "Eng": "main"
+    },
+    {
+        "Id": 18006,
+        "Chap": "18",
+        "Furi": "",
+        "Kanji": "持ち主",
+        "Jpn": "もちぬし",
+        "Eng": "owner"
+    },
+    {
+        "Id": 18007,
+        "Chap": "18",
+        "Furi": "",
+        "Kanji": "到着する",
+        "Jpn": "とうちゃくする",
+        "Eng": "to arrive"
+    },
+    {
+        "Id": 18008,
+        "Chap": "18",
+        "Furi": "",
+        "Kanji": "着る",
+        "Jpn": "きる",
+        "Eng": "to wear (shirt)"
+    },
+    {
+        "Id": 18009,
+        "Chap": "18",
+        "Furi": "",
+        "Kanji": "着く",
+        "Jpn": "つく",
+        "Eng": "to arrive"
+    },
+    {
+        "Id": 18010,
+        "Chap": "18",
+        "Furi": "",
+        "Kanji": "新しい",
+        "Jpn": "あたらしい",
+        "Eng": "new"
+    },
+    {
+        "Id": 18011,
+        "Chap": "18",
+        "Furi": "",
+        "Kanji": "中古車",
+        "Jpn": "ちゅうこしゃ",
+        "Eng": "used car"
+    },
+    {
+        "Id": 18012,
+        "Chap": "18",
+        "Furi": "",
+        "Kanji": "古い",
+        "Jpn": "ふるい",
+        "Eng": "old"
+    },
+    {
+        "Id": 18013,
+        "Chap": "18",
+        "Furi": "",
+        "Kanji": "支持",
+        "Jpn": "しじ",
+        "Eng": "support"
+    },
+    {
+        "Id": 18014,
+        "Chap": "18",
+        "Furi": "",
+        "Kanji": "持つ",
+        "Jpn": "もつ",
+        "Eng": "to have"
+    },
+    {
+        "Id": 19000,
+        "Chap": "19",
+        "Furi": "",
+        "Kanji": "電話",
+        "Jpn": "でんわ",
+        "Eng": "telephone"
+    },
+    {
+        "Id": 19001,
+        "Chap": "19",
+        "Furi": "",
+        "Kanji": "話",
+        "Jpn": "はなし",
+        "Eng": "story"
+    },
+    {
+        "Id": 19002,
+        "Chap": "19",
+        "Furi": "",
+        "Kanji": "話す",
+        "Jpn": "はなす",
+        "Eng": "to speak"
+    },
+    {
+        "Id": 19003,
+        "Chap": "19",
+        "Furi": "",
+        "Kanji": "発音",
+        "Jpn": "はつおん",
+        "Eng": "pronunciation"
+    },
+    {
+        "Id": 19004,
+        "Chap": "19",
+        "Furi": "",
+        "Kanji": "音",
+        "Jpn": "おと",
+        "Eng": "sound"
+    },
+    {
+        "Id": 19005,
+        "Chap": "19",
+        "Furi": "",
+        "Kanji": "音楽",
+        "Jpn": "おんがく",
+        "Eng": "music"
+    },
+    {
+        "Id": 19006,
+        "Chap": "19",
+        "Furi": "",
+        "Kanji": "楽",
+        "Jpn": "らく",
+        "Eng": "comfortable"
+    },
+    {
+        "Id": 19007,
+        "Chap": "19",
+        "Furi": "",
+        "Kanji": "楽しい",
+        "Jpn": "たのしい",
+        "Eng": "fun"
+    },
+    {
+        "Id": 19008,
+        "Chap": "19",
+        "Furi": "",
+        "Kanji": "歌手",
+        "Jpn": "かしゅ",
+        "Eng": "singer"
+    },
+    {
+        "Id": 19009,
+        "Chap": "19",
+        "Furi": "",
+        "Kanji": "歌",
+        "Jpn": "うた",
+        "Eng": "song"
+    },
+    {
+        "Id": 19010,
+        "Chap": "19",
+        "Furi": "",
+        "Kanji": "歌う",
+        "Jpn": "うたう",
+        "Eng": "to sing"
+    },
+    {
+        "Id": 19011,
+        "Chap": "19",
+        "Furi": "",
+        "Kanji": "今度",
+        "Jpn": "こんど",
+        "Eng": "next time"
+    },
+    {
+        "Id": 19012,
+        "Chap": "19",
+        "Furi": "",
+        "Kanji": "三十五度",
+        "Jpn": "さんじゅうごど",
+        "Eng": "35 degree"
+    },
+    {
+        "Id": 19013,
+        "Chap": "19",
+        "Furi": "",
+        "Kanji": "この度",
+        "Jpn": "このたび",
+        "Eng": "this time"
+    },
+    {
+        "Id": 19014,
+        "Chap": "19",
+        "Furi": "",
+        "Kanji": "教会",
+        "Jpn": "きょうかい",
+        "Eng": "church"
+    },
+    {
+        "Id": 19015,
+        "Chap": "19",
+        "Furi": "",
+        "Kanji": "教える",
+        "Jpn": "おしえる",
+        "Eng": "to teach"
+    },
+    {
+        "Id": 19016,
+        "Chap": "19",
+        "Furi": "",
+        "Kanji": "練習する",
+        "Jpn": "れんしゅうする",
+        "Eng": "to practice"
+    },
+    {
+        "Id": 19017,
+        "Chap": "19",
+        "Furi": "",
+        "Kanji": "習う",
+        "Jpn": "ならう",
+        "Eng": "to learn"
+    },
+    {
+        "Id": 20000,
+        "Chap": "20",
+        "Furi": "",
+        "Kanji": "賃貸",
+        "Jpn": "ちんたい",
+        "Eng": "rental"
+    },
+    {
+        "Id": 20001,
+        "Chap": "20",
+        "Furi": "",
+        "Kanji": "貸す",
+        "Jpn": "かす",
+        "Eng": "to lend"
+    },
+    {
+        "Id": 20002,
+        "Chap": "20",
+        "Furi": "",
+        "Kanji": "借金",
+        "Jpn": "しゃっきん",
+        "Eng": "loan"
+    },
+    {
+        "Id": 20003,
+        "Chap": "20",
+        "Furi": "",
+        "Kanji": "借りる",
+        "Jpn": "かりる",
+        "Eng": "to borrow"
+    },
+    {
+        "Id": 20004,
+        "Chap": "20",
+        "Furi": "",
+        "Kanji": "送料",
+        "Jpn": "そうりょう",
+        "Eng": "postage"
+    },
+    {
+        "Id": 20005,
+        "Chap": "20",
+        "Furi": "",
+        "Kanji": "送る",
+        "Jpn": "おくる",
+        "Eng": "to send"
+    },
+    {
+        "Id": 20006,
+        "Chap": "20",
+        "Furi": "",
+        "Kanji": "贈る",
+        "Jpn": "おくる",
+        "Eng": "to give"
+    },
+    {
+        "Id": 20007,
+        "Chap": "20",
+        "Furi": "",
+        "Kanji": "強風",
+        "Jpn": "きょうふう",
+        "Eng": "strong wind"
+    },
+    {
+        "Id": 20008,
+        "Chap": "20",
+        "Furi": "",
+        "Kanji": "強い",
+        "Jpn": "つよい",
+        "Eng": "strong"
+    },
+    {
+        "Id": 20009,
+        "Chap": "20",
+        "Furi": "",
+        "Kanji": "勉強する",
+        "Jpn": "べんきょうする",
+        "Eng": "to study"
+    },
+    {
+        "Id": 20010,
+        "Chap": "20",
+        "Furi": "",
+        "Kanji": "旅行する",
+        "Jpn": "りょこうする",
+        "Eng": "to travel"
+    },
+    {
+        "Id": 20011,
+        "Chap": "20",
+        "Furi": "",
+        "Kanji": "旅",
+        "Jpn": "たび",
+        "Eng": "journey"
+    },
+    {
+        "Id": 20012,
+        "Chap": "20",
+        "Furi": "",
+        "Kanji": "教室",
+        "Jpn": "きょうしつ",
+        "Eng": "classroom"
+    },
+    {
+        "Id": 20013,
+        "Chap": "20",
+        "Furi": "",
+        "Kanji": "登山",
+        "Jpn": "とざん",
+        "Eng": "mountain climbing"
+    },
+    {
+        "Id": 20014,
+        "Chap": "20",
+        "Furi": "",
+        "Kanji": "登る",
+        "Jpn": "のぼる",
+        "Eng": "to climb"
+    },
+    {
+        "Id": 21000,
+        "Chap": "21",
+        "Furi": "",
+        "Kanji": "不便",
+        "Jpn": "ふべん",
+        "Eng": "inconvenient"
+    },
+    {
+        "Id": 21001,
+        "Chap": "21",
+        "Furi": "",
+        "Kanji": "開始する",
+        "Jpn": "かいしする",
+        "Eng": "to start/ to begin (formal)"
+    },
+    {
+        "Id": 21002,
+        "Chap": "21",
+        "Furi": "",
+        "Kanji": "始める",
+        "Jpn": "はじめる",
+        "Eng": "to start/ to begin (transitive)"
+    },
+    {
+        "Id": 21003,
+        "Chap": "21",
+        "Furi": "",
+        "Kanji": "始まる",
+        "Jpn": "はじまる",
+        "Eng": "to start/ to begin (intransitive)"
+    },
+    {
+        "Id": 21004,
+        "Chap": "21",
+        "Furi": "",
+        "Kanji": "言語",
+        "Jpn": "げんご",
+        "Eng": "language"
+    },
+    {
+        "Id": 21005,
+        "Chap": "21",
+        "Furi": "",
+        "Kanji": "伝言",
+        "Jpn": "でんごん",
+        "Eng": "message"
+    },
+    {
+        "Id": 21006,
+        "Chap": "21",
+        "Furi": "",
+        "Kanji": "言う",
+        "Jpn": "いう",
+        "Eng": "to say"
+    },
+    {
+        "Id": 21007,
+        "Chap": "21",
+        "Furi": "",
+        "Kanji": "意見",
+        "Jpn": "いけん",
+        "Eng": "opinion"
+    },
+    {
+        "Id": 21008,
+        "Chap": "21",
+        "Furi": "",
+        "Kanji": "用事",
+        "Jpn": "ようじ",
+        "Eng": "errand"
+    },
+    {
+        "Id": 21009,
+        "Chap": "21",
+        "Furi": "",
+        "Kanji": "事",
+        "Jpn": "こと",
+        "Eng": "matter"
+    },
+    {
+        "Id": 21010,
+        "Chap": "21",
+        "Furi": "",
+        "Kanji": "仕事",
+        "Jpn": "しごと",
+        "Eng": "job"
+    },
+    {
+        "Id": 21011,
+        "Chap": "21",
+        "Furi": "",
+        "Kanji": "仕方がない",
+        "Jpn": "しかたがない",
+        "Eng": "cannot be helped"
+    },
+    {
+        "Id": 21012,
+        "Chap": "21",
+        "Furi": "",
+        "Kanji": "病気",
+        "Jpn": "びょうき",
+        "Eng": "illness/disease (common)"
+    },
+    {
+        "Id": 21013,
+        "Chap": "21",
+        "Furi": "",
+        "Kanji": "病",
+        "Jpn": "やまい",
+        "Eng": "illness/disease (serious)"
+    },
+    {
+        "Id": 21014,
+        "Chap": "21",
+        "Furi": "",
+        "Kanji": "病院",
+        "Jpn": "びょういん",
+        "Eng": "hospital"
+    },
+    {
+        "Id": 22000,
+        "Chap": "22",
+        "Furi": "",
+        "Kanji": "医学",
+        "Jpn": "いがく",
+        "Eng": "medical science"
+    },
+    {
+        "Id": 22001,
+        "Chap": "22",
+        "Furi": "",
+        "Kanji": "医者",
+        "Jpn": "いしゃ",
+        "Eng": "doctor"
+    },
+    {
+        "Id": 22002,
+        "Chap": "22",
+        "Furi": "",
+        "Kanji": "若者",
+        "Jpn": "わかもの",
+        "Eng": "young people"
+    },
+    {
+        "Id": 22003,
+        "Chap": "22",
+        "Furi": "",
+        "Kanji": "屋上",
+        "Jpn": "おくじょう",
+        "Eng": "rooftop"
+    },
+    {
+        "Id": 22004,
+        "Chap": "22",
+        "Furi": "",
+        "Kanji": "部屋",
+        "Jpn": "へや",
+        "Eng": "room"
+    },
+    {
+        "Id": 22005,
+        "Chap": "22",
+        "Furi": "",
+        "Kanji": "用意する",
+        "Jpn": "よういする",
+        "Eng": "to prepare"
+    },
+    {
+        "Id": 22006,
+        "Chap": "22",
+        "Furi": "",
+        "Kanji": "有る",
+        "Jpn": "ある",
+        "Eng": "to possess"
+    },
+    {
+        "Id": 22007,
+        "Chap": "22",
+        "Furi": "",
+        "Kanji": "店内",
+        "Jpn": "てんない",
+        "Eng": "inside the shop"
+    },
+    {
+        "Id": 22008,
+        "Chap": "22",
+        "Furi": "",
+        "Kanji": "店",
+        "Jpn": "みせ",
+        "Eng": "shop"
+    },
+    {
+        "Id": 22009,
+        "Chap": "22",
+        "Furi": "",
+        "Kanji": "国民",
+        "Jpn": "こくみん",
+        "Eng": "citizen"
+    },
+    {
+        "Id": 23000,
+        "Chap": "23",
+        "Furi": "",
+        "Kanji": "正確",
+        "Jpn": "せいかく",
+        "Eng": "accurate/precise"
+    },
+    {
+        "Id": 23001,
+        "Chap": "23",
+        "Furi": "",
+        "Kanji": "お正月",
+        "Jpn": "おしょうがつ",
+        "Eng": "new year"
+    },
+    {
+        "Id": 23002,
+        "Chap": "23",
+        "Furi": "",
+        "Kanji": "正しい",
+        "Jpn": "ただしい",
+        "Eng": "correct"
+    },
+    {
+        "Id": 23003,
+        "Chap": "23",
+        "Furi": "",
+        "Kanji": "地図",
+        "Jpn": "ちず",
+        "Eng": "map"
+    },
+    {
+        "Id": 23004,
+        "Chap": "23",
+        "Furi": "",
+        "Kanji": "図書館",
+        "Jpn": "としょかん",
+        "Eng": "library"
+    },
+    {
+        "Id": 23005,
+        "Chap": "23",
+        "Furi": "",
+        "Kanji": "図る",
+        "Jpn": "はかる",
+        "Eng": "to plan"
+    },
+    {
+        "Id": 23006,
+        "Chap": "23",
+        "Furi": "",
+        "Kanji": "映画館",
+        "Jpn": "えいがかん",
+        "Eng": "cinema"
+    },
+    {
+        "Id": 23007,
+        "Chap": "23",
+        "Furi": "",
+        "Kanji": "車道",
+        "Jpn": "しゃどう",
+        "Eng": "roadway"
+    },
+    {
+        "Id": 23008,
+        "Chap": "23",
+        "Furi": "",
+        "Kanji": "道",
+        "Jpn": "みち",
+        "Eng": "street"
+    },
+    {
+        "Id": 23009,
+        "Chap": "23",
+        "Furi": "",
+        "Kanji": "自動車",
+        "Jpn": "じどうしゃ",
+        "Eng": "car/automobile"
+    },
+    {
+        "Id": 23010,
+        "Chap": "23",
+        "Furi": "",
+        "Kanji": "動く",
+        "Jpn": "うごく",
+        "Eng": "to move"
+    },
+    {
+        "Id": 23011,
+        "Chap": "23",
+        "Furi": "",
+        "Kanji": "建国",
+        "Jpn": "けんこく",
+        "Eng": "national foundation"
+    },
+    {
+        "Id": 23012,
+        "Chap": "23",
+        "Furi": "",
+        "Kanji": "建つ",
+        "Jpn": "たつ",
+        "Eng": "to be built"
+    },
+    {
+        "Id": 23013,
+        "Chap": "23",
+        "Furi": "",
+        "Kanji": "建てる",
+        "Jpn": "たてる",
+        "Eng": "to build"
+    },
+    {
+        "Id": 23014,
+        "Chap": "23",
+        "Furi": "",
+        "Kanji": "建物",
+        "Jpn": "たてもの",
+        "Eng": "building"
+    },
+    {
+        "Id": 24000,
+        "Chap": "24",
+        "Furi": "",
+        "Kanji": "特に",
+        "Jpn": "とくに",
+        "Eng": "especially"
+    },
+    {
+        "Id": 24001,
+        "Chap": "24",
+        "Furi": "",
+        "Kanji": "特急",
+        "Jpn": "とっきゅう",
+        "Eng": "limited express"
+    },
+    {
+        "Id": 24002,
+        "Chap": "24",
+        "Furi": "",
+        "Kanji": "終日",
+        "Jpn": "しゅうじつ",
+        "Eng": "all day"
+    },
+    {
+        "Id": 24003,
+        "Chap": "24",
+        "Furi": "",
+        "Kanji": "終わる",
+        "Jpn": "おわる",
+        "Eng": "to finish"
+    },
+    {
+        "Id": 24004,
+        "Chap": "24",
+        "Furi": "",
+        "Kanji": "終電",
+        "Jpn": "しゅうでん",
+        "Eng": "last train"
+    },
+    {
+        "Id": 24005,
+        "Chap": "24",
+        "Furi": "",
+        "Kanji": "駅",
+        "Jpn": "えき",
+        "Eng": "station"
+    },
+    {
+        "Id": 24006,
+        "Chap": "24",
+        "Furi": "",
+        "Kanji": "写真",
+        "Jpn": "しゃしん",
+        "Eng": "photograph"
+    },
+    {
+        "Id": 24007,
+        "Chap": "24",
+        "Furi": "",
+        "Kanji": "写す",
+        "Jpn": "うつす",
+        "Eng": "to copy"
+    },
+    {
+        "Id": 24008,
+        "Chap": "24",
+        "Furi": "",
+        "Kanji": "真実",
+        "Jpn": "しんじつ",
+        "Eng": "truth"
+    },
+    {
+        "Id": 24009,
+        "Chap": "24",
+        "Furi": "",
+        "Kanji": "真ん中",
+        "Jpn": "まんなか",
+        "Eng": "middle/centre"
+    },
+    {
+        "Id": 24010,
+        "Chap": "24",
+        "Furi": "",
+        "Kanji": "牛肉",
+        "Jpn": "ぎゅうにく",
+        "Eng": "beef"
+    },
+    {
+        "Id": 24011,
+        "Chap": "24",
+        "Furi": "",
+        "Kanji": "牛",
+        "Jpn": "うし",
+        "Eng": "cow"
+    },
+    {
+        "Id": 24012,
+        "Chap": "24",
+        "Furi": "",
+        "Kanji": "山林",
+        "Jpn": "さんりん",
+        "Eng": "woodland"
+    },
+    {
+        "Id": 24013,
+        "Chap": "24",
+        "Furi": "",
+        "Kanji": "林",
+        "Jpn": "はやし",
+        "Eng": "grove"
+    },
+    {
+        "Id": 24014,
+        "Chap": "24",
+        "Furi": "",
+        "Kanji": "森林",
+        "Jpn": "しんりん",
+        "Eng": "forest"
+    },
+    {
+        "Id": 24015,
+        "Chap": "24",
+        "Furi": "",
+        "Kanji": "森",
+        "Jpn": "もり",
+        "Eng": "woods"
+    },
+    {
+        "Id": 24016,
+        "Chap": "24",
+        "Furi": "",
+        "Kanji": "森林浴",
+        "Jpn": "しんりんよく",
+        "Eng": "forest bathing"
+    },
+    {
+        "Id": 25000,
+        "Chap": "25",
+        "Furi": "",
+        "Kanji": "田中さん",
+        "Jpn": "たなかさん",
+        "Eng": "tanaka (person name)"
+    },
+    {
+        "Id": 25001,
+        "Chap": "25",
+        "Furi": "",
+        "Kanji": "山田さん",
+        "Jpn": "やまださん",
+        "Eng": "yamada (person name)"
+    },
+    {
+        "Id": 25002,
+        "Chap": "25",
+        "Furi": "",
+        "Kanji": "考古学",
+        "Jpn": "こうこがく",
+        "Eng": "archaelogy"
+    },
+    {
+        "Id": 25003,
+        "Chap": "25",
+        "Furi": "",
+        "Kanji": "考える",
+        "Jpn": "かんがえる",
+        "Eng": "to consider"
+    },
+    {
+        "Id": 25004,
+        "Chap": "25",
+        "Furi": "",
+        "Kanji": "両親",
+        "Jpn": "りょうしん",
+        "Eng": "parents"
+    },
+    {
+        "Id": 25005,
+        "Chap": "25",
+        "Furi": "",
+        "Kanji": "親",
+        "Jpn": "おや",
+        "Eng": "parent"
+    },
+    {
+        "Id": 25006,
+        "Chap": "25",
+        "Furi": "",
+        "Kanji": "親しい",
+        "Jpn": "したしい",
+        "Eng": "close/intimate"
+    },
+    {
+        "Id": 25007,
+        "Chap": "25",
+        "Furi": "",
+        "Kanji": "親切",
+        "Jpn": "しんせつ",
+        "Eng": "kind"
+    },
+    {
+        "Id": 25008,
+        "Chap": "25",
+        "Furi": "",
+        "Kanji": "大切",
+        "Jpn": "たいせつぃ",
+        "Eng": "important"
+    },
+    {
+        "Id": 25009,
+        "Chap": "25",
+        "Furi": "",
+        "Kanji": "切る",
+        "Jpn": "きる",
+        "Eng": "to cut"
+    },
+    {
+        "Id": 25010,
+        "Chap": "25",
+        "Furi": "",
+        "Kanji": "切手",
+        "Jpn": "きって",
+        "Eng": "stamp"
+    },
+    {
+        "Id": 25011,
+        "Chap": "25",
+        "Furi": "",
+        "Kanji": "試合",
+        "Jpn": "しあい",
+        "Eng": "game"
+    },
+    {
+        "Id": 25012,
+        "Chap": "25",
+        "Furi": "",
+        "Kanji": "試す",
+        "Jpn": "ためす",
+        "Eng": "to try/ to test (qualities of something)"
+    },
+    {
+        "Id": 25013,
+        "Chap": "25",
+        "Furi": "",
+        "Kanji": "試みる",
+        "Jpn": "こころみる",
+        "Eng": "to try/ to attempt (to do something)"
+    },
+    {
+        "Id": 25014,
+        "Chap": "25",
+        "Furi": "",
+        "Kanji": "試験",
+        "Jpn": "しけん",
+        "Eng": "examination"
+    },
+    {
+        "Id": 25015,
+        "Chap": "25",
+        "Furi": "",
+        "Kanji": "全部",
+        "Jpn": "ぜんぶ",
+        "Eng": "all"
+    },
+    {
+        "Id": 25016,
+        "Chap": "25",
+        "Furi": "",
+        "Kanji": "二十二歳",
+        "Jpn": "にじゅうにさい",
+        "Eng": "22 years old"
+    },
+    {
+        "Id": 25017,
+        "Chap": "25",
+        "Furi": "",
+        "Kanji": "留学する",
+        "Jpn": "りゅうがくする",
+        "Eng": "to study abroad"
+    },
+    {
+        "Id": 25018,
+        "Chap": "25",
+        "Furi": "",
+        "Kanji": "留守",
+        "Jpn": "るす",
+        "Eng": "absent/away"
+    },
+    {
+        "Id": 25019,
+        "Chap": "25",
+        "Furi": "",
+        "Kanji": "留める",
+        "Jpn": "とめる",
+        "Eng": "to keep in mind"
+    },
+    {
+        "Id": 25020,
+        "Chap": "25",
+        "Furi": "",
+        "Kanji": "会議",
+        "Jpn": "かいぎ",
+        "Eng": "meeting"
+    },
+    {
+        "Id": 25021,
+        "Chap": "25",
+        "Furi": "",
+        "Kanji": "散る",
+        "Jpn": "ちる",
+        "Eng": "to drop"
+    },
+    {
+        "Id": 25022,
+        "Chap": "25",
+        "Furi": "",
+        "Kanji": "浴室",
+        "Jpn": "よくしつ",
+        "Eng": "bathroom"
+    },
+    {
+        "Id": 25023,
+        "Chap": "25",
+        "Furi": "",
+        "Kanji": "浴びる",
+        "Jpn": "あびる",
+        "Eng": "to bathe"
+    },
+    {
+        "Id": 25024,
+        "Chap": "25",
+        "Furi": "",
+        "Kanji": "以降",
+        "Jpn": "いこう",
+        "Eng": "after"
+    },
+    {
+        "Id": 25025,
+        "Chap": "25",
+        "Furi": "",
+        "Kanji": "降る",
+        "Jpn": "ふる",
+        "Eng": "to fall (rain/snow)"
+    },
+    {
+        "Id": 25026,
+        "Chap": "25",
+        "Furi": "",
+        "Kanji": "降りる",
+        "Jpn": "おりる",
+        "Eng": "to get off"
+    },
+    {
+        "Id": 25027,
+        "Chap": "25",
+        "Furi": "",
+        "Kanji": "食欲",
+        "Jpn": "しょくよく",
+        "Eng": "appetite"
+    },
+    {
+        "Id": 25028,
+        "Chap": "25",
+        "Furi": "",
+        "Kanji": "欲しい",
+        "Jpn": "ほしい",
+        "Eng": "to want"
+    },
+    {
+        "Id": 25029,
+        "Chap": "25",
+        "Furi": "",
+        "Kanji": "物欲",
+        "Jpn": "ぶつよく",
+        "Eng": "greed"
+    },
+    {
+        "Id": 25030,
+        "Chap": "25",
+        "Furi": "",
+        "Kanji": "一億",
+        "Jpn": "いちおく",
+        "Eng": "one hundred million"
+    },
+    {
+        "Id": 26000,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "最悪",
+        "Jpn": "さいあく",
+        "Eng": "the worst"
+    },
+    {
+        "Id": 26001,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "悪い",
+        "Jpn": "わるい",
+        "Eng": "bad"
+    },
+    {
+        "Id": 26002,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "急行",
+        "Jpn": "きゅうこう",
+        "Eng": "express train"
+    },
+    {
+        "Id": 26003,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "急ぐ",
+        "Jpn": "いそぐ",
+        "Eng": "to hurry"
+    },
+    {
+        "Id": 26004,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "去る",
+        "Jpn": "さる",
+        "Eng": "to leave"
+    },
+    {
+        "Id": 26005,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "用紙",
+        "Jpn": "ようし",
+        "Eng": "form"
+    },
+    {
+        "Id": 26006,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "千葉県",
+        "Jpn": "ちばけん",
+        "Eng": "chiba prefecture"
+    },
+    {
+        "Id": 26007,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "都会",
+        "Jpn": "とかい",
+        "Eng": "urban area"
+    },
+    {
+        "Id": 26008,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "都合",
+        "Jpn": "つごう",
+        "Eng": "convenience"
+    },
+    {
+        "Id": 26009,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "都",
+        "Jpn": "みやこ",
+        "Eng": "metropolis"
+    },
+    {
+        "Id": 26010,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "合格する",
+        "Jpn": "ごうかくする",
+        "Eng": "to pass"
+    },
+    {
+        "Id": 26011,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "合羽",
+        "Jpn": "かっぱ",
+        "Eng": "rain jacket"
+    },
+    {
+        "Id": 26012,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "話し合う",
+        "Jpn": "はなしあう",
+        "Eng": "to discuss"
+    },
+    {
+        "Id": 26013,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "高速道路",
+        "Jpn": "こうそくどうろ",
+        "Eng": "expressway"
+    },
+    {
+        "Id": 26014,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "速い",
+        "Jpn": "はやい",
+        "Eng": "fast"
+    },
+    {
+        "Id": 26015,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "直接",
+        "Jpn": "ちょくせつ",
+        "Eng": "directly"
+    },
+    {
+        "Id": 26016,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "正直",
+        "Jpn": "しょうじき",
+        "Eng": "honest"
+    },
+    {
+        "Id": 26017,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "直す",
+        "Jpn": "なおす",
+        "Eng": "to correct"
+    },
+    {
+        "Id": 26018,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "面接",
+        "Jpn": "めんせつ",
+        "Eng": "interview"
+    },
+    {
+        "Id": 26019,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "銭湯",
+        "Jpn": "せんとう",
+        "Eng": "public bath"
+    },
+    {
+        "Id": 26020,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "お湯",
+        "Jpn": "おゆ",
+        "Eng": "hot water"
+    },
+    {
+        "Id": 26021,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "探検",
+        "Jpn": "たんけん",
+        "Eng": "exploration"
+    },
+    {
+        "Id": 26022,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "探す",
+        "Jpn": "さがす",
+        "Eng": "to search"
+    },
+    {
+        "Id": 26023,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "平和",
+        "Jpn": "へいわ",
+        "Eng": "peace"
+    },
+    {
+        "Id": 26024,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "平等",
+        "Jpn": "びょうどう",
+        "Eng": "equality"
+    },
+    {
+        "Id": 26025,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "平ら",
+        "Jpn": "たいら",
+        "Eng": "flat"
+    },
+    {
+        "Id": 26026,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "平社員",
+        "Jpn": "ひらしゃいん",
+        "Eng": "low level employee"
+    },
+    {
+        "Id": 26027,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "寺院",
+        "Jpn": "じいん",
+        "Eng": "religious building"
+    },
+    {
+        "Id": 26028,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "お寺",
+        "Jpn": "おてら",
+        "Eng": "temple"
+    },
+    {
+        "Id": 26029,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "勝利",
+        "Jpn": "しょうり",
+        "Eng": "victory"
+    },
+    {
+        "Id": 26030,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "勝つ",
+        "Jpn": "かつ",
+        "Eng": "to win"
+    },
+    {
+        "Id": 26031,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "勝る",
+        "Jpn": "まさる",
+        "Eng": "superior"
+    },
+    {
+        "Id": 26032,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "勝負",
+        "Jpn": "しょうぶ",
+        "Eng": "contest"
+    },
+    {
+        "Id": 26033,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "負ける",
+        "Jpn": "まける",
+        "Eng": "to lose"
+    },
+    {
+        "Id": 26034,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "負う",
+        "Jpn": "おう",
+        "Eng": "to bear"
+    },
+    {
+        "Id": 26035,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "願望",
+        "Jpn": "がんぼう",
+        "Eng": "desire"
+    },
+    {
+        "Id": 26036,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "お願いします",
+        "Jpn": "おねがいします",
+        "Eng": "please"
+    },
+    {
+        "Id": 26037,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "正座する",
+        "Jpn": "せいざする",
+        "Eng": "to sit japanese style"
+    },
+    {
+        "Id": 26038,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "座る",
+        "Jpn": "すわる",
+        "Eng": "to sit"
+    },
+    {
+        "Id": 26039,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "睡眠",
+        "Jpn": "すいみん",
+        "Eng": "sleep"
+    },
+    {
+        "Id": 26040,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "眠い",
+        "Jpn": "ねむい",
+        "Eng": "sleepy"
+    },
+    {
+        "Id": 26041,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "狭い",
+        "Jpn": "せまい",
+        "Eng": "narrow"
+    },
+    {
+        "Id": 26042,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "甘味",
+        "Jpn": "かんみ",
+        "Eng": "sweet (noun, flavor)"
+    },
+    {
+        "Id": 26043,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "甘い",
+        "Jpn": "あまい",
+        "Eng": "sweet/fragrant (adj)"
+    },
+    {
+        "Id": 26044,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "辛抱",
+        "Jpn": "しんぼう",
+        "Eng": "perseverance"
+    },
+    {
+        "Id": 26045,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "辛い (味覚)",
+        "Jpn": "からい",
+        "Eng": "spicy (taste)"
+    },
+    {
+        "Id": 26046,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "辛い (経験)",
+        "Jpn": "つらい",
+        "Eng": "difficult (experience)"
+    },
+    {
+        "Id": 26047,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "卵黄",
+        "Jpn": "らんおう",
+        "Eng": "yolk"
+    },
+    {
+        "Id": 26048,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "卵",
+        "Jpn": "たまご",
+        "Eng": "egg"
+    },
+    {
+        "Id": 26049,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "生卵",
+        "Jpn": "なまたまご",
+        "Eng": "raw egg"
+    },
+    {
+        "Id": 26050,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "拾得者",
+        "Jpn": "しゅうとくしゃ",
+        "Eng": "finder"
+    },
+    {
+        "Id": 26051,
+        "Chap": "26",
+        "Furi": "",
+        "Kanji": "拾う",
+        "Jpn": "ひろう",
+        "Eng": "to pick up"
+    },
+    {
+        "Id": 27000,
+        "Chap": "27",
+        "Furi": "",
+        "Kanji": "授業",
+        "Jpn": "じゅぎょう",
+        "Eng": "school lesson"
+    },
+    {
+        "Id": 27001,
+        "Chap": "27",
+        "Furi": "",
+        "Kanji": "業",
+        "Jpn": "わざ",
+        "Eng": "task"
+    },
+    {
+        "Id": 27002,
+        "Chap": "27",
+        "Furi": "",
+        "Kanji": "白鳥",
+        "Jpn": "はくちょう",
+        "Eng": "swan"
+    },
+    {
+        "Id": 27003,
+        "Chap": "27",
+        "Furi": "",
+        "Kanji": "鳥",
+        "Jpn": "とり",
+        "Eng": "bird"
+    },
+    {
+        "Id": 27004,
+        "Chap": "27",
+        "Furi": "",
+        "Kanji": "普通",
+        "Jpn": "ふつう",
+        "Eng": "local train"
+    },
+    {
+        "Id": 27005,
+        "Chap": "27",
+        "Furi": "",
+        "Kanji": "通う",
+        "Jpn": "かよう",
+        "Eng": "to commute"
+    },
+    {
+        "Id": 27006,
+        "Chap": "27",
+        "Furi": "",
+        "Kanji": "通る",
+        "Jpn": "とおる",
+        "Eng": "to pass"
+    },
+    {
+        "Id": 27007,
+        "Chap": "27",
+        "Furi": "",
+        "Kanji": "趣味",
+        "Jpn": "しゅみ",
+        "Eng": "hobby"
+    },
+    {
+        "Id": 27008,
+        "Chap": "27",
+        "Furi": "",
+        "Kanji": "味",
+        "Jpn": "あじ",
+        "Eng": "taste"
+    },
+    {
+        "Id": 27009,
+        "Chap": "27",
+        "Furi": "",
+        "Kanji": "味噌",
+        "Jpn": "みそ",
+        "Eng": "miso"
+    },
+    {
+        "Id": 27010,
+        "Chap": "27",
+        "Furi": "",
+        "Kanji": "運動する",
+        "Jpn": "うんどうする",
+        "Eng": "to exercise"
+    },
+    {
+        "Id": 27011,
+        "Chap": "27",
+        "Furi": "",
+        "Kanji": "運ぶ",
+        "Jpn": "はこぶ",
+        "Eng": "to carry"
+    },
+    {
+        "Id": 27012,
+        "Chap": "27",
+        "Furi": "",
+        "Kanji": "運がいい",
+        "Jpn": "うんがいい",
+        "Eng": "lucky"
+    },
+    {
+        "Id": 27013,
+        "Chap": "27",
+        "Furi": "",
+        "Kanji": "運転する",
+        "Jpn": "うんてんする",
+        "Eng": "to drive"
+    },
+    {
+        "Id": 27014,
+        "Chap": "27",
+        "Furi": "",
+        "Kanji": "転ぶ",
+        "Jpn": "ころぶ",
+        "Eng": "to fall"
+    },
+    {
+        "Id": 27015,
+        "Chap": "27",
+        "Furi": "",
+        "Kanji": "実力",
+        "Jpn": "じつりょく",
+        "Eng": "real ability"
+    },
+    {
+        "Id": 27016,
+        "Chap": "27",
+        "Furi": "",
+        "Kanji": "馬力",
+        "Jpn": "ばりき",
+        "Eng": "horsepower"
+    },
+    {
+        "Id": 27017,
+        "Chap": "27",
+        "Furi": "",
+        "Kanji": "力",
+        "Jpn": "ちから",
+        "Eng": "power"
+    },
+    {
+        "Id": 27018,
+        "Chap": "27",
+        "Furi": "",
+        "Kanji": "特色",
+        "Jpn": "とくしょく",
+        "Eng": "characteristic"
+    },
+    {
+        "Id": 27019,
+        "Chap": "27",
+        "Furi": "",
+        "Kanji": "景色",
+        "Jpn": "けしき",
+        "Eng": "scenery"
+    },
+    {
+        "Id": 27020,
+        "Chap": "27",
+        "Furi": "",
+        "Kanji": "色",
+        "Jpn": "いろ",
+        "Eng": "color"
+    },
+    {
+        "Id": 27021,
+        "Chap": "27",
+        "Furi": "",
+        "Kanji": "顔色",
+        "Jpn": "かおいろ",
+        "Eng": "complexion"
+    },
+    {
+        "Id": 27022,
+        "Chap": "27",
+        "Furi": "",
+        "Kanji": "家具",
+        "Jpn": "かぐ",
+        "Eng": "furniture"
+    },
+    {
+        "Id": 27023,
+        "Chap": "27",
+        "Furi": "",
+        "Kanji": "取得する",
+        "Jpn": "しゅとくする",
+        "Eng": "to acquire"
+    },
+    {
+        "Id": 27024,
+        "Chap": "27",
+        "Furi": "",
+        "Kanji": "取る",
+        "Jpn": "とる",
+        "Eng": "to take"
+    },
+    {
+        "Id": 27025,
+        "Chap": "27",
+        "Furi": "",
+        "Kanji": "出荷する",
+        "Jpn": "しゅっかする",
+        "Eng": "to ship"
+    },
+    {
+        "Id": 27026,
+        "Chap": "27",
+        "Furi": "",
+        "Kanji": "簡単",
+        "Jpn": "かんたん",
+        "Eng": "easy"
+    },
+    {
+        "Id": 28000,
+        "Chap": "28",
+        "Furi": "",
+        "Kanji": "単語",
+        "Jpn": "たんご",
+        "Eng": "word"
+    },
+    {
+        "Id": 28001,
+        "Chap": "28",
+        "Furi": "",
+        "Kanji": "感覚",
+        "Jpn": "かんかく",
+        "Eng": "a sense"
+    },
+    {
+        "Id": 28002,
+        "Chap": "28",
+        "Furi": "",
+        "Kanji": "覚える",
+        "Jpn": "おぼえる",
+        "Eng": "to remember"
+    },
+    {
+        "Id": 28003,
+        "Chap": "28",
+        "Furi": "",
+        "Kanji": "覚める",
+        "Jpn": "さめる",
+        "Eng": "to wake"
+    },
+    {
+        "Id": 28004,
+        "Chap": "28",
+        "Furi": "",
+        "Kanji": "多忙",
+        "Jpn": "たぼう",
+        "Eng": "busy (formal)"
+    },
+    {
+        "Id": 28005,
+        "Chap": "28",
+        "Furi": "",
+        "Kanji": "忙しい",
+        "Jpn": "いそがしい",
+        "Eng": "busy (casual)"
+    },
+    {
+        "Id": 28006,
+        "Chap": "28",
+        "Furi": "",
+        "Kanji": "給料",
+        "Jpn": "きゅうりょう",
+        "Eng": "salary"
+    },
+    {
+        "Id": 28007,
+        "Chap": "28",
+        "Furi": "",
+        "Kanji": "給食",
+        "Jpn": "きゅうしょく",
+        "Eng": "school meal"
+    },
+    {
+        "Id": 28008,
+        "Chap": "28",
+        "Furi": "",
+        "Kanji": "実は",
+        "Jpn": "じつは",
+        "Eng": "to tell you the truth"
+    },
+    {
+        "Id": 28009,
+        "Chap": "28",
+        "Furi": "",
+        "Kanji": "実験",
+        "Jpn": "じっけん",
+        "Eng": "experiment"
+    },
+    {
+        "Id": 28010,
+        "Chap": "28",
+        "Furi": "",
+        "Kanji": "清涼",
+        "Jpn": "せいりょう",
+        "Eng": "cooler"
+    },
+    {
+        "Id": 28011,
+        "Chap": "28",
+        "Furi": "",
+        "Kanji": "涼しい",
+        "Jpn": "すずしい",
+        "Eng": "cool"
+    },
+    {
+        "Id": 28012,
+        "Chap": "28",
+        "Furi": "",
+        "Kanji": "将来",
+        "Jpn": "しょうらい",
+        "Eng": "future (usually near)"
+    },
+    {
+        "Id": 28013,
+        "Chap": "28",
+        "Furi": "",
+        "Kanji": "夢中",
+        "Jpn": "むちゅう",
+        "Eng": "be absorbed"
+    },
+    {
+        "Id": 28014,
+        "Chap": "28",
+        "Furi": "",
+        "Kanji": "夢",
+        "Jpn": "ゆめ",
+        "Eng": "dream"
+    },
+    {
+        "Id": 28015,
+        "Chap": "28",
+        "Furi": "",
+        "Kanji": "疲労",
+        "Jpn": "ひろう",
+        "Eng": "fatigue"
+    },
+    {
+        "Id": 28016,
+        "Chap": "28",
+        "Furi": "",
+        "Kanji": "疲れる",
+        "Jpn": "つかれる",
+        "Eng": "to get tired"
+    },
+    {
+        "Id": 28017,
+        "Chap": "28",
+        "Furi": "",
+        "Kanji": "頭痛",
+        "Jpn": "ずつう",
+        "Eng": "headache"
+    },
+    {
+        "Id": 28018,
+        "Chap": "28",
+        "Furi": "",
+        "Kanji": "痛い",
+        "Jpn": "いたい",
+        "Eng": "painful"
+    },
+    {
+        "Id": 28019,
+        "Chap": "28",
+        "Furi": "",
+        "Kanji": "彼",
+        "Jpn": "かれ",
+        "Eng": "he/boyfriend"
+    },
+    {
+        "Id": 28020,
+        "Chap": "28",
+        "Furi": "",
+        "Kanji": "彼女",
+        "Jpn": "かのじょ",
+        "Eng": "she/girlfriend"
+    },
+    {
+        "Id": 29000,
+        "Chap": "29",
+        "Furi": "",
+        "Kanji": "地震",
+        "Jpn": "じしん",
+        "Eng": "earthquake"
+    },
+    {
+        "Id": 29001,
+        "Chap": "29",
+        "Furi": "",
+        "Kanji": "走者",
+        "Jpn": "そうしゃ",
+        "Eng": "rumor"
+    },
+    {
+        "Id": 29002,
+        "Chap": "29",
+        "Furi": "",
+        "Kanji": "走る",
+        "Jpn": "はしる",
+        "Eng": "to run"
+    },
+    {
+        "Id": 29003,
+        "Chap": "29",
+        "Furi": "",
+        "Kanji": "集中する",
+        "Jpn": "しゅうちゅうする",
+        "Eng": "to concentrate"
+    },
+    {
+        "Id": 29004,
+        "Chap": "29",
+        "Furi": "",
+        "Kanji": "集まる",
+        "Jpn": "あつまる",
+        "Eng": "to gather"
+    },
+    {
+        "Id": 29005,
+        "Chap": "29",
+        "Furi": "",
+        "Kanji": "集める",
+        "Jpn": "あつめる",
+        "Eng": "to collect"
+    },
+    {
+        "Id": 29006,
+        "Chap": "29",
+        "Furi": "",
+        "Kanji": "研究する",
+        "Jpn": "けんきゅうする",
+        "Eng": "to research"
+    },
+    {
+        "Id": 29007,
+        "Chap": "29",
+        "Furi": "",
+        "Kanji": "研ぐ",
+        "Jpn": "とぐ",
+        "Eng": "to sharpen"
+    },
+    {
+        "Id": 29008,
+        "Chap": "29",
+        "Furi": "",
+        "Kanji": "研究者",
+        "Jpn": "けんきゅうしゃ",
+        "Eng": "researcher"
+    },
+    {
+        "Id": 29009,
+        "Chap": "29",
+        "Furi": "",
+        "Kanji": "体重",
+        "Jpn": "たいじゅう",
+        "Eng": "weight"
+    },
+    {
+        "Id": 29010,
+        "Chap": "29",
+        "Furi": "",
+        "Kanji": "重い",
+        "Jpn": "おもい",
+        "Eng": "heavy"
+    },
+    {
+        "Id": 29011,
+        "Chap": "29",
+        "Furi": "",
+        "Kanji": "池",
+        "Jpn": "いけ",
+        "Eng": "pond"
+    },
+    {
+        "Id": 29012,
+        "Chap": "29",
+        "Furi": "",
+        "Kanji": "三角形",
+        "Jpn": "さんかくけい",
+        "Eng": "triangle"
+    },
+    {
+        "Id": 29013,
+        "Chap": "29",
+        "Furi": "",
+        "Kanji": "人形",
+        "Jpn": "にんぎょう",
+        "Eng": "doll"
+    },
+    {
+        "Id": 29014,
+        "Chap": "29",
+        "Furi": "",
+        "Kanji": "形",
+        "Jpn": "かたち",
+        "Eng": "shape/form"
+    },
+    {
+        "Id": 29015,
+        "Chap": "29",
+        "Furi": "",
+        "Kanji": "横断歩道",
+        "Jpn": "おうだんほどう",
+        "Eng": "crosswalk"
+    },
+    {
+        "Id": 29016,
+        "Chap": "29",
+        "Furi": "",
+        "Kanji": "横",
+        "Jpn": "よこ",
+        "Eng": "side"
+    },
+    {
+        "Id": 29017,
+        "Chap": "29",
+        "Furi": "",
+        "Kanji": "歩道橋",
+        "Jpn": "ほどうきょう",
+        "Eng": "overpass"
+    },
+    {
+        "Id": 29018,
+        "Chap": "29",
+        "Furi": "",
+        "Kanji": "橋",
+        "Jpn": "はし",
+        "Eng": "bridge"
+    },
+    {
+        "Id": 29019,
+        "Chap": "29",
+        "Furi": "",
+        "Kanji": "決心",
+        "Jpn": "けっしん",
+        "Eng": "decision"
+    },
+    {
+        "Id": 29020,
+        "Chap": "29",
+        "Furi": "",
+        "Kanji": "決める",
+        "Jpn": "きめる",
+        "Eng": "to decide"
+    },
+    {
+        "Id": 29021,
+        "Chap": "29",
+        "Furi": "",
+        "Kanji": "決まる",
+        "Jpn": "きまる",
+        "Eng": "to be decided"
+    },
+    {
+        "Id": 30000,
+        "Chap": "30",
+        "Furi": "",
+        "Kanji": "非常",
+        "Jpn": "ひじょう",
+        "Eng": "emergency"
+    },
+    {
+        "Id": 30001,
+        "Chap": "30",
+        "Furi": "",
+        "Kanji": "非常口",
+        "Jpn": "ひじょうぐち",
+        "Eng": "emergency exit"
+    },
+    {
+        "Id": 30002,
+        "Chap": "30",
+        "Furi": "",
+        "Kanji": "常に",
+        "Jpn": "つねに",
+        "Eng": "always"
+    },
+    {
+        "Id": 30003,
+        "Chap": "30",
+        "Furi": "",
+        "Kanji": "忘年会",
+        "Jpn": "ぼうねんかい",
+        "Eng": "year-end party"
+    },
+    {
+        "Id": 30004,
+        "Chap": "30",
+        "Furi": "",
+        "Kanji": "忘れる",
+        "Jpn": "わすれる",
+        "Eng": "to forget"
+    },
+    {
+        "Id": 30005,
+        "Chap": "30",
+        "Furi": "",
+        "Kanji": "放置",
+        "Jpn": "ほうち",
+        "Eng": "leave/neglect"
+    },
+    {
+        "Id": 30006,
+        "Chap": "30",
+        "Furi": "",
+        "Kanji": "置く",
+        "Jpn": "おく",
+        "Eng": "to put"
+    },
+    {
+        "Id": 30007,
+        "Chap": "30",
+        "Furi": "",
+        "Kanji": "教授",
+        "Jpn": "きょうじゅ",
+        "Eng": "professor"
+    },
+    {
+        "Id": 30008,
+        "Chap": "30",
+        "Furi": "",
+        "Kanji": "授ける",
+        "Jpn": "さずける",
+        "Eng": "to confer"
+    },
+    {
+        "Id": 30009,
+        "Chap": "30",
+        "Furi": "",
+        "Kanji": "授かる",
+        "Jpn": "さずかる",
+        "Eng": "to be given"
+    },
+    {
+        "Id": 30010,
+        "Chap": "30",
+        "Furi": "",
+        "Kanji": "技術",
+        "Jpn": "ぎじゅつ",
+        "Eng": "technology"
+    },
+    {
+        "Id": 30011,
+        "Chap": "30",
+        "Furi": "",
+        "Kanji": "技",
+        "Jpn": "わざ",
+        "Eng": "skill"
+    },
+    {
+        "Id": 30012,
+        "Chap": "30",
+        "Furi": "",
+        "Kanji": "美術",
+        "Jpn": "びじゅつ",
+        "Eng": "art"
+    },
+    {
+        "Id": 30013,
+        "Chap": "30",
+        "Furi": "",
+        "Kanji": "資料",
+        "Jpn": "しりょう",
+        "Eng": "material"
+    },
+    {
+        "Id": 30014,
+        "Chap": "30",
+        "Furi": "",
+        "Kanji": "書類",
+        "Jpn": "しょるい",
+        "Eng": "document"
+    },
+    {
+        "Id": 30015,
+        "Chap": "30",
+        "Furi": "",
+        "Kanji": "復習する",
+        "Jpn": "ふくしゅうする",
+        "Eng": "to review"
+    },
+    {
+        "Id": 30016,
+        "Chap": "30",
+        "Furi": "",
+        "Kanji": "植物",
+        "Jpn": "しょくぶつ",
+        "Eng": "plant"
+    },
+    {
+        "Id": 30017,
+        "Chap": "30",
+        "Furi": "",
+        "Kanji": "植える",
+        "Jpn": "うえる",
+        "Eng": "to plant"
+    },
+    {
+        "Id": 30018,
+        "Chap": "30",
+        "Furi": "",
+        "Kanji": "机上",
+        "Jpn": "きじょう",
+        "Eng": "on the desk"
+    },
+    {
+        "Id": 30019,
+        "Chap": "30",
+        "Furi": "",
+        "Kanji": "机",
+        "Jpn": "つくえ",
+        "Eng": "desk"
+    },
+    {
+        "Id": 31000,
+        "Chap": "31",
+        "Furi": "",
+        "Kanji": "東京",
+        "Jpn": "とうきょう",
+        "Eng": "tokyo"
+    },
+    {
+        "Id": 31001,
+        "Chap": "31",
+        "Furi": "",
+        "Kanji": "東",
+        "Jpn": "ひがし",
+        "Eng": "east"
+    },
+    {
+        "Id": 31002,
+        "Chap": "31",
+        "Furi": "",
+        "Kanji": "西洋",
+        "Jpn": "せいよう",
+        "Eng": "western"
+    },
+    {
+        "Id": 31003,
+        "Chap": "31",
+        "Furi": "",
+        "Kanji": "西",
+        "Jpn": "にし",
+        "Eng": "west"
+    },
+    {
+        "Id": 31004,
+        "Chap": "31",
+        "Furi": "",
+        "Kanji": "東南アジア",
+        "Jpn": "とうなんアジア",
+        "Eng": "south wast asia"
+    },
+    {
+        "Id": 31005,
+        "Chap": "31",
+        "Furi": "",
+        "Kanji": "南",
+        "Jpn": "みなみ",
+        "Eng": "south"
+    },
+    {
+        "Id": 31006,
+        "Chap": "31",
+        "Furi": "",
+        "Kanji": "北米",
+        "Jpn": "ほくべい",
+        "Eng": "north america"
+    },
+    {
+        "Id": 31007,
+        "Chap": "31",
+        "Furi": "",
+        "Kanji": "北",
+        "Jpn": "きた",
+        "Eng": "north"
+    },
+    {
+        "Id": 31008,
+        "Chap": "31",
+        "Furi": "",
+        "Kanji": "北海道",
+        "Jpn": "ほっかいどう",
+        "Eng": "hokkaido"
+    },
+    {
+        "Id": 31009,
+        "Chap": "31",
+        "Furi": "",
+        "Kanji": "市役所",
+        "Jpn": "しやくしょ",
+        "Eng": "city hall"
+    },
+    {
+        "Id": 31010,
+        "Chap": "31",
+        "Furi": "",
+        "Kanji": "市場",
+        "Jpn": "いちば",
+        "Eng": "market"
+    },
+    {
+        "Id": 31011,
+        "Chap": "31",
+        "Furi": "",
+        "Kanji": "台風",
+        "Jpn": "たいふう",
+        "Eng": "typhoon"
+    },
+    {
+        "Id": 31012,
+        "Chap": "31",
+        "Furi": "",
+        "Kanji": "風",
+        "Jpn": "かぜ",
+        "Eng": "wind"
+    },
+    {
+        "Id": 31013,
+        "Chap": "31",
+        "Furi": "",
+        "Kanji": "空港",
+        "Jpn": "くうこう",
+        "Eng": "airport"
+    },
+    {
+        "Id": 31014,
+        "Chap": "31",
+        "Furi": "",
+        "Kanji": "空",
+        "Jpn": "そら",
+        "Eng": "sky"
+    },
+    {
+        "Id": 31015,
+        "Chap": "31",
+        "Furi": "",
+        "Kanji": "区",
+        "Jpn": "く",
+        "Eng": "ward/district"
+    },
+    {
+        "Id": 31016,
+        "Chap": "31",
+        "Furi": "",
+        "Kanji": "晴天",
+        "Jpn": "せいてん",
+        "Eng": "fine weather"
+    },
+    {
+        "Id": 31017,
+        "Chap": "31",
+        "Furi": "",
+        "Kanji": "晴れる",
+        "Jpn": "はれる",
+        "Eng": "to clear up"
+    },
+    {
+        "Id": 31018,
+        "Chap": "31",
+        "Furi": "",
+        "Kanji": "星座",
+        "Jpn": "せいざ",
+        "Eng": "constellation"
+    },
+    {
+        "Id": 31019,
+        "Chap": "31",
+        "Furi": "",
+        "Kanji": "星",
+        "Jpn": "ほし",
+        "Eng": "star"
+    },
+    {
+        "Id": 31020,
+        "Chap": "31",
+        "Furi": "",
+        "Kanji": "熱",
+        "Jpn": "ねつ",
+        "Eng": "fever"
+    },
+    {
+        "Id": 31021,
+        "Chap": "31",
+        "Furi": "",
+        "Kanji": "熱心",
+        "Jpn": "ねっしん",
+        "Eng": "enthusiastic"
+    },
+    {
+        "Id": 31022,
+        "Chap": "31",
+        "Furi": "",
+        "Kanji": "熱い",
+        "Jpn": "あつい",
+        "Eng": "hot"
+    },
+    {
+        "Id": 32000,
+        "Chap": "32",
+        "Furi": "",
+        "Kanji": "予する",
+        "Jpn": "よやくする",
+        "Eng": "to reserve/ to book"
+    },
+    {
+        "Id": 32001,
+        "Chap": "32",
+        "Furi": "",
+        "Kanji": "約",
+        "Jpn": "やく",
+        "Eng": "approximately/about"
+    },
+    {
+        "Id": 32002,
+        "Chap": "32",
+        "Furi": "",
+        "Kanji": "束",
+        "Jpn": "やくそく",
+        "Eng": "promise"
+    },
+    {
+        "Id": 32003,
+        "Chap": "32",
+        "Furi": "",
+        "Kanji": "束ねる",
+        "Jpn": "たばねる",
+        "Eng": "to bind"
+    },
+    {
+        "Id": 32004,
+        "Chap": "32",
+        "Furi": "",
+        "Kanji": "辞める",
+        "Jpn": "やめる",
+        "Eng": "to quit"
+    },
+    {
+        "Id": 32005,
+        "Chap": "32",
+        "Furi": "",
+        "Kanji": "辞職する",
+        "Jpn": "じしょくする",
+        "Eng": "to resign"
+    },
+    {
+        "Id": 32006,
+        "Chap": "32",
+        "Furi": "",
+        "Kanji": "練る",
+        "Jpn": "ねる",
+        "Eng": "to knead/ to make a plan"
+    },
+    {
+        "Id": 32007,
+        "Chap": "32",
+        "Furi": "",
+        "Kanji": "返事",
+        "Jpn": "へんじ",
+        "Eng": "reply"
+    },
+    {
+        "Id": 32008,
+        "Chap": "32",
+        "Furi": "",
+        "Kanji": "返す",
+        "Jpn": "かえす",
+        "Eng": "to return"
+    },
+    {
+        "Id": 32009,
+        "Chap": "32",
+        "Furi": "",
+        "Kanji": "最近",
+        "Jpn": "さいきん",
+        "Eng": "recently"
+    },
+    {
+        "Id": 32010,
+        "Chap": "32",
+        "Furi": "",
+        "Kanji": "最も",
+        "Jpn": "もっとも",
+        "Eng": "most"
+    },
+    {
+        "Id": 32011,
+        "Chap": "32",
+        "Furi": "",
+        "Kanji": "連続",
+        "Jpn": "れんぞく",
+        "Eng": "series"
+    },
+    {
+        "Id": 32012,
+        "Chap": "32",
+        "Furi": "",
+        "Kanji": "続ける",
+        "Jpn": "つづける",
+        "Eng": "to continue"
+    },
+    {
+        "Id": 32013,
+        "Chap": "32",
+        "Furi": "",
+        "Kanji": "続く",
+        "Jpn": "つづく",
+        "Eng": "to be continued"
+    },
+    {
+        "Id": 32014,
+        "Chap": "32",
+        "Furi": "",
+        "Kanji": "四角形",
+        "Jpn": "しかくけい",
+        "Eng": "square"
+    },
+    {
+        "Id": 32015,
+        "Chap": "32",
+        "Furi": "",
+        "Kanji": "角 (street/sharpness)",
+        "Jpn": "かど",
+        "Eng": "corner/edge"
+    },
+    {
+        "Id": 32016,
+        "Chap": "32",
+        "Furi": "",
+        "Kanji": "角 (animal)",
+        "Jpn": "つの",
+        "Eng": "horn"
+    },
+    {
+        "Id": 32017,
+        "Chap": "32",
+        "Furi": "",
+        "Kanji": "込む",
+        "Jpn": "くむ",
+        "Eng": "be crowded"
+    },
+    {
+        "Id": 32018,
+        "Chap": "32",
+        "Furi": "",
+        "Kanji": "込める",
+        "Jpn": "こめる",
+        "Eng": "to load"
+    },
+    {
+        "Id": 32019,
+        "Chap": "32",
+        "Furi": "",
+        "Kanji": "申告する",
+        "Jpn": "しんこくする",
+        "Eng": "to declare"
+    },
+    {
+        "Id": 32020,
+        "Chap": "32",
+        "Furi": "",
+        "Kanji": "申し込み",
+        "Jpn": "もうしこみ",
+        "Eng": "application"
+    },
+    {
+        "Id": 32021,
+        "Chap": "32",
+        "Furi": "",
+        "Kanji": "天気予報",
+        "Jpn": "てんきよほう",
+        "Eng": "weather forecast"
+    },
+    {
+        "Id": 33000,
+        "Chap": "33",
+        "Furi": "",
+        "Kanji": "薬局",
+        "Jpn": "やっきょく",
+        "Eng": "pharmacy"
+    },
+    {
+        "Id": 33001,
+        "Chap": "33",
+        "Furi": "",
+        "Kanji": "薬",
+        "Jpn": "くすり",
+        "Eng": "medicine"
+    },
+    {
+        "Id": 33002,
+        "Chap": "33",
+        "Furi": "",
+        "Kanji": "服",
+        "Jpn": "ふく",
+        "Eng": "clothes"
+    },
+    {
+        "Id": 33003,
+        "Chap": "33",
+        "Furi": "",
+        "Kanji": "日光",
+        "Jpn": "にっこう",
+        "Eng": "sunlight"
+    },
+    {
+        "Id": 33004,
+        "Chap": "33",
+        "Furi": "",
+        "Kanji": "光る",
+        "Jpn": "ひかる",
+        "Eng": "to shine"
+    },
+    {
+        "Id": 33005,
+        "Chap": "33",
+        "Furi": "",
+        "Kanji": "光",
+        "Jpn": "ひかり",
+        "Eng": "light"
+    },
+    {
+        "Id": 33006,
+        "Chap": "33",
+        "Furi": "",
+        "Kanji": "閉店する",
+        "Jpn": "へいてんする",
+        "Eng": "to close the shop"
+    },
+    {
+        "Id": 33007,
+        "Chap": "33",
+        "Furi": "",
+        "Kanji": "閉める",
+        "Jpn": "しめる",
+        "Eng": "to close"
+    },
+    {
+        "Id": 33008,
+        "Chap": "33",
+        "Furi": "",
+        "Kanji": "閉まる",
+        "Jpn": "しまる",
+        "Eng": "to be closed"
+    },
+    {
+        "Id": 33009,
+        "Chap": "33",
+        "Furi": "",
+        "Kanji": "閉じる",
+        "Jpn": "とじる",
+        "Eng": "to close/ to shut"
+    },
+    {
+        "Id": 33010,
+        "Chap": "33",
+        "Furi": "",
+        "Kanji": "一番",
+        "Jpn": "いちばん",
+        "Eng": "the most"
+    },
+    {
+        "Id": 33011,
+        "Chap": "33",
+        "Furi": "",
+        "Kanji": "番号",
+        "Jpn": "ばんごう",
+        "Eng": "number"
+    },
+    {
+        "Id": 33012,
+        "Chap": "33",
+        "Furi": "",
+        "Kanji": "交番",
+        "Jpn": "こうばん",
+        "Eng": "police box"
+    },
+    {
+        "Id": 33013,
+        "Chap": "33",
+        "Furi": "",
+        "Kanji": "交わる",
+        "Jpn": "まじわる",
+        "Eng": "to cross/ to associate"
+    },
+    {
+        "Id": 33014,
+        "Chap": "33",
+        "Furi": "",
+        "Kanji": "危険",
+        "Jpn": "きけん",
+        "Eng": "danger"
+    },
+    {
+        "Id": 33015,
+        "Chap": "33",
+        "Furi": "",
+        "Kanji": "危ない",
+        "Jpn": "あぶない",
+        "Eng": "dangerous"
+    },
+    {
+        "Id": 33016,
+        "Chap": "33",
+        "Furi": "",
+        "Kanji": "出席する",
+        "Jpn": "しゅっせきする",
+        "Eng": "to attend"
+    },
+    {
+        "Id": 33017,
+        "Chap": "33",
+        "Furi": "",
+        "Kanji": "戻す",
+        "Jpn": "もどす",
+        "Eng": "to return"
+    },
+    {
+        "Id": 33018,
+        "Chap": "33",
+        "Furi": "",
+        "Kanji": "払う",
+        "Jpn": "はらう",
+        "Eng": "to pay"
+    },
+    {
+        "Id": 34000,
+        "Chap": "34",
+        "Furi": "",
+        "Kanji": "無い",
+        "Jpn": "ない",
+        "Eng": "nonexistent"
+    },
+    {
+        "Id": 34001,
+        "Chap": "34",
+        "Furi": "",
+        "Kanji": "失敗する",
+        "Jpn": "しっぱいする",
+        "Eng": "to fail"
+    },
+    {
+        "Id": 34002,
+        "Chap": "34",
+        "Furi": "",
+        "Kanji": "失う",
+        "Jpn": "うしなう",
+        "Eng": "to lose"
+    },
+    {
+        "Id": 34003,
+        "Chap": "34",
+        "Furi": "",
+        "Kanji": "失礼します",
+        "Jpn": "しつれいします",
+        "Eng": "excuse me"
+    },
+    {
+        "Id": 34004,
+        "Chap": "34",
+        "Furi": "",
+        "Kanji": "黄金",
+        "Jpn": "おうごん",
+        "Eng": "gold"
+    },
+    {
+        "Id": 34005,
+        "Chap": "34",
+        "Furi": "",
+        "Kanji": "黄砂",
+        "Jpn": "こうさ",
+        "Eng": "yellow sand"
+    },
+    {
+        "Id": 34006,
+        "Chap": "34",
+        "Furi": "",
+        "Kanji": "黄色",
+        "Jpn": "きいろ",
+        "Eng": "yellow"
+    },
+    {
+        "Id": 34007,
+        "Chap": "34",
+        "Furi": "",
+        "Kanji": "苦情",
+        "Jpn": "くじょう",
+        "Eng": "complaint"
+    },
+    {
+        "Id": 34008,
+        "Chap": "34",
+        "Furi": "",
+        "Kanji": "苦しい",
+        "Jpn": "くるしい",
+        "Eng": "hard"
+    },
+    {
+        "Id": 34009,
+        "Chap": "34",
+        "Furi": "",
+        "Kanji": "苦い",
+        "Jpn": "にがい",
+        "Eng": "bitter"
+    },
+    {
+        "Id": 34010,
+        "Chap": "34",
+        "Furi": "",
+        "Kanji": "逃亡する",
+        "Jpn": "とうぼうする",
+        "Eng": "to escape"
+    },
+    {
+        "Id": 34011,
+        "Chap": "34",
+        "Furi": "",
+        "Kanji": "逃げる",
+        "Jpn": "にげる",
+        "Eng": "to run away"
+    },
+    {
+        "Id": 34012,
+        "Chap": "34",
+        "Furi": "",
+        "Kanji": "規則",
+        "Jpn": "きそく",
+        "Eng": "rule"
+    },
+    {
+        "Id": 34013,
+        "Chap": "34",
+        "Furi": "",
+        "Kanji": "反則",
+        "Jpn": "はんそく",
+        "Eng": "foul"
+    },
+    {
+        "Id": 34014,
+        "Chap": "34",
+        "Furi": "",
+        "Kanji": "守衛",
+        "Jpn": "しゅえい",
+        "Eng": "guard"
+    },
+    {
+        "Id": 34015,
+        "Chap": "34",
+        "Furi": "",
+        "Kanji": "守る",
+        "Jpn": "まもる",
+        "Eng": "to keep/protect"
+    },
+    {
+        "Id": 34016,
+        "Chap": "34",
+        "Furi": "",
+        "Kanji": "歯科",
+        "Jpn": "しか",
+        "Eng": "dentistry"
+    },
+    {
+        "Id": 34017,
+        "Chap": "34",
+        "Furi": "",
+        "Kanji": "歯",
+        "Jpn": "は",
+        "Eng": "tooth"
+    },
+    {
+        "Id": 34018,
+        "Chap": "34",
+        "Furi": "",
+        "Kanji": "歯医者",
+        "Jpn": "はいしゃ",
+        "Eng": "dentist"
+    },
+    {
+        "Id": 34019,
+        "Chap": "34",
+        "Furi": "",
+        "Kanji": "並列",
+        "Jpn": "へいれつ",
+        "Eng": "parallel"
+    },
+    {
+        "Id": 34020,
+        "Chap": "34",
+        "Furi": "",
+        "Kanji": "並ぶ",
+        "Jpn": "ならぶ",
+        "Eng": "to line up"
+    },
+    {
+        "Id": 34021,
+        "Chap": "34",
+        "Furi": "",
+        "Kanji": "並べる",
+        "Jpn": "ならべる",
+        "Eng": "to arrange"
+    },
+    {
+        "Id": 34022,
+        "Chap": "34",
+        "Furi": "",
+        "Kanji": "並",
+        "Jpn": "なみ",
+        "Eng": "ordinary"
+    },
+    {
+        "Id": 35000,
+        "Chap": "35",
+        "Furi": "",
+        "Kanji": "同時に",
+        "Jpn": "どうじに",
+        "Eng": "same time"
+    },
+    {
+        "Id": 35001,
+        "Chap": "35",
+        "Furi": "",
+        "Kanji": "同じ",
+        "Jpn": "おなじ",
+        "Eng": "same"
+    },
+    {
+        "Id": 35002,
+        "Chap": "35",
+        "Furi": "",
+        "Kanji": "政治",
+        "Jpn": "せいじ",
+        "Eng": "politics"
+    },
+    {
+        "Id": 35003,
+        "Chap": "35",
+        "Furi": "",
+        "Kanji": "治療",
+        "Jpn": "ちりょう",
+        "Eng": "medical treatment"
+    },
+    {
+        "Id": 35004,
+        "Chap": "35",
+        "Furi": "",
+        "Kanji": "治る",
+        "Jpn": "なおる",
+        "Eng": "to get well"
+    },
+    {
+        "Id": 35005,
+        "Chap": "35",
+        "Furi": "",
+        "Kanji": "治まる",
+        "Jpn": "おさまる",
+        "Eng": "to calm"
+    },
+    {
+        "Id": 35006,
+        "Chap": "35",
+        "Furi": "",
+        "Kanji": "所",
+        "Jpn": "ところ",
+        "Eng": "place"
+    },
+    {
+        "Id": 35007,
+        "Chap": "35",
+        "Furi": "",
+        "Kanji": "避暑地",
+        "Jpn": "ひしょち",
+        "Eng": "summer resort"
+    },
+    {
+        "Id": 35008,
+        "Chap": "35",
+        "Furi": "",
+        "Kanji": "暑い",
+        "Jpn": "あつい",
+        "Eng": "hot"
+    },
+    {
+        "Id": 35009,
+        "Chap": "35",
+        "Furi": "",
+        "Kanji": "寒波",
+        "Jpn": "かんぱ",
+        "Eng": "cold wave"
+    },
+    {
+        "Id": 35010,
+        "Chap": "35",
+        "Furi": "",
+        "Kanji": "寒い",
+        "Jpn": "さむい",
+        "Eng": "cold"
+    },
+    {
+        "Id": 35011,
+        "Chap": "35",
+        "Furi": "",
+        "Kanji": "便利",
+        "Jpn": "べんり",
+        "Eng": "convenient"
+    },
+    {
+        "Id": 35012,
+        "Chap": "35",
+        "Furi": "",
+        "Kanji": "郵便局",
+        "Jpn": "ゆうびんきょく",
+        "Eng": "post office"
+    },
+    {
+        "Id": 35013,
+        "Chap": "35",
+        "Furi": "",
+        "Kanji": "便り",
+        "Jpn": "たより",
+        "Eng": "letter"
+    },
+    {
+        "Id": 35014,
+        "Chap": "35",
+        "Furi": "",
+        "Kanji": "利用する",
+        "Jpn": "りようする",
+        "Eng": "to use"
+    },
+    {
+        "Id": 35015,
+        "Chap": "35",
+        "Furi": "",
+        "Kanji": "左利き",
+        "Jpn": "ひだりきき",
+        "Eng": "left handed"
+    },
+    {
+        "Id": 35016,
+        "Chap": "35",
+        "Furi": "",
+        "Kanji": "水泳",
+        "Jpn": "すいえい",
+        "Eng": "swimming"
+    },
+    {
+        "Id": 35017,
+        "Chap": "35",
+        "Furi": "",
+        "Kanji": "泳ぐ",
+        "Jpn": "およぐ",
+        "Eng": "to swim"
+    },
+    {
+        "Id": 35018,
+        "Chap": "35",
+        "Furi": "",
+        "Kanji": "方向",
+        "Jpn": "ほうこう",
+        "Eng": "direction"
+    },
+    {
+        "Id": 35019,
+        "Chap": "35",
+        "Furi": "",
+        "Kanji": "向こう",
+        "Jpn": "むこう",
+        "Eng": "over there"
+    },
+    {
+        "Id": 35020,
+        "Chap": "35",
+        "Furi": "",
+        "Kanji": "向く",
+        "Jpn": "むく",
+        "Eng": "to turn towards"
+    },
+    {
+        "Id": 35021,
+        "Chap": "35",
+        "Furi": "",
+        "Kanji": "困難",
+        "Jpn": "こんなん",
+        "Eng": "difficulty"
+    },
+    {
+        "Id": 35022,
+        "Chap": "35",
+        "Furi": "",
+        "Kanji": "困る",
+        "Jpn": "こまる",
+        "Eng": "to have a problem"
+    },
+    {
+        "Id": 35023,
+        "Chap": "35",
+        "Furi": "",
+        "Kanji": "弾丸",
+        "Jpn": "だんがん",
+        "Eng": "bullet"
+    },
+    {
+        "Id": 35024,
+        "Chap": "35",
+        "Furi": "",
+        "Kanji": "丸",
+        "Jpn": "まる",
+        "Eng": "circle"
+    },
+    {
+        "Id": 35025,
+        "Chap": "35",
+        "Furi": "",
+        "Kanji": "丸い",
+        "Jpn": "まるい",
+        "Eng": "round"
+    },
+    {
+        "Id": 36000,
+        "Chap": "36",
+        "Furi": "",
+        "Kanji": "飛行機",
+        "Jpn": "ひこうき",
+        "Eng": "airplane"
+    },
+    {
+        "Id": 36001,
+        "Chap": "36",
+        "Furi": "",
+        "Kanji": "曲",
+        "Jpn": "きょく",
+        "Eng": "tune"
+    },
+    {
+        "Id": 36002,
+        "Chap": "36",
+        "Furi": "",
+        "Kanji": "曲がる",
+        "Jpn": "まがる",
+        "Eng": "to turn"
+    },
+    {
+        "Id": 36003,
+        "Chap": "36",
+        "Furi": "",
+        "Kanji": "皆無",
+        "Jpn": "かいむ",
+        "Eng": "nothing"
+    },
+    {
+        "Id": 36004,
+        "Chap": "36",
+        "Furi": "",
+        "Kanji": "皆さん",
+        "Jpn": "みなさん",
+        "Eng": "everyone"
+    },
+    {
+        "Id": 36005,
+        "Chap": "36",
+        "Furi": "",
+        "Kanji": "違法",
+        "Jpn": "いほう",
+        "Eng": "illegal"
+    },
+    {
+        "Id": 36006,
+        "Chap": "36",
+        "Furi": "",
+        "Kanji": "違う",
+        "Jpn": "ちがう",
+        "Eng": "to differ"
+    },
+    {
+        "Id": 36007,
+        "Chap": "36",
+        "Furi": "",
+        "Kanji": "違法行為",
+        "Jpn": "いほうこうい",
+        "Eng": "illegal action"
+    },
+    {
+        "Id": 36008,
+        "Chap": "36",
+        "Furi": "",
+        "Kanji": "法律",
+        "Jpn": "ほうりつ",
+        "Eng": "law"
+    },
+    {
+        "Id": 36009,
+        "Chap": "36",
+        "Furi": "",
+        "Kanji": "事務所",
+        "Jpn": "じむしょ",
+        "Eng": "office"
+    },
+    {
+        "Id": 36010,
+        "Chap": "36",
+        "Furi": "",
+        "Kanji": "務める",
+        "Jpn": "つとめる",
+        "Eng": "to serve"
+    },
+    {
+        "Id": 36011,
+        "Chap": "36",
+        "Furi": "",
+        "Kanji": "お客",
+        "Jpn": "おきゃく",
+        "Eng": "customer"
+    },
+    {
+        "Id": 36012,
+        "Chap": "36",
+        "Furi": "",
+        "Kanji": "日本列島",
+        "Jpn": "にほんれっとう",
+        "Eng": "japan archipelago"
+    },
+    {
+        "Id": 36013,
+        "Chap": "36",
+        "Furi": "",
+        "Kanji": "島国",
+        "Jpn": "しまぐに",
+        "Eng": "island country"
+    },
+    {
+        "Id": 36014,
+        "Chap": "36",
+        "Furi": "",
+        "Kanji": "信号",
+        "Jpn": "しんごう",
+        "Eng": "traffic light"
+    },
+    {
+        "Id": 36015,
+        "Chap": "36",
+        "Furi": "",
+        "Kanji": "信じる",
+        "Jpn": "しんじる",
+        "Eng": "to believe"
+    },
+    {
+        "Id": 36016,
+        "Chap": "36",
+        "Furi": "",
+        "Kanji": "遅刻する",
+        "Jpn": "ちこくする",
+        "Eng": "lateness/tardiness"
+    },
+    {
+        "Id": 36017,
+        "Chap": "36",
+        "Furi": "",
+        "Kanji": "遅い",
+        "Jpn": "おそい",
+        "Eng": "late"
+    },
+    {
+        "Id": 36018,
+        "Chap": "36",
+        "Furi": "",
+        "Kanji": "遅れる",
+        "Jpn": "おくれる",
+        "Eng": "to be late"
+    },
+    {
+        "Id": 36019,
+        "Chap": "36",
+        "Furi": "",
+        "Kanji": "免許",
+        "Jpn": "めんきょ",
+        "Eng": "license"
+    },
+    {
+        "Id": 36020,
+        "Chap": "36",
+        "Furi": "",
+        "Kanji": "許す",
+        "Jpn": "ゆるす",
+        "Eng": "to allow"
+    },
+    {
+        "Id": 36021,
+        "Chap": "36",
+        "Furi": "",
+        "Kanji": "運転免許証",
+        "Jpn": "うんてんめんきょしょう",
+        "Eng": "driving license"
+    },
+    {
+        "Id": 36022,
+        "Chap": "36",
+        "Furi": "",
+        "Kanji": "許可",
+        "Jpn": "きょか",
+        "Eng": "permission"
+    },
+    {
+        "Id": 36023,
+        "Chap": "36",
+        "Furi": "",
+        "Kanji": "禁止",
+        "Jpn": "きんし",
+        "Eng": "prohibition"
+    },
+    {
+        "Id": 37000,
+        "Chap": "37",
+        "Furi": "",
+        "Kanji": "発明する",
+        "Jpn": "はつめいする",
+        "Eng": "to invent"
+    },
+    {
+        "Id": 37001,
+        "Chap": "37",
+        "Furi": "",
+        "Kanji": "出発する",
+        "Jpn": "しゅっぱつする",
+        "Eng": "to depart"
+    },
+    {
+        "Id": 37002,
+        "Chap": "37",
+        "Furi": "",
+        "Kanji": "工場",
+        "Jpn": "こうじょう",
+        "Eng": "factory"
+    },
+    {
+        "Id": 37003,
+        "Chap": "37",
+        "Furi": "",
+        "Kanji": "大工",
+        "Jpn": "だいく",
+        "Eng": "carpenter"
+    },
+    {
+        "Id": 37004,
+        "Chap": "37",
+        "Furi": "",
+        "Kanji": "ご飯",
+        "Jpn": "ごはん",
+        "Eng": "rice/meal (polite)"
+    },
+    {
+        "Id": 37005,
+        "Chap": "37",
+        "Furi": "",
+        "Kanji": "飯",
+        "Jpn": "めし",
+        "Eng": "rice/meal"
+    },
+    {
+        "Id": 37006,
+        "Chap": "37",
+        "Furi": "",
+        "Kanji": "台所",
+        "Jpn": "だいどころ",
+        "Eng": "kitchen"
+    },
+    {
+        "Id": 37007,
+        "Chap": "37",
+        "Furi": "",
+        "Kanji": "題名",
+        "Jpn": "だいめい",
+        "Eng": "title"
+    },
+    {
+        "Id": 37008,
+        "Chap": "37",
+        "Furi": "",
+        "Kanji": "期待する",
+        "Jpn": "きたいする",
+        "Eng": "to expect"
+    },
+    {
+        "Id": 37009,
+        "Chap": "37",
+        "Furi": "",
+        "Kanji": "待つ",
+        "Jpn": "まつ",
+        "Eng": "to wait"
+    },
+    {
+        "Id": 37010,
+        "Chap": "37",
+        "Furi": "",
+        "Kanji": "新米",
+        "Jpn": "しんまい",
+        "Eng": "beginner"
+    },
+    {
+        "Id": 37011,
+        "Chap": "37",
+        "Furi": "",
+        "Kanji": "米国",
+        "Jpn": "べいこく",
+        "Eng": "USA"
+    },
+    {
+        "Id": 37012,
+        "Chap": "37",
+        "Furi": "",
+        "Kanji": "米",
+        "Jpn": "こめ",
+        "Eng": "rice grains"
+    },
+    {
+        "Id": 37013,
+        "Chap": "37",
+        "Furi": "",
+        "Kanji": "古米",
+        "Jpn": "こまい",
+        "Eng": "old rice"
+    },
+    {
+        "Id": 37014,
+        "Chap": "37",
+        "Furi": "",
+        "Kanji": "村長",
+        "Jpn": "そんちょう",
+        "Eng": "village mayor"
+    },
+    {
+        "Id": 37015,
+        "Chap": "37",
+        "Furi": "",
+        "Kanji": "村",
+        "Jpn": "むら",
+        "Eng": "village"
+    },
+    {
+        "Id": 37016,
+        "Chap": "37",
+        "Furi": "",
+        "Kanji": "注意する",
+        "Jpn": "ちゅういする",
+        "Eng": "to pay attention"
+    },
+    {
+        "Id": 37017,
+        "Chap": "37",
+        "Furi": "",
+        "Kanji": "注ぐ",
+        "Jpn": "そそぐ",
+        "Eng": "to pour"
+    },
+    {
+        "Id": 37018,
+        "Chap": "37",
+        "Furi": "",
+        "Kanji": "注文する",
+        "Jpn": "ちゅうもんする",
+        "Eng": "to order"
+    },
+    {
+        "Id": 37019,
+        "Chap": "37",
+        "Furi": "",
+        "Kanji": "出港する",
+        "Jpn": "しゅっこうする",
+        "Eng": "to leave port"
+    },
+    {
+        "Id": 37020,
+        "Chap": "37",
+        "Furi": "",
+        "Kanji": "港",
+        "Jpn": "みなと",
+        "Eng": "port"
+    },
+    {
+        "Id": 37021,
+        "Chap": "37",
+        "Furi": "",
+        "Kanji": "宿題",
+        "Jpn": "しゅくだい",
+        "Eng": "homework"
+    },
+    {
+        "Id": 37022,
+        "Chap": "37",
+        "Furi": "",
+        "Kanji": "宿",
+        "Jpn": "やど",
+        "Eng": "inn"
+    },
+    {
+        "Id": 37023,
+        "Chap": "37",
+        "Furi": "",
+        "Kanji": "取捨する",
+        "Jpn": "しゅしゃする",
+        "Eng": "to choose"
+    },
+    {
+        "Id": 37024,
+        "Chap": "37",
+        "Furi": "",
+        "Kanji": "捨てる",
+        "Jpn": "すてる",
+        "Eng": "to throw away"
+    },
+    {
+        "Id": 38000,
+        "Chap": "38",
+        "Furi": "",
+        "Kanji": "輸入する",
+        "Jpn": "ゆにゅうする",
+        "Eng": "to import"
+    },
+    {
+        "Id": 38001,
+        "Chap": "38",
+        "Furi": "",
+        "Kanji": "招待する",
+        "Jpn": "しょうたいする",
+        "Eng": "to invite"
+    },
+    {
+        "Id": 38002,
+        "Chap": "38",
+        "Furi": "",
+        "Kanji": "招く",
+        "Jpn": "まねく",
+        "Eng": "to invite"
+    },
+    {
+        "Id": 38003,
+        "Chap": "38",
+        "Furi": "",
+        "Kanji": "呼吸する",
+        "Jpn": "こきゅうする",
+        "Eng": "to breathe"
+    },
+    {
+        "Id": 38004,
+        "Chap": "38",
+        "Furi": "",
+        "Kanji": "呼ぶ",
+        "Jpn": "よぶ",
+        "Eng": "to call"
+    },
+    {
+        "Id": 38005,
+        "Chap": "38",
+        "Furi": "",
+        "Kanji": "原料",
+        "Jpn": "げんりょう",
+        "Eng": "materials"
+    },
+    {
+        "Id": 38006,
+        "Chap": "38",
+        "Furi": "",
+        "Kanji": "野原",
+        "Jpn": "のはら",
+        "Eng": "fields"
+    },
+    {
+        "Id": 38007,
+        "Chap": "38",
+        "Furi": "",
+        "Kanji": "習慣",
+        "Jpn": "しゅうかん",
+        "Eng": "custom/habit/pratice"
+    },
+    {
+        "Id": 38008,
+        "Chap": "38",
+        "Furi": "",
+        "Kanji": "慣れる",
+        "Jpn": "なれる",
+        "Eng": "to request/ to beg /to ask(for a favor)"
+    },
+    {
+        "Id": 38009,
+        "Chap": "38",
+        "Furi": "",
+        "Kanji": "毎日習慣",
+        "Jpn": "まいにちしゅうかん",
+        "Eng": "daily ritual"
+    },
+    {
+        "Id": 38010,
+        "Chap": "38",
+        "Furi": "",
+        "Kanji": "依頼",
+        "Jpn": "いらい",
+        "Eng": "request"
+    },
+    {
+        "Id": 38011,
+        "Chap": "38",
+        "Furi": "",
+        "Kanji": "頼む",
+        "Jpn": "たのむ",
+        "Eng": "to ask to do a favor"
+    },
+    {
+        "Id": 38012,
+        "Chap": "38",
+        "Furi": "",
+        "Kanji": "頼る",
+        "Jpn": "たよる",
+        "Eng": "to rely on"
+    },
+    {
+        "Id": 38013,
+        "Chap": "38",
+        "Furi": "",
+        "Kanji": "成功する",
+        "Jpn": "せいこうする",
+        "Eng": "to succeed"
+    },
+    {
+        "Id": 38014,
+        "Chap": "38",
+        "Furi": "",
+        "Kanji": "成就する",
+        "Jpn": "じょうじゅする",
+        "Eng": "to achieve"
+    },
+    {
+        "Id": 38015,
+        "Chap": "38",
+        "Furi": "",
+        "Kanji": "成る",
+        "Jpn": "なる",
+        "Eng": "to become"
+    },
+    {
+        "Id": 38016,
+        "Chap": "38",
+        "Furi": "",
+        "Kanji": "退院する",
+        "Jpn": "たいいんする",
+        "Eng": "to leave hospital"
+    },
+    {
+        "Id": 38017,
+        "Chap": "38",
+        "Furi": "",
+        "Kanji": "退く",
+        "Jpn": "しりぞく",
+        "Eng": "to retreat"
+    },
+    {
+        "Id": 38018,
+        "Chap": "38",
+        "Furi": "",
+        "Kanji": "退職する",
+        "Jpn": "たいしょくする",
+        "Eng": "to resign"
+    },
+    {
+        "Id": 38019,
+        "Chap": "38",
+        "Furi": "",
+        "Kanji": "参加する",
+        "Jpn": "さんかする",
+        "Eng": "to join"
+    },
+    {
+        "Id": 38020,
+        "Chap": "38",
+        "Furi": "",
+        "Kanji": "参る",
+        "Jpn": "まいる",
+        "Eng": "to go/ to come"
+    },
+    {
+        "Id": 38021,
+        "Chap": "38",
+        "Furi": "",
+        "Kanji": "加える",
+        "Jpn": "くわえる",
+        "Eng": "to add"
+    },
+    {
+        "Id": 38022,
+        "Chap": "38",
+        "Furi": "",
+        "Kanji": "海岸",
+        "Jpn": "かいがん",
+        "Eng": "beach"
+    },
+    {
+        "Id": 38023,
+        "Chap": "38",
+        "Furi": "",
+        "Kanji": "岸",
+        "Jpn": "きし",
+        "Eng": "shore"
+    },
+    {
+        "Id": 39000,
+        "Chap": "39",
+        "Furi": "",
+        "Kanji": "電気代",
+        "Jpn": "でんきだい",
+        "Eng": "electricity fee"
+    },
+    {
+        "Id": 39001,
+        "Chap": "39",
+        "Furi": "",
+        "Kanji": "代わる",
+        "Jpn": "かわる",
+        "Eng": "to replace"
+    },
+    {
+        "Id": 39002,
+        "Chap": "39",
+        "Furi": "",
+        "Kanji": "死者",
+        "Jpn": "ししゃ",
+        "Eng": "the deceased"
+    },
+    {
+        "Id": 39003,
+        "Chap": "39",
+        "Furi": "",
+        "Kanji": "死ぬ",
+        "Jpn": "しぬ",
+        "Eng": "to die"
+    },
+    {
+        "Id": 39004,
+        "Chap": "39",
+        "Furi": "",
+        "Kanji": "首相",
+        "Jpn": "しゅしょう",
+        "Eng": "prime minister"
+    },
+    {
+        "Id": 39005,
+        "Chap": "39",
+        "Furi": "",
+        "Kanji": "首",
+        "Jpn": "くび",
+        "Eng": "neck"
+    },
+    {
+        "Id": 39006,
+        "Chap": "39",
+        "Furi": "",
+        "Kanji": "結果",
+        "Jpn": "けっか",
+        "Eng": "result"
+    },
+    {
+        "Id": 39007,
+        "Chap": "39",
+        "Furi": "",
+        "Kanji": "結ぶ",
+        "Jpn": "むすぶ",
+        "Eng": "to tie/ to bind/ to link/ to connect"
+    },
+    {
+        "Id": 39008,
+        "Chap": "39",
+        "Furi": "",
+        "Kanji": "結う",
+        "Jpn": "ゆう",
+        "Eng": "to tie/ to dress/ to arrange"
+    },
+    {
+        "Id": 39009,
+        "Chap": "39",
+        "Furi": "",
+        "Kanji": "結婚する",
+        "Jpn": "けっこんする",
+        "Eng": "to get married"
+    },
+    {
+        "Id": 39010,
+        "Chap": "39",
+        "Furi": "",
+        "Kanji": "入学式",
+        "Jpn": "にゅうがくしき",
+        "Eng": "entrance ceremony"
+    },
+    {
+        "Id": 39011,
+        "Chap": "39",
+        "Furi": "",
+        "Kanji": "結婚式",
+        "Jpn": "けっこんしき",
+        "Eng": "wedding ceremony"
+    },
+    {
+        "Id": 39012,
+        "Chap": "39",
+        "Furi": "",
+        "Kanji": "全く",
+        "Jpn": "またっく",
+        "Eng": "really/truly/entirely"
+    },
+    {
+        "Id": 39013,
+        "Chap": "39",
+        "Furi": "",
+        "Kanji": "次回",
+        "Jpn": "じかい",
+        "Eng": "next time"
+    },
+    {
+        "Id": 39014,
+        "Chap": "39",
+        "Furi": "",
+        "Kanji": "次",
+        "Jpn": "つぎ",
+        "Eng": "next"
+    },
+    {
+        "Id": 39015,
+        "Chap": "39",
+        "Furi": "",
+        "Kanji": "次ぐ",
+        "Jpn": "つぐ",
+        "Eng": "to come after"
+    },
+    {
+        "Id": 39016,
+        "Chap": "39",
+        "Furi": "",
+        "Kanji": "以内",
+        "Jpn": "いない",
+        "Eng": "within"
+    },
+    {
+        "Id": 39017,
+        "Chap": "39",
+        "Furi": "",
+        "Kanji": "必死",
+        "Jpn": "ひっし",
+        "Eng": "desperate"
+    },
+    {
+        "Id": 39018,
+        "Chap": "39",
+        "Furi": "",
+        "Kanji": "必ず",
+        "Jpn": "かならず",
+        "Eng": "certainly"
+    },
+    {
+        "Id": 39019,
+        "Chap": "39",
+        "Furi": "",
+        "Kanji": "必要",
+        "Jpn": "ひつよう",
+        "Eng": "necessary"
+    },
+    {
+        "Id": 39020,
+        "Chap": "39",
+        "Furi": "",
+        "Kanji": "要る",
+        "Jpn": "いる",
+        "Eng": "to need"
+    },
+    {
+        "Id": 39021,
+        "Chap": "39",
+        "Furi": "",
+        "Kanji": "絶対に",
+        "Jpn": "ぜったいに",
+        "Eng": "definitely"
+    },
+    {
+        "Id": 39022,
+        "Chap": "39",
+        "Furi": "",
+        "Kanji": "絶つ",
+        "Jpn": "たつ",
+        "Eng": "to cut off/ to sever/ to suppress"
+    },
+    {
+        "Id": 39023,
+        "Chap": "39",
+        "Furi": "",
+        "Kanji": "絶える",
+        "Jpn": "たえる",
+        "Eng": "to cease"
+    },
+    {
+        "Id": 40000,
+        "Chap": "40",
+        "Furi": "",
+        "Kanji": "反対する",
+        "Jpn": "はんたいする",
+        "Eng": "to oppose"
+    },
+    {
+        "Id": 40001,
+        "Chap": "40",
+        "Furi": "",
+        "Kanji": "一対",
+        "Jpn": "いっつい",
+        "Eng": "one pair"
+    },
+    {
+        "Id": 40002,
+        "Chap": "40",
+        "Furi": "",
+        "Kanji": "全然",
+        "Jpn": "ぜんぜん",
+        "Eng": "not at all"
+    },
+    {
+        "Id": 40003,
+        "Chap": "40",
+        "Furi": "",
+        "Kanji": "天然",
+        "Jpn": "てんねん",
+        "Eng": "natural"
+    },
+    {
+        "Id": 40004,
+        "Chap": "40",
+        "Furi": "",
+        "Kanji": "難問",
+        "Jpn": "なんもん",
+        "Eng": "difficult question"
+    },
+    {
+        "Id": 40005,
+        "Chap": "40",
+        "Furi": "",
+        "Kanji": "難しい",
+        "Jpn": "むずかしい",
+        "Eng": "difficult (for noun)"
+    },
+    {
+        "Id": 40006,
+        "Chap": "40",
+        "Furi": "",
+        "Kanji": "難い",
+        "Jpn": "かたい",
+        "Eng": "difficult (for verbs)"
+    },
+    {
+        "Id": 40007,
+        "Chap": "40",
+        "Furi": "",
+        "Kanji": "残業する",
+        "Jpn": "ざんぎょうする",
+        "Eng": "to do overtime"
+    },
+    {
+        "Id": 40008,
+        "Chap": "40",
+        "Furi": "",
+        "Kanji": "残る",
+        "Jpn": "のこる",
+        "Eng": "to remain"
+    },
+    {
+        "Id": 40009,
+        "Chap": "40",
+        "Furi": "",
+        "Kanji": "残念",
+        "Jpn": "ざんねん",
+        "Eng": "unlucky"
+    },
+    {
+        "Id": 40010,
+        "Chap": "40",
+        "Furi": "",
+        "Kanji": "複雑",
+        "Jpn": "づくざつ",
+        "Eng": "complicated"
+    },
+    {
+        "Id": 40011,
+        "Chap": "40",
+        "Furi": "",
+        "Kanji": "雑誌",
+        "Jpn": "ざっし",
+        "Eng": "magazine"
+    },
+    {
+        "Id": 40012,
+        "Chap": "40",
+        "Furi": "",
+        "Kanji": "雑木林",
+        "Jpn": "ぞうきばやし",
+        "Eng": "copse (small group of trees)"
+    },
+    {
+        "Id": 40013,
+        "Chap": "40",
+        "Furi": "",
+        "Kanji": "汚名",
+        "Jpn": "おめい",
+        "Eng": "stigma"
+    },
+    {
+        "Id": 40014,
+        "Chap": "40",
+        "Furi": "",
+        "Kanji": "汚す",
+        "Jpn": "よごす",
+        "Eng": "to dirty"
+    },
+    {
+        "Id": 40015,
+        "Chap": "40",
+        "Furi": "",
+        "Kanji": "汚れる",
+        "Jpn": "よごれる",
+        "Eng": "to be dirty"
+    },
+    {
+        "Id": 40016,
+        "Chap": "40",
+        "Furi": "",
+        "Kanji": "汚い",
+        "Jpn": "きたない",
+        "Eng": "dirty"
+    },
+    {
+        "Id": 40017,
+        "Chap": "40",
+        "Furi": "",
+        "Kanji": "代表",
+        "Jpn": "だいひょう",
+        "Eng": "delegate"
+    },
+    {
+        "Id": 40018,
+        "Chap": "40",
+        "Furi": "",
+        "Kanji": "表",
+        "Jpn": "おもて",
+        "Eng": "surface"
+    },
+    {
+        "Id": 40019,
+        "Chap": "40",
+        "Furi": "",
+        "Kanji": "倒産する",
+        "Jpn": "とうさんする",
+        "Eng": "to go bankrupt"
+    },
+    {
+        "Id": 40020,
+        "Chap": "40",
+        "Furi": "",
+        "Kanji": "倒す",
+        "Jpn": "たおす",
+        "Eng": "to throw down"
+    },
+    {
+        "Id": 40021,
+        "Chap": "40",
+        "Furi": "",
+        "Kanji": "倒れる",
+        "Jpn": "たおれる",
+        "Eng": "to fall/ to collapse"
+    },
+    {
+        "Id": 40022,
+        "Chap": "40",
+        "Furi": "",
+        "Kanji": "事故",
+        "Jpn": "じこ",
+        "Eng": "accident"
+    },
+    {
+        "Id": 40023,
+        "Chap": "40",
+        "Furi": "",
+        "Kanji": "故",
+        "Jpn": "ゆえ",
+        "Eng": "reason"
+    },
+    {
+        "Id": 40024,
+        "Chap": "40",
+        "Furi": "",
+        "Kanji": "確かめる",
+        "Jpn": "たしかめる",
+        "Eng": "to make sure"
+    },
+    {
+        "Id": 41000,
+        "Chap": "41",
+        "Furi": "",
+        "Kanji": "",
+        "Jpn": "",
+        "Eng": ""
+    }
 ]
