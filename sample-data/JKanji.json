@@ -714,7 +714,7 @@
     {"Id":36000,"Chap":"36","Furi":"飛[ひ]行[こう]機[き]","Kanji":"飛行機","Jpn":"ひこうき","Eng":"aeroplane/airplane"},
     {"Id":36001,"Chap":"36","Furi":"曲[きょく]","Kanji":"曲","Jpn":"きょく","Eng":"tune/melody"},
     {"Id":36002,"Chap":"36","Furi":"曲[ま]がる","Kanji":"曲がる","Jpn":"まがる","Eng":"to bend/to turn"},
-    {"Id":36003,"Chap":"36","Furi":"皆[かい]無[む]","Jpn":"かいむ","Eng":"none/nothing"},
+    {"Id":36003,"Chap":"36","Furi":"皆[かい]無[む]","Kanji":"皆無", "Jpn":"かいむ","Eng":"none/nothing"},
     {"Id":36004,"Chap":"36","Furi":"皆[みな]さん","Kanji":"皆さん","Jpn":"みなさん","Eng":"everyone"},
     {"Id":36005,"Chap":"36","Furi":"違[い]法[ほう]","Kanji":"違法","Jpn":"いほう","Eng":"illegal"},
     {"Id":36006,"Chap":"36","Furi":"違[ちが]う","Kanji":"違う","Jpn":"ちがう","Eng":"to differ"},
