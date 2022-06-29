@@ -1,128 +1,98 @@
 [
     {
         "lesson": "32",
-        "topic": "",
+        "topic": "~ほうがいいです",
+        "forms":[
+            "V (た-form) + ほうがいい",
+            "V (ない-form) + ほうがいい"
+        ],
         "explanations": [
+            "This expression is used to make suggestions or give advice",
+            "Since V (た-form) + ほうがいい includes the meaning of comparing two things and selecting one of them, it implies that it would be bad to not take the action specified by the verb",
+            "When simply recommending a certain action, ~たら いい (Lesson 26) is used"
         ],
         "examples": [
+            "1) 毎[まい]日[にち] 運[うん]動[どう]した ほうが いいです。",
+            "1) You'd better take some exercise some day",
+            "2) 熱[ねつ]が あるんです。",
+            "2) I've got a fever",
+            "2) ... じゃ，あふろに 入[はい]らない ほうが いいです。",
+            "2) ... In that case, you better not take a bath"
         ]
     },
     {
         "lesson": "32",
-        "topic": "",
+        "topic": "~でしょう",
+        "forms":[
+            "V (じしょ-form) + でしょう",
+            "い-Adj + でしょう",
+            "な-Adj + でしょう",
+            "Noun + でしょう"
+        ],
         "explanations": [
+            "This expression is used to express an opinion about something in the future or something uncertain, without being definite"
         ],
         "examples": [
+            "1) 明[あ]日[した]は 雨[あめ]が 降[ふ]るでしょう。",
+            "1) It will probably rain tomorrow",
+            "2) タワポンさんは 合[ごう]格[かく]するでしょう。",
+            "2) I wonder when Thawaphon will pass",
+            "2) ... きっと 合[ごう]格[かく]するでしょう。",
+            "2) ... I'm sure he will pass"
         ]
     },
     {
         "lesson": "32",
-        "topic": "",
+        "topic": "~かも しれません",
+        "forms":[
+            "V (じしょ-form) + かも しれません",
+            "い-Adj + かも しれません",
+            "な-Adj + かも しれません",
+            "Noun + かも しれません"
+        ],
         "explanations": [
+            "This expression is used to point out that there is a possiblilty, however small of ~"
         ],
         "examples": [
+            "1) 約[やく]束[そく]の 時[じ]間[かん]に 間[ま]に 合[あ]わない かも しれません。",
+            "1) We might not get there in time for the appointment"
         ]
     },
     {
         "lesson": "32",
-        "topic": "",
+        "topic": "~ましょう",
+        "forms":[
+            "V (ます-form) + ましょう"
+        ],
         "explanations": [
+            "This expression is used to convey the speaker's intention to the listener and is used when announcing an action",
+            "It has a more assertive tone than V (ます-form) + ましょうか"
         ],
         "examples": [
+            "1) エンジンの 音[おと]が おかしいんですが。",
+            "1) The engine sounds weird",
+            "1) ... そうですね。故[こ]障[しょう]が もしれません。ちょっと 調[しら]べましょう。",
+            "1) ... I see. Maybe there is a problem with the engine. Let's check it out."
         ]
     },
     {
         "lesson": "32",
-        "topic": "",
+        "topic": "Quantifier で",
         "explanations": [
+            "This shows a time limit or other limit"
         ],
         "examples": [
+            "1) 駅[えき]まで 30分[ぶん]で 行[い]けますか。",
+            "1) Can we get to the station in 30 minutes?",
+            "2) 3万[まん]円[えん]で パソコンが 買[か]えますか。",
+            "2) Can you buy a computer for 30,000 yen?"
         ]
     },
     {
         "lesson": "32",
-        "topic": "",
+        "topic": "何[なに]か 心[しん]配[ない]な ことが あるんですか",
         "explanations": [
-        ],
-        "examples": [
-        ]
-    },
-    {
-        "lesson": "32",
-        "topic": "",
-        "explanations": [
-        ],
-        "examples": [
-        ]
-    },
-    {
-        "lesson": "32",
-        "topic": "",
-        "explanations": [
-        ],
-        "examples": [
-        ]
-    },
-    {
-        "lesson": "32",
-        "topic": "",
-        "explanations": [
-        ],
-        "examples": [
-        ]
-    },
-    {
-        "lesson": "32",
-        "topic": "",
-        "explanations": [
-        ],
-        "examples": [
-        ]
-    },
-    {
-        "lesson": "32",
-        "topic": "",
-        "explanations": [
-        ],
-        "examples": [
-        ]
-    },
-    {
-        "lesson": "32",
-        "topic": "",
-        "explanations": [
-        ],
-        "examples": [
-        ]
-    },
-    {
-        "lesson": "32",
-        "topic": "",
-        "explanations": [
-        ],
-        "examples": [
-        ]
-    },
-    {
-        "lesson": "32",
-        "topic": "",
-        "explanations": [
-        ],
-        "examples": [
-        ]
-    },
-    {
-        "lesson": "32",
-        "topic": "",
-        "explanations": [
-        ],
-        "examples": [
-        ]
-    },
-    {
-        "lesson": "32",
-        "topic": "",
-        "explanations": [
+            "This expression is used to ask if there is anything that the listener is worried about"
         ],
         "examples": [
         ]
