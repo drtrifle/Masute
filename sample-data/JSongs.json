@@ -36,6 +36,14 @@
 
     },
     {
+        "songID" : "KANA-001",
+        "songURL": "https://www.youtube.com/embed/dlFA0Zq1k2A",
+        "songNameEng" : "Silhouette",
+        "songNameJpn" : "シルエット",
+        "artistNameEng" : "KANA-BOON",
+        "artistNameJpn" : ""
+    },
+    {
         "songID" : "KENTA-001",
         "songURL": "https://www.youtube.com/embed/-zQWavER7to",
         "songNameEng" : "Voice of the Sea",

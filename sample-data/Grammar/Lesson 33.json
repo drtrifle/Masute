@@ -1,18 +1,223 @@
 [
     {
         "lesson": "33",
-        "topic": "",
+        "topic": "Group 1 Verb Imperative form",
         "explanations": [
+            "For group 1 ます-form verbs, drop ます, change the last syllable from the い-column to the え-column"
+        ],
+        "examples": [
+            "1) かきます → かけ",
+            "1) To write",
+            "2) よみます → よめ",
+            "2) To read",
+            "3) いそぎます → いそげ",
+            "3) To hurry",
+            "4) あそびます → あそべ",
+            "4) To play"
+        ]
+    },
+    {
+        "lesson": "33",
+        "topic": "Group 2 Verb Imperative form",
+        "explanations": [
+            "For group 2 ます-form verbs, drop ます, and add ろ"
+        ],
+        "examples": [
+            "1) たべます → たべろ",
+            "1) To eat",
+            "2) みます → みろ",
+            "2) To see"
+        ]
+    },
+    {
+        "lesson": "33",
+        "topic": "Group 3 Verb Imperative form",
+        "explanations": [
+            "From ます-form, if します, becomes しろ",
+            "From ます-form, if きます, becomes こい"
+        ],
+        "examples": [
+            "1) します → しろ",
+            "1) To do",
+            "2) きます → こい",
+            "2) To go"
+        ]
+    },
+    {
+        "lesson": "33",
+        "topic": "Verb Prohibitive form",
+        "explanations": [
+            "From Verb Jisho form, add な to the end"
         ],
         "examples": [
         ]
     },
     {
         "lesson": "33",
-        "topic": "",
+        "topic": "Uses of the imperative and prohibitive forms",
         "explanations": [
+            "The imperative form is used when demanding that the listener performs a certain action",
+            "The prohibitive form is used when demanding that the listener does not perform a certain action",
+            "Since they sound strongly coercive, they are rarely used at the end of a sentence, and are used in speech almost exclusively by men",
+            "The imperative and prohibitive are used at the ends of sentences in the following types of situations"
         ],
         "examples": [
+        ]
+    },
+    {
+        "lesson": "33",
+        "topic": "Imperative and Prohibitive form uses: By a senior in age/status to a junior",
+        "explanations": [
+            "Can also be used by a parent to their child"
+        ],
+        "examples": [
+            "1) 早[はや]く 寝[ね]ろ",
+            "1) Go to bed immediately!",
+            "2) 遅[おく]れるな",
+            "2) Dont be late!"
+        ]
+    },
+    {
+        "lesson": "33",
+        "topic": "Imperative and Prohibitive form uses: Among male friends",
+        "explanations": [
+            "The particle よ is often optionally added to the sentence end to soften the tone"
+        ],
+        "examples": [
+            "1) 明日[あした] うちへ 来[こ]い(よ)",
+            "1) Come to my house tomorrow!(wont you)",
+            "2) あまり 飲[の]むな(よ)",
+            "2) (Hey)Dont drink too much!"
+        ]
+    },
+    {
+        "lesson": "33",
+        "topic": "Imperative and Prohibitive form uses: When giving instructions in an emergency",
+        "explanations": [
+            "Usually in such cases, they are often only used by men senior in age or status"
+        ],
+        "examples": [
+            "1) 逃[ね]げろ",
+            "1) Run!",
+            "2) エレベーターを 使[つか]うな",
+            "2) Dont use the lift!"
+        ]
+    },
+    {
+        "lesson": "33",
+        "topic": "Imperative and Prohibitive form uses: When giving commands during group training",
+        "explanations": [
+            "Such as school physical education lessons, club sport activities, etc."
+        ],
+        "examples": [
+            "1) 休[やす]め",
+            "1) At ease!",
+            "2) 休[やす]むな",
+            "2) Dont slack!"
+        ]
+    },
+    {
+        "lesson": "33",
+        "topic": "Imperative and Prohibitive form uses: When yelling engouragement at a sports events",
+        "explanations": [
+            "Women sometimes also use these form in such cases"
+        ],
+        "examples": [
+            "1) 頑[がん]張[ば]れ",
+            "1) Come on!",
+            "2) 負[ま]けるな",
+            "2) Dont lose!"
+        ]
+    },
+    {
+        "lesson": "33",
+        "topic": "Imperative and Prohibitive form uses: On traffic signs and in slogans",
+        "explanations": [
+            "When brevity and impact are required"
+        ],
+        "examples": [
+            "1) 止[と]まれ",
+            "1) STOP",
+            "2) 入[はい]るな",
+            "2) NO ENTRY"
+        ]
+    },
+    {
+        "lesson": "33",
+        "topic": "Imperative form alternative: Verb ます-form なさい",
+        "explanations": [
+            "This is an alternative of the imperative form",
+            "It is used by a parent to their child or by a teacher to a pupil, and sounds softer than the imperative form of the verb",
+            "Women use this instead of the imperative form of the verb, but it cannot be used when addressing someone of a higher status"
+        ],
+        "examples": [
+            "1) 勉[べん]強[きょう]しなさい",
+            "1) Go and study!"
+        ]
+    },
+    {
+        "lesson": "33",
+        "topic": "~と 書[か]いて あります/ ~と 読[よ]みます",
+        "explanations": [
+            "[Note] The と particle here is used to report speech indirectly"
+        ],
+        "examples": [
+            "1) あの 漢字[かんじ]は 何[なん]と 読[よ]むんですか",
+            "1) How do you read that Kanji?",
+            "2) あそこに 「止[と]まれ」と 書[か]いて あります",
+            "2) It says 'STOP' over there"
+        ]
+    },
+    {
+        "lesson": "33",
+        "topic": "X は Y と いう 意[い]味[み]です",
+        "explanations": [
+            "This form is used when defining X",
+            "と いう comes from いいます",
+            "When inquiring as to the meaning of somthing, the interrogative どういう is used"
+        ],
+        "examples": [
+            "1)「立[たち]入[いり]禁[きん]止[し]」は 入[はい]るなと いう 意[い]味[み]です",
+            "1) 'Tachiiri Kinshi' means 'No entry'",
+            "2) この マークは どういう 意[い]味[み]ですか",
+            "2) What does this symbol mean?",
+            "2) ... 洗[せん]濯[たく]機[き]で 洗[あら]えると いう 意[い]味[み]です",
+            "2) ... It means 'machine-washable'"
+        ]
+    },
+    {
+        "lesson": "33",
+        "topic": "~と 言[い]って いました",
+        "forms":[
+            "Sentence + と 言[い]って いました",
+            "V (じしょ-form) + と 言[い]って いました"
+        ],
+        "explanations": [
+            "~と いいました is used for quoting what someone said",
+            "~と 言[い]って いました is used for reporting what someone said"
+        ],
+        "examples": [
+            "1) 田[た]中[なか]さんは 「あした 休[やす]みます」 と 言[い]って いました",
+            "1) Mr Tanaka said 'Im taking the day off tomorrow'",
+            "2) 田[た]中[なか]さんは あした 休[やす]む と 言[い]って いました",
+            "2) Mr Tanaka said he would take the day off tomorrow"
+        ]
+    },
+    {
+        "lesson": "33",
+        "topic": "~と 伝[つた]えて いただけませんか",
+        "forms":[
+            "Sentence + と 伝[つた]えて いただけませんか",
+            "V (じしょ-form) + と 伝[つた]えて いただけませんか"
+        ],
+        "explanations": [
+            "This is used when the speaker is polite asking someone to pass a message on for hime or her"
+        ],
+        "examples": [
+            "1) ワンさんに 「あとで 電[でん]話[わ]を ください」と 伝[つた]えて いただけませんか",
+            "1) Would you mind asking Mr Wang to call me later?",
+            "2) すみませんが，渡[わた]辺[なべ]さんに あしたの パーティーを 6時[じ]からだと 伝[つた]えて いただけませんか",
+            "2) I'm sorry to bother you, but would you mind telling Ms Watanabe that tomorrows party starts at 6 o'clock?"
         ]
     }
 ]

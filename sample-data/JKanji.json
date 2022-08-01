@@ -291,7 +291,7 @@
     {"Id":16000,"Chap":"16","Furi":"住[じゅう]所[しょ]","Kanji":"住所","Jpn":"じゅうしょ","Eng":"address/residence"},
     {"Id":16001,"Chap":"16","Furi":"住[す]む","Kanji":"住む","Jpn":"すむ","Eng":"to live/ to reside"},
     {"Id":16002,"Chap":"16","Furi":"意[い]思[し]","Kanji":"意思","Jpn":"いし","Eng":"mind/intention"},
-    {"Id":16003,"Chap":"16","Furi":"思う","Kanji":"思う","Jpn":"おもう","Eng":"to think"},
+    {"Id":16003,"Chap":"16","Furi":"思[おも]う","Kanji":"思う","Jpn":"おもう","Eng":"to think"},
     {"Id":16004,"Chap":"16","Furi":"使[し]用[よう]中[ちゅう]","Kanji":"使用中","Jpn":"しようちゅう","Eng":"in use/engaged"},
     {"Id":16005,"Chap":"16","Furi":"使[つか]う","Kanji":"使う","Jpn":"つかう","Eng":"to use"},
     {"Id":16006,"Chap":"16","Furi":"作[さく]文[ぶん]","Kanji":"作文","Jpn":"さくぶん","Eng":"short essay/composition"},
