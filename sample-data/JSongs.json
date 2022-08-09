@@ -18,6 +18,15 @@
 
     },
     {
+        "songID" : "BACK-001",
+        "songURL": "https://www.youtube.com/embed/EMYa07zHC9w",
+        "songNameEng" : "Yellow",
+        "songNameJpn" : "黄色",
+        "artistNameEng" : "back number",
+        "artistNameJpn" : ""
+
+    },
+    {
         "songID" : "FRED-001",
         "songURL": "https://www.youtube.com/embed/vn7vfza-6fQ",
         "songNameEng" : "Kanashii Ureshii",
@@ -50,6 +59,14 @@
         "songNameJpn" : "海の声",
         "artistNameEng" : "Kenta Kiritani",
         "artistNameJpn" : "桐谷 健太"
+    },
+    {
+        "songID" : "MAYN-001",
+        "songURL": "https://www.youtube.com/embed/NW7lvC7xeRQ",
+        "songNameEng" : "Lion",
+        "songNameJpn" : "ライオン ",
+        "artistNameEng" : "May'n",
+        "artistNameJpn" : ""
     },
     {
         "songID" : "PEGG-001",

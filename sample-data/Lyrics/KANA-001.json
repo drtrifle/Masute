@@ -1,46 +1,167 @@
 {
-    "lyricsJpn" : [
-        "いっせーのーせで踏[ふ]み込[こ]むゴーライン",
-        "僕[ぼく]らは何[なに]も何[なに]もまだ知[し]らぬ",
-        "一線超[いっせんこ]えて振[ふ]り返[かえ]るともうない",
-        "僕[ぼく]らは何[なに]も何[なに]もまだ知[し]らぬ",
-        "",
-        "うだってうだってうだってく",
-        "煌[きら]めく汗[あせ]がこぼれるのさ",
-        "",
-        "覚[おぼ]えてないこともたくさんあっただろう",
-        "誰[だれ]も彼[かれ]もシルエット",
-        "大事[だいじ]にしてたもの、忘[わす]れたフリをしたんだよ",
-        "なにもないよ、笑[わら]えるさ",
-        "",
-        "いっせーのーで、思[おも]い出[だ]す少年[しょうねん]",
-        "僕[ぼく]らは何[なに]もかもを欲[ほ]しがった",
-        "わかってるって、あぁ気[き]づいてるって",
-        "時計[とけい]の針[はり]は日々[ひび]は止[と]まらない",
-        "",
-        "奪[うば]って奪[うば]って奪[うば]ってく",
-        "流[なが]れる時[とき]と記憶[きおく]",
-        "遠[とお]く遠[とお]く 遠[とお]くになって",
-        "",
-        "覚[おぼ]えてないこともたくさんあっただろう",
-        "誰[だれ]も彼[かれ]もシルエット",
-        "恐[おそ]れてやまぬこと、知[し]らないフリをしたんだよ",
-        "なにもないよ、笑[わら]えるさ",
-        "",
-        "ひらりとひらりと舞[ま]ってる",
-        "木[こ]の葉[は]のように憂[うれ]うことなく焦燥[しょうそう]なく過[す]ごしていたいよ",
-        "",
-        "覚[おぼ]えてないこともたくさんあったけど",
-        "きっとずっと変[か]わらないものがあることを",
-        "教[おし]えてくれたあなたは消[き]えぬ消[き]えぬシルエット",
-        "大事[だいじ]にしたいもの持[も]って大人[おとな]になるんだ",
-        "どんな時[とき]も離[はな]さずに守[まも]り続[つづ]けよう",
-        "そしたらいつの日[ひ]にか",
-        "なにもかもを笑[わら]えるさ",
-        "",
-        "ひらりとひらりと舞[ま]ってる",
-        "木[こ]の葉[は]が飛[と]んでゆく"
+    "songLyrics": [
+        {
+            "jpnStr": "いっせーのーせで踏[ふ]み込[こ]むゴーライン",
+            "engStr": "Altogether now, make a break for the goal line"
+        },
+        {
+            "jpnStr": "僕[ぼく]らは何[なに]も何[なに]もまだ知[し]らぬ",
+            "engStr": "We don't know anything, anything yet"
+        },
+        {
+            "jpnStr": "一線超[いっせんこ]えて振[ふ]り返[かえ]るともうない",
+            "engStr": "We passed the point of no return, but looking back"
+        },
+        {
+            "jpnStr": "僕[ぼく]らは何[なに]も何[なに]もまだ知[し]らぬ",
+            "engStr": "We don't know anything, anything yet"
+        },
+        {
+            "jpnStr": "",
+            "engStr": ""
+        },
+        {
+            "jpnStr": "うだって,うだって,うだってく",
+            "engStr": "Fired up, fired up, get fired up"
+        },
+        {
+            "jpnStr": "煌[きら]めく汗[あせ]がこぼれるのさ",
+            "engStr": "Bursting with glistening sweat"
+        },
+        {
+            "jpnStr": "",
+            "engStr": ""
+        },
+        {
+            "jpnStr": "覚[おぼ]えてないこともたくさんあっただろう",
+            "engStr": "There are probably a lot of things we don't remember"
+        },
+        {
+            "jpnStr": "誰[だれ]も彼[かれ]もシルエット",
+            "engStr": "Everyone, even him, becoming mere silhouettes"
+        },
+        {
+            "jpnStr": "大事[だいじ]にしてたもの、忘[わす]れたフリをしたんだよ",
+            "engStr": "We've pretended to forget the things we held dear"
+        },
+        {
+            "jpnStr": "なにもないよ、笑[わら]えるさ",
+            "engStr": "So we can just laugh and say it's nothing"
+        },
+        {
+            "jpnStr": "",
+            "engStr": ""
+        },
+        {
+            "jpnStr": "いっせーのーで、思[おも]い出[だ]す少年[しょうねん]",
+            "engStr": "As we count together, we all remember:"
+        },
+        {
+            "jpnStr": "僕[ぼく]らは何[なに]もかもを欲[ほ]しがった",
+            "engStr": "We wanted to have it all"
+        },
+        {
+            "jpnStr": "わかってるって、あぁ気[き]づいてるって",
+            "engStr": "I know (ahh), I've noticed"
+        },
+        {
+            "jpnStr": "時計[とけい]の針[はり]は日々[ひび]は止[と]まらない",
+            "engStr": "The hands-on the clock, these days can't be stopped"
+        },
+        {
+            "jpnStr": "",
+            "engStr": ""
+        },
+        {
+            "jpnStr": "奪[うば]って,奪[うば]って,奪[うば]ってく",
+            "engStr": "Fighting, fighting, fighting for ownership"
+        },
+        {
+            "jpnStr": "流[なが]れる時[とき]と記憶[きおく]",
+            "engStr": "Time and memories flow"
+        },
+        {
+            "jpnStr": "遠[とお]く,遠[とお]く,遠[とお]くになって",
+            "engStr": "Getting further, further, further away"
+        },
+        {
+            "jpnStr": "",
+            "engStr": ""
+        },
+        {
+            "jpnStr": "覚[おぼ]えてないこともたくさんあっただろう",
+            "engStr": "There are probably a lot of things we don't remember"
+        },
+        {
+            "jpnStr": "誰[だれ]も彼[かれ]もシルエット",
+            "engStr": "Everyone, even him, becoming mere silhouettes"
+        },
+        {
+            "jpnStr": "恐[おそ]れてやまぬこと、知[し]らないフリをしたんだよ",
+            "engStr": "Everything we've worried about, we've tried to sweep under the carpet"
+        },
+        {
+            "jpnStr": "なにもないよ、笑[わら]えるさ",
+            "engStr": "So we can just laugh and say it's nothing"
+        },
+        {
+            "jpnStr": "",
+            "engStr": ""
+        },
+        {
+            "jpnStr": "ひらりとひらりと舞[ま]ってる",
+            "engStr": "Lightly, nimbly, they dance…"
+        },
+        {
+            "jpnStr": "木[こ]の葉[は]のように憂[うれ]うことなく焦燥[しょうそう]なく過[す]ごしていたいよ",
+            "engStr": "Just like those leaves, having a singular purpose"
+        },
+        {
+            "jpnStr": "",
+            "engStr": ""
+        },
+        {
+            "jpnStr": "覚[おぼ]えてないこともたくさんあったけど",
+            "engStr": "There are probably a lot of things we don't remember"
+        },
+        {
+            "jpnStr": "きっとずっと変[か]わらないものがあることを",
+            "engStr": "But there are also things that will never change, and you"
+        },
+        {
+            "jpnStr": "教[おし]えてくれたあなたは消[き]えぬ消[き]えぬシルエット",
+            "engStr": "Who taught me this, are a fading, fading silhouette"
+        },
+        {
+            "jpnStr": "大事[だいじ]にしたいもの持[も]って大人[おとな]になるんだ",
+            "engStr": "Clutching the things we wish to hold dear, we'll become more mature,"
+        },
+        {
+            "jpnStr": "どんな時[とき]も離[はな]さずに守[まも]り続[つづ]けよう",
+            "engStr": "Always protecting them, never letting them go"
+        },
+        {
+            "jpnStr": "そしたらいつの日[ひ]にか",
+            "engStr": "Then someday…"
+        },
+        {
+            "jpnStr": "なにもかもを笑[わら]えるさ",
+            "engStr": "we'll be able to laugh about it all"
+        },
+        {
+            "jpnStr": "",
+            "engStr": ""
+        },
+        {
+            "jpnStr": "ひらりとひらりと舞[ま]ってる",
+            "engStr": "Lightly, nimbly, they dance"
+        },
+        {
+            "jpnStr": "木[こ]の葉[は]が飛[と]んでゆく",
+            "engStr": "Those leaves fly into the distance"
+        }
     ],
-    "lyricsEng":[],
-    "kanjiList" : []
+    "lyricsJpn": [],
+    "lyricsEng": [],
+    "kanjiList": []
 }
