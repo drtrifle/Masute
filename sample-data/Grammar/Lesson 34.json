@@ -1,18 +1,76 @@
 [
     {
         "lesson": "34",
-        "topic": "",
+        "topic": "V1 た-form とおりに, V2",
         "explanations": [
+            "This indicates doing V2 by the same method or under the same conditions as V1."
         ],
         "examples": [
+            "1) 私[わたし]が やった とおりに，やって ください。",
+            "1) Please do as I did",
+            "2) 見[み]た とおりに， 話[はな]して ください。",
+            "2) Please describe exactly what you saw"
         ]
     },
     {
         "lesson": "34",
-        "topic": "",
+        "topic": "Noun とおりに, V2",
         "explanations": [
+            "This indicates performing an action without deviating from the standard indicated by the preceding phrase"
         ],
         "examples": [
+            "1) 線[せん]の とおりに，紙[かみ]を 切[き]って ください。",
+            "1) Please cut the paper along the line",
+            "2) 説明書[せつめいしょ]の とおりに，組[く]み立[た]てました",
+            "2) I assembled it in accordance with the instructions"
+        ]
+    },
+    {
+        "lesson": "34",
+        "topic": "~あとで, V2",
+        "forms":[
+            "V1 た-form あとで, V2",
+            "Noun の あとで, V2"
+        ],
+        "explanations": [
+            "This indicates that the action denoted by V2 happens after the action or situation denoted by V1 or Noun",
+            "[Note] This puts more emphasis on the time context in which the events happen than V て-form から, which has the same meaning",
+            "[Note] Also, unlike with the V て-form から, there is no implication that V1 or Noun is a precondition for V2"
+        ],
+        "examples": [
+            "1) 新[あたら]しいのを 買[か]った あとで，なくした 時計[とけい]が 見[み]つかりました。",
+            "1) After I had bought a new one, the watch I had lost was found",
+            "2) 仕事[しごと]の あとで，飲[の]みに 行[い]きませんか。",
+            "2) Shall we go for a drink after work"
+        ]
+    },
+    {
+        "lesson": "34",
+        "topic": "V1 て-form V2",
+        "explanations": [
+            "This indicates that V1 is an action or state that accompanies V2",
+            "For example below state whether or not soy sauce is used when the action たべます is performed",
+            "V1 and V2 are actions performed by the same person"
+        ],
+        "examples": [
+            "1) しょうゆを つけて たべます。",
+            "1) We eat it with soy sauce"
+        ]
+    },
+    {
+        "lesson": "34",
+        "topic": "V1 ない-form ないで V2",
+        "explanations": [
+            "This indicates that V1 is an action or state that accompanies V2",
+            "For example below state whether or not soy sauce is used when the action たべます is performed",
+            "V1 and V2 are actions performed by the same person",
+            "[Note] V1 ない-form ないで V2 can also be used to indicate a decision to perform one or other of two mutually-exclusive alternatives V1 and V2"
+        ],
+        "examples": [
+            "1) しょうゆを つけないで たべます。",
+            "1) We eat it without soy sauce",
+            "2) 日曜日[にちようび]は どこも 行[い]かないで，うちで ゆっくり 休[やす]みます。",
+            "2) I'm not going anywhere on Sunday, I'm going to stay at home and take it easy"
         ]
     }
 ]

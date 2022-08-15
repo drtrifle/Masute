@@ -64,9 +64,17 @@
         "songID" : "MAYN-001",
         "songURL": "https://www.youtube.com/embed/NW7lvC7xeRQ",
         "songNameEng" : "Lion",
-        "songNameJpn" : "ライオン ",
+        "songNameJpn" : "ライオン",
         "artistNameEng" : "May'n",
         "artistNameJpn" : ""
+    },
+    {
+        "songID" : "MINAMI-001",
+        "songURL": "https://www.youtube.com/embed/0YF8vecQWYs",
+        "songNameEng" : "Crying for Rain",
+        "songNameJpn" : "カワキヲアメク",
+        "artistNameEng" : "Minami",
+        "artistNameJpn" : "美波"
     },
     {
         "songID" : "PEGG-001",

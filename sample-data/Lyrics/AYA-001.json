@@ -1,100 +1,191 @@
 {
-    "lyricsJpn" : [
-        "渇[かわ]いた心[こころ]で駆[か]け抜[ぬ]ける",
-        "ごめんね何[なに]もできなくて",
-        "痛[いた]みを分[わ]かち合[あ]うことさえ",
-        "あなたは許[ゆる]してくれない",
-        "",
-        "無垢[むく]に生[い]きるため振[ふ]り向[む]かず",
-        "背中向[せなかむ]けて 去[さ]ってしまう",
-        "on the lonely rail",
-        "",
-        "私[わたし]ついていくよ",
-        "どんな辛[つら]い世界[せかい]の闇[やみ]の中[なか]でさえ",
-        "きっとあなたは輝[かがや]いて",
-        "超[こ]える未来[みらい]の果[は]て",
-        "弱[よわ]さ故[ゆえ]に魂[たましい]こわされぬように",
-        "my way 重[かさ]なるよ",
-        "いまふたりに God bless..",
-        "",
-        "届[とど]けて熱[あつ]くなる想[おも]いは",
-        "現実溶[げんじつと]かしてさまよう",
-        "会[あ]いたい気持[きも]ちに理由[りゆう]はない",
-        "あなたへあふれだす Lovin'you",
-        "",
-        "せめて美[うつく]しい夢[ゆめ]だけを",
-        "描[えが]きながら 追[お]いかけよう",
-        "for your lonely heart",
-        "",
-        "やめて嘘[うそ]はあなたらしくないよ",
-        "目[め]を見[み]てこれからのことを話[はな]そう",
-        "私覚悟[わたしかくご]してる",
-        "暗[くら]い未来[みらい]だって",
-        "強[つよ]くなって運命変[うんめいか]えられるかもね",
-        "my wish かなえたいのに",
-        "すべては God knows..",
-        "",
-        "あなたがいて 私[わたし]がいて",
-        "ほかの人[ひと]は消[き]えてしまった",
-        "淡[あわ]い夢[ゆめ]の美[うつく]しさを描[えが]きながら",
-        "傷跡[きずあと]なぞる",
-        "",
-        "だから私[わたし]ついていくよ",
-        "どんな辛[つら]い世界[せかい]の闇[やみ]の中[なか]でさえ",
-        "きっとあなたは輝[かがや]いて",
-        "超[こ]える未来[みらい]の果[は]て",
-        "弱[よわ]さ故[ゆえ]に魂[たましい]こわされぬように",
-        "my way 重[かさ]なるよ",
-        "いまふたりに God bless.."
+    "songLyrics": [
+        {
+            "jpnStr": "渇[かわ]いた心[こころ]で駆[か]け抜[ぬ]ける",
+            "engStr": "Running through with a thirsty heart"
+        },
+        {
+            "jpnStr": "ごめんね何[なに]もできなくて",
+            "engStr": "I'm sorry I couldn't do anything"
+        },
+        {
+            "jpnStr": "痛[いた]みを分[わ]かち合[あ]うことさえ",
+            "engStr": "Even sharing the pain"
+        },
+        {
+            "jpnStr": "あなたは許[ゆる]してくれない",
+            "engStr": "You won't let me"
+        },
+        {
+            "jpnStr": "",
+            "engStr": ""
+        },
+        {
+            "jpnStr": "無垢[むく]に生[い]きるため振[ふ]り向[む]かず",
+            "engStr": "To live in innocence and not look back"
+        },
+        {
+            "jpnStr": "背中向[せなかむ]けて 去[さ]ってしまう",
+            "engStr": "Turn your back and walk away"
+        },
+        {
+            "jpnStr": "on the lonely rail",
+            "engStr": "on the lonely rail"
+        },
+        {
+            "jpnStr": "",
+            "engStr": ""
+        },
+        {
+            "jpnStr": "私[わたし]ついていくよ",
+            "engStr": "I'll follow you"
+        },
+        {
+            "jpnStr": "どんな辛[つら]い世界[せかい]の闇[やみ]の中[なか]でさえ",
+            "engStr": "Even in the darkness of any painful world"
+        },
+        {
+            "jpnStr": "きっとあなたは輝[かがや]いて",
+            "engStr": "I'm sure you'll shine"
+        },
+        {
+            "jpnStr": "超[こ]える未来[みらい]の果[は]て",
+            "engStr": "The end of the future beyond"
+        },
+        {
+            "jpnStr": "弱[よわ]さ故[ゆえ]に魂[たましい]こわされぬように",
+            "engStr": "Don't let weakness destroy your soul"
+        },
+        {
+            "jpnStr": "my way 重[かさ]なるよ",
+            "engStr": "you converge with my way"
+        },
+        {
+            "jpnStr": "いまふたりに God bless..",
+            "engStr": "Now God bless us..."
+        },
+        {
+            "jpnStr": "",
+            "engStr": ""
+        },
+        {
+            "jpnStr": "届[とど]けて熱[あつ]くなる想[おも]いは",
+            "engStr": "The feelings that reach and heat up"
+        },
+        {
+            "jpnStr": "現実溶[げんじつと]かしてさまよう",
+            "engStr": "Reality melts and wanders"
+        },
+        {
+            "jpnStr": "会[あ]いたい気持[きも]ちに理由[りゆう]はない",
+            "engStr": "There is no reason to miss you"
+        },
+        {
+            "jpnStr": "あなたへあふれだす Lovin'you",
+            "engStr": "I pour my feelings into you, lovin'you"
+        },
+        {
+            "jpnStr": "",
+            "engStr": ""
+        },
+        {
+            "jpnStr": "せめて美[うつく]しい夢[ゆめ]だけを",
+            "engStr": "At least I can only dream beautiful dreams"
+        },
+        {
+            "jpnStr": "描[えが]きながら 追[お]いかけよう",
+            "engStr": "I'll chase after you while drawing"
+        },
+        {
+            "jpnStr": "for your lonely heart",
+            "engStr": "for your lonely heart"
+        },
+        {
+            "jpnStr": "",
+            "engStr": ""
+        },
+        {
+            "jpnStr": "やめて嘘[うそ]はあなたらしくないよ",
+            "engStr": "Stop lying, it's not like you"
+        },
+        {
+            "jpnStr": "目[め]を見[み]てこれからのことを話[はな]そう",
+            "engStr": "Look me in the eye and let's talk about the future"
+        },
+        {
+            "jpnStr": "私[わたし]覚悟[かくご]してる",
+            "engStr": "I'm ready"
+        },
+        {
+            "jpnStr": "暗[くら]い未来[みらい]だって",
+            "engStr": "Even the darkest future"
+        },
+        {
+            "jpnStr": "強[つよ]くなって運命変[うんめいか]えられるかもね",
+            "engStr": "Maybe we can be strong and change our destiny"
+        },
+        {
+            "jpnStr": "my wish かなえたいのに",
+            "engStr": "Though I want my wish to be granted"
+        },
+        {
+            "jpnStr": "すべては God knows..",
+            "engStr": "God knows everything..."
+        },
+        {
+            "jpnStr": "",
+            "engStr": ""
+        },
+        {
+            "jpnStr": "あなたがいて 私[わたし]がいて",
+            "engStr": "With you, with me"
+        },
+        {
+            "jpnStr": "ほかの人[ひと]は消[き]えてしまった",
+            "engStr": "The others have vanished"
+        },
+        {
+            "jpnStr": "淡[あわ]い夢[ゆめ]の美[うつく]しさを描[えが]きながら",
+            "engStr": "While painting the beauty of a faint dream"
+        },
+        {
+            "jpnStr": "傷跡[きずあと]なぞる",
+            "engStr": "Trace the scars"
+        },
+        {
+            "jpnStr": "",
+            "engStr": ""
+        },
+        {
+            "jpnStr": "だから私[わたし]ついていくよ",
+            "engStr": "So I'll follow you"
+        },
+        {
+            "jpnStr": "どんな辛[つら]い世界[せかい]の闇[やみ]の中[なか]でさえ",
+            "engStr": "Even in the darkness of any painful world"
+        },
+        {
+            "jpnStr": "きっとあなたは輝[かがや]いて",
+            "engStr": "I'm sure you'll shine"
+        },
+        {
+            "jpnStr": "超[こ]える未来[みらい]の果[は]て",
+            "engStr": "The end of the future beyond"
+        },
+        {
+            "jpnStr": "弱[よわ]さ故[ゆえ]に魂[たましい]こわされぬように",
+            "engStr": "Don't let weakness destroy your soul"
+        },
+        {
+            "jpnStr": "my way 重[かさ]なるよ",
+            "engStr": "you converge with my way"
+        },
+        {
+            "jpnStr": "いまふたりに God bless..",
+            "engStr": "Now God bless us..."
+        }
     ],
-    "lyricsEng":[
-        "Running through with a thirsty heart",
-        "I'm sorry I couldn't do anything",
-        "Even sharing the pain",
-        "You won't let me",
-        "",
-        "To live in innocence and not look back",
-        "Turn your back and walk away",
-        "on the lonely rail",
-        "",
-        "I'll follow you",
-        "Even in the darkness of any painful world",
-        "I'm sure you'll shine",
-        "The end of the future beyond",
-        "Don't let weakness destroy your soul",
-        "you converge with my way",
-        "Now God bless us...",
-        "",
-        "The feelings that reach and heat up",
-        "Reality melts and wanders",
-        "There is no reason to miss you",
-        "I'm pourmy feelings into you, lovin'you",
-        "",
-        "At least I can only dream beautiful dreams",
-        "I'll chase after you while drawing",
-        "for your lonely heart",
-        "",
-        "Stop lying, it's not like you",
-        "Look me in the eye and let's talk about the future",
-        "I'm ready",
-        "Even the darkest future",
-        "Maybe we can be strong and change our destiny",
-        "Though I want my wish to be granted",
-        "God knows everything...",
-        "",
-        "With you, with me",
-        "The others have vanished",
-        "While painting the beauty of a faint dream",
-        "Trace the scars",
-        "",
-        "So I'll follow you",
-        "Even in the darkness of any painful world",
-        "I'm sure you'll shine",
-        "The end of the future beyond",
-        "Don't let weakness destroy your soul",
-        "you converge with my way",
-        "Now God bless us..."
-    ],
-    "kanjiList" : [
-    ]
+    "lyricsJpn": [],
+    "lyricsEng": [],
+    "kanjiList": []
 }
