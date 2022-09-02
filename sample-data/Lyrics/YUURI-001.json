@@ -1,152 +1,296 @@
 {
-    "lyricsJpn" : [
-        "君[きみ]と見[み]るはずだった花火[はなび]が",
-        "夜[よる]の隙間[すきま]を埋[う]めてく",
-        "感傷[かんしょう]にひたっちまうから",
-        "Twitterは閉[と]じた",
-        "", 
-        "棚[たな]の上[うえ]に置[お]いたカメラも",
-        "今距離[いまきょり]を置[お]きたいくらい",
-        "僕[ぼく]は今日全[きょうすべ]て失[うしな]って",
-        "一日中泣[いちにちじゅうな]いていた",
-        "",
-        "本当[ほんとう]の気持[きも]ちは",
-        "やっぱりわからないけど",
-        "君[きみ]のアルバムに居[い]る僕[ぼく]を全部[ぜんぶ]",
-        "消[け]したんでしょう",
-        "", 
-        "シャッターが落[お]ちるみたいに",
-        "君[きみ]を切[き]り取[と]って恋[こい]に落[お]ちて",
-        "心[こころ]のアルバムに全部[ぜんぶ]",
-        "そっとため込[こ]んでた",
-        "だからさ だからさ",
-        "仕草[しぐさ]も匂[にお]いも覚[おぼ]えている",
-        "シャッターを切[き]る時間[じかん]も",
-        "君[きみ]に触[ふ]れていれば良[よ]かった",
-        "全[すべ]ての時間[じかん]を君[きみ]だけに使[つか]えばよかった",
-        "", 
-        "お決[き]まりのデートコースと",
-        "お決[き]まりの愛[あい]の言葉[ことば]",
-        "見栄[みば]えの良[い]いものばかりが",
-        "インスタに残[のこ]った",
-        "", 
-        "棚[たな]の上[うえ]に置[お]いたカメラじゃ",
-        "映[うつ]せないものが",
-        "君[きみ]と僕[ぼく]の間[あいだ]にあって",
-        "それに気[き]づけなかった",
-        "",
-        "今[いま]でも気持[きも]ちは",
-        "やっぱりわからないけど",
-        "君[きみ]のアルバムに居[い]る僕[ぼく]は全部[ぜんぶ]",
-        "いらないんでしょう",
-        "", 
-        "シャッターが落[お]ちるみたいに",
-        "君[きみ]を切[き]り取[と]って恋[こい]に落[お]ちて",
-        "壊[こわ]したくなくて無難[ぶなん]に",
-        "きっとやり過[す]ごしてた",
-        "だからさ だからさ",
-        "映[うつ]りの悪[わる]い僕[ぼく]だったろう",
-        "シャッターを切[き]る時間[じかん]も",
-        "君[きみ]に触[ふ]れていれば良[よ]かった",
-        "全[すべ]ての時間[じかん]を君[きみ]だけに使[つか]えばよかった",
-        "",
-        "どんなに綺麗[きれい]で美[うつく]しい宝石[ほうせき]みたいな思[おも]い出[で]も",
-        "そこに僕[ぼく]が居[い]なきゃ 君[きみ]が居[い]なきゃ",
-        "何[なん]の意味[いみ]もないのに",
-        "",
-        "シャッターが落[お]ちるみたいに",
-        "君[きみ]を切[き]り取[と]って恋[こい]に落[お]ちて",
-        "壊[こわ]したくなくて無難[ぶなん]に",
-        "きっとやり過[す]ごしてた",
-        "だからさ だからさ",
-        "映[うつ]りの悪[わる]い僕[ぼく]だったろう",
-        "シャッターを切[き]る時間[じかん]も",
-        "君[きみ]に触[ふ]れていれば良[よ]かった",
-        "",
-        "シャッターが落[お]ちるみたいに",
-        "君[きみ]を切[き]り取[と]って恋[こい]に落[お]ちて",
-        "心[こころ]のアルバムに全部[ぜんぶ]",
-        "そっとため込[こ]んでた",
-        "だからさ だからさ",
-        "仕草[しぐさ]も匂[にお]いも覚[おぼ]えている",
-        "シャッターを切[き]る時間[じかん]も",
-        "君[きみ]に触[ふ]れていれば良[よ]かった",
-        "全[すべ]ての時間[じかん]を君[きみ]だけに使[つか]えばよかった"
+    "credits": "Kelana @ MusicboxTrans.wordpress.com",
+    "songLyrics": [
+        {
+            "jpnStr": "君[きみ]と見[み]るはずだった花火[はなび]が",
+            "engStr": "The fireworks I should've watched with you"
+        },
+        {
+            "jpnStr": "夜[よる]の隙間[すきま]を埋[う]めてく",
+            "engStr": "fill in the gaps in the night."
+        },
+        {
+            "jpnStr": "感傷[かんしょう]にひたっちまうから",
+            "engStr": "Since it's flooded with sentiments,"
+        },
+        {
+            "jpnStr": "Twitterは閉[と]じた",
+            "engStr": "I closed Twitter."
+        },
+        {
+            "jpnStr": "",
+            "engStr": ""
+        },
+        {
+            "jpnStr": "棚[たな]の上[うえ]に置[お]いたカメラも",
+            "engStr": "Now I even want to distance myself"
+        },
+        {
+            "jpnStr": "今距離[いまきょり]を置[お]きたいくらい",
+            "engStr": "from the camera I placed on the shelf"
+        },
+        {
+            "jpnStr": "僕[ぼく]は今日全[きょうすべ]て失[うしな]って",
+            "engStr": "I lost everything today,"
+        },
+        {
+            "jpnStr": "一日中泣[いちにちじゅうな]いていた",
+            "engStr": "crying all day long."
+        },
+        {
+            "jpnStr": "",
+            "engStr": ""
+        },
+        {
+            "jpnStr": "本当[ほんとう]の気持[きも]ちは",
+            "engStr": "I still don't understand'"
+        },
+        {
+            "jpnStr": "やっぱりわからないけど",
+            "engStr": "the true feelings."
+        },
+        {
+            "jpnStr": "君[きみ]のアルバムに居[い]る僕[ぼく]を全部[ぜんぶ]",
+            "engStr": "I wonder if you've erased all traces of me"
+        },
+        {
+            "jpnStr": "消[け]したんでしょう",
+            "engStr": "in your photo album"
+        },
+        {
+            "jpnStr": "",
+            "engStr": ""
+        },
+        {
+            "jpnStr": "シャッターが落[お]ちるみたいに",
+            "engStr": "Like the shutter that goes down,"
+        },
+        {
+            "jpnStr": "君[きみ]を切[き]り取[と]って恋[こい]に落[お]ちて",
+            "engStr": "we “clicked” and fell in love."
+        },
+        {
+            "jpnStr": "心[こころ]のアルバムに全部[ぜんぶ]",
+            "engStr": "All the moments softly accumulated"
+        },
+        {
+            "jpnStr": "そっとため込[こ]んでた",
+            "engStr": "in my heart's photo album."
+        },
+        {
+            "jpnStr": "だからさ だからさ",
+            "engStr": "That's why, that's why"
+        },
+        {
+            "jpnStr": "仕草[しぐさ]も匂[にお]いも覚[おぼ]えている",
+            "engStr": "I memorized your movements, your smell."
+        },
+        {
+            "jpnStr": "シャッターを切[き]る時間[じかん]も",
+            "engStr": "It's time to release the shutter."
+        },
+        {
+            "jpnStr": "君[きみ]に触[ふ]れていれば良[よ]かった",
+            "engStr": "I wish I would've touched you."
+        },
+        {
+            "jpnStr": "全[すべ]ての時間[じかん]を君[きみ]だけに使[つか]えばよかった",
+            "engStr": "I wish I would've spent all my time only on you."
+        },
+        {
+            "jpnStr": "",
+            "engStr": ""
+        },
+        {
+            "jpnStr": "お決[き]まりのデートコースと",
+            "engStr": "The same old dates"
+        },
+        {
+            "jpnStr": "お決[き]まりの愛[あい]の言葉[ことば]",
+            "engStr": "and the same old words of love,"
+        },
+        {
+            "jpnStr": "見栄[みば]えの良[い]いものばかりが",
+            "engStr": "only the pleasant things"
+        },
+        {
+            "jpnStr": "インスタに残[のこ]った",
+            "engStr": "were left on Instagram"
+        },
+        {
+            "jpnStr": "",
+            "engStr": ""
+        },
+        {
+            "jpnStr": "棚[たな]の上[うえ]に置[お]いたカメラじゃ",
+            "engStr": "There were things between you and me"
+        },
+        {
+            "jpnStr": "映[うつ]せないものが",
+            "engStr": "that the camera I placed on the shelf"
+        },
+        {
+            "jpnStr": "君[きみ]と僕[ぼく]の間[あいだ]にあって",
+            "engStr": "couldn't project,"
+        },
+        {
+            "jpnStr": "それに気[き]づけなかった",
+            "engStr": "and I didn't realize that."
+        },
+        {
+            "jpnStr": "",
+            "engStr": ""
+        },
+        {
+            "jpnStr": "今[いま]でも気持[きも]ちは",
+            "engStr": "Even now, I still don't understand"
+        },
+        {
+            "jpnStr": "やっぱりわからないけど",
+            "engStr": "the feelings."
+        },
+        {
+            "jpnStr": "君[きみ]のアルバムに居[い]る僕[ぼく]は全部[ぜんぶ]",
+            "engStr": "I wonder if I don't even need to be"
+        },
+        {
+            "jpnStr": "いらないんでしょう",
+            "engStr": "in your photo album."
+        },
+        {
+            "jpnStr": "",
+            "engStr": ""
+        },
+        {
+            "jpnStr": "シャッターが落[お]ちるみたいに",
+            "engStr": "Like the shutter that goes down,"
+        },
+        {
+            "jpnStr": "君[きみ]を切[き]り取[と]って恋[こい]に落[お]ちて",
+            "engStr": "we “clicked” and fell in love."
+        },
+        {
+            "jpnStr": "壊[こわ]したくなくて無難[ぶなん]に",
+            "engStr": "Not wanting to destroy anything, I surely took the safe route"
+        },
+        {
+            "jpnStr": "きっとやり過[す]ごしてた",
+            "engStr": "and let you walk away."
+        },
+        {
+            "jpnStr": "だからさ だからさ",
+            "engStr": "That's why, that's why,"
+        },
+        {
+            "jpnStr": "映[うつ]りの悪[わる]い僕[ぼく]だったろう",
+            "engStr": "I was a bad match for you."
+        },
+        {
+            "jpnStr": "シャッターを切[き]る時間[じかん]も",
+            "engStr": "It's time to release the shutter."
+        },
+        {
+            "jpnStr": "君[きみ]に触[ふ]れていれば良[よ]かった",
+            "engStr": "I wish I would've touched you."
+        },
+        {
+            "jpnStr": "全[すべ]ての時間[じかん]を君[きみ]だけに使[つか]えばよかった",
+            "engStr": "I wish I would've spent all my time only on you."
+        },
+        {
+            "jpnStr": "",
+            "engStr": ""
+        },
+        {
+            "jpnStr": "どんなに綺麗[きれい]で美[うつく]しい宝石[ほうせき]みたいな思[おも]い出[で]も",
+            "engStr": "No matter how pretty and beautiful the jewel-like memories are,"
+        },
+        {
+            "jpnStr": "そこに僕[ぼく]が居[い]なきゃ 君[きみ]が居[い]なきゃ",
+            "engStr": "if I'm not there, if you're not there,"
+        },
+        {
+            "jpnStr": "何[なん]の意味[いみ]もないのに",
+            "engStr": "there is no meaning."
+        },
+        {
+            "jpnStr": "",
+            "engStr": ""
+        },
+        {
+            "jpnStr": "シャッターが落[お]ちるみたいに",
+            "engStr": "Like the shutter that goes down,"
+        },
+        {
+            "jpnStr": "君[きみ]を切[き]り取[と]って恋[こい]に落[お]ちて",
+            "engStr": "we “clicked” and fell in love."
+        },
+        {
+            "jpnStr": "壊[こわ]したくなくて無難[ぶなん]に",
+            "engStr": "Not wanting to destroy anything, I surely took the safe route"
+        },
+        {
+            "jpnStr": "きっとやり過[す]ごしてた",
+            "engStr": "and let you walk away."
+        },
+        {
+            "jpnStr": "だからさ だからさ",
+            "engStr": "That's why, that's why,"
+        },
+        {
+            "jpnStr": "映[うつ]りの悪[わる]い僕[ぼく]だったろう",
+            "engStr": "I was a bad match for you."
+        },
+        {
+            "jpnStr": "シャッターを切[き]る時間[じかん]も",
+            "engStr": "It's time to release the shutter."
+        },
+        {
+            "jpnStr": "君[きみ]に触[ふ]れていれば良[よ]かった",
+            "engStr": "I wish I would've touched you."
+        },
+        {
+            "jpnStr": "",
+            "engStr": ""
+        },
+        {
+            "jpnStr": "シャッターが落[お]ちるみたいに",
+            "engStr": "Like the shutter that goes down,"
+        },
+        {
+            "jpnStr": "君[きみ]を切[き]り取[と]って恋[こい]に落[お]ちて",
+            "engStr": "we “clicked” and fell in love."
+        },
+        {
+            "jpnStr": "心[こころ]のアルバムに全部[ぜんぶ]",
+            "engStr": "All the moments softly accumulated"
+        },
+        {
+            "jpnStr": "そっとため込[こ]んでた",
+            "engStr": "in my heart's photo album."
+        },
+        {
+            "jpnStr": "だからさ だからさ",
+            "engStr": "That's why, that's why"
+        },
+        {
+            "jpnStr": "仕草[しぐさ]も匂[にお]いも覚[おぼ]えている",
+            "engStr": "I memorized your movements, your smell."
+        },
+        {
+            "jpnStr": "シャッターを切[き]る時間[じかん]も",
+            "engStr": "It's time to release the shutter."
+        },
+        {
+            "jpnStr": "君[きみ]に触[ふ]れていれば良[よ]かった",
+            "engStr": "I wish I would've touched you."
+        },
+        {
+            "jpnStr": "全[すべ]ての時間[じかん]を君[きみ]だけに使[つか]えばよかった",
+            "engStr": "I wish I would've spent all my time only on you."
+        }
     ],
-    "lyricsEng":[
-        "The fireworks I was supposed to go see with you",
-        "Fill up the gaps in the night",
-        "To avoid wallowing in sentimentality",
-        "I closed Twitter",
-        "",
-        "I place my camera on the shelf",
-        "I needed to distance myself",
-        "That's how much I lost everything today and",
-        "I spent the entire day crying",
-        "",
-        "Your true feelings",
-        "I still don't understand",
-        "But I bet you erased all of me",
-        "From your album",
-        "",
-        "Like the release of the shutter button",
-        "I captured you in that single moment and fell in love",
-        "In my heart's album",
-        "I gently stored them all",
-        "That's why, that's why",
-        "I remember all your mannerisms, your scent",
-        "Times I spent releasing the shutter button",
-        "I should have been touching you",
-        "I should have spent all my time with you",
-        "",
-        "Our regular dates routines and",
-        "Our regular words of love",
-        "Things that looked good on the surface",
-        "Remain on Instagram",
-        "",
-        "The camera placed on the shelf",
-        "Couldn't photograph",
-        "What was between me and you",
-        "Something I failed to recognize",
-        "",
-        "My feelings now",
-        "I still don't understand",
-        "Every picture of me in your album",
-        "They're all dispensable now, right?",
-        "",
-        "Like the release of the shutter button",
-        "I captured you in that single moment and fell in love",
-        "Didn't want to ruin it",
-        "So I played it safe",
-        "That's why, that's why",
-        "I never looked good in any of the shots",
-        "Times I spent releasing the shutter button",
-        "I should have been touching you",
-        "I should have spent all my time with you",
-        "",
-        "Beautiful memories like gemstones",
-        "If i'm not there, if you're not there",
-        "They don't mean a thing",
-        "",
-        "Like the release of the shutter button",
-        "I captured you in that single moment and fell in love",
-        "Didn't want to ruin it",
-        "So I played it safe",
-        "That's why, that's why",
-        "I never looked good in any of the shots",
-        "Times I spent releasing the shutter button",
-        "I should have been touching you",
-        "",
-        "Like the release of the shutter button",
-        "I captured you in that single moment and fell in love",
-        "In my heart's album",
-        "I gently stored them all",
-        "That's why, that's why",
-        "I remember all your mannerisms, your scent",
-        "Times I spent releasing the shutter button",
-        "I should have been touching you",
-        "I should have spent all my time with you"
-    ],
-    "kanjiList" : [
-    ]
+    "lyricsJpn": [],
+    "lyricsEng": [],
+    "kanjiList": []
 }

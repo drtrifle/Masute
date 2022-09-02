@@ -1,6 +1,139 @@
 [
     {
         "lesson": "35",
+        "topic": "Group 1 Verb Conditional form",
+        "explanations": [
+            "For group 1 ます-form verbs, drop ます, change the last syllable from the い-column to the え-column and add ば"
+        ],
+        "examples": [
+            "1) かきます → かけば",
+            "1) To write",
+            "2) よみます → よめば",
+            "2) To read",
+            "3) いそぎます → いそげば",
+            "3) To hurry",
+            "4) あそびます → あそべば",
+            "4) To play"
+        ]
+    },
+    {
+        "lesson": "35",
+        "topic": "Group 2 Verb Conditional form",
+        "explanations": [
+            "For group 2 ます-form verbs, attach れば to ます-form"
+        ],
+        "examples": [
+            "1) たべます → たべれば",
+            "1) To eat",
+            "2) みます → みれば",
+            "2) To see"
+        ]
+    },
+    {
+        "lesson": "35",
+        "topic": "Group 3 Verb Conditional form",
+        "explanations": [
+            "From group 3 ます-form verbs, if します, becomes すれば",
+            "From group 3 ます-form verbs, if きます, becomes くれば"
+        ],
+        "examples": [
+            "1) します → すれば",
+            "1) To do",
+            "2) きます → くれば",
+            "2) To come"
+        ]
+    },
+    {
+        "lesson": "35",
+        "topic": "Negative Verb Conditional form",
+        "explanations": [
+            "Add なければ to the ない-form"
+        ],
+        "examples": [
+            "1) いかない → いかなければ",
+            "1) To not go",
+            "1) いかない → いかなければ",
+            "1) To not go"
+        ]
+    },
+    {
+        "lesson": "35",
+        "topic": "い-Adj Conditional form",
+        "explanations": [
+            "Change the い to ければ"
+        ],
+        "examples": [
+        ]
+    },
+    {
+        "lesson": "35",
+        "topic": "な-Adj Conditional form",
+        "explanations": [
+            "Delete the な to なら"
+        ],
+        "examples": [
+        ]
+    },
+    {
+        "lesson": "35",
+        "topic": "Noun Conditional form",
+        "explanations": [
+            "Add なら"
+        ],
+        "examples": [
+        ]
+    },
+    {
+        "lesson": "35",
+        "topic": "Conditional form uses",
+        "explanations": [
+            "1) Expressing something as a precondition for what is expresses in the following (main) clause to happen"
+        ],
+        "examples": [
+        ]
+    },
+    {
+        "lesson": "35",
+        "topic": "",
+        "explanations": [
+        ],
+        "examples": [
+        ]
+    },
+    {
+        "lesson": "35",
+        "topic": "",
+        "explanations": [
+        ],
+        "examples": [
+        ]
+    },
+    {
+        "lesson": "35",
+        "topic": "",
+        "explanations": [
+        ],
+        "examples": [
+        ]
+    },
+    {
+        "lesson": "35",
+        "topic": "",
+        "explanations": [
+        ],
+        "examples": [
+        ]
+    },
+    {
+        "lesson": "35",
+        "topic": "",
+        "explanations": [
+        ],
+        "examples": [
+        ]
+    },
+    {
+        "lesson": "35",
         "topic": "",
         "explanations": [
         ],
