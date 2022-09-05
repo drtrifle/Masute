@@ -85,27 +85,52 @@
     },
     {
         "lesson": "35",
-        "topic": "Conditional form uses",
+        "topic": "Conditional form use: Preconditions for main clause",
         "explanations": [
-            "1) Expressing something as a precondition for what is expresses in the following (main) clause to happen"
+            "Expressing something as a precondition for what is expresses in the following (main) clause to happen",
+            "[Note] As a rule, intention, hopes, orders, requests, etc only appear in the following (main) clause, when the subjects of the predecing and following clauses are different as in 2)",
+            "[Note] Or when the predicate of the preceding clause is conditional as in 3)"
         ],
         "examples": [
+            "1) ボタンを 押[お]せば，窓[まど]が 開[あ]きます。",
+            "1) If you press the button, the window will open",
+            "2) 彼[かれ]が 行[い]けば，私[わたし]も 行[い]きます。",
+            "2) If he goes, I will go too",
+            "3) 明日[あした] 都[つ]合[ごう]が よければ，来[き]て ください。",
+            "3) If its convenient for you, please come tomorrow",
+            "4) いい 天[てん]気[き]なら，向[む]こうに 島[しま]が 見[み]えます。",
+            "4) When the weather's fine, you can see an island over there"
         ]
     },
     {
         "lesson": "35",
-        "topic": "",
+        "topic": "Conditional form use: Response to words or explanation",
         "explanations": [
+            "Responsing to what someone has said or to an explanation of the situation",
+            "[Note] As a rule, intention, hopes, orders, requests, etc only appear in the following (main) clause, when the subjects of the predecing and following clauses are different",
+            "[Note] Or when the predicate of the preceding clause is conditional as in 1)"
         ],
         "examples": [
+            "1) ボールペンが ないんですが。",
+            "1) I dont have a ballpoint pen",
+            "1) ... ボールペンが なければ，鉛[えん]筆[ぴつ]で 書[か]いて ください。",
+            "1) ... If you dont have a ballpoint pen, please write in pencil",
+            "2) 明日[あした]までに レポートを 出[だ]さなければ なりませんか。",
+            "2) Do I have to hand in the report by tomorrow?",
+            "2) ... 無[む]理[り]なら，金[きん]曜[よう]日[び]までに 出[だ]して ください。",
+            "2) ... If thats too difficult, please hand it in by Friday"
         ]
     },
     {
         "lesson": "35",
-        "topic": "",
+        "topic": "Interrogative V conditional form いいですか",
         "explanations": [
+            "This is the expression used when asking the listener for advice or instructions",
+            "If can be used in the same way as ~たら いいですか, introduced in Lesson 26"
         ],
         "examples": [
+            "1) 本[ほん]を 借[か]りたいですが，どう すれば いいですか。",
+            "1) "
         ]
     },
     {

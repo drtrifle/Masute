@@ -1,191 +1,830 @@
 {
-    "lyricsJpn" : [
-        "君[きみ]とのラブストーリー",
-        "それは予想[よそう]通[どお]り",
-        "いざ始[はじ]まればひとり芝居[しばい]だ",
-        "ずっとそばにいたって",
-        "結局[けっきょく]ただの観客[かんきゃく]だ",
-        "",
-        "感情[かんじょう]のないアイムソーリー",
-        "それはいつも通[とお]り",
-        "慣[な]れてしまえば悪[わる]くはないけど",
-        "君[きみ]とのロマンスは人生[じんせい]柄[がら]",
-        "続[つづ]きはしないことを知[し]った",
-        "",
-        "もっと違[ちが]う設定[せってい]で もっと違[ちが]う関係[かんけい]で",
-        "出会[であ]える世界[せかい]線[せん] 選[えら]べたらよかった",
-        "もっと違[ちが]う性格[せいかく]で もっと違[ちが]う価値観[かちかん]で",
-        "愛[あい]を伝[つた]えられたらいいな そう願[ねが]っても無駄[むだ]だから",
-        "",
-        "グッバイ",
-        "君[きみ]の運命[うんめい]のヒトは僕[ぼく]じゃない",
-        "辛[つら]いけど否[いな]めない でも離[はな]れ難[がた]いのさ",
-        "その髪[かみ]に触[ふ]れただけで 痛[いた]いや いやでも",
-        "甘[あま]いな いやいや",
-        "グッバイ",
-        "それじゃ僕[ぼく]にとって君[きみ]は何[なに]?",
-        "答[こた]えは分[わ]からない 分[わ]かりたくもないのさ",
-        "たったひとつ確[たし]かなことがあるとするのならば",
-        "「君[きみ]は綺麗[きれい]だ」",
-        "",
-        "誰[だれ]かが偉[えら]そうに",
-        "語[かた]る恋愛[れんあい]の論理[ろんり]",
-        "何[なに]ひとつとしてピンとこなくて",
-        "飛行機[ひこうき]の窓[まど]から見下[みお]ろした",
-        "知[し]らない街[まち]の夜景[やけい]みたいだ",
-        "",
-        "もっと違[ちが]う設定[せってい]で もっと違[ちが]う関係[かんけい]で",
-        "出会[であ]える世界[せかい]線[せん] 選[えら]べたらよかった",
-        "いたって純[じゅん]な心[こころ]で 叶[かな]った恋[こい]を抱[だ]きしめて",
-        "「好[す]きだ」とか無責任[むせきにん]に言[い]えたらいいな",
-        "そう願[ねが]っても虚[むな]しいのさ",
-        "",
-        "グッバイ",
-        "繋[つな]いだ手[て]の向[む]こうにエンドライン",
-        "引[ひ]き伸[の]ばすたびに 疼[うず]きだす未来[みらい]には",
-        "君[きみ]はいない その事実[じじつ]に Cry...",
-        "そりゃ苦[くる]しいよな",
-        "",
-        "グッバイ",
-        "君[きみ]の運命[うんめい]のヒトは僕[ぼく]じゃない",
-        "辛[つら]いけど否[いな]めない でも離[はな]れ難[がた]いのさ",
-        "その髪[かみ]に触[ふ]れただけで 痛[いた]いや いやでも 甘[あま]いな いやいや",
-        "グッバイ",
-        "それじゃ僕[ぼく]にとって君[きみ]は何[なに]?",
-        "答[こた]えは分[わ]からない 分[わ]かりたくもないのさ",
-        "たったひとつ確[たし]かなことがあるとするのならば",
-        "「君[きみ]は綺麗[きれい]だ」",
-        "",
-        "それもこれもロマンスの定[さだ]めなら 悪[わる]くないよな",
-        "永遠[えいえん]も約束[やくそく]もないけれど",
-        "「とても綺麗[きれい]だ」"
+    "SongLyrics": [
+        {
+            "JpnStr": "君[きみ]とのラブストーリー",
+            "EngStr": "My love story with you"
+        },
+        {
+            "JpnStr": "それは予想[よそう]通[どお]り",
+            "EngStr": "It went just as expected"
+        },
+        {
+            "JpnStr": "いざ始[はじ]まればひとり芝居[しばい]だ",
+            "EngStr": "Once it starts, its a one-man show"
+        },
+        {
+            "JpnStr": "ずっとそばにいたって",
+            "EngStr": "Even if I stay by your side"
+        },
+        {
+            "JpnStr": "結局[けっきょく]ただの観客[かんきゃく]だ",
+            "EngStr": "In the end, I'm just a spectator"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "感情[かんじょう]のないアイムソーリー",
+            "EngStr": "An “I'm sorry” without emotion"
+        },
+        {
+            "JpnStr": "それはいつも通[とお]り",
+            "EngStr": "It's the same as always"
+        },
+        {
+            "JpnStr": "慣[な]れてしまえば悪[わる]くはないけど",
+            "EngStr": "It's not so bad once you get used to it"
+        },
+        {
+            "JpnStr": "君[きみ]とのロマンスは人生[じんせい]柄[がら]",
+            "EngStr": "But I've learned that my romance with you"
+        },
+        {
+            "JpnStr": "続[つづ]きはしないことを知[し]った",
+            "EngStr": "I've learned it's not meant to last"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "もっと違[ちが]う設定[せってい]で もっと違[ちが]う関係[かんけい]で",
+            "EngStr": "In a different setting, in a different relationship"
+        },
+        {
+            "JpnStr": "出会[であ]える世界[せかい]線[せん] 選[えら]べたらよかった",
+            "EngStr": "I wish I could have chosen a different world to meet you"
+        },
+        {
+            "JpnStr": "もっと違[ちが]う性格[せいかく]で もっと違[ちが]う価値観[かちかん]で",
+            "EngStr": "I wish I could have chosen a different personality, a different set of values"
+        },
+        {
+            "JpnStr": "愛[あい]を伝[つた]えられたらいいな そう願[ねが]っても無駄[むだ]だから",
+            "EngStr": "I wish I could tell you how much I love you, but since its useless to hope"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "グッバイ",
+            "EngStr": "Goodbye"
+        },
+        {
+            "JpnStr": "君[きみ]の運命[うんめい]のヒトは僕[ぼく]じゃない",
+            "EngStr": "I'm not the one you're meant to be with"
+        },
+        {
+            "JpnStr": "辛[つら]いけど否[いな]めない でも離[はな]れ難[がた]いのさ",
+            "EngStr": "It's hard, I can't deny it, but it's hard to leave"
+        },
+        {
+            "JpnStr": "その髪[かみ]に触[ふ]れただけで 痛[いた]いや いやでも",
+            "EngStr": "Just the touch of your hair hurts, but..."
+        },
+        {
+            "JpnStr": "甘[あま]いな いやいや",
+            "EngStr": "It feels sweet No no"
+        },
+        {
+            "JpnStr": "グッバイ",
+            "EngStr": "Goodbye"
+        },
+        {
+            "JpnStr": "それじゃ僕[ぼく]にとって君[きみ]は何[なに]?",
+            "EngStr": "So then what are you to me?"
+        },
+        {
+            "JpnStr": "答[こた]えは分[わ]からない 分[わ]かりたくもないのさ",
+            "EngStr": "I don't know the answer I don't want to know"
+        },
+        {
+            "JpnStr": "たったひとつ確[たし]かなことがあるとするのならば",
+            "EngStr": "But if there's one thing I know for sure,"
+        },
+        {
+            "JpnStr": "「君[きみ]は綺麗[きれい]だ」",
+            "EngStr": "「You're beautiful」"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "誰[だれ]かが偉[えら]そうに",
+            "EngStr": "Someone is pridefully"
+        },
+        {
+            "JpnStr": "語[かた]る恋愛[れんあい]の論理[ろんり]",
+            "EngStr": "Tells of the logic of love"
+        },
+        {
+            "JpnStr": "何[なに]ひとつとしてピンとこなくて",
+            "EngStr": "Not a single clicked with me"
+        },
+        {
+            "JpnStr": "飛行機[ひこうき]の窓[まど]から見下[みお]ろした",
+            "EngStr": "Its like looking out of the window of a plane"
+        },
+        {
+            "JpnStr": "知[し]らない街[まち]の夜景[やけい]みたいだ",
+            "EngStr": "And seeing the night view of an unfamiliar town"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "もっと違[ちが]う設定[せってい]で もっと違[ちが]う関係[かんけい]で",
+            "EngStr": "In a different setting, in a different relationship"
+        },
+        {
+            "JpnStr": "出会[であ]える世界[せかい]線[せん] 選[えら]べたらよかった",
+            "EngStr": "I wish I could have chosen a different world to meet you"
+        },
+        {
+            "JpnStr": "いたって純[じゅん]な心[こころ]で 叶[かな]った恋[こい]を抱[だ]きしめて",
+            "EngStr": "With a pure heart Embrace the love that came true"
+        },
+        {
+            "JpnStr": "「好[す]きだ」とか無責任[むせきにん]に言[い]えたらいいな",
+            "EngStr": "I wish I could say “I love you” irresponsibly"
+        },
+        {
+            "JpnStr": "そう願[ねが]っても虚[むな]しいのさ",
+            "EngStr": "Even if I wished that, it's all in vain"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "グッバイ",
+            "EngStr": "Goodbye"
+        },
+        {
+            "JpnStr": "繋[つな]いだ手[て]の向[む]こうにエンドライン",
+            "EngStr": "Behind our help hands is the end line"
+        },
+        {
+            "JpnStr": "引[ひ]き伸[の]ばすたびに 疼[うず]きだす未来[みらい]には",
+            "EngStr": "Every time its delayed In the the aching future"
+        },
+        {
+            "JpnStr": "君[きみ]はいない その事実[じじつ]に Cry...",
+            "EngStr": "You aren't there To that truth I cry"
+        },
+        {
+            "JpnStr": "そりゃ苦[くる]しいよな",
+            "EngStr": "it's painful isn't it"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "グッバイ",
+            "EngStr": "Goodbye"
+        },
+        {
+            "JpnStr": "君[きみ]の運命[うんめい]のヒトは僕[ぼく]じゃない",
+            "EngStr": "I'm not the one you're meant to be with"
+        },
+        {
+            "JpnStr": "辛[つら]いけど否[いな]めない でも離[はな]れ難[がた]いのさ",
+            "EngStr": "It's hard, I can't deny it, but it's hard to leave"
+        },
+        {
+            "JpnStr": "その髪[かみ]に触[ふ]れただけで 痛[いた]いや いやでも 甘[あま]いな いやいや",
+            "EngStr": "Just touching your hair hurts, no, but it's sweet, no, no"
+        },
+        {
+            "JpnStr": "グッバイ",
+            "EngStr": "Goodbye"
+        },
+        {
+            "JpnStr": "それじゃ僕[ぼく]にとって君[きみ]は何[なに]?",
+            "EngStr": "So then what are you to me?"
+        },
+        {
+            "JpnStr": "答[こた]えは分[わ]からない 分[わ]かりたくもないのさ",
+            "EngStr": "I don't know the answer I don't want to know"
+        },
+        {
+            "JpnStr": "たったひとつ確[たし]かなことがあるとするのならば",
+            "EngStr": "But if there's one thing I know for sure,"
+        },
+        {
+            "JpnStr": "「君[きみ]は綺麗[きれい]だ」",
+            "EngStr": "「You're beautiful」"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "それもこれもロマンスの定[さだ]めなら 悪[わる]くないよな",
+            "EngStr": "Well, if that's the whole point of romance, then it's not so bad."
+        },
+        {
+            "JpnStr": "永遠[えいえん]も約束[やくそく]もないけれど",
+            "EngStr": "No eternity, no promises."
+        },
+        {
+            "JpnStr": "「とても綺麗[きれい]だ」",
+            "EngStr": "「You're so beautiful」"
+        }
     ],
-    "lyricsEng":[
-        "My love story with you",
-        "It went just as expected",
-        "Once it starts, its a one-man show",
-        "Even if I stay by your side",
-        "In the end, I'm just a spectator",
-        "",
-        "An “I'm sorry” without emotion",
-        "It's the same as always",
-        "It's not so bad once you get used to it",
-        "But I've learned that my romance with you",
-        "I've learned it's not meant to last",
-        "",
-        "In a different setting, in a different relationship",
-        "I wish I could have chosen a different world to meet you",
-        "I wish I could have chosen a different personality, a different set of values",
-        "I wish I could tell you how much I love you, but since its useless to hope",
-        "",
-        "Goodbye",
-        "I'm not the one you're meant to be with",
-        "It's hard, I can't deny it, but it's hard to leave",
-        "Just the touch of your hair hurts, but...",
-        "It feels sweet No no",
-        "Goodbye",
-        "So then what are you to me?",
-        "I don't know the answer I don't want to know",
-        "But if there's one thing I know for sure,",
-        "「You're beautiful」",
-        "",
-        "Someone is pridefully",
-        "Tells of the logic of love",
-        "Not a single clicked with me",
-        "Its like looking out of the window of a plane",
-        "And seeing the night view of an unfamiliar town",
-        "",
-        "In a different setting, in a different relationship",
-        "I wish I could have chosen a different world to meet you",
-        "With a pure heart Embrace the love that came true",
-        "I wish I could say “I love you” irresponsibly",
-        "Even if I wished that, it's all in vain",
-        "",
-        "Goodbye",
-        "Behind our help hands is the end line",
-        "Every time its delayed In the the aching future",
-        "You aren't there To that truth I cry",
-        "it's painful isn't it",
-        "",
-        "Goodbye",
-        "I'm not the one you're meant to be with",
-        "It's hard, I can't deny it, but it's hard to leave",
-        "Just touching your hair hurts, no, but it's sweet, no, no",
-        "Goodbye",
-        "So then what are you to me?",
-        "I don't know the answer I don't want to know",
-        "But if there's one thing I know for sure,",
-        "「You're beautiful」",
-        "",
-        "Well, if that's the whole point of romance, then it's not so bad.",
-        "No eternity, no promises.",
-        "「You're so beautiful」"
+    "LyricsJpn": [],
+    "LyricsEng": [],
+    "KanjiList": [
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "君",
+            "Jpn": "きみ",
+            "Eng": "You"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "予想通り",
+            "Jpn": "よそうどおり",
+            "Eng": "Predictably"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "始まる",
+            "Jpn": "はじまる",
+            "Eng": "To start/begin"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "芝居",
+            "Jpn": "しばい",
+            "Eng": "Play/Drama"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "結局",
+            "Jpn": " けっきょく ",
+            "Eng": "Eventaully/Ultimately"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "観客",
+            "Jpn": "かんきゃく",
+            "Eng": "Audience/Spectator"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "感情",
+            "Jpn": "かんじょう",
+            "Eng": "Emotion/Feelings"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": " いつも通り ",
+            "Jpn": "いつもどおり",
+            "Eng": "As always/usual"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "慣れる",
+            "Jpn": "なれる",
+            "Eng": "To get used to"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "悪い",
+            "Jpn": "わるい",
+            "Eng": "Bad/Poor"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "人",
+            "Jpn": "ひと",
+            "Eng": "Person"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "続き",
+            "Jpn": "つづき",
+            "Eng": "Continuation/sequel"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "知る",
+            "Jpn": "しる",
+            "Eng": "To know"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "違う",
+            "Jpn": "ちがう",
+            "Eng": "To differ/vary"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "設定",
+            "Jpn": "せってい",
+            "Eng": "Scene"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "関係",
+            "Jpn": "かんけい",
+            "Eng": "Relationship"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "世界線",
+            "Jpn": "せかいせん",
+            "Eng": "World line"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "性格",
+            "Jpn": " せいかく ",
+            "Eng": "Character/Personality"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "愛",
+            "Jpn": "あい",
+            "Eng": "Love"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "伝える",
+            "Jpn": "つたえる",
+            "Eng": "To convey"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "願う",
+            "Jpn": "ねがう",
+            "Eng": "To wish/hope"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "無駄",
+            "Jpn": "むだ",
+            "Eng": "Uselessness"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "運命",
+            "Jpn": " うんめい ",
+            "Eng": "Destiny/Fate"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "僕",
+            "Jpn": "ぼく",
+            "Eng": "I/me"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "辛い",
+            "Jpn": "つらい",
+            "Eng": "Painful/Bitter"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "否めない",
+            "Jpn": "いなめない",
+            "Eng": "Undeniable"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "離れ",
+            "Jpn": "はなれ",
+            "Eng": "Detached building"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "難い",
+            "Jpn": "かたい",
+            "Eng": "Difficult/Hard"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "髪",
+            "Jpn": "かみ",
+            "Eng": "Hair (head)"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "触れる",
+            "Jpn": "ふれる",
+            "Eng": "To touch/feel"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "痛い",
+            "Jpn": "いたい",
+            "Eng": "Painful/Sore"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "甘い",
+            "Jpn": "あまい",
+            "Eng": "Sweet"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "何",
+            "Jpn": "なに",
+            "Eng": "What"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "答え",
+            "Jpn": "こたえ",
+            "Eng": "Answer"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "分かる",
+            "Jpn": "わかる",
+            "Eng": "To understand"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "確か",
+            "Jpn": "たしか",
+            "Eng": "Sure/Certain"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "綺麗",
+            "Jpn": "きれい",
+            "Eng": "Beautiful"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "誰か",
+            "Jpn": "だれか",
+            "Eng": "Someone/Somebody"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "偉そう",
+            "Jpn": "えらそう",
+            "Eng": "Prideful"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "語る",
+            "Jpn": "かたる",
+            "Eng": "To talk about"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "恋愛",
+            "Jpn": "れんあい",
+            "Eng": "Love"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "論理",
+            "Jpn": "ろんり",
+            "Eng": "Logic"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "何一つ",
+            "Jpn": " なにひとつ",
+            "Eng": "Not one"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "飛行機",
+            "Jpn": "ひこうき",
+            "Eng": "Aeroplane"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "窓",
+            "Jpn": "まど",
+            "Eng": "Window"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "純",
+            "Jpn": "じゅん",
+            "Eng": "Inoocent/Naive"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "心",
+            "Jpn": "こころ",
+            "Eng": "Heart"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "叶う",
+            "Jpn": "かなう",
+            "Eng": "To come true"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "恋",
+            "Jpn": "こい",
+            "Eng": "Romantic Love"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "抱きしめる",
+            "Jpn": "だきしめる",
+            "Eng": "To hug/embrace"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "好き",
+            "Jpn": "すき",
+            "Eng": "Like"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "無責任",
+            "Jpn": "むせきにん",
+            "Eng": "Irresponsibility"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "言える",
+            "Jpn": "いえる",
+            "Eng": "To be able to say"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "虚しい",
+            "Jpn": "むなしい",
+            "Eng": "Empty/Void"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "繋ぐ",
+            "Jpn": "つなぐ",
+            "Eng": "To Link"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "手",
+            "Jpn": "て",
+            "Eng": "Hand"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "向こう",
+            "Jpn": "むこう",
+            "Eng": "Opposite side"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "引き延ばす",
+            "Jpn": "ひきのばす",
+            "Eng": "To stretch/enlarge"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "疼く",
+            "Jpn": "うずく",
+            "Eng": "To ache"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "未来",
+            "Jpn": "みらい",
+            "Eng": "Future"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "事実",
+            "Jpn": "じじつ",
+            "Eng": "Fact/Reality"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "苦しい",
+            "Jpn": "くるしい",
+            "Eng": "Painful/Difficult"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "定め",
+            "Jpn": "さだめ",
+            "Eng": "Law/Rule"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "永遠",
+            "Jpn": "えいえん",
+            "Eng": "Eternity"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "約束",
+            "Jpn": "やくそく",
+            "Eng": "Promise/agreement"
+        }
     ],
-    "kanjiList" : [
-        {"chap": "0", "eng": "You", "kanji": "君", "jpn": "きみ"},
-        {"chap": "0", "eng": "Predictably", "kanji": "予想通り", "jpn": "よそうどおり"},
-        {"chap": "0", "eng": "To start/begin", "kanji": "始まる", "jpn": "はじまる"},
-        {"chap": "0", "eng": "Play/Drama", "kanji": "芝居", "jpn": "しばい"},
-        {"chap": "0", "eng": "Eventaully/Ultimately", "kanji": "結局", "jpn": " けっきょく "},
-        {"chap": "0", "eng": "Audience/Spectator", "kanji": "観客", "jpn": "かんきゃく"},
-        {"chap": "0", "eng": "Emotion/Feelings", "kanji": "感情", "jpn": "かんじょう"},
-        {"chap": "0", "eng": "As always/usual", "kanji": " いつも通り ", "jpn": "いつもどおり"},
-        {"chap": "0", "eng": "To get used to", "kanji": "慣れる", "jpn": "なれる"},
-        {"chap": "0", "eng": "Bad/Poor", "kanji": "悪い", "jpn": "わるい"},
-        {"chap": "0", "eng": "Person", "kanji": "人", "jpn": "ひと"},
-        {"chap": "0", "eng": "Continuation/sequel", "kanji": "続き", "jpn": "つづき"},
-        {"chap": "0", "eng": "To know", "kanji": "知る", "jpn": "しる"},
-        {"chap": "0", "eng": "To differ/vary", "kanji": "違う", "jpn": "ちがう"},
-        {"chap": "0", "eng": "Scene", "kanji": "設定", "jpn": "せってい"},
-        {"chap": "0", "eng": "Relationship", "kanji": "関係", "jpn": "かんけい"},
-        {"chap": "0", "eng": "World line", "kanji": "世界線", "jpn": "せかいせん"},
-        {"chap": "0", "eng": "Character/Personality", "kanji": "性格", "jpn": " せいかく "},
-        {"chap": "0", "eng": "Love", "kanji": "愛", "jpn": "あい"},
-        {"chap": "0", "eng": "To convey", "kanji": "伝える", "jpn": "つたえる"},
-        {"chap": "0", "eng": "To wish/hope", "kanji": "願う", "jpn": "ねがう"},
-        {"chap": "0", "eng": "Uselessness", "kanji": "無駄", "jpn": "むだ"},
-        {"chap": "0", "eng": "Destiny/Fate", "kanji": "運命", "jpn": " うんめい "},
-        {"chap": "0", "eng": "I/me", "kanji": "僕", "jpn": "ぼく"},
-        {"chap": "0", "eng": "Painful/Bitter", "kanji": "辛い", "jpn": "つらい"},
-        {"chap": "0", "eng": "Undeniable", "kanji": "否めない", "jpn": "いなめない"},
-        {"chap": "0", "eng": "Detached building", "kanji": "離れ", "jpn": "はなれ"},
-        {"chap": "0", "eng": "Difficult/Hard", "kanji": "難い", "jpn": "かたい"},
-        {"chap": "0", "eng": "Hair (head)", "kanji": "髪", "jpn": "かみ"},
-        {"chap": "0", "eng": "To touch/feel", "kanji": "触れる", "jpn": "ふれる"},
-        {"chap": "0", "eng": "Painful/Sore", "kanji": "痛い", "jpn": "いたい"},
-        {"chap": "0", "eng": "Sweet", "kanji": "甘い", "jpn": "あまい"},
-        {"chap": "0", "eng": "What", "kanji": "何", "jpn": "なに"},
-        {"chap": "0", "eng": "Answer", "kanji": "答え", "jpn": "こたえ"},
-        {"chap": "0", "eng": "To understand", "kanji": "分かる", "jpn": "わかる"},
-        {"chap": "0", "eng": "Sure/Certain", "kanji": "確か", "jpn": "たしか"},
-        {"chap": "0", "eng": "Beautiful", "kanji": "綺麗", "jpn": "きれい"},
-        {"chap": "0", "eng": "Someone/Somebody", "kanji": "誰か", "jpn": "だれか"},
-        {"chap": "0", "eng": "Prideful", "kanji": "偉そう", "jpn": "えらそう"},
-        {"chap": "0", "eng": "To talk about", "kanji": "語る", "jpn": "かたる"},
-        {"chap": "0", "eng": "Love", "kanji": "恋愛", "jpn": "れんあい"},
-        {"chap": "0", "eng": "Logic", "kanji": "論理", "jpn": "ろんり"},
-        {"chap": "0", "eng": "Not one", "kanji": "何一つ", "jpn": " なにひとつ"},
-        {"chap": "0", "eng": "Aeroplane", "kanji": "飛行機", "jpn": "ひこうき"},
-        {"chap": "0", "eng": "Window", "kanji": "窓", "jpn": "まど"},
-        {"chap": "0", "eng": "Inoocent/Naive", "kanji": "純", "jpn": "じゅん"},
-        {"chap": "0", "eng": "Heart", "kanji": "心", "jpn": "こころ"},
-        {"chap": "0", "eng": "To come true", "kanji": "叶う", "jpn": "かなう"},
-        {"chap": "0", "eng": "Romantic Love", "kanji": "恋", "jpn": "こい"},
-        {"chap": "0", "eng": "To hug/embrace", "kanji": "抱きしめる", "jpn": "だきしめる"},
-        {"chap": "0", "eng": "Like", "kanji": "好き", "jpn": "すき"},
-        {"chap": "0", "eng": "Irresponsibility", "kanji": "無責任", "jpn": "むせきにん"},
-        {"chap": "0", "eng": "To be able to say", "kanji": "言える", "jpn": "いえる"},
-        {"chap": "0", "eng": "Empty/Void", "kanji": "虚しい", "jpn": "むなしい"},
-        {"chap": "0", "eng": "To Link", "kanji": "繋ぐ", "jpn": "つなぐ"},
-        {"chap": "0", "eng": "Hand", "kanji": "手", "jpn": "て"},
-        {"chap": "0", "eng": "Opposite side", "kanji": "向こう", "jpn": "むこう"},
-        {"chap": "0", "eng": "To stretch/enlarge", "kanji": "引き延ばす", "jpn": "ひきのばす"},
-        {"chap": "0", "eng": "To ache", "kanji": "疼く", "jpn": "うずく"},
-        {"chap": "0", "eng": "Future", "kanji": "未来", "jpn": "みらい"},
-        {"chap": "0", "eng": "Fact/Reality", "kanji": "事実", "jpn": "じじつ"},
-        {"chap": "0", "eng": "Painful/Difficult", "kanji": "苦しい", "jpn": "くるしい"},
-        {"chap": "0", "eng": "Law/Rule", "kanji": "定め", "jpn": "さだめ"},
-        {"chap": "0", "eng": "Eternity", "kanji": "永遠", "jpn": "えいえん"},
-        {"chap": "0", "eng": "Promise/agreement", "kanji": "約束", "jpn": "やくそく"}
-    ]
+    "FuriLyricsJpn": null
 }

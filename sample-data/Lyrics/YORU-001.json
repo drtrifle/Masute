@@ -1,147 +1,702 @@
 {
-    "lyricsJpn" : [
-        "靴紐[くつひも]が解[ほど]けてる 木漏[こも]れ日[び]は足[あし]を舐[な]む",
-        "息[いき]を吸[す]う音[おと]だけ聞[き]こえてる",
-        "貴方[あなた]は今[いま]立[た]ち上[あ]がる 古[ふる]びた椅子[いす]の上[うえ]から",
-        "柔[やわ]らかい麻[あさ]の匂[にお]いがする",
-        "",
-        "遥[はる]か遠[とお]くへ まだ遠[とお]くへ",
-        "僕[ぼく]らは身体[からだ]も脱[ぬ]ぎ去[さ]って",
-        "まだ遠[とお]くへ 雲[くも]も越[こ]えてまだ向[む]こうへ",
-        "風[かぜ]に乗[の]って",
-        "僕[ぼく]の想像力[そうぞうりょく]という重力[じゅうりょく]の向[む]こうへ",
-        "まだ遠[とお]くへ まだ遠[とお]くへ",
-        "海[うみ]の方[ほう]へ",
-        "",
-        "靴紐[くつひも]が解[ほど]けてる 蛇[へび]みたいに跳[は]ね遊[あそ]ぶ",
-        "貴方[あなた]の靴[くつ]が気[き]になる",
-        "僕[ぼく]らは今[いま]歩[ある]き出[だす] 潮風[しおかぜ]は肌[はだ]を舐[な]む",
-        "手[て]を引[ひ]かれるままの道[みち]",
-        "",
-        "さぁまだ遠[とお]くへ まだ遠[とお]くへ",
-        "僕[ぼく]らはただの風[かぜ]になって",
-        "まだ遠[とお]くへ 雲[くも]も越[こ]えてまだ向[む]こうへ",
-        "風[かぜ]に乗[の]って 僕[ぼく]ら想像力[そうぞうりょく]という縛[しば]りを抜[ぬ]け出[だ]して",
-        "まだ遠[とお]くへ まだ遠[とお]くへ 海[うみ]の方[ほう]へ",
-        "",
-        "靴紐[くつひも]が解[ほど]けてる 僕[ぼく]はついにしゃがみ込[こ]む",
-        "鳥[とり]の鳴[な]く声[こえ]だけ聞[き]こえてる",
-        "肩[かた]をそっと叩[たた]かれてようやく僕[ぼく]は気[き]が付[つ]く",
-        "海[うみ]がもう目[め]の先[さき]にある",
-        "",
-        "あぁまだ遠[とお]くへ まだ遠[とお]くへ",
-        "僕[ぼく]らは心[こころ]だけになって",
-        "まだ遠[とお]くへ 海[うみ]も越[こ]えてまだ向[む]こうへ",
-        "風[かぜ]に乗[の]って 僕[ぼく]の想像力[そうぞうりょく]という重力[じゅうりょく]の向[む]こうへ",
-        "まだ遠[とお]くへ まだ遠[とお]くへ",
-        "海[うみ]の方[ほう]へ",
-        "",
-        "僕[ぼく]らは今[いま]靴[くつ]を脱[ぬ]ぐ さざなみは足[あし]を舐[な]む",
-        "貴方[あなた]の眼[め]は遠[とお]くを見[み]る",
-        "ライオンが戯[たわむ]れるアフリカの砂浜[すなはま]は",
-        "海[うみ]のずっと向[む]こうにある"
+    "SongLyrics": [
+        {
+            "JpnStr": "靴紐[くつひも]が解[ほど]けてる 木漏[こも]れ日[び]は足[あし]を舐[な]む",
+            "EngStr": "My shoelaces are undone, the sunbeams filter through the trees"
+        },
+        {
+            "JpnStr": "息[いき]を吸[す]う音[おと]だけ聞[き]こえてる",
+            "EngStr": "The sound of my breath is the only thing that I hear"
+        },
+        {
+            "JpnStr": "貴方[あなた]は今[いま]立[た]ち上[あ]がる 古[ふる]びた椅子[いす]の上[うえ]から",
+            "EngStr": "You stand up from that creaky old chair"
+        },
+        {
+            "JpnStr": "柔[やわ]らかい麻[あさ]の匂[にお]いがする",
+            "EngStr": "The gentle smell of hemp tickles my nose"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "遥[はる]か遠[とお]くへ まだ遠[とお]くへ",
+            "EngStr": "Into the horizon, and the great beyond"
+        },
+        {
+            "JpnStr": "僕[ぼく]らは身体[からだ]も脱[ぬ]ぎ去[さ]って",
+            "EngStr": "We take off and leave our bodies behind"
+        },
+        {
+            "JpnStr": "まだ遠[とお]くへ 雲[くも]も越[こ]えてまだ向[む]こうへ",
+            "EngStr": "Even further, to a place higher than the clouds"
+        },
+        {
+            "JpnStr": "風[かぜ]に乗[の]って",
+            "EngStr": "We ride the wind to places that defy even our imagination"
+        },
+        {
+            "JpnStr": "僕[ぼく]の想像力[そうぞうりょく]という重力[じゅうりょく]の向[む]こうへ",
+            "EngStr": "Flying ever"
+        },
+        {
+            "JpnStr": "まだ遠[とお]くへ まだ遠[とお]くへ",
+            "EngStr": "Further away"
+        },
+        {
+            "JpnStr": "海[うみ]の方[ほう]へ",
+            "EngStr": "Ever towards the sea"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "靴紐[くつひも]が解[ほど]けてる 蛇[へび]みたいに跳[は]ね遊[あそ]ぶ",
+            "EngStr": "My shoelaces are undone, like snakes they bound around and play"
+        },
+        {
+            "JpnStr": "貴方[あなた]の靴[くつ]が気[き]になる",
+            "EngStr": "I wonder if your shoes are undone too"
+        },
+        {
+            "JpnStr": "僕[ぼく]らは今[いま]歩[ある]き出[だす] 潮風[しおかぜ]は肌[はだ]を舐[な]む",
+            "EngStr": "The sea breeze licks our skin, as we walk along"
+        },
+        {
+            "JpnStr": "手[て]を引[ひ]かれるままの道[みち]",
+            "EngStr": "The path your hands lead me down"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "さぁまだ遠[とお]くへ まだ遠[とお]くへ",
+            "EngStr": "Into the horizon, and the great beyond"
+        },
+        {
+            "JpnStr": "僕[ぼく]らはただの風[かぜ]になって",
+            "EngStr": "We become the wind and fly"
+        },
+        {
+            "JpnStr": "まだ遠[とお]くへ 雲[くも]も越[こ]えてまだ向[む]こうへ",
+            "EngStr": "Even further, to a place higher than the clouds"
+        },
+        {
+            "JpnStr": "風[かぜ]に乗[の]って 僕[ぼく]ら想像力[そうぞうりょく]という縛[しば]りを抜[ぬ]け出[だ]して",
+            "EngStr": "We ride the wind, slipping from the shackles of our imagination"
+        },
+        {
+            "JpnStr": "まだ遠[とお]くへ まだ遠[とお]くへ 海[うみ]の方[ほう]へ",
+            "EngStr": "Flying ever further away, ever towards the sea"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "靴紐[くつひも]が解[ほど]けてる 僕[ぼく]はついにしゃがみ込[こ]む",
+            "EngStr": "My shoelaces are undone, and I finally crouch down to tie them up"
+        },
+        {
+            "JpnStr": "鳥[とり]の鳴[な]く声[こえ]だけ聞[き]こえてる",
+            "EngStr": "The chirping of birds is the only thing that I hear"
+        },
+        {
+            "JpnStr": "肩[かた]をそっと叩[たた]かれてようやく僕[ぼく]は気[き]が付[つ]く",
+            "EngStr": "You pat my shoulder"
+        },
+        {
+            "JpnStr": "海[うみ]がもう目[め]の先[さき]にある",
+            "EngStr": "And as I lift my head the sea comes into view"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "あぁまだ遠[とお]くへ まだ遠[とお]くへ",
+            "EngStr": "Into the horizon, and the great beyond"
+        },
+        {
+            "JpnStr": "僕[ぼく]らは心[こころ]だけになって",
+            "EngStr": "We leave our bodies and become spirits"
+        },
+        {
+            "JpnStr": "まだ遠[とお]くへ 海[うみ]も越[こ]えてまだ向[む]こうへ",
+            "EngStr": "Even further, to a place higher than the clouds"
+        },
+        {
+            "JpnStr": "風[かぜ]に乗[の]って 僕[ぼく]の想像力[そうぞうりょく]という重力[じゅうりょく]の向[む]こうへ",
+            "EngStr": "We ride the wind to places that defy even our imagination"
+        },
+        {
+            "JpnStr": "まだ遠[とお]くへ まだ遠[とお]くへ",
+            "EngStr": "Flying ever further away"
+        },
+        {
+            "JpnStr": "海[うみ]の方[ほう]へ",
+            "EngStr": "Ever toward the sea"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "僕[ぼく]らは今[いま]靴[くつ]を脱[ぬ]ぐ さざなみは足[あし]を舐[な]む",
+            "EngStr": "We take off our shoes, and the ripples tickle our feet"
+        },
+        {
+            "JpnStr": "貴方[あなた]の眼[め]は遠[とお]くを見[み]る",
+            "EngStr": "Your eyes look into the distance"
+        },
+        {
+            "JpnStr": "ライオンが戯[たわむ]れるアフリカの砂浜[すなはま]は",
+            "EngStr": "On this African beach, we lions play"
+        },
+        {
+            "JpnStr": "海[うみ]のずっと向[む]こうにある",
+            "EngStr": "The sea reaching out into the great beyond"
+        }
     ],
-    "lyricsEng":[
-        "My shoelaces are undone, the sunbeams filter through the trees",
-        "The sound of my breath is the only thing that I hear",
-        "You stand up from that creaky old chair",
-        "The gentle smell of hemp tickles my nose",
-        "",
-        "Into the horizon, and the great beyond",
-        "We take off and leave our bodies behind",
-        "Even further, to a place higher than the clouds",
-        "We ride the wind to places that defy even our imagination",
-        "Flying ever",
-        "Further away",
-        "Ever towards the sea",
-        "",
-        "My shoelaces are undone, like snakes they bound around and play",
-        "I wonder if your shoes are undone too",
-        "The sea breeze licks our skin, as we walk along",
-        "The path your hands lead me down",
-        "",
-        "Into the horizon, and the great beyond",
-        "We become the wind and fly",
-        "Even further, to a place higher than the clouds",
-        "We ride the wind, slipping from the shackles of our imagination",
-        "Flying ever further away, ever towards the sea",
-        "",
-        "My shoelaces are undone, and I finally crouch down to tie them up",
-        "The chirping of birds is the only thing that I hear",
-        "You pat my shoulder",
-        "And as I lift my head the sea comes into view",
-        "",
-        "Into the horizon, and the great beyond",
-        "We leave our bodies and become spirits",
-        "Even further, to a place higher than the clouds",
-        "We ride the wind to places that defy even our imagination",
-        "Flying ever further away",
-        "Ever toward the sea",
-        "",
-        "We take off our shoes, and the ripples tickle our feet",
-        "Your eyes look into the distance",
-        "On this African beach, we lions play",
-        "The sea reaching out into the great beyond"
+    "LyricsJpn": [
     ],
-    "kanjiList" : [
-        {"chap": "0", "eng": "Shoelace", "kanji": "靴紐", "jpn": "くつひも"},
-        {"chap": "0", "eng": "To loosen up", "kanji": "解ける", "jpn": "ほどける"},
-        {"chap": "0", "eng": "Sunlight filtering through trees", "kanji": "木漏れ日", "jpn": "こもれび"},
-        {"chap": "0", "eng": "Foot/Leg", "kanji": "足", "jpn": "あし"},
-        {"chap": "0", "eng": "To lick", "kanji": "舐む", "jpn": "なむ"},
-        {"chap": "0", "eng": "Breath", "kanji": "息", "jpn": "いき"},
-        {"chap": "0", "eng": "To smoke/inhale", "kanji": "吸う", "jpn": "すう"},
-        {"chap": "0", "eng": "Sound", "kanji": "音", "jpn": "おと"},
-        {"chap": "0", "eng": "To be audible", "kanji": "聞こえる", "jpn": "きこえる"},
-        {"chap": "0", "eng": "You", "kanji": "貴方", "jpn": "あなた"},
-        {"chap": "0", "eng": "Now", "kanji": "今", "jpn": "いま"},
-        {"chap": "0", "eng": "To stand up", "kanji": "立ち上がる", "jpn": "たちあがる"},
-        {"chap": "0", "eng": "To get old", "kanji": "古びる", "jpn": "ふるびる"},
-        {"chap": "0", "eng": "Chair", "kanji": "椅子", "jpn": "いす"},
-        {"chap": "0", "eng": "Up", "kanji": "上", "jpn": "うえ"},
-        {"chap": "0", "eng": "Soft/Tender", "kanji": "柔らかい", "jpn": "やわらかい"},
-        {"chap": "0", "eng": "Cannabis/Hemp", "kanji": "麻", "jpn": "あさ"},
-        {"chap": "0", "eng": "Odour", "kanji": "匂い", "jpn": "におい"},
-        {"chap": "0", "eng": "Far away in the distance", "kanji": "遥か遠く", "jpn": "はるかとおく"},
-        {"chap": "0", "eng": "Distant place", "kanji": "遠く", "jpn": "とおく"},
-        {"chap": "0", "eng": "I/me", "kanji": "僕", "jpn": "ぼく"},
-        {"chap": "0", "eng": "Body", "kanji": "身体", "jpn": "からだ"},
-        {"chap": "0", "eng": "To undress", "kanji": "脱ぐ", "jpn": "ぬぐ"},
-        {"chap": "0", "eng": "To leave", "kanji": "去る", "jpn": "さる"},
-        {"chap": "0", "eng": "Cloud", "kanji": "雲", "jpn": "くも"},
-        {"chap": "0", "eng": "To cross over", "kanji": "越える", "jpn": "こえる"},
-        {"chap": "0", "eng": "Opposite side", "kanji": "向こう", "jpn": "むこう"},
-        {"chap": "0", "eng": "Wind", "kanji": "風", "jpn": "かぜ"},
-        {"chap": "0", "eng": "To board", "kanji": "乗る", "jpn": "のる"},
-        {"chap": "0", "eng": "Imagination", "kanji": "想像力", "jpn": "そうぞうりょく"},
-        {"chap": "0", "eng": "Gravity", "kanji": "重力", "jpn": "じゅうりょく"},
-        {"chap": "0", "eng": "Sea", "kanji": "海", "jpn": "うみ"},
-        {"chap": "0", "eng": "Direction", "kanji": "方", "jpn": "ほう"},
-        {"chap": "0", "eng": "Snake", "kanji": "蛇", "jpn": "へび"},
-        {"chap": "0", "eng": "Jump", "kanji": "跳ね", "jpn": "はね"},
-        {"chap": "0", "eng": "To play", "kanji": "遊ぶ", "jpn": "あそぶ"},
-        {"chap": "0", "eng": "Spirit", "kanji": "気", "jpn": "き"},
-        {"chap": "0", "eng": "Walk", "kanji": "歩き", "jpn": "あるき"},
-        {"chap": "0", "eng": "Exit", "kanji": "出", "jpn": "だす"},
-        {"chap": "0", "eng": "Salty sea breeze", "kanji": "潮風", "jpn": "しおかぜ"},
-        {"chap": "0", "eng": "Skin", "kanji": "肌", "jpn": "はだ"},
-        {"chap": "0", "eng": "Hand", "kanji": "手", "jpn": "て"},
-        {"chap": "0", "eng": "To be drawn to", "kanji": "引かれる", "jpn": "ひかれる"},
-        {"chap": "0", "eng": "Road", "kanji": "道", "jpn": "みち"},
-        {"chap": "0", "eng": "Binding/limit", "kanji": "縛り", "jpn": "しばり"},
-        {"chap": "0", "eng": "To break free", "kanji": "抜け出す", "jpn": "ねけだす"},
-        {"chap": "0", "eng": "To crouch down", "kanji": "しゃがみ込む", "jpn": "しゃがみこむ"},
-        {"chap": "0", "eng": "Bird", "kanji": "鳥", "jpn": "とり"},
-        {"chap": "0", "eng": "To call out (animal)", "kanji": "鳴く", "jpn": "なく"},
-        {"chap": "0", "eng": "Voice", "kanji": "声", "jpn": "こえ"},
-        {"chap": "0", "eng": "To be heard", "kanji": "聞こえてる", "jpn": "きこえてる"},
-        {"chap": "0", "eng": "Shoulder", "kanji": "肩", "jpn": "かた"},
-        {"chap": "0", "eng": "To hit/strike", "kanji": "叩く", "jpn": "たたく"},
-        {"chap": "0", "eng": "To notice", "kanji": "気がつく", "jpn": "きがつく"},
-        {"chap": "0", "eng": "Eye", "kanji": "目", "jpn": "め"},
-        {"chap": "0", "eng": "Tip/Front/Ahead", "kanji": "先", "jpn": "さき"},
-        {"chap": "0", "eng": "Heart", "kanji": "心", "jpn": "こころ"},
-        {"chap": "0", "eng": "To frolic", "kanji": "戯れる", "jpn": "たわむれる"},
-        {"chap": "0", "eng": "Sandy beach", "kanji": "砂浜", "jpn": "すなはま"}    
-    ]
+    "LyricsEng": [
+    ],
+    "KanjiList": [
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "靴紐",
+            "Jpn": "くつひも",
+            "Eng": "Shoelace"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "解ける",
+            "Jpn": "ほどける",
+            "Eng": "To loosen up"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "木漏れ日",
+            "Jpn": "こもれび",
+            "Eng": "Sunlight filtering through trees"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "足",
+            "Jpn": "あし",
+            "Eng": "Foot/Leg"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "舐む",
+            "Jpn": "なむ",
+            "Eng": "To lick"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "息",
+            "Jpn": "いき",
+            "Eng": "Breath"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "吸う",
+            "Jpn": "すう",
+            "Eng": "To smoke/inhale"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "音",
+            "Jpn": "おと",
+            "Eng": "Sound"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "聞こえる",
+            "Jpn": "きこえる",
+            "Eng": "To be audible"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "貴方",
+            "Jpn": "あなた",
+            "Eng": "You"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "今",
+            "Jpn": "いま",
+            "Eng": "Now"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "立ち上がる",
+            "Jpn": "たちあがる",
+            "Eng": "To stand up"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "古びる",
+            "Jpn": "ふるびる",
+            "Eng": "To get old"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "椅子",
+            "Jpn": "いす",
+            "Eng": "Chair"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "上",
+            "Jpn": "うえ",
+            "Eng": "Up"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "柔らかい",
+            "Jpn": "やわらかい",
+            "Eng": "Soft/Tender"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "麻",
+            "Jpn": "あさ",
+            "Eng": "Cannabis/Hemp"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "匂い",
+            "Jpn": "におい",
+            "Eng": "Odour"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "遥か遠く",
+            "Jpn": "はるかとおく",
+            "Eng": "Far away in the distance"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "遠く",
+            "Jpn": "とおく",
+            "Eng": "Distant place"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "僕",
+            "Jpn": "ぼく",
+            "Eng": "I/me"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "身体",
+            "Jpn": "からだ",
+            "Eng": "Body"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "脱ぐ",
+            "Jpn": "ぬぐ",
+            "Eng": "To undress"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "去る",
+            "Jpn": "さる",
+            "Eng": "To leave"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "雲",
+            "Jpn": "くも",
+            "Eng": "Cloud"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "越える",
+            "Jpn": "こえる",
+            "Eng": "To cross over"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "向こう",
+            "Jpn": "むこう",
+            "Eng": "Opposite side"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "風",
+            "Jpn": "かぜ",
+            "Eng": "Wind"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "乗る",
+            "Jpn": "のる",
+            "Eng": "To board"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "想像力",
+            "Jpn": "そうぞうりょく",
+            "Eng": "Imagination"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "重力",
+            "Jpn": "じゅうりょく",
+            "Eng": "Gravity"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "海",
+            "Jpn": "うみ",
+            "Eng": "Sea"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "方",
+            "Jpn": "ほう",
+            "Eng": "Direction"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "蛇",
+            "Jpn": "へび",
+            "Eng": "Snake"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "跳ね",
+            "Jpn": "はね",
+            "Eng": "Jump"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "遊ぶ",
+            "Jpn": "あそぶ",
+            "Eng": "To play"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "気",
+            "Jpn": "き",
+            "Eng": "Spirit"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "歩き",
+            "Jpn": "あるき",
+            "Eng": "Walk"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "出",
+            "Jpn": "だす",
+            "Eng": "Exit"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "潮風",
+            "Jpn": "しおかぜ",
+            "Eng": "Salty sea breeze"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "肌",
+            "Jpn": "はだ",
+            "Eng": "Skin"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "手",
+            "Jpn": "て",
+            "Eng": "Hand"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "引かれる",
+            "Jpn": "ひかれる",
+            "Eng": "To be drawn to"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "道",
+            "Jpn": "みち",
+            "Eng": "Road"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "縛り",
+            "Jpn": "しばり",
+            "Eng": "Binding/limit"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "抜け出す",
+            "Jpn": "ねけだす",
+            "Eng": "To break free"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "しゃがみ込む",
+            "Jpn": "しゃがみこむ",
+            "Eng": "To crouch down"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "鳥",
+            "Jpn": "とり",
+            "Eng": "Bird"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "鳴く",
+            "Jpn": "なく",
+            "Eng": "To call out (animal)"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "声",
+            "Jpn": "こえ",
+            "Eng": "Voice"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "聞こえてる",
+            "Jpn": "きこえてる",
+            "Eng": "To be heard"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "肩",
+            "Jpn": "かた",
+            "Eng": "Shoulder"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "叩く",
+            "Jpn": "たたく",
+            "Eng": "To hit/strike"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "気がつく",
+            "Jpn": "きがつく",
+            "Eng": "To notice"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "目",
+            "Jpn": "め",
+            "Eng": "Eye"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "先",
+            "Jpn": "さき",
+            "Eng": "Tip/Front/Ahead"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "心",
+            "Jpn": "こころ",
+            "Eng": "Heart"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "戯れる",
+            "Jpn": "たわむれる",
+            "Eng": "To frolic"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "砂浜",
+            "Jpn": "すなはま",
+            "Eng": "Sandy beach"
+        }
+    ],
+    "FuriLyricsJpn": null
 }

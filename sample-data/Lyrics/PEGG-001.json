@@ -1,102 +1,196 @@
 {
-    "lyricsJpn" : [
-        "ああ!僕[ぼく]はこんなダメじゃなかったはずなのに",
-        "くだらない持論[じろん]は勿論[もちろん]",
-        "君[きみ]の前[まえ]じゃ通用[つうよ]うしないよ",
-        "昨日[きのう]読[よ]んだ漫画[まんが]の続[つづ]きみたいなストーリーは",
-        "あるわけない!でもね",
-        "いつだって君[きみ]の心[こころ]の中[なか]にいたい、いたい!",
-        "痛[いた]い・・・。痛[いた]い胸[むね]が!",
-        "好[す]き!好[す]き?隙間[すきま]なく君[きみ]で溢[あふ]れている",
-        "僕[ぼく]の心[こころ]はーーーーあ!何処[どこ]だ?",
-        "",
-        "DIVE TO LOVE",
-        "DIVE TO LOVE",
-        "DIVE TO LOVE",
-        "恋[こい]に飛[と]び込[こ]め!",
-        "DIVE TO LOVE",
-        "DIVE TO LOVE",
-        "DIVE TO LOVE",
-        "君[きみ]に夢中[むちゅう]さ",
-        "",
-        "ああ!今日[きょう]もずっと見[み]えない罠[わな] 嵌[はま]ってく",
-        "溢[あふ]れ出[だ]す魅力[みりょく]が暴走[ぼうそう]",
-        "もはや重罪[じゅうざい]判決[はんけつ]レベルさ",
-        "昨日[きのう]読[よ]んだ漫画[まんが]を君[きみ]に返[かえ]さなきゃいけないな",
-        "さぁここからが勝負[しょうぶ]!",
-        "友達[ともだち]ってレッテルを剥[は]がす時[とき]が来[き]た、来[き]た!",
-        "来[き]た?期待[きたい]してる!",
-        "嫌[きら]い!嫌[きら]い?キラキラに輝[かがや]いて眩[まぶ]しい",
-        "君[きみ]の瞳[ひとみ]はーーーーあ!何処[どこ]だ?",
-        "",
-        "DIVE TO LOVE",
-        "DIVE TO LOVE",
-        "DIVE TO LOVE",
-        "準備[じゅんび]はいいか!",
-        "DIVE TO LOVE",
-        "DIVE TO LOVE",
-        "DIVE TO LOVE",
-        "目[め]と目[め]が合[あ]えば・・・",
-        "ああああ",
-        "",
-        "DIVE TO LOVE",
-        "DIVE TO LOVE",
-        "DIVE TO LOVE",
-        "君[きみ]に飛[と]び込[こ]め!",
-        "DIVE TO LOVE",
-        "DIVE TO LOVE",
-        "DIVE TO LOVE",
-        "怖[こわ]くはないさ"  
+    "SongLyrics": [
+        {
+            "JpnStr": "ああ!僕[ぼく]はこんなダメじゃなかったはずなのに",
+            "EngStr": "Oh! I'm not supposed to be this bad."
+        },
+        {
+            "JpnStr": "くだらない持論[じろん]は勿論[もちろん]",
+            "EngStr": "Of course your stupid theories"
+        },
+        {
+            "JpnStr": "君[きみ]の前[まえ]じゃ通用[つうよ]うしないよ",
+            "EngStr": "Of course they won't work in front of you."
+        },
+        {
+            "JpnStr": "昨日[きのう]読[よ]んだ漫画[まんが]の続[つづ]きみたいなストーリーは",
+            "EngStr": "It's like a continuation of a comic book I read yesterday."
+        },
+        {
+            "JpnStr": "あるわけない!でもね",
+            "EngStr": "No way! But you know what?"
+        },
+        {
+            "JpnStr": "いつだって君[きみ]の心[こころ]の中[なか]にいたい、いたい!",
+            "EngStr": "I always want to be in your heart, I always want to be in your heart!"
+        },
+        {
+            "JpnStr": "痛[いた]い・・・。痛[いた]い胸[むね]が!",
+            "EngStr": "It hurts... My aching chest!"
+        },
+        {
+            "JpnStr": "好[す]き!好[す]き?隙間[すきま]なく君[きみ]で溢[あふ]れている",
+            "EngStr": "I love you! Like? It's filled with you without any space."
+        },
+        {
+            "JpnStr": "僕[ぼく]の心[こころ]はーーーーあ!何処[どこ]だ?",
+            "EngStr": "My heart... ah! Where is it?"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "DIVE TO LOVE",
+            "EngStr": "DIVE TO LOVE"
+        },
+        {
+            "JpnStr": "DIVE TO LOVE",
+            "EngStr": "DIVE TO LOVE"
+        },
+        {
+            "JpnStr": "DIVE TO LOVE",
+            "EngStr": "DIVE TO LOVE"
+        },
+        {
+            "JpnStr": "恋[こい]に飛[と]び込[こ]め!",
+            "EngStr": "Dive into love!"
+        },
+        {
+            "JpnStr": "DIVE TO LOVE",
+            "EngStr": "DIVE TO LOVE"
+        },
+        {
+            "JpnStr": "DIVE TO LOVE",
+            "EngStr": "DIVE TO LOVE"
+        },
+        {
+            "JpnStr": "DIVE TO LOVE",
+            "EngStr": "DIVE TO LOVE"
+        },
+        {
+            "JpnStr": "君[きみ]に夢中[むちゅう]さ",
+            "EngStr": "I'm crazy about you"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "ああ!今日[きょう]もずっと見[み]えない罠[わな] 嵌[はま]ってく",
+            "EngStr": "Oh! Today and always, I'll fall into the invisible trap"
+        },
+        {
+            "JpnStr": "溢[あふ]れ出[だ]す魅力[みりょく]が暴走[ぼうそう]",
+            "EngStr": "My overflowing charm is out of control"
+        },
+        {
+            "JpnStr": "もはや重罪[じゅうざい]判決[はんけつ]レベルさ",
+            "EngStr": "I'm on the verge of a felony conviction"
+        },
+        {
+            "JpnStr": "昨日[きのう]読[よ]んだ漫画[まんが]を君[きみ]に返[かえ]さなきゃいけないな",
+            "EngStr": "I'll have to give you back the comic I read yesterday."
+        },
+        {
+            "JpnStr": "さぁここからが勝負[しょうぶ]!",
+            "EngStr": "This is where it all starts!"
+        },
+        {
+            "JpnStr": "友達[ともだち]ってレッテルを剥[は]がす時[とき]が来[き]た、来[き]た!",
+            "EngStr": "It's time to get rid of the 'friend' label, it's time!"
+        },
+        {
+            "JpnStr": "来[き]た?期待[きたい]してる!",
+            "EngStr": "You got it? I'm counting on it!"
+        },
+        {
+            "JpnStr": "嫌[きら]い!嫌[きら]い?キラキラに輝[かがや]いて眩[まぶ]しい",
+            "EngStr": "I hate you! Hate? They're so bright and shiny."
+        },
+        {
+            "JpnStr": "君[きみ]の瞳[ひとみ]はーーーーあ!何処[どこ]だ?",
+            "EngStr": "Your eyes... ah! Where are they?"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "DIVE TO LOVE",
+            "EngStr": "DIVE TO LOVE"
+        },
+        {
+            "JpnStr": "DIVE TO LOVE",
+            "EngStr": "DIVE TO LOVE"
+        },
+        {
+            "JpnStr": "DIVE TO LOVE",
+            "EngStr": "DIVE TO LOVE"
+        },
+        {
+            "JpnStr": "準備[じゅんび]はいいか!",
+            "EngStr": "Are you ready?"
+        },
+        {
+            "JpnStr": "DIVE TO LOVE",
+            "EngStr": "DIVE TO LOVE"
+        },
+        {
+            "JpnStr": "DIVE TO LOVE",
+            "EngStr": "DIVE TO LOVE"
+        },
+        {
+            "JpnStr": "DIVE TO LOVE",
+            "EngStr": "DIVE TO LOVE"
+        },
+        {
+            "JpnStr": "目[め]と目[め]が合[あ]えば・・・",
+            "EngStr": "If we see eye to eye..."
+        },
+        {
+            "JpnStr": "ああああ",
+            "EngStr": "Ahh!"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "DIVE TO LOVE",
+            "EngStr": "DIVE TO LOVE"
+        },
+        {
+            "JpnStr": "DIVE TO LOVE",
+            "EngStr": "DIVE TO LOVE"
+        },
+        {
+            "JpnStr": "DIVE TO LOVE",
+            "EngStr": "DIVE TO LOVE"
+        },
+        {
+            "JpnStr": "君[きみ]に飛[と]び込[こ]め!",
+            "EngStr": "Dive to you!"
+        },
+        {
+            "JpnStr": "DIVE TO LOVE",
+            "EngStr": "DIVE TO LOVE"
+        },
+        {
+            "JpnStr": "DIVE TO LOVE",
+            "EngStr": "DIVE TO LOVE"
+        },
+        {
+            "JpnStr": "DIVE TO LOVE",
+            "EngStr": "DIVE TO LOVE"
+        },
+        {
+            "JpnStr": "怖[こわ]くはないさ",
+            "EngStr": "I'm not afraid of you"
+        }
     ],
-    "lyricsEng":[
-        "Oh! I'm not supposed to be this bad.",
-        "Of course your stupid theories",
-        "Of course they won't work in front of you.",
-        "It's like a continuation of a comic book I read yesterday.",
-        "No way! But you know what?",
-        "I always want to be in your heart, I always want to be in your heart!",
-        "It hurts... My aching chest!",
-        "I love you! Like? It's filled with you without any space.",
-        "My heart... ah! Where is it?",
-        "",
-        "DIVE TO LOVE",
-        "DIVE TO LOVE",
-        "DIVE TO LOVE",
-        "Dive into love!",
-        "DIVE TO LOVE",
-        "DIVE TO LOVE",
-        "DIVE TO LOVE",
-        "I'm crazy about you",
-        "",
-        "Oh! Today and always, I'll fall into the invisible trap",
-        "My overflowing charm is out of control",
-        "I'm on the verge of a felony conviction",
-        "I'll have to give you back the comic I read yesterday.",
-        "This is where it all starts!",
-        "It's time to get rid of the 'friend' label, it's time!",
-        "You got it? I'm counting on it!",
-        "I hate you! Hate? They're so bright and shiny.",
-        "Your eyes... ah! Where are they?",
-        "",
-        "DIVE TO LOVE",
-        "DIVE TO LOVE",
-        "DIVE TO LOVE",
-        "Are you ready?",
-        "DIVE TO LOVE",
-        "DIVE TO LOVE",
-        "DIVE TO LOVE",
-        "If we see eye to eye...",
-        "Ahh!",
-        "",
-        "DIVE TO LOVE",
-        "DIVE TO LOVE",
-        "DIVE TO LOVE",
-        "Dive to you!",
-        "DIVE TO LOVE",
-        "DIVE TO LOVE",
-        "DIVE TO LOVE",
-        "I'm not afraid of you"
-    ],
-    "kanjiList" : [
-    ]
+    "LyricsJpn": [],
+    "LyricsEng": [],
+    "KanjiList": [],
+    "FuriLyricsJpn": null
 }

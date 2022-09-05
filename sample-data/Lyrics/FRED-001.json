@@ -1,117 +1,502 @@
 {
-    "lyricsJpn" : [
-        "真[ま]っ赤[か]な線[せん]を描[えが]いたちっぽけな心[こころ]の話[はなし]",
-        "僕[ぼく]らの未来[みらい]はどこに向[む]かって光[ひか]るの?",
-        "続[つづ]きの線[せん]を描[えが]いた 色[いろ]づいてしまうたびに眩[まぶ]しい",
-        "そんな心[こころ]のリズムを繋[つな]ぎ出[だ]す",
-        "",
-        "かなしいかなしいかなしいかなしい",
-        "うれしいうれしいうれしいうれしい",
-        "ふたつの感情[かんじょう]に揺[ゆ]さぶられては",
-        "まだ見[み]ぬ行[い]き先[さき]を照[て]らし出[だ]してくだけ",
-        "",
-        "このまま嘘[うそ]でもいいから夢泳[ゆめおよ]がせて",
-        "正[ただ]しい正[ただ]しい今[いま]を探[さが]してく",
-        "僕[ぼく]らは見[み]えない未来[みらい]を信[しん]じてる",
-        "だから正[ただ]しい正[ただ]しい今[いま]を探[さが]しては光[ひか]った",
-        "",
-        "真[ま]っ赤[か]なレール繋[つな]いだほっとけない君[きみ]の話[はなし]",
-        "僕[ぼく]らの夜汽車[よぎしゃ]はどこに向[む]かって走[はし]るの?",
-        "煙[けむり]に巻[ま]いた想[おも]いは振[ふ]り向[む]いてしまうたびに寂[さび]しい",
-        "そんな心[こころ]のビートを繋[つな]ぎ出[だ]す",
-        "",
-        "かなしいかなしいかなしいかなしい",
-        "うれしいうれしいうれしいうれしい",
-        "ふたつの感情[かんじょう]に揺[ゆ]さぶられては",
-        "まだ見[み]ぬ行[い]き先[さき]に進[すす]み続[つづ]けるだけ",
-        "",
-        "さよなら",
-        "さよなら",
-        "悲[かな]しいだけの僕[ぼく]らの話[はなし]",
-        "",
-        "このまま嘘[うそ]でもいいから夢泳[ゆめおよ]がせて",
-        "正[ただ]しい正[ただ]しい今[いま]を探[さが]してく",
-        "僕[ぼく]らは見[み]えない未来[みらい]を信[しん]じてる",
-        "だから正[ただ]しい正[ただ]しい今[いま]を探[さが]してく",
-        "僕[ぼく]らはまだ見[み]ぬ行[い]き先[さき]に足[あし]を向[む]けて",
-        "悲[かな]しい悲[かな]しい悲[かな]しいやっても止[と]まらない"
+    "SongLyrics": [
+        {
+            "JpnStr": "真[ま]っ赤[か]な線[せん]を描[えが]いたちっぽけな心[こころ]の話[はなし]",
+            "EngStr": "We drew a bright red line, it was a story of a tiny heart"
+        },
+        {
+            "JpnStr": "僕[ぼく]らの未来[みらい]はどこに向[む]かって光[ひか]るの?",
+            "EngStr": "But what direction is our future shining in?"
+        },
+        {
+            "JpnStr": "続[つづ]きの線[せん]を描[えが]いた 色[いろ]づいてしまうたびに眩[まぶ]しい",
+            "EngStr": "We drew the next line, every time it get more color, it's blindingly bright"
+        },
+        {
+            "JpnStr": "そんな心[こころ]のリズムを繋[つな]ぎ出[だ]す",
+            "EngStr": "And then we start to connect that rhythm of our hearts"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "かなしいかなしいかなしいかなしい",
+            "EngStr": "Sad, sad, sad, sad"
+        },
+        {
+            "JpnStr": "うれしいうれしいうれしいうれしい",
+            "EngStr": "Happy, happy, happy, happy"
+        },
+        {
+            "JpnStr": "ふたつの感情[かんじょう]に揺[ゆ]さぶられては",
+            "EngStr": "All that being shaken between two feelings"
+        },
+        {
+            "JpnStr": "まだ見[み]ぬ行[い]き先[さき]を照[て]らし出[だ]してくだけ",
+            "EngStr": "Just lights up the path we haven't seen yet"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "このまま嘘[うそ]でもいいから夢泳[ゆめおよ]がせて",
+            "EngStr": "It doesnt matter if it's a lie, just let our dreams swim like this"
+        },
+        {
+            "JpnStr": "正[ただ]しい正[ただ]しい今[いま]を探[さが]してく",
+            "EngStr": "We'll go look for the truth, truth in our present"
+        },
+        {
+            "JpnStr": "僕[ぼく]らは見[み]えない未来[みらい]を信[しん]じてる",
+            "EngStr": "We believe in an invisible future"
+        },
+        {
+            "JpnStr": "だから正[ただ]しい正[ただ]しい今[いま]を探[さが]しては光[ひか]った",
+            "EngStr": "That's why we looked for the truth in our present and shined"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "真[ま]っ赤[か]なレール繋[つな]いだほっとけない君[きみ]の話[はなし]",
+            "EngStr": "We connected bright red rails, it was the story of you I never leave alone"
+        },
+        {
+            "JpnStr": "僕[ぼく]らの夜汽車[よぎしゃ]はどこに向[む]かって走[はし]るの?",
+            "EngStr": "But what direction is our night train going to?"
+        },
+        {
+            "JpnStr": "煙[けむり]に巻[ま]いた想[おも]いは振[ふ]り向[む]いてしまうたびに寂[さび]しい",
+            "EngStr": "We feel sad about our cheated feeling whenever we look back"
+        },
+        {
+            "JpnStr": "そんな心[こころ]のビートを繋[つな]ぎ出[だ]す",
+            "EngStr": "And connect up the beat of the mind we feel this way"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "かなしいかなしいかなしいかなしい",
+            "EngStr": "Sad, sad, sad, sad"
+        },
+        {
+            "JpnStr": "うれしいうれしいうれしいうれしい",
+            "EngStr": "Happy, happy, happy, happy"
+        },
+        {
+            "JpnStr": "ふたつの感情[かんじょう]に揺[ゆ]さぶられては",
+            "EngStr": "All that being shaken between two feelings"
+        },
+        {
+            "JpnStr": "まだ見[み]ぬ行[い]き先[さき]に進[すす]み続[つづ]けるだけ",
+            "EngStr": "Just lights up the path we haven't seen yet"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "さよなら",
+            "EngStr": "Goodbye"
+        },
+        {
+            "JpnStr": "さよなら",
+            "EngStr": "Goodbye"
+        },
+        {
+            "JpnStr": "悲[かな]しいだけの僕[ぼく]らの話[はなし]",
+            "EngStr": "Our story is nothing but sad"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "このまま嘘[うそ]でもいいから夢泳[ゆめおよ]がせて",
+            "EngStr": "It doesnt matter if it's a lie, just let our dreams swim like this"
+        },
+        {
+            "JpnStr": "正[ただ]しい正[ただ]しい今[いま]を探[さが]してく",
+            "EngStr": "We'll go look for the truth, truth in our present"
+        },
+        {
+            "JpnStr": "僕[ぼく]らは見[み]えない未来[みらい]を信[しん]じてる",
+            "EngStr": "We believe in an invisible future"
+        },
+        {
+            "JpnStr": "だから正[ただ]しい正[ただ]しい今[いま]を探[さが]してく",
+            "EngStr": "That's why we will look for the truth in our present"
+        },
+        {
+            "JpnStr": "僕[ぼく]らはまだ見[み]ぬ行[い]き先[さき]に足[あし]を向[む]けて",
+            "EngStr": "We turn in our steps towards the path we haven't seen yet"
+        },
+        {
+            "JpnStr": "悲[かな]しい悲[かな]しい悲[かな]しいやっても止[と]まらない",
+            "EngStr": "Keep feeling sad, sad, and never stop"
+        }
     ],
-    "lyricsEng":[
-        "We drew a bright red line, it was a story of a tiny heart",
-        "But what direction is our future shining in?",
-        "We drew the next line, every time it get more color, it's blindingly bright",
-        "And then we start to connect that rhythm of our hearts",
-        "",
-        "Sad, sad, sad, sad",
-        "Happy, happy, happy, happy",
-        "All that being shaken between two feelings",
-        "Just lights up the path we haven't seen yet",
-        "",
-        "It doesnt matter if it's a lie, just let our dreams swim like this",
-        "We'll go look for the truth, truth in our present",
-        "We believe in an invisible future",
-        "That's why we looked for the truth in our present and shined",
-        "",
-        "We connected bright red rails, it was the story of you I never leave alone",
-        "But what direction is our night train going to?",
-        "We feel sad about our cheated feeling whenever we look back",
-        "And connect up the beat of the mind we feel this way",
-        "",
-        "Sad, sad, sad, sad",
-        "Happy, happy, happy, happy",
-        "All that being shaken between two feelings",
-        "Just lights up the path we haven't seen yet",
-        "",
-        "Goodbye",
-        "Goodbye",
-        "Our story is nothing but sad",
-        "",
-        "It doesnt matter if it's a lie, just let our dreams swim like this",
-        "We'll go look for the truth, truth in our present",
-        "We believe in an invisible future",
-        "That's why we will look for the truth in our present",
-        "We turn in our steps towards the path we haven't seen yet",
-        "Keep feeling sad, sad, and never stop"
+    "LyricsJpn": [
     ],
-    "kanjiList" : [
-        {"chap": "0", "eng": "Bright Red", "kanji": "真っ赤", "jpn": "まっか"},
-        {"chap": "0", "eng": "Line", "kanji": "線", "jpn": "せん"},
-        {"chap": "0", "eng": "To draw/paint", "kanji": "描く", "jpn": "えがく"},
-        {"chap": "0", "eng": "Tiny", "kanji": "小っぽけ", "jpn": "ちっぽけ"},
-        {"chap": "0", "eng": "Heart", "kanji": "心", "jpn": "こころ"},
-        {"chap": "0", "eng": "Talk/Tale", "kanji": "話", "jpn": "はなし"},
-        {"chap": "0", "eng": "We", "kanji": "僕ら", "jpn": "ぼくら"},
-        {"chap": "0", "eng": "Future", "kanji": "未来", "jpn": "みらい"},
-        {"chap": "0", "eng": "To face", "kanji": "向かう", "jpn": "むかう"},
-        {"chap": "0", "eng": "To shine", "kanji": "光る", "jpn": "ひかる"},
-        {"chap": "0", "eng": "Sequel", "kanji": "続き", "jpn": "つづき"},
-        {"chap": "0", "eng": "To change color", "kanji": "色づく", "jpn": "いろづく"},
-        {"chap": "0", "eng": "Dazzling", "kanji": "眩しい", "jpn": "まぶしい"},
-        {"chap": "0", "eng": "Link", "kanji": "繋ぎ", "jpn": "つなぎ"},
-        {"chap": "0", "eng": "To Link", "kanji": "繋ぐ", "jpn": "つなぐ"},
-        {"chap": "0", "eng": "Feelings", "kanji": "感情", "jpn": "かんじょう"},
-        {"chap": "0", "eng": "To shake", "kanji": "揺さぶる", "jpn": "ゆさぶる"},
-        {"chap": "0", "eng": "To see", "kanji": "見る", "jpn": "みる"},
-        {"chap": "0", "eng": "Destination", "kanji": "行き先", "jpn": "いきさき"},
-        {"chap": "0", "eng": "To illuminate", "kanji": "照らす", "jpn": "てらす"},
-        {"chap": "0", "eng": "Lie", "kanji": "嘘", "jpn": "うそ"},
-        {"chap": "0", "eng": "To let swim", "kanji": "泳がせる", "jpn": "およがせる"},
-        {"chap": "0", "eng": "Correct", "kanji": "正しい", "jpn": "ただしい"},
-        {"chap": "0", "eng": "Now", "kanji": "今", "jpn": "いま"},
-        {"chap": "0", "eng": "To search for;", "kanji": "探す", "jpn": "さがす"},
-        {"chap": "0", "eng": "To be seen", "kanji": "見える", "jpn": "みえる"},
-        {"chap": "0", "eng": "To believe", "kanji": "信じる", "jpn": "しんじる"},
-        {"chap": "0", "eng": "You", "kanji": "君", "jpn": "きみ"},
-        {"chap": "0", "eng": "Night train", "kanji": "夜汽車", "jpn": "よぎしゃ"},
-        {"chap": "0", "eng": "To run", "kanji": "走る", "jpn": "はしる"},
-        {"chap": "0", "eng": "To confuse", "kanji": "煙に巻く", "jpn": "けむにまく"},
-        {"chap": "0", "eng": "Thought", "kanji": "思い", "jpn": "おもい"},
-        {"chap": "0", "eng": "To turn around", "kanji": "振り向く", "jpn": "ふりむく"},
-        {"chap": "0", "eng": "Lonely", "kanji": "寂しい", "jpn": "さびしい"},
-        {"chap": "0", "eng": "To advance", "kanji": "進む", "jpn": "すすむ"},
-        {"chap": "0", "eng": "Sad", "kanji": "悲しい", "jpn": "かなしい"},
-        {"chap": "0", "eng": "Foot/Leg", "kanji": "足", "jpn": "あし"},
-        {"chap": "0", "eng": "To turn towards", "kanji": "向ける", "jpn": "むける"},
-        {"chap": "0", "eng": "to come to a halt", "kanji": "止まる", "jpn": "とまる"}
-    ]
+    "LyricsEng": [
+    ],
+    "KanjiList": [
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "真っ赤",
+            "Jpn": "まっか",
+            "Eng": "Bright Red"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "線",
+            "Jpn": "せん",
+            "Eng": "Line"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "描く",
+            "Jpn": "えがく",
+            "Eng": "To draw/paint"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "小っぽけ",
+            "Jpn": "ちっぽけ",
+            "Eng": "Tiny"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "心",
+            "Jpn": "こころ",
+            "Eng": "Heart"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "話",
+            "Jpn": "はなし",
+            "Eng": "Talk/Tale"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "僕ら",
+            "Jpn": "ぼくら",
+            "Eng": "We"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "未来",
+            "Jpn": "みらい",
+            "Eng": "Future"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "向かう",
+            "Jpn": "むかう",
+            "Eng": "To face"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "光る",
+            "Jpn": "ひかる",
+            "Eng": "To shine"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "続き",
+            "Jpn": "つづき",
+            "Eng": "Sequel"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "色づく",
+            "Jpn": "いろづく",
+            "Eng": "To change color"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "眩しい",
+            "Jpn": "まぶしい",
+            "Eng": "Dazzling"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "繋ぎ",
+            "Jpn": "つなぎ",
+            "Eng": "Link"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "繋ぐ",
+            "Jpn": "つなぐ",
+            "Eng": "To Link"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "感情",
+            "Jpn": "かんじょう",
+            "Eng": "Feelings"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "揺さぶる",
+            "Jpn": "ゆさぶる",
+            "Eng": "To shake"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "見る",
+            "Jpn": "みる",
+            "Eng": "To see"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "行き先",
+            "Jpn": "いきさき",
+            "Eng": "Destination"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "照らす",
+            "Jpn": "てらす",
+            "Eng": "To illuminate"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "嘘",
+            "Jpn": "うそ",
+            "Eng": "Lie"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "泳がせる",
+            "Jpn": "およがせる",
+            "Eng": "To let swim"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "正しい",
+            "Jpn": "ただしい",
+            "Eng": "Correct"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "今",
+            "Jpn": "いま",
+            "Eng": "Now"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "探す",
+            "Jpn": "さがす",
+            "Eng": "To search for;"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "見える",
+            "Jpn": "みえる",
+            "Eng": "To be seen"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "信じる",
+            "Jpn": "しんじる",
+            "Eng": "To believe"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "君",
+            "Jpn": "きみ",
+            "Eng": "You"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "夜汽車",
+            "Jpn": "よぎしゃ",
+            "Eng": "Night train"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "走る",
+            "Jpn": "はしる",
+            "Eng": "To run"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "煙に巻く",
+            "Jpn": "けむにまく",
+            "Eng": "To confuse"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "思い",
+            "Jpn": "おもい",
+            "Eng": "Thought"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "振り向く",
+            "Jpn": "ふりむく",
+            "Eng": "To turn around"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "寂しい",
+            "Jpn": "さびしい",
+            "Eng": "Lonely"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "進む",
+            "Jpn": "すすむ",
+            "Eng": "To advance"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "悲しい",
+            "Jpn": "かなしい",
+            "Eng": "Sad"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "足",
+            "Jpn": "あし",
+            "Eng": "Foot/Leg"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "向ける",
+            "Jpn": "むける",
+            "Eng": "To turn towards"
+        },
+        {
+            "Id": 0,
+            "Chap": "0",
+            "Furi": "",
+            "Furigana": null,
+            "Kanji": "止まる",
+            "Jpn": "とまる",
+            "Eng": "to come to a halt"
+        }
+    ],
+    "FuriLyricsJpn": null
 }

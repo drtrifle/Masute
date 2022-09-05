@@ -1,110 +1,214 @@
 {
-    "lyricsJpn" : [
-        "夜[よる]に浮[う]かんでいた",
-        "海月[くらげ]のような月[つき]が爆[は]ぜた",
-        "",
-        "バス停[てい]の背[せ]を覗[のぞ]けば",
-        "あの夏[なつ]の君[きみ]が頭[あたま]にいる",
-        "",
-        "だけ",
-        "",
-        "鳥居[とりい] 乾[かわ]いた雲[くも] 夏[なつ]の匂[にお]いが頬[ほほ]を撫[な]でる",
-        "大人[おとな]になるまでほら、背伸[せの]びしたままで",
-        "",
-        "遊[あそ]び疲[つか]れたらバス停[てい]裏うらで空[そら]でも見[み]よう",
-        "じきに夏[なつ]が暮[く]れても",
-        "きっときっと覚[おぼ]えてるから",
-        "",
-        "追[お]いつけないまま大人[おとな]になって",
-        "君[きみ]のポケットに夜[よる]が咲[さ]く",
-        "",
-        "口[くち]に出[だ]せないなら僕[ぼく]は一人[ひとり]だ",
-        "それでいいからもう諦[あきら]めてる",
-        "",
-        "だけ",
-        "",
-        "夏日[なつび] 乾[かわ]いた雲[くも] 山桜桃[ゆすら]梅[うめ] 錆[さ]びた標識[ひょうしき]",
-        "記憶[きおく]の中[なか]はいつも夏[なつ]の匂[にお]いがする",
-        "",
-        "写真[しゃしん]なんて紙切[かみき]れだ",
-        "思[おも]い出[で]なんてただの塵[ごみ]だ",
-        "それがわからないから、口[くち]を噤[つぐ]んだまま",
-        "",
-        "絶[た]えず君[きみ]のいこふ 記憶[きおく]に夏野[なつの]の石[いし]一[ひと]つ",
-        "",
-        "俯[うつむ]いたまま大人[おとな]になって",
-        "追[お]いつけない ただ君[きみ]に晴[は]れ",
-        "",
-        "口[くち]に出[だ]せないまま坂[さか]を上[のぼ]った",
-        "僕[ぼく]らの影[かげ]に夜[よる]が咲[さ]いていく",
-        "",
-        "俯[うつむ]いたまま大人[おとな]になった",
-        "君[きみ]が思[おも]うまま手[て]を叩[たた]け",
-        "",
-        "陽[ひ]の落[お]ちる坂道[さかみち]を上[のぼ]って",
-        "僕[ぼく]らの影[かげ]は",
-        "",
-        "追[お]いつけないまま大人[おとな]になって",
-        "君[きみ]のポケットに夜[よる]が咲[さ]く",
-        "",
-        "口[くち]に出[だ]せなくても僕[ぼく]ら一[ひと]つだ",
-        "それでいいだろ、もう",
-        "",
-        "君[きみ]の想[おも]い出[で]を噛[か]み締[し]めてるだけ"
+    "SongLyrics": [
+        {
+            "JpnStr": "夜[よる]に浮[う]かんでいた",
+            "EngStr": "Floating in the night"
+        },
+        {
+            "JpnStr": "海月[くらげ]のような月[つき]が爆[は]ぜた",
+            "EngStr": "The moon like a sea moon exploded"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "バス停[てい]の背[せ]を覗[のぞ]けば",
+            "EngStr": "If you look over the back of the bus stop"
+        },
+        {
+            "JpnStr": "あの夏[なつ]の君[きみ]が頭[あたま]にいる",
+            "EngStr": "You're in my head that summer"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "だけ",
+            "EngStr": "Only."
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "鳥居[とりい] 乾[かわ]いた雲[くも] 夏[なつ]の匂[にお]いが頬[ほほ]を撫[な]でる",
+            "EngStr": "Torii, dry clouds, the smell of summer caressing my cheeks."
+        },
+        {
+            "JpnStr": "大人[おとな]になるまでほら、背伸[せの]びしたままで",
+            "EngStr": "Keep growing taller and taller until you grow up"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "遊[あそ]び疲[つか]れたらバス停[てい]裏うらで空[そら]でも見[み]よう",
+            "EngStr": "When you're tired of playing, we can watch the sky behind the bus stop."
+        },
+        {
+            "JpnStr": "じきに夏[なつ]が暮[く]れても",
+            "EngStr": "Soon summer will be over"
+        },
+        {
+            "JpnStr": "きっときっと覚[おぼ]えてるから",
+            "EngStr": "I'm sure you'll remember"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "追[お]いつけないまま大人[おとな]になって",
+            "EngStr": "Growing up without catching up"
+        },
+        {
+            "JpnStr": "君[きみ]のポケットに夜[よる]が咲[さ]く",
+            "EngStr": "Night blooms in your pocket"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "口[くち]に出[だ]せないなら僕[ぼく]は一人[ひとり]だ",
+            "EngStr": "If I can't say it out loud, I'm alone."
+        },
+        {
+            "JpnStr": "それでいいからもう諦[あきら]めてる",
+            "EngStr": "That's all right. I've given up."
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "だけ",
+            "EngStr": "Only."
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "夏日[なつび] 乾[かわ]いた雲[くも] 山桜桃[ゆすら]梅[うめ] 錆[さ]びた標識[ひょうしき]",
+            "EngStr": "Summer days, dry clouds, mountain cherry blossoms, plum blossoms, rusty signposts."
+        },
+        {
+            "JpnStr": "記憶[きおく]の中[なか]はいつも夏[なつ]の匂[にお]いがする",
+            "EngStr": "In my memory, it always smells like summer."
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "写真[しゃしん]なんて紙切[かみき]れだ",
+            "EngStr": "Pictures are just pieces of paper."
+        },
+        {
+            "JpnStr": "思[おも]い出[で]なんてただの塵[ごみ]だ",
+            "EngStr": "Memories are just dust."
+        },
+        {
+            "JpnStr": "それがわからないから、口[くち]を噤[つぐ]んだまま",
+            "EngStr": "I don't know that, so I keep my mouth shut"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "絶[た]えず君[きみ]のいこふ 記憶[きおく]に夏野[なつの]の石[いし]一[ひと]つ",
+            "EngStr": "A stone in the summer field in my memory"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "俯[うつむ]いたまま大人[おとな]になって",
+            "EngStr": "I grew up with my head down"
+        },
+        {
+            "JpnStr": "追[お]いつけない ただ君[きみ]に晴[は]れ",
+            "EngStr": "I can't catch up. It's just clear to you."
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "口[くち]に出[だ]せないまま坂[さか]を上[のぼ]った",
+            "EngStr": "I went up the hill without being able to speak"
+        },
+        {
+            "JpnStr": "僕[ぼく]らの影[かげ]に夜[よる]が咲[さ]いていく",
+            "EngStr": "Night blooms in our shadows"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "俯[うつむ]いたまま大人[おとな]になった",
+            "EngStr": "I grew up with my head down"
+        },
+        {
+            "JpnStr": "君[きみ]が思[おも]うまま手[て]を叩[たた]け",
+            "EngStr": "Clap your hands as you see fit."
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "陽[ひ]の落[お]ちる坂道[さかみち]を上[のぼ]って",
+            "EngStr": "Up the hill where the sun goes down"
+        },
+        {
+            "JpnStr": "僕[ぼく]らの影[かげ]は",
+            "EngStr": "Our shadows"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "追[お]いつけないまま大人[おとな]になって",
+            "EngStr": "I grew up without being able to catch up"
+        },
+        {
+            "JpnStr": "君[きみ]のポケットに夜[よる]が咲[さ]く",
+            "EngStr": "Night blooms in your pocket"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "口[くち]に出[だ]せなくても僕[ぼく]ら一[ひと]つだ",
+            "EngStr": "We're one, even if we can't say it."
+        },
+        {
+            "JpnStr": "それでいいだろ、もう",
+            "EngStr": "That's it. That's it."
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "君[きみ]の想[おも]い出[で]を噛[か]み締[し]めてるだけ",
+            "EngStr": "I'm just chewing on your memories."
+        }
     ],
-    "lyricsEng":[
-        "Floating in the night",
-        "The moon like a sea moon exploded",
-        "",
-        "If you look over the back of the bus stop",
-        "You're in my head that summer",
-        "",
-        "Only.",
-        "",
-        "Torii, dry clouds, the smell of summer caressing my cheeks.",
-        "Keep growing taller and taller until you grow up",
-        "",
-        "When you're tired of playing, we can watch the sky behind the bus stop.",
-        "Soon summer will be over",
-        "I'm sure you'll remember",
-        "",
-        "Growing up without catching up",
-        "Night blooms in your pocket",
-        "",
-        "If I can't say it out loud, I'm alone.",
-        "That's all right. I've given up.",
-        "",
-        "Only.",
-        "",
-        "Summer days, dry clouds, mountain cherry blossoms, plum blossoms, rusty signposts.",
-        "In my memory, it always smells like summer.",
-        "",
-        "Pictures are just pieces of paper.",
-        "Memories are just dust.",
-        "I don't know that, so I keep my mouth shut",
-        "",
-        "A stone in the summer field in my memory",
-        "",
-        "I grew up with my head down",
-        "I can't catch up. It's just clear to you.",
-        "",
-        "I went up the hill without being able to speak",
-        "Night blooms in our shadows",
-        "",
-        "I grew up with my head down",
-        "Clap your hands as you see fit.",
-        "",
-        "Up the hill where the sun goes down",
-        "Our shadows",
-        "",
-        "I grew up without being able to catch up",
-        "Night blooms in your pocket",
-        "",
-        "We're one, even if we can't say it.",
-        "That's it. That's it.",
-        "",
-        "I'm just chewing on your memories."
+    "LyricsJpn": [
     ],
-    "kanjiList" : [
-    ]
+    "LyricsEng": [
+    ],
+    "KanjiList": [],
+    "FuriLyricsJpn": null
 }

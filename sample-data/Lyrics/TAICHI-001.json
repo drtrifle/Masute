@@ -1,104 +1,202 @@
 {
-    "lyricsJpn" : [
-        "走[はし]り出[だ]せればほら 掴[つか]めるから",
-        "一度[いちど]離[はな]した 明日[あした]へのチケット",
-        "この場所[ばしょ]から 始[はじ]まるから",
-        "取[と]り戻[もど]すため もう一度[いちど]リセット",
-        "",
-        "改札[かいさつ]を出[で]て 目[め]に移[うつ]るサンセット",
-        "オレンジ色[いろ]が 滲[にじ]んで見[み]えて",
-        "流[なが]す涙[なみだ]を 静[しず]かに照[て]らして",
-        "帰かえる場所[ばしょ]だって 言[い]ってる気[き]がして",
-        "",
-        "並[なら]んで歩[ある]くほどに 人[ひと]と比[くら]べてばかり",
-        "いつのまにか背伸[せの]びして 強[つよ]がる自分[じぶん]に気[き]づく",
-        "",
-        "走[はし]り出[だ]せればほら 掴[つか]めるから",
-        "一度[いちど]離[はな]した 明日[あした]へのチケット",
-        "この場所[ばしょ]から 始[はじ]まるから",
-        "取[と]り戻[もど]すため もう一度[いちど]リセット",
-        "",
-        "過去[かこ]に縛[しば]られ 枷[かせ]を引[ひ]きずって",
-        "身動[みうご]きとれなくなってしまった",
-        "消[き]えて忘[わす]れてしまいたいなんて",
-        "被害者[ひがいしゃ]ぶって逃[に]げていただけ",
-        "",
-        "いつもより緩[ゆる]い風呂[ふろ]の中[なか]で自問自答[じもんじとう]",
-        "悩[なや]んでいたことなんて ちっぽけなことだったんだ",
-        "",
-        "挫[くじ]けそうな時[とき]は 立[た]ち止[ど]まって",
-        "見[み]つめ直[なお]して 自分[じぶん]らしさへ",
-        "諦[あきら]めない心[こころ]を掴[つか]め",
-        "また最初[さいしょ]から もう一度[いちど]リセット",
-        "",
-        "色[いろ]んなことを大袈裟[おおげさ]にして",
-        "優[やさ]しい心[こころ]なくし傷[きず]つけ",
-        "自分[じぶん]が一番[いちばん]可愛[かわい]くなって",
-        "気付[きづ]けば今[いま]はひとりぽっちで",
-        "",
-        "また明日[あした]から 笑[わら]い合[あ]えるよう",
-        "まずはここから 変[か]えられるよう",
-        "",
-        "走[はし]り出[だ]せればほら 掴[つか]めるから",
-        "一度[いちど]離[はな]した 明日[あした]へのチケット",
-        "この場所[ばしょ]から 始[はじ]まるから",
-        "取[と]り戻[もど]すため もう一度[いちど]リセット",
-        "",
-        "広[ひろ]がる世界[せかい]は 僕[ぼく]だけのものさ",
-        "もう一度[いちど] 取[と]り戻[もど]すリセット",
-        "踏[ふ]み出[だ]す力[ちから]が 僕[ぼく]を満[み]たすから",
-        "もう一度[いちど] 走[はし]り出[だ]すスタート" 
+    "SongLyrics": [
+        {
+            "JpnStr": "走[はし]り出[だ]せればほら 掴[つか]めるから",
+            "EngStr": "If you start running, you'll be able to catch it"
+        },
+        {
+            "JpnStr": "一度[いちど]離[はな]した 明日[あした]へのチケット",
+            "EngStr": "Once you let go, it's your ticket to tomorrow"
+        },
+        {
+            "JpnStr": "この場所[ばしょ]から 始[はじ]まるから",
+            "EngStr": "Because it starts from this place"
+        },
+        {
+            "JpnStr": "取[と]り戻[もど]すため もう一度[いちど]リセット",
+            "EngStr": "To get it back, reset it again"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "改札[かいさつ]を出[で]て 目[め]に移[うつ]るサンセット",
+            "EngStr": "As I exit the ticket gate, I see the sunset."
+        },
+        {
+            "JpnStr": "オレンジ色[いろ]が 滲[にじ]んで見[み]えて",
+            "EngStr": "The orange blurs my vision"
+        },
+        {
+            "JpnStr": "流[なが]す涙[なみだ]を 静[しず]かに照[て]らして",
+            "EngStr": "The tears I shed are silently illuminated"
+        },
+        {
+            "JpnStr": "帰かえる場所[ばしょ]だって 言[い]ってる気[き]がして",
+            "EngStr": "I feel like you're saying it's a place I can return to"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "並[なら]んで歩[ある]くほどに 人[ひと]と比[くら]べてばかり",
+            "EngStr": "The more we walk side by side, the more we compare ourselves to others"
+        },
+        {
+            "JpnStr": "いつのまにか背伸[せの]びして 強[つよ]がる自分[じぶん]に気[き]づく",
+            "EngStr": "Before I know it, I realize I'm getting taller and stronger"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "走[はし]り出[だ]せればほら 掴[つか]めるから",
+            "EngStr": "If you can start running, you'll be able to grab it"
+        },
+        {
+            "JpnStr": "一度[いちど]離[はな]した 明日[あした]へのチケット",
+            "EngStr": "Once I let go, my ticket to tomorrow"
+        },
+        {
+            "JpnStr": "この場所[ばしょ]から 始[はじ]まるから",
+            "EngStr": "Because it starts from this place"
+        },
+        {
+            "JpnStr": "取[と]り戻[もど]すため もう一度[いちど]リセット",
+            "EngStr": "To get it back, reset it again"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "過去[かこ]に縛[しば]られ 枷[かせ]を引[ひ]きずって",
+            "EngStr": "Bound by the past, dragged down by the shackles"
+        },
+        {
+            "JpnStr": "身動[みうご]きとれなくなってしまった",
+            "EngStr": "I'm stuck in the past"
+        },
+        {
+            "JpnStr": "消[き]えて忘[わす]れてしまいたいなんて",
+            "EngStr": "I want to disappear and be forgotten"
+        },
+        {
+            "JpnStr": "被害者[ひがいしゃ]ぶって逃[に]げていただけ",
+            "EngStr": "I was just running away, playing the victim"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "いつもより緩[ゆる]い風呂[ふろ]の中[なか]で自問自答[じもんじとう]",
+            "EngStr": "Asking myself questions in a bath that's looser than usual"
+        },
+        {
+            "JpnStr": "悩[なや]んでいたことなんて ちっぽけなことだったんだ",
+            "EngStr": "What I was worrying about was just a small thing"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "挫[くじ]けそうな時[とき]は 立[た]ち止[ど]まって",
+            "EngStr": "When I feel like I'm failing, I stop and"
+        },
+        {
+            "JpnStr": "見[み]つめ直[なお]して 自分[じぶん]らしさへ",
+            "EngStr": "Look again and become yourself"
+        },
+        {
+            "JpnStr": "諦[あきら]めない心[こころ]を掴[つか]め",
+            "EngStr": "Grab the heart that won't give up"
+        },
+        {
+            "JpnStr": "また最初[さいしょ]から もう一度[いちど]リセット",
+            "EngStr": "Start all over again and reset"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "色[いろ]んなことを大袈裟[おおげさ]にして",
+            "EngStr": "You exaggerate so many things"
+        },
+        {
+            "JpnStr": "優[やさ]しい心[こころ]なくし傷[きず]つけ",
+            "EngStr": "You'll lose your kind heart and hurt yourself"
+        },
+        {
+            "JpnStr": "自分[じぶん]が一番[いちばん]可愛[かわい]くなって",
+            "EngStr": "I've become the prettiest person I know"
+        },
+        {
+            "JpnStr": "気付[きづ]けば今[いま]はひとりぽっちで",
+            "EngStr": "And now I find myself all alone"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "また明日[あした]から 笑[わら]い合[あ]えるよう",
+            "EngStr": "So that we can start laughing again tomorrow"
+        },
+        {
+            "JpnStr": "まずはここから 変[か]えられるよう",
+            "EngStr": "I want to change things from here"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "走[はし]り出[だ]せればほら 掴[つか]めるから",
+            "EngStr": "If you can start running, you'll be able to catch it"
+        },
+        {
+            "JpnStr": "一度[いちど]離[はな]した 明日[あした]へのチケット",
+            "EngStr": "Once I let go, the ticket to tomorrow"
+        },
+        {
+            "JpnStr": "この場所[ばしょ]から 始[はじ]まるから",
+            "EngStr": "Because it starts from this place"
+        },
+        {
+            "JpnStr": "取[と]り戻[もど]すため もう一度[いちど]リセット",
+            "EngStr": "To get it back, reset it again"
+        },
+        {
+            "JpnStr": "",
+            "EngStr": ""
+        },
+        {
+            "JpnStr": "広[ひろ]がる世界[せかい]は 僕[ぼく]だけのものさ",
+            "EngStr": "The world that opens up is mine alone"
+        },
+        {
+            "JpnStr": "もう一度[いちど] 取[と]り戻[もど]すリセット",
+            "EngStr": "Resetting to get it back again"
+        },
+        {
+            "JpnStr": "踏[ふ]み出[だ]す力[ちから]が 僕[ぼく]を満[み]たすから",
+            "EngStr": "Because the power to step forward fills me"
+        },
+        {
+            "JpnStr": "もう一度[いちど] 走[はし]り出[だ]すスタート",
+            "EngStr": "I'll start running again"
+        }
     ],
-    "lyricsEng":[
-        "If you start running, you'll be able to catch it",
-        "Once you let go, it's your ticket to tomorrow",
-        "Because it starts from this place",
-        "To get it back, reset it again",
-        "",
-        "As I exit the ticket gate, I see the sunset.",
-        "The orange blurs my vision",
-        "The tears I shed are silently illuminated",
-        "I feel like you're saying it's a place I can return to",
-        "",
-        "The more we walk side by side, the more we compare ourselves to others",
-        "Before I know it, I realize I'm getting taller and stronger",
-        "",
-        "If you can start running, you'll be able to grab it",
-        "Once I let go, my ticket to tomorrow",
-        "Because it starts from this place",
-        "To get it back, reset it again",
-        "",
-        "Bound by the past, dragged down by the shackles",
-        "I'm stuck in the past",
-        "I want to disappear and be forgotten",
-        "I was just running away, playing the victim",
-        "",
-        "Asking myself questions in a bath that's looser than usual",
-        "What I was worrying about was just a small thing",
-        "",
-        "When I feel like I'm failing, I stop and",
-        "Look again and become yourself",
-        "Grab the heart that won't give up",
-        "Start all over again and reset",
-        "",
-        "You exaggerate so many things",
-        "You'll lose your kind heart and hurt yourself",
-        "I've become the prettiest person I know",
-        "And now I find myself all alone",
-        "",
-        "So that we can start laughing again tomorrow",
-        "I want to change things from here",
-        "",
-        "If you can start running, you'll be able to catch it",
-        "Once I let go, the ticket to tomorrow",
-        "Because it starts from this place",
-        "To get it back, reset it again",
-        "",
-        "The world that opens up is mine alone",
-        "Resetting to get it back again",
-        "Because the power to step forward fills me",
-        "I'll start running again"
+    "LyricsJpn": [
     ],
-    "kanjiList" : [
-    ]
+    "LyricsEng": [
+    ],
+    "KanjiList": [],
+    "FuriLyricsJpn": null
 }
