@@ -2510,7 +2510,7 @@
     {
         "Key": "料理-りょうり",
         "Furi": "料[りょう]理[り]",
-        "Eng": "cooking",
+        "Eng": "cooking/cuisine",
         "optIkoma": "18"
     },
     {
@@ -3774,8 +3774,8 @@
         "optIkoma": "02"
     },
     {
-        "Key": "祖母-ぞぼ",
-        "Furi": "祖[ぞ]母[ぼ]",
+        "Key": "祖母-そぼ",
+        "Furi": "祖[そ]母[ぼ]",
         "Eng": "grandmother (mine)",
         "optIkoma": "07"
     },
