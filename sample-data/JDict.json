@@ -30,10 +30,22 @@
         "optIkoma": "11"
     },
     {
+        "Key": "お宅-おたく",
+        "Furi": "お宅[たく]",
+        "Eng": "house (formal)",
+        "optIkoma": "50"
+    },
+    {
         "Key": "お客-おきゃく",
         "Furi": "お客[きゃく]",
         "Eng": "guest/customer",
         "optIkoma": "36"
+    },
+    {
+        "Key": "お客様-おきゃくさま",
+        "Furi": "お客[きゃく]様[さま]",
+        "Eng": "guest/customer (formal)",
+        "optIkoma": "50"
     },
     {
         "Key": "お寺-おてら",
@@ -76,6 +88,12 @@
         "Furi": "お茶[ちゃ]",
         "Eng": "tea",
         "optIkoma": "14"
+    },
+    {
+        "Key": "お酒-おさけ",
+        "Furi": "お酒[さけ]",
+        "Eng": "alcohol",
+        "optIkoma": "50"
     },
     {
         "Key": "お金-おかね",
@@ -216,6 +234,12 @@
         "optIkoma": "03"
     },
     {
+        "Key": "三回-さんかい",
+        "Furi": "三[さん]回[かい]",
+        "Eng": "three times",
+        "optIkoma": "43"
+    },
+    {
         "Key": "三日-みっか",
         "Furi": "三[みっ]日[か]",
         "Eng": "the third day",
@@ -298,6 +322,12 @@
         "Furi": "世[せ]話[わ]",
         "Eng": "care",
         "optIkoma": "14"
+    },
+    {
+        "Key": "両方-りょうほう",
+        "Furi": "両[りょう]方[ほう]",
+        "Eng": "both",
+        "optIkoma": "47"
     },
     {
         "Key": "両親-りょうしん",
@@ -390,6 +420,18 @@
         "optIkoma": "18"
     },
     {
+        "Key": "乗る-のる",
+        "Furi": "乗[の]る",
+        "Eng": "to ride",
+        "optIkoma": "49"
+    },
+    {
+        "Key": "乗馬-じょうば",
+        "Furi": "乗[じょう]馬[ば]",
+        "Eng": "horse riding",
+        "optIkoma": "49"
+    },
+    {
         "Key": "九人-きゅうにん",
         "Furi": "九[きゅう]人[にん]",
         "Eng": "nine people",
@@ -436,6 +478,12 @@
         "Furi": "二[ふた]人[り]",
         "Eng": "two people",
         "optIkoma": "01"
+    },
+    {
+        "Key": "二倍-にばい",
+        "Furi": "二[に]倍[ばい]",
+        "Eng": "two times",
+        "optIkoma": "44"
     },
     {
         "Key": "二十二歳-にじゅうにさい",
@@ -492,6 +540,12 @@
         "optIkoma": "33"
     },
     {
+        "Key": "京都-きょうと",
+        "Furi": "京[きょう]都[と]",
+        "Eng": "kyoto",
+        "optIkoma": "49"
+    },
+    {
         "Key": "人口-じんこう",
         "Furi": "人[じん]口[こう]",
         "Eng": "population",
@@ -544,6 +598,18 @@
         "Furi": "仕[し]方[かた]がない",
         "Eng": "cannot be helped",
         "optIkoma": "21"
+    },
+    {
+        "Key": "付く-つく",
+        "Furi": "付[つ]く",
+        "Eng": "to be attached",
+        "optIkoma": "45"
+    },
+    {
+        "Key": "付ける-つける",
+        "Furi": "付[つ]ける",
+        "Eng": "to attach",
+        "optIkoma": "45"
     },
     {
         "Key": "代わる-かわる",
@@ -606,10 +672,34 @@
         "optIkoma": "25"
     },
     {
+        "Key": "伝える-つたえる",
+        "Furi": "伝[つた]える",
+        "Eng": "to tell/to inform",
+        "optIkoma": "47"
+    },
+    {
+        "Key": "伝わる-つたわる",
+        "Furi": "伝[つた]わる",
+        "Eng": "to be conveyed",
+        "optIkoma": "47"
+    },
+    {
         "Key": "伝言-でんごん",
         "Furi": "伝[でん]言[ごん]",
         "Eng": "verbal message",
         "optIkoma": "21"
+    },
+    {
+        "Key": "低い-ひくい",
+        "Furi": "低[ひく]い",
+        "Eng": "low",
+        "optIkoma": "43"
+    },
+    {
+        "Key": "低温-てんおん",
+        "Furi": "低[てん]温[おん]",
+        "Eng": "low temperature",
+        "optIkoma": "43"
     },
     {
         "Key": "住む-すむ",
@@ -628,6 +718,12 @@
         "Furi": "体[からだ]",
         "Eng": "body",
         "optIkoma": "15"
+    },
+    {
+        "Key": "体温計-たいおんけい",
+        "Furi": "体[たい]温[おん]計[けい]",
+        "Eng": "thermometer",
+        "optIkoma": "48"
     },
     {
         "Key": "体育-たいいく",
@@ -684,10 +780,28 @@
         "optIkoma": "16"
     },
     {
+        "Key": "例-れい",
+        "Furi": "例[れい]",
+        "Eng": "example",
+        "optIkoma": "50"
+    },
+    {
+        "Key": "例えば-たとえば",
+        "Furi": "例[たと]えば",
+        "Eng": "for example",
+        "optIkoma": "50"
+    },
+    {
         "Key": "依頼-いらい",
         "Furi": "依[い]頼[らい]",
         "Eng": "request",
         "optIkoma": "38"
+    },
+    {
+        "Key": "価値-かち",
+        "Furi": "価[か]値[ち]",
+        "Eng": "worth/value",
+        "optIkoma": "46"
     },
     {
         "Key": "便り-たより",
@@ -700,6 +814,12 @@
         "Furi": "便[べん]利[り]",
         "Eng": "convenient",
         "optIkoma": "35"
+    },
+    {
+        "Key": "係-かかり",
+        "Furi": "係[かかり]",
+        "Eng": "a person in charge",
+        "optIkoma": "46"
     },
     {
         "Key": "信じる-しんじる",
@@ -744,10 +864,46 @@
         "optIkoma": "20"
     },
     {
+        "Key": "値-あたい",
+        "Furi": "値[あたい]",
+        "Eng": "worth/value",
+        "optIkoma": "46"
+    },
+    {
+        "Key": "値段-ねだん",
+        "Furi": "値[ね]段[だん]",
+        "Eng": "price/cost",
+        "optIkoma": "46"
+    },
+    {
         "Key": "健康-けんこう",
         "Furi": "健[けん]康[こう]",
         "Eng": "health",
         "optIkoma": "41"
+    },
+    {
+        "Key": "働く-はたらく",
+        "Furi": "働[はたら]く",
+        "Eng": "to work",
+        "optIkoma": "45"
+    },
+    {
+        "Key": "優しい-やさしい",
+        "Furi": "優[やさ]しい",
+        "Eng": "kind/good/nice",
+        "optIkoma": "46"
+    },
+    {
+        "Key": "優れる-すぐれる",
+        "Furi": "優[すぐ]れる",
+        "Eng": "to excel",
+        "optIkoma": "46"
+    },
+    {
+        "Key": "優勝する-ゆうしょうする",
+        "Furi": "優[ゆう]勝[しょう]する",
+        "Eng": "to become number one",
+        "optIkoma": "46"
     },
     {
         "Key": "元の所-もとのところ",
@@ -900,6 +1056,12 @@
         "optIkoma": "01"
     },
     {
+        "Key": "兵役-へいえき",
+        "Furi": "兵[へい]役[えき]",
+        "Eng": "military service",
+        "optIkoma": "46"
+    },
+    {
         "Key": "円い-まるい",
         "Furi": "円[まる]い",
         "Eng": "round",
@@ -928,6 +1090,30 @@
         "Furi": "冬[とう]季[き]",
         "Eng": "winter season",
         "optIkoma": "12"
+    },
+    {
+        "Key": "冷たい-つめたい",
+        "Furi": "冷[つめ]たい",
+        "Eng": "cold",
+        "optIkoma": "45"
+    },
+    {
+        "Key": "冷める-さめる",
+        "Furi": "冷[さ]める",
+        "Eng": "to get cold",
+        "optIkoma": "45"
+    },
+    {
+        "Key": "冷やす-ひやす",
+        "Furi": "冷[ひ]やす",
+        "Eng": "to chill",
+        "optIkoma": "45"
+    },
+    {
+        "Key": "冷房-れいぼう",
+        "Furi": "冷[れい]房[ぼう]",
+        "Eng": "air conditioning/air cooling",
+        "optIkoma": "45"
     },
     {
         "Key": "出る-でる",
@@ -996,10 +1182,28 @@
         "optIkoma": "25"
     },
     {
+        "Key": "初めて-はじめて",
+        "Furi": "初[はじ]めて",
+        "Eng": "first time",
+        "optIkoma": "46"
+    },
+    {
         "Key": "初夏-しょか",
         "Furi": "初[しょ]夏[か]",
         "Eng": "early summer",
         "optIkoma": "11"
+    },
+    {
+        "Key": "初日の出-はつひので",
+        "Furi": "初[はつ]日[ひ]の出[で]",
+        "Eng": "first sunrise of the year",
+        "optIkoma": "46"
+    },
+    {
+        "Key": "別れる-わかれる",
+        "Furi": "別[わか]れる",
+        "Eng": "to part",
+        "optIkoma": "43"
     },
     {
         "Key": "利用する-りようする",
@@ -1030,6 +1234,12 @@
         "Furi": "加[くわ]える",
         "Eng": "to add",
         "optIkoma": "38"
+    },
+    {
+        "Key": "労働者-ろうどうしゃ",
+        "Furi": "労[ろう]働[どう]者[しゃ]",
+        "Eng": "worker",
+        "optIkoma": "45"
     },
     {
         "Key": "勉強する-べんきょうする",
@@ -1182,6 +1392,12 @@
         "optIkoma": "03"
     },
     {
+        "Key": "卒業する-そつぎょうする",
+        "Furi": "卒[そつ]業[ぎょう]する",
+        "Eng": "to graduate",
+        "optIkoma": "45"
+    },
+    {
         "Key": "南-みなみ",
         "Furi": "南[みなみ]",
         "Eng": "south",
@@ -1216,6 +1432,24 @@
         "Furi": "卵[らん]黄[おう]",
         "Eng": "yolk",
         "optIkoma": "26"
+    },
+    {
+        "Key": "厚い-あつい",
+        "Furi": "厚[あつ]い",
+        "Eng": "think/deep/heavy",
+        "optIkoma": "44"
+    },
+    {
+        "Key": "厚生-こうせい",
+        "Furi": "厚[こう]生[せい]",
+        "Eng": "welfare",
+        "optIkoma": "44"
+    },
+    {
+        "Key": "原因-げんいん",
+        "Furi": "原[げん]因[いん]",
+        "Eng": "cause",
+        "optIkoma": "46"
     },
     {
         "Key": "原料-げんりょう",
@@ -1254,10 +1488,22 @@
         "optIkoma": "05"
     },
     {
+        "Key": "反る-そる",
+        "Furi": "反[そ]る",
+        "Eng": "to warp",
+        "optIkoma": "47"
+    },
+    {
         "Key": "反則-はんそく",
         "Furi": "反[はん]則[そく]",
         "Eng": "foul",
         "optIkoma": "34"
+    },
+    {
+        "Key": "反対-はんたい",
+        "Furi": "反対[はんたい]",
+        "Eng": "opposite",
+        "optIkoma": "47"
     },
     {
         "Key": "反対する-はんたいする",
@@ -1282,6 +1528,24 @@
         "Furi": "取[しゅ]捨[しゃ]する",
         "Eng": "to choose",
         "optIkoma": "37"
+    },
+    {
+        "Key": "受かる-うかる",
+        "Furi": "受[う]かる",
+        "Eng": "to take",
+        "optIkoma": "45"
+    },
+    {
+        "Key": "受ける-うける",
+        "Furi": "受[う]ける",
+        "Eng": "to take",
+        "optIkoma": "45"
+    },
+    {
+        "Key": "受験-じゅけん",
+        "Furi": "受[じゅ]験[けん]",
+        "Eng": "to take an exam",
+        "optIkoma": "45"
     },
     {
         "Key": "口-くち",
@@ -1324,6 +1588,12 @@
         "Furi": "右[う]折[せつ]",
         "Eng": "turn right",
         "optIkoma": "09"
+    },
+    {
+        "Key": "号泣-ごうきゅう",
+        "Furi": "号[ごう]泣[きゅう]",
+        "Eng": "bawling/wailing",
+        "optIkoma": "43"
     },
     {
         "Key": "合格する-ごうかくする",
@@ -1374,6 +1644,18 @@
         "optIkoma": "35"
     },
     {
+        "Key": "吹く-ふく",
+        "Furi": "吹[ふ]く",
+        "Eng": "to blow",
+        "optIkoma": "48"
+    },
+    {
+        "Key": "吹奏楽団-すいそうがくだん",
+        "Furi": "吹[すい]奏[そう]楽[がく]団[だん]",
+        "Eng": "brass band",
+        "optIkoma": "48"
+    },
+    {
         "Key": "味-あじ",
         "Furi": "味[あじ]",
         "Eng": "flavour/taste",
@@ -1384,6 +1666,12 @@
         "Furi": "味[み]噌[そ]",
         "Eng": "miso",
         "optIkoma": "27"
+    },
+    {
+        "Key": "呼う-すう",
+        "Furi": "呼[す]う",
+        "Eng": "to smoke/to breathe",
+        "optIkoma": "49"
     },
     {
         "Key": "呼ぶ-よぶ",
@@ -1450,6 +1738,18 @@
         "Furi": "四[し]角[かく]形[けい]",
         "Eng": "square",
         "optIkoma": "32"
+    },
+    {
+        "Key": "回す-まわす",
+        "Furi": "回[まわ]す",
+        "Eng": "to rotate/to turn",
+        "optIkoma": "43"
+    },
+    {
+        "Key": "回る-まわる",
+        "Furi": "回[まわ]る",
+        "Eng": "to be rotated",
+        "optIkoma": "43"
     },
     {
         "Key": "困る-こまる",
@@ -1536,6 +1836,48 @@
         "optIkoma": "29"
     },
     {
+        "Key": "増える-ふえる",
+        "Furi": "増[ふ]える",
+        "Eng": "to be increased",
+        "optIkoma": "44"
+    },
+    {
+        "Key": "増す-ます",
+        "Furi": "増[ま]す",
+        "Eng": "to increase/to grow",
+        "optIkoma": "44"
+    },
+    {
+        "Key": "増やす-ふやす",
+        "Furi": "増[ふ]やす",
+        "Eng": "to increase/to add to/to augment",
+        "optIkoma": "44"
+    },
+    {
+        "Key": "増加-ぞうか",
+        "Furi": "増[ぞう]加[か]",
+        "Eng": "increase",
+        "optIkoma": "44"
+    },
+    {
+        "Key": "増減-ぞうげん",
+        "Furi": "増[ぞう]減[げん]",
+        "Eng": "fluctuation",
+        "optIkoma": "44"
+    },
+    {
+        "Key": "声-こえ",
+        "Furi": "声[こえ]",
+        "Eng": "voice",
+        "optIkoma": "47"
+    },
+    {
+        "Key": "声優-せいゆう",
+        "Furi": "声[せい]優[ゆう]",
+        "Eng": "voice actor/voice actress",
+        "optIkoma": "47"
+    },
+    {
         "Key": "売り場-うりば",
         "Furi": "売[う]り場[ば]",
         "Eng": "counter/section/selling area",
@@ -1552,6 +1894,18 @@
         "Furi": "売[ばい]買[ばい]",
         "Eng": "sell and buy",
         "optIkoma": "06"
+    },
+    {
+        "Key": "変える-かえる",
+        "Furi": "変[か]える",
+        "Eng": "to change",
+        "optIkoma": "44"
+    },
+    {
+        "Key": "変わる-かわる",
+        "Furi": "変[か]わる",
+        "Eng": "to be changed",
+        "optIkoma": "44"
     },
     {
         "Key": "夏休み-なつやすみ",
@@ -1638,6 +1992,12 @@
         "optIkoma": "25"
     },
     {
+        "Key": "大変-たいへん",
+        "Furi": "大[たい]変[へん]",
+        "Eng": "hard/tiring",
+        "optIkoma": "44"
+    },
+    {
         "Key": "大学-だいがく",
         "Furi": "大[だい]学[がく]",
         "Eng": "university",
@@ -1680,6 +2040,36 @@
         "optIkoma": "40"
     },
     {
+        "Key": "太い-ふとい",
+        "Furi": "太[ふと]い",
+        "Eng": "thick",
+        "optIkoma": "45"
+    },
+    {
+        "Key": "太る-ふとる",
+        "Furi": "太[ふと]る",
+        "Eng": "to gain weight",
+        "optIkoma": "45"
+    },
+    {
+        "Key": "太陽-たいよう",
+        "Furi": "太[たい]陽[よう]",
+        "Eng": "sun",
+        "optIkoma": "45"
+    },
+    {
+        "Key": "夫-おっと",
+        "Furi": "夫[おっと]",
+        "Eng": "husband (mine)",
+        "optIkoma": "48"
+    },
+    {
+        "Key": "夫妻-ふさい",
+        "Furi": "夫[ふ]妻[さい]",
+        "Eng": "husband and wife",
+        "optIkoma": "48"
+    },
+    {
         "Key": "失う-うしなう",
         "Furi": "失[うしな]う",
         "Eng": "to lose",
@@ -1698,6 +2088,12 @@
         "optIkoma": "34"
     },
     {
+        "Key": "奥さん-おくさん",
+        "Furi": "奥[おく]さん",
+        "Eng": "wife (other)",
+        "optIkoma": "49"
+    },
+    {
         "Key": "女の人-おんなのひと",
         "Furi": "女[おんな]の人[ひと]",
         "Eng": "woman",
@@ -1710,10 +2106,34 @@
         "optIkoma": "09"
     },
     {
+        "Key": "好き-すき",
+        "Furi": "好[す]き",
+        "Eng": "like",
+        "optIkoma": "45"
+    },
+    {
+        "Key": "好む-このむ",
+        "Furi": "好[この]む",
+        "Eng": "like",
+        "optIkoma": "45"
+    },
+    {
+        "Key": "好物-こうぶつ",
+        "Furi": "好[こう]物[ぶつ]",
+        "Eng": "favorite food",
+        "optIkoma": "45"
+    },
+    {
         "Key": "妹-いもうと",
         "Furi": "妹[いもうと]",
         "Eng": "younger sister (mine)",
         "optIkoma": "11"
+    },
+    {
+        "Key": "妻-つま",
+        "Furi": "妻[つま]",
+        "Eng": "wife (mine)",
+        "optIkoma": "48"
     },
     {
         "Key": "姉-あね",
@@ -1794,6 +2214,30 @@
         "optIkoma": "08"
     },
     {
+        "Key": "安静にする-あんせいにする",
+        "Furi": "安[あん]静[せい]にする",
+        "Eng": "to rest quietly",
+        "optIkoma": "44"
+    },
+    {
+        "Key": "定める-さだめる",
+        "Furi": "定[さだ]める",
+        "Eng": "to decide",
+        "optIkoma": "50"
+    },
+    {
+        "Key": "定時-ていじ",
+        "Furi": "定[てい]時[じ]",
+        "Eng": "on time",
+        "optIkoma": "50"
+    },
+    {
+        "Key": "定規-じょうぎ",
+        "Furi": "定[じょう]規[ぎ]",
+        "Eng": "scale",
+        "optIkoma": "50"
+    },
+    {
         "Key": "定食-ていしょく",
         "Furi": "定[てい]食[しょく]",
         "Eng": "set meal",
@@ -1848,10 +2292,22 @@
         "optIkoma": "37"
     },
     {
+        "Key": "宿泊する-しゅくはくする",
+        "Furi": "宿[しゅく]泊[はく]する",
+        "Eng": "to lodge",
+        "optIkoma": "49"
+    },
+    {
         "Key": "宿題-しゅくだい",
         "Furi": "宿[しゅく]題[だい]",
         "Eng": "homework",
         "optIkoma": "37"
+    },
+    {
+        "Key": "寄付-きふ",
+        "Furi": "寄[き]付[ふ]",
+        "Eng": "donation",
+        "optIkoma": "45"
     },
     {
         "Key": "富士山-ふじさん",
@@ -1876,6 +2332,18 @@
         "Furi": "寒[かん]波[ぱ]",
         "Eng": "cold wave",
         "optIkoma": "35"
+    },
+    {
+        "Key": "寝る-ねる",
+        "Furi": "寝[ね]る",
+        "Eng": "to sleep",
+        "optIkoma": "45"
+    },
+    {
+        "Key": "寝具-しんぐ",
+        "Furi": "寝[しん]具[ぐ]",
+        "Eng": "bedding/bedclothes",
+        "optIkoma": "45"
     },
     {
         "Key": "寺院-じいん",
@@ -1918,6 +2386,18 @@
         "Furi": "少[すく]ない",
         "Eng": "a little/a few",
         "optIkoma": "12"
+    },
+    {
+        "Key": "届く-とどく",
+        "Furi": "届[とど]く",
+        "Eng": "to be delivered",
+        "optIkoma": "48"
+    },
+    {
+        "Key": "届ける-とどける",
+        "Furi": "届[とど]ける",
+        "Eng": "to send/to deliver",
+        "optIkoma": "48"
     },
     {
         "Key": "屋上-おくじょう",
@@ -2058,6 +2538,30 @@
         "optIkoma": "26"
     },
     {
+        "Key": "幸-さち",
+        "Furi": "幸[さち]",
+        "Eng": "happiness",
+        "optIkoma": "43"
+    },
+    {
+        "Key": "幸い-さいわい",
+        "Furi": "幸[さいわ]い",
+        "Eng": "fortunately",
+        "optIkoma": "43"
+    },
+    {
+        "Key": "幸せ-しあわせ",
+        "Furi": "幸[しあわ]せ",
+        "Eng": "happiness",
+        "optIkoma": "43"
+    },
+    {
+        "Key": "幸運-こううん",
+        "Furi": "幸[こう]運[うん]",
+        "Eng": "luck",
+        "optIkoma": "43"
+    },
+    {
         "Key": "広い-ひろい",
         "Furi": "広[ひろ]い",
         "Eng": "wide/spacious",
@@ -2082,10 +2586,22 @@
         "optIkoma": "22"
     },
     {
+        "Key": "店頭-てんとう",
+        "Furi": "店[てん]頭[とう]",
+        "Eng": "shopfront",
+        "optIkoma": "43"
+    },
+    {
         "Key": "座る-すわる",
         "Furi": "座[すわ]る",
         "Eng": "to sit/to squat",
         "optIkoma": "26"
+    },
+    {
+        "Key": "庭-にわ",
+        "Furi": "庭[にわ]",
+        "Eng": "garden",
+        "optIkoma": "48"
     },
     {
         "Key": "建つ-たつ",
@@ -2112,10 +2628,40 @@
         "optIkoma": "23"
     },
     {
+        "Key": "引く-ひく",
+        "Furi": "引[ひ]く",
+        "Eng": "to pull",
+        "optIkoma": "45"
+    },
+    {
+        "Key": "引っ越す-ひっこす",
+        "Furi": "引[ひ]っ越[こ]す",
+        "Eng": "to move",
+        "optIkoma": "45"
+    },
+    {
+        "Key": "引力-いんりょく",
+        "Furi": "引[いん]力[りょく]",
+        "Eng": "gravity",
+        "optIkoma": "45"
+    },
+    {
         "Key": "弟-おとうと",
         "Furi": "弟[おとうと]",
         "Eng": "younger brother (mine)",
         "optIkoma": "11"
+    },
+    {
+        "Key": "弱い-よわい",
+        "Furi": "弱[よわ]い",
+        "Eng": "weak",
+        "optIkoma": "47"
+    },
+    {
+        "Key": "弱点-じゃくてん",
+        "Furi": "弱[じゃく]点[てん]",
+        "Eng": "weak point",
+        "optIkoma": "47"
     },
     {
         "Key": "強い-つよい",
@@ -2140,6 +2686,12 @@
         "Furi": "形[かたち]",
         "Eng": "shape/form",
         "optIkoma": "29"
+    },
+    {
+        "Key": "役に立つ-やくにたつ",
+        "Furi": "役[やく]に立[た]つ",
+        "Eng": "useful",
+        "optIkoma": "46"
     },
     {
         "Key": "彼-かれ",
@@ -2182,6 +2734,18 @@
         "Furi": "復[ふく]習[しゅう]する",
         "Eng": "to review",
         "optIkoma": "30"
+    },
+    {
+        "Key": "微笑-びしょう",
+        "Furi": "微[び]笑[しょう]",
+        "Eng": "smile",
+        "optIkoma": "43"
+    },
+    {
+        "Key": "微笑む-ほほえむ",
+        "Furi": "微[ほほ]笑[え]む",
+        "Eng": "to smile",
+        "optIkoma": "43"
     },
     {
         "Key": "心-こころ",
@@ -2262,6 +2826,24 @@
         "optIkoma": "26"
     },
     {
+        "Key": "性格-せいかく",
+        "Furi": "性[せい]格[かく]",
+        "Eng": "character",
+        "optIkoma": "50"
+    },
+    {
+        "Key": "恋人-こいびと",
+        "Furi": "恋[こい]人[びと]",
+        "Eng": "lover",
+        "optIkoma": "48"
+    },
+    {
+        "Key": "恋愛-れんあい",
+        "Furi": "恋[れん]愛[あい]",
+        "Eng": "love",
+        "optIkoma": "48"
+    },
+    {
         "Key": "悪い-わるい",
         "Furi": "悪[わる]い",
         "Eng": "bad",
@@ -2284,6 +2866,18 @@
         "Furi": "意[い]見[けん]",
         "Eng": "opinion/view/comment",
         "optIkoma": "21"
+    },
+    {
+        "Key": "愛妻家-あいさいか",
+        "Furi": "愛[あい]妻[さい]家[か]",
+        "Eng": "devoted husband",
+        "optIkoma": "48"
+    },
+    {
+        "Key": "感動する-かんどうする",
+        "Furi": "感[かん]動[どう]する",
+        "Eng": "to be touched/to be moved",
+        "optIkoma": "50"
     },
     {
         "Key": "感覚-かんかく",
@@ -2350,6 +2944,18 @@
         "Furi": "技[ぎ]術[じゅつ]",
         "Eng": "technology",
         "optIkoma": "30"
+    },
+    {
+        "Key": "押す-おす",
+        "Furi": "押[お]す",
+        "Eng": "to push",
+        "optIkoma": "45"
+    },
+    {
+        "Key": "押印-おういん",
+        "Furi": "押[おう]印[いん]",
+        "Eng": "to affix ones seal",
+        "optIkoma": "45"
     },
     {
         "Key": "招く-まねく",
@@ -2442,6 +3048,12 @@
         "optIkoma": "18"
     },
     {
+        "Key": "支持する-しじする",
+        "Furi": "支[し]持[じ]する",
+        "Eng": "to support",
+        "optIkoma": "50"
+    },
+    {
         "Key": "放置-ほうち",
         "Furi": "放[ほう]置[ち]",
         "Eng": "leave/neglect",
@@ -2482,6 +3094,12 @@
         "Furi": "教[きょう]授[じゅ]",
         "Eng": "professor",
         "optIkoma": "30"
+    },
+    {
+        "Key": "教育-きょういく",
+        "Furi": "教[きょう]育[いく]",
+        "Eng": "education",
+        "optIkoma": "48"
     },
     {
         "Key": "散る-ちる",
@@ -2718,6 +3336,12 @@
         "optIkoma": "42"
     },
     {
+        "Key": "暗記する-あんきする",
+        "Furi": "暗[あん]記[き]する",
+        "Eng": "to memorize",
+        "optIkoma": "47"
+    },
+    {
         "Key": "曲-きょく",
         "Furi": "曲[きょく]",
         "Eng": "tune/melody",
@@ -2746,6 +3370,12 @@
         "Furi": "最[もっと]も",
         "Eng": "most/extremely",
         "optIkoma": "32"
+    },
+    {
+        "Key": "最初-さいしょ",
+        "Furi": "最[さい]初[しょ]",
+        "Eng": "at first",
+        "optIkoma": "46"
     },
     {
         "Key": "最悪-さいあく",
@@ -2880,6 +3510,12 @@
         "optIkoma": "24"
     },
     {
+        "Key": "校庭-こうてい",
+        "Furi": "校[こう]庭[てい]",
+        "Eng": "school grounds",
+        "optIkoma": "48"
+    },
+    {
         "Key": "案内する-あんないする",
         "Furi": "案[あん]内[ない]する",
         "Eng": "to guide",
@@ -2932,6 +3568,12 @@
         "Furi": "楽[たの]しい",
         "Eng": "fun/enjoyable",
         "optIkoma": "19"
+    },
+    {
+        "Key": "様子-ようす",
+        "Furi": "様[よう]子[す]",
+        "Eng": "state",
+        "optIkoma": "50"
     },
     {
         "Key": "横-よこ",
@@ -3216,10 +3858,28 @@
         "optIkoma": "35"
     },
     {
+        "Key": "泊-はく",
+        "Furi": "泊[はく]",
+        "Eng": "nights",
+        "optIkoma": "49"
+    },
+    {
+        "Key": "泊まる-とまる",
+        "Furi": "泊[と]まる",
+        "Eng": "to stay",
+        "optIkoma": "49"
+    },
+    {
         "Key": "法律-ほうりつ",
         "Furi": "法[ほう]律[りつ]",
         "Eng": "law",
         "optIkoma": "36"
+    },
+    {
+        "Key": "泣く-なく",
+        "Furi": "泣[な]く",
+        "Eng": "to cry/to weep",
+        "optIkoma": "43"
     },
     {
         "Key": "注ぐ-そそぐ",
@@ -3244,6 +3904,30 @@
         "Furi": "泳[およ]ぐ",
         "Eng": "to swim",
         "optIkoma": "35"
+    },
+    {
+        "Key": "洋服-ようふく",
+        "Furi": "洋[よう]服[ふく]",
+        "Eng": "western clothes",
+        "optIkoma": "43"
+    },
+    {
+        "Key": "洋食-ようしょく",
+        "Furi": "洋[よう]食[しょく]",
+        "Eng": "western food",
+        "optIkoma": "43"
+    },
+    {
+        "Key": "洗う-あらう",
+        "Furi": "洗[あら]う",
+        "Eng": "to wash",
+        "optIkoma": "43"
+    },
+    {
+        "Key": "洗濯する-せんたくする",
+        "Furi": "洗[せん]濯[たく]する",
+        "Eng": "to do laundry",
+        "optIkoma": "43"
     },
     {
         "Key": "洗顔する-せんがんする",
@@ -3282,6 +3966,24 @@
         "optIkoma": "38"
     },
     {
+        "Key": "消える-きえる",
+        "Furi": "消[き]える",
+        "Eng": "to be turned off",
+        "optIkoma": "49"
+    },
+    {
+        "Key": "消す-けす",
+        "Furi": "消[け]す",
+        "Eng": "to turn off",
+        "optIkoma": "49"
+    },
+    {
+        "Key": "消防車-しょうぼうしゃ",
+        "Furi": "消[しょう]防[ぼう]車[しゃ]",
+        "Eng": "fire engine",
+        "optIkoma": "49"
+    },
+    {
         "Key": "涼しい-すずしい",
         "Furi": "涼[すず]しい",
         "Eng": "cool/refreshing",
@@ -3298,6 +4000,30 @@
         "Furi": "済[す]む",
         "Eng": "to finish/to end",
         "optIkoma": "42"
+    },
+    {
+        "Key": "減らす-へらす",
+        "Furi": "減[へ]らす",
+        "Eng": "to decrease",
+        "optIkoma": "44"
+    },
+    {
+        "Key": "減る-へる",
+        "Furi": "減[へ]る",
+        "Eng": "to be decreased",
+        "optIkoma": "44"
+    },
+    {
+        "Key": "渡る-わたる",
+        "Furi": "渡[わた]る",
+        "Eng": "to cross",
+        "optIkoma": "49"
+    },
+    {
+        "Key": "渡米する-とうべいする",
+        "Furi": "渡[とう]米[べい]する",
+        "Eng": "to go to USA",
+        "optIkoma": "49"
     },
     {
         "Key": "港-みなと",
@@ -3348,6 +4074,24 @@
         "optIkoma": "31"
     },
     {
+        "Key": "燃える-もえる",
+        "Furi": "燃[も]える",
+        "Eng": "to be burned",
+        "optIkoma": "48"
+    },
+    {
+        "Key": "燃やす-もやす",
+        "Furi": "燃[も]やす",
+        "Eng": "to burn",
+        "optIkoma": "48"
+    },
+    {
+        "Key": "燃費-ねんぴ",
+        "Furi": "燃[ねん]費[ぴ]",
+        "Eng": "mileage",
+        "optIkoma": "48"
+    },
+    {
         "Key": "父-ちち",
         "Furi": "父[ちち]",
         "Eng": "father (mine)",
@@ -3378,6 +4122,12 @@
         "optIkoma": "24"
     },
     {
+        "Key": "特別-とくべつ",
+        "Furi": "特[とく]別[べつ]",
+        "Eng": "special",
+        "optIkoma": "43"
+    },
+    {
         "Key": "特急-とっきゅう",
         "Furi": "特急[とっきゅう]",
         "Eng": "limited express",
@@ -3400,6 +4150,12 @@
         "Furi": "狭[せま]い",
         "Eng": "narrow/confined",
         "optIkoma": "26"
+    },
+    {
+        "Key": "球-たま",
+        "Furi": "球[たま]",
+        "Eng": "ball",
+        "optIkoma": "47"
     },
     {
         "Key": "甘い-あまい",
@@ -3474,6 +4230,18 @@
         "optIkoma": "11"
     },
     {
+        "Key": "由来-ゆらい",
+        "Furi": "由[ゆ]来[らい]",
+        "Eng": "origin",
+        "optIkoma": "48"
+    },
+    {
+        "Key": "由緒-ゆいしょ",
+        "Furi": "由[ゆい]緒[しょ]",
+        "Eng": "time-honored",
+        "optIkoma": "48"
+    },
+    {
         "Key": "申し込み-もうしこみ",
         "Furi": "申[もう]し込[こ]み",
         "Eng": "application",
@@ -3502,6 +4270,12 @@
         "Furi": "町[まち]",
         "Eng": "town",
         "optIkoma": "07"
+    },
+    {
+        "Key": "画-え",
+        "Furi": "画[え]",
+        "Eng": "picture",
+        "optIkoma": "49"
     },
     {
         "Key": "画家-がか",
@@ -3666,6 +4440,12 @@
         "optIkoma": "26"
     },
     {
+        "Key": "相性-あいしょう",
+        "Furi": "相[あい]性[しょう]",
+        "Eng": "affinity",
+        "optIkoma": "50"
+    },
+    {
         "Key": "相手-あいて",
         "Furi": "相[あい]手[て]",
         "Eng": "companion/partner",
@@ -3732,6 +4512,18 @@
         "optIkoma": "15"
     },
     {
+        "Key": "短い-みじかい",
+        "Furi": "短[みじか]い",
+        "Eng": "short",
+        "optIkoma": "43"
+    },
+    {
+        "Key": "短所-たんしょ",
+        "Furi": "短[たん]所[しょ]",
+        "Eng": "weak point",
+        "optIkoma": "43"
+    },
+    {
         "Key": "石-いし",
         "Furi": "石[いし]",
         "Eng": "stone",
@@ -3774,6 +4566,12 @@
         "optIkoma": "02"
     },
     {
+        "Key": "祖先-そせん",
+        "Furi": "祖[そ]先[せん]",
+        "Eng": "an ancestor",
+        "optIkoma": "44"
+    },
+    {
         "Key": "祖母-そぼ",
         "Furi": "祖[そ]母[ぼ]",
         "Eng": "grandmother (mine)",
@@ -3798,6 +4596,24 @@
         "optIkoma": "36"
     },
     {
+        "Key": "私 (formal)-わたくし",
+        "Furi": "私[わたくし] (formal)",
+        "Eng": "I (formal)",
+        "optIkoma": "49"
+    },
+    {
+        "Key": "私-わたし",
+        "Furi": "私[わたし]",
+        "Eng": "I",
+        "optIkoma": "49"
+    },
+    {
+        "Key": "私立-しりつ",
+        "Furi": "私[し]立[りつ]",
+        "Eng": "private/non-governmental",
+        "optIkoma": "49"
+    },
+    {
         "Key": "秋-あき",
         "Furi": "秋[あき]",
         "Eng": "authumn",
@@ -3820,6 +4636,18 @@
         "Furi": "立[た]つ",
         "Eng": "to stand up",
         "optIkoma": "15"
+    },
+    {
+        "Key": "笑う-わらう",
+        "Furi": "笑[わら]う",
+        "Eng": "to laugh",
+        "optIkoma": "43"
+    },
+    {
+        "Key": "笑顔-えがお",
+        "Furi": "笑[え]顔[がお]",
+        "Eng": "smiling face/smile",
+        "optIkoma": "43"
     },
     {
         "Key": "答える-こたえる",
@@ -3862,6 +4690,24 @@
         "Furi": "約[やく]束[そく]",
         "Eng": "promise",
         "optIkoma": "32"
+    },
+    {
+        "Key": "細い-ほそい",
+        "Furi": "細[ほそ]い",
+        "Eng": "thin",
+        "optIkoma": "45"
+    },
+    {
+        "Key": "細かい-こまかい",
+        "Furi": "細[こま]かい",
+        "Eng": "small",
+        "optIkoma": "45"
+    },
+    {
+        "Key": "細かいお金-こまかいおかね",
+        "Furi": "細[こま]かいお金[かね]",
+        "Eng": "small change",
+        "optIkoma": "45"
     },
     {
         "Key": "紹介する-しょうかいする",
@@ -3936,6 +4782,18 @@
         "optIkoma": "39"
     },
     {
+        "Key": "絡まる-からまる",
+        "Furi": "絡[から]まる",
+        "Eng": "to tangle",
+        "optIkoma": "44"
+    },
+    {
+        "Key": "絡む-からむ",
+        "Furi": "絡[から]む",
+        "Eng": "to twist",
+        "optIkoma": "44"
+    },
+    {
         "Key": "給料-きゅうりょう",
         "Furi": "給[きゅう]料[りょう]",
         "Eng": "salary/wages",
@@ -3946,6 +4804,12 @@
         "Furi": "給[きゅう]食[しょく]",
         "Eng": "school meal",
         "optIkoma": "28"
+    },
+    {
+        "Key": "絵画-かいが",
+        "Furi": "絵[かい]画[が]",
+        "Eng": "picture",
+        "optIkoma": "49"
     },
     {
         "Key": "絶える-たえる",
@@ -3994,6 +4858,18 @@
         "Furi": "置[お]く",
         "Eng": "to put",
         "optIkoma": "30"
+    },
+    {
+        "Key": "美しい-うつくしい",
+        "Furi": "美[うつく]しい",
+        "Eng": "Beautiful",
+        "optIkoma": "44"
+    },
+    {
+        "Key": "美人-びじん",
+        "Furi": "美[び]人[じん]",
+        "Eng": "beauty",
+        "optIkoma": "44"
     },
     {
         "Key": "美術-びじゅつ",
@@ -4050,6 +4926,18 @@
         "optIkoma": "16"
     },
     {
+        "Key": "育つ-そだつ",
+        "Furi": "育[そだ]つ",
+        "Eng": "to grow",
+        "optIkoma": "48"
+    },
+    {
+        "Key": "育てる-そだてる",
+        "Furi": "育[そだ]てる",
+        "Eng": "to raise/to bring up",
+        "optIkoma": "48"
+    },
+    {
         "Key": "自動販売機-じどうはんばいき",
         "Furi": "自[じ]動[どう]販[はん]売[ばい]機[き]",
         "Eng": "vending machine",
@@ -4060,6 +4948,36 @@
         "Furi": "自[じ]動[どう]車[しゃ]",
         "Eng": "car/automobile",
         "optIkoma": "23"
+    },
+    {
+        "Key": "自宅-じたく",
+        "Furi": "自[じ]宅[たく]",
+        "Eng": "ones home/ones house",
+        "optIkoma": "50"
+    },
+    {
+        "Key": "自由-じゆう",
+        "Furi": "自[じ]由[ゆう]",
+        "Eng": "freedom",
+        "optIkoma": "48"
+    },
+    {
+        "Key": "船-ふね",
+        "Furi": "船[ふね]",
+        "Eng": "ship/boat",
+        "optIkoma": "46"
+    },
+    {
+        "Key": "船便-ふなびん",
+        "Furi": "船[ふな]便[びん]",
+        "Eng": "sea mail",
+        "optIkoma": "46"
+    },
+    {
+        "Key": "船長-せんちょう",
+        "Furi": "船[せん]長[ちょう]",
+        "Eng": "captain",
+        "optIkoma": "46"
     },
     {
         "Key": "色-いろ",
@@ -4078,6 +4996,18 @@
         "Furi": "花[か]瓶[びん]",
         "Eng": "vase",
         "optIkoma": "14"
+    },
+    {
+        "Key": "若い-わかい",
+        "Furi": "若[わか]い",
+        "Eng": "young",
+        "optIkoma": "47"
+    },
+    {
+        "Key": "若干-じゃっかん",
+        "Furi": "若干[じゃっかん]",
+        "Eng": "a little",
+        "optIkoma": "47"
     },
     {
         "Key": "若者-わかもの",
@@ -4120,6 +5050,42 @@
         "Furi": "荷[に]物[もつ]",
         "Eng": "parcel/luggage",
         "optIkoma": "07"
+    },
+    {
+        "Key": "菜の花-なのはな",
+        "Furi": "菜[な]の花[はな]",
+        "Eng": "rape blossoms",
+        "optIkoma": "49"
+    },
+    {
+        "Key": "落ちる-おちる",
+        "Furi": "落[お]ちる",
+        "Eng": "to fall",
+        "optIkoma": "48"
+    },
+    {
+        "Key": "落とす-おとす",
+        "Furi": "落[お]とす",
+        "Eng": "to drop",
+        "optIkoma": "48"
+    },
+    {
+        "Key": "落第する-らくだいする",
+        "Furi": "落[らく]第[だい]する",
+        "Eng": "to fail the exam",
+        "optIkoma": "48"
+    },
+    {
+        "Key": "薄い-うすい",
+        "Furi": "薄[うす]い",
+        "Eng": "thin/pale/weak",
+        "optIkoma": "44"
+    },
+    {
+        "Key": "薄情-はくじょう",
+        "Furi": "薄[はく]情[じょう]",
+        "Eng": "cold",
+        "optIkoma": "44"
     },
     {
         "Key": "薬-くすり",
@@ -4272,6 +5238,12 @@
         "optIkoma": "14"
     },
     {
+        "Key": "記す-しるす",
+        "Furi": "記[しる]す",
+        "Eng": "to write",
+        "optIkoma": "49"
+    },
+    {
         "Key": "許す-ゆるす",
         "Furi": "許[ゆる]す",
         "Eng": "to permit/to allow/to approve",
@@ -4326,6 +5298,12 @@
         "optIkoma": "19"
     },
     {
+        "Key": "詳細-しょうさい",
+        "Furi": "詳[しょう]細[さい]",
+        "Eng": "detail",
+        "optIkoma": "45"
+    },
+    {
         "Key": "誕生日-たんじょうび",
         "Furi": "誕[たん]生[じょう]日[び]",
         "Eng": "birthday",
@@ -4356,10 +5334,28 @@
         "optIkoma": "06"
     },
     {
+        "Key": "調べる-しらべる",
+        "Furi": "調[しら]べる",
+        "Eng": "to investigate",
+        "optIkoma": "50"
+    },
+    {
+        "Key": "調子-ちょうし",
+        "Furi": "調[ちょう]子[し]",
+        "Eng": "condition",
+        "optIkoma": "50"
+    },
+    {
         "Key": "警察犬-けいさつけん",
         "Furi": "警[けい]察[さつ]犬[けん]",
         "Eng": "police dog",
         "optIkoma": "10"
+    },
+    {
+        "Key": "議論-ぎろん",
+        "Furi": "議[ぎ]論[ろん]",
+        "Eng": "discussion/dispute",
+        "optIkoma": "46"
     },
     {
         "Key": "負う-おう",
@@ -4398,6 +5394,12 @@
         "optIkoma": "30"
     },
     {
+        "Key": "賛成する-さんせいする",
+        "Furi": "賛[さん]成[せい]する",
+        "Eng": "to agree/to approve",
+        "optIkoma": "48"
+    },
+    {
         "Key": "質問をする-しつもんをする",
         "Furi": "質[しつ]問[もん]をする",
         "Eng": "to ask a question",
@@ -4432,6 +5434,30 @@
         "Furi": "走[そう]者[しゃ]",
         "Eng": "rumor",
         "optIkoma": "29"
+    },
+    {
+        "Key": "起きる-おきる",
+        "Furi": "起[お]きる",
+        "Eng": "to wake up/to get up",
+        "optIkoma": "43"
+    },
+    {
+        "Key": "起こす-おこす",
+        "Furi": "起[お]こす",
+        "Eng": "to wake up/to get up",
+        "optIkoma": "43"
+    },
+    {
+        "Key": "起床する-きしょうする",
+        "Furi": "起[き]床[しょう]する",
+        "Eng": "getting out of bed",
+        "optIkoma": "43"
+    },
+    {
+        "Key": "超える-こえる",
+        "Furi": "超[こ]える",
+        "Eng": "to cross",
+        "optIkoma": "45"
     },
     {
         "Key": "趣味-しゅみ",
@@ -4474,6 +5500,12 @@
         "Furi": "転[ころ]ぶ",
         "Eng": "to fall",
         "optIkoma": "27"
+    },
+    {
+        "Key": "軽食-けいしょく",
+        "Furi": "軽[けい]食[しょく]",
+        "Eng": "snack/light meal/refreshments",
+        "optIkoma": "43"
     },
     {
         "Key": "輸入する-ゆにゅうする",
@@ -4602,6 +5634,12 @@
         "optIkoma": "34"
     },
     {
+        "Key": "途中-とちゅう",
+        "Furi": "途[と]中[ちゅう]",
+        "Eng": "on the way",
+        "optIkoma": "46"
+    },
+    {
         "Key": "通う-かよう",
         "Furi": "通[かよ]う",
         "Eng": "to commute",
@@ -4614,10 +5652,40 @@
         "optIkoma": "27"
     },
     {
+        "Key": "通勤する-つうきんする",
+        "Furi": "通[つう]勤[きん]する",
+        "Eng": "to commute",
+        "optIkoma": "50"
+    },
+    {
+        "Key": "通過する-つうかする",
+        "Furi": "通[つう]過[か]する",
+        "Eng": "to pass",
+        "optIkoma": "50"
+    },
+    {
         "Key": "速い-はやい",
         "Furi": "速[はや]い",
         "Eng": "fast/quick",
         "optIkoma": "26"
+    },
+    {
+        "Key": "連なる-つらなる",
+        "Furi": "連[つら]なる",
+        "Eng": "to string",
+        "optIkoma": "44"
+    },
+    {
+        "Key": "連れて行く-つれていく",
+        "Furi": "連[つ]れて行[い]く",
+        "Eng": "to bring someone",
+        "optIkoma": "44"
+    },
+    {
+        "Key": "連絡する-れんらくする",
+        "Furi": "連[れん]絡[らく]する",
+        "Eng": "to construct",
+        "optIkoma": "44"
     },
     {
         "Key": "連続-れんぞく",
@@ -4668,6 +5736,18 @@
         "optIkoma": "36"
     },
     {
+        "Key": "遊ぶ-あそぶ",
+        "Furi": "遊[あそ]ぶ",
+        "Eng": "to play",
+        "optIkoma": "47"
+    },
+    {
+        "Key": "遊園地-ゆうえんち",
+        "Furi": "遊[ゆう]園[えん]地[ち]",
+        "Eng": "theme park",
+        "optIkoma": "47"
+    },
+    {
         "Key": "運がいい-うんがいい",
         "Furi": "運[うん]がいい",
         "Eng": "lucky/fortunate",
@@ -4698,6 +5778,18 @@
         "optIkoma": "36"
     },
     {
+        "Key": "過ぎる-すぎる",
+        "Furi": "過[す]ぎる",
+        "Eng": "to pass",
+        "optIkoma": "50"
+    },
+    {
+        "Key": "過ごす-すごす",
+        "Furi": "過[す]ごす",
+        "Eng": "to spend",
+        "optIkoma": "50"
+    },
+    {
         "Key": "道-みち",
         "Furi": "道[みち]",
         "Eng": "road/street",
@@ -4720,6 +5812,24 @@
         "Furi": "違[い]法[ほう]行[こう]為[い]",
         "Eng": "illegal action",
         "optIkoma": "36"
+    },
+    {
+        "Key": "遠い-とおい",
+        "Furi": "遠[とお]い",
+        "Eng": "far",
+        "optIkoma": "47"
+    },
+    {
+        "Key": "遠足-えんそく",
+        "Furi": "遠[えん]足[そく]",
+        "Eng": "school excursion",
+        "optIkoma": "47"
+    },
+    {
+        "Key": "選ぶ-えらぶ",
+        "Furi": "選[えら]ぶ",
+        "Eng": "to choose",
+        "optIkoma": "47"
     },
     {
         "Key": "選手-せんしゅ",
@@ -4776,6 +5886,12 @@
         "optIkoma": "17"
     },
     {
+        "Key": "酒屋-さかや",
+        "Furi": "酒[さか]屋[や]",
+        "Eng": "liquor store",
+        "optIkoma": "50"
+    },
+    {
         "Key": "重い-おもい",
         "Furi": "重[おも]い",
         "Eng": "heavy",
@@ -4786,6 +5902,18 @@
         "Furi": "野[の]原[はら]",
         "Eng": "fields",
         "optIkoma": "38"
+    },
+    {
+        "Key": "野球-やきゅう",
+        "Furi": "野[や]球[きゅう]",
+        "Eng": "baseball",
+        "optIkoma": "47"
+    },
+    {
+        "Key": "野菜-やさい",
+        "Furi": "野[や]菜[さい]",
+        "Eng": "vegetable",
+        "optIkoma": "49"
     },
     {
         "Key": "金曜日-きんようび",
@@ -4890,6 +6018,12 @@
         "optIkoma": "10"
     },
     {
+        "Key": "関係-かんけい",
+        "Furi": "関[かん]係[けい]",
+        "Eng": "relationship",
+        "optIkoma": "46"
+    },
+    {
         "Key": "降りる-おりる",
         "Furi": "降[お]りる",
         "Eng": "to alight/to get off",
@@ -4900,6 +6034,24 @@
         "Furi": "降[ふ]る",
         "Eng": "to fall (rain/snow)",
         "optIkoma": "25"
+    },
+    {
+        "Key": "降雪-こうせつ",
+        "Furi": "降[こう]雪[せつ]",
+        "Eng": "snowing",
+        "optIkoma": "49"
+    },
+    {
+        "Key": "階-かい",
+        "Furi": "階[かい]",
+        "Eng": "floor/storey",
+        "optIkoma": "46"
+    },
+    {
+        "Key": "階段-かいだん",
+        "Furi": "階[かい]段[だん]",
+        "Eng": "stairs",
+        "optIkoma": "46"
     },
     {
         "Key": "集まる-あつまる",
@@ -4962,6 +6114,12 @@
         "optIkoma": "13"
     },
     {
+        "Key": "雪祭り-ゆきまつり",
+        "Furi": "雪[ゆき]祭[まつ]り",
+        "Eng": "snow festival",
+        "optIkoma": "49"
+    },
+    {
         "Key": "電気-でんき",
         "Furi": "電[でん]気[き]",
         "Eng": "electricity/electric light",
@@ -5004,6 +6162,18 @@
         "optIkoma": "11"
     },
     {
+        "Key": "静か-しずか",
+        "Furi": "静[しず]か",
+        "Eng": "quiet",
+        "optIkoma": "44"
+    },
+    {
+        "Key": "静脈-じょうみゃく",
+        "Furi": "静[じょう]脈[みゃく]",
+        "Eng": "vein",
+        "optIkoma": "44"
+    },
+    {
         "Key": "非常-ひじょう",
         "Furi": "非[ひ]常[じょう]",
         "Eng": "emergency",
@@ -5038,6 +6208,12 @@
         "Furi": "音[おん]楽[がく]家[か]",
         "Eng": "musician",
         "optIkoma": "11"
+    },
+    {
+        "Key": "頭-あたま",
+        "Furi": "頭[あたま]",
+        "Eng": "head",
+        "optIkoma": "43"
     },
     {
         "Key": "頭痛-ずつう",
@@ -5088,6 +6264,12 @@
         "optIkoma": "31"
     },
     {
+        "Key": "飛ぶ-とぶ",
+        "Furi": "飛[と]ぶ",
+        "Eng": "to fly",
+        "optIkoma": "46"
+    },
+    {
         "Key": "飛行機-ひこうき",
         "Furi": "飛[ひ]行[こう]機[き]",
         "Eng": "aeroplane/airplane",
@@ -5128,6 +6310,12 @@
         "Furi": "飲[の]み物[もの]",
         "Eng": "beverage",
         "optIkoma": "06"
+    },
+    {
+        "Key": "飲酒-いんしゅ",
+        "Furi": "飲[いん]酒[しゅ]",
+        "Eng": "drinking",
+        "optIkoma": "50"
     },
     {
         "Key": "飲酒運転-いんしゅうんてん",
