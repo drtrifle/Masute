@@ -3,14 +3,18 @@
         "Key": "あの人-あのひと",
         "Furi": "あの人[ひと]",
         "Eng": "that person (casual)",
-        "optTagMain" : ["noun"],
+        "optTagMain": [
+            "noun"
+        ],
         "optIkomaKanji": "02"
     },
     {
         "Key": "あの方-あのかた",
         "Furi": "あの方[かた]",
         "Eng": "that person (polite)",
-        "optTagMain" : ["noun"],
+        "optTagMain": [
+            "noun"
+        ],
         "optIkomaKanji": "02"
     },
     {
@@ -23,113 +27,157 @@
         "Key": "お兄さん-おにいさん",
         "Furi": "お兄[にい]さん",
         "Eng": "older brother/elder brother (other)",
-        "optTagMain" : ["noun"],
+        "optTagMain": [
+            "noun"
+        ],
         "optIkomaKanji": "11"
     },
     {
         "Key": "お姉さん-おねえさん",
         "Furi": "お姉[ねえ]さん",
         "Eng": "older sister/elder sister (other)",
-        "optTagMain" : ["noun"],
+        "optTagMain": [
+            "noun"
+        ],
         "optIkomaKanji": "11"
     },
     {
         "Key": "お宅-おたく",
         "Furi": "お宅[たく]",
         "Eng": "house (formal)",
-        "optTagMain" : ["noun"],
+        "optTagMain": [
+            "noun"
+        ],
         "optIkomaKanji": "50"
     },
     {
         "Key": "お客-おきゃく",
         "Furi": "お客[きゃく]",
         "Eng": "guest/customer",
-        "optTagMain" : ["noun"],
+        "optTagMain": [
+            "noun"
+        ],
         "optIkomaKanji": "36"
     },
     {
         "Key": "お客様-おきゃくさま",
         "Furi": "お客[きゃく]様[さま]",
         "Eng": "guest/customer (formal)",
-        "optTagMain" : ["noun"],
+        "optTagMain": [
+            "noun"
+        ],
         "optIkomaKanji": "50"
     },
     {
         "Key": "お寺-おてら",
         "Furi": "お寺[てら]",
         "Eng": "temple",
-        "optTagMain" : ["noun"],
+        "optTagMain": [
+            "noun"
+        ],
         "optIkomaKanji": "26"
     },
     {
         "Key": "お正月-おしょうがつ",
         "Furi": "お正[しょう]月[がつ]",
         "Eng": "new year",
-        "optTagMain" : ["noun"],
+        "optTagMain": [
+            "noun"
+        ],
         "optIkomaKanji": "23"
     },
     {
         "Key": "お母さん-おかあさん",
         "Furi": "お母[かあ]さん",
         "Eng": "mother (other)",
-        "optTagMain" : ["noun"],
+        "optTagMain": [
+            "noun"
+        ],
         "optIkomaKanji": "07"
     },
     {
         "Key": "お湯-おゆ",
         "Furi": "お湯[ゆ]",
         "Eng": "hot water",
-        "optTagMain" : ["noun"],
+        "optTagMain": [
+            "noun"
+        ],
         "optIkomaKanji": "26"
     },
     {
         "Key": "お父さん-おとうさん",
         "Furi": "お父[とう]さん",
         "Eng": "father (other)",
-        "optTagMain" : ["noun"],
+        "optTagMain": [
+            "noun"
+        ],
         "optIkomaKanji": "07"
     },
     {
         "Key": "お経-おきょう",
         "Furi": "お経[きょう]",
         "Eng": "sutra (Buddhism)",
-        "optTagMain" : ["noun"],
+        "optTagMain": [
+            "noun"
+        ],
         "optIkomaKanji": "42"
     },
     {
         "Key": "お茶-おちゃ",
         "Furi": "お茶[ちゃ]",
         "Eng": "tea",
-        "optTagMain" : ["noun"],
+        "optTagMain": [
+            "noun"
+        ],
         "optIkomaKanji": "14"
     },
     {
         "Key": "お酒-おさけ",
         "Furi": "お酒[さけ]",
         "Eng": "alcohol",
-        "optTagMain" : ["noun"],
+        "optTagMain": [
+            "noun"
+        ],
         "optIkomaKanji": "50"
     },
     {
         "Key": "お金-おかね",
         "Furi": "お金[かね]",
         "Eng": "money",
-        "optTagMain" : ["noun"],
+        "optTagMain": [
+            "noun"
+        ],
         "optIkomaKanji": "04"
     },
     {
         "Key": "お願いします-おねがいします",
         "Furi": "お願[ねが]いします",
         "Eng": "please",
-        "optTagMain" : ["noun"],
+        "optTagMain": [
+            "noun"
+        ],
         "optIkomaKanji": "26"
     },
     {
         "Key": "この度-このたび",
         "Furi": "この度[たび]",
         "Eng": "at this time/now",
-        "optTagMain" : ["noun","adv"],
+        "optTagMain": [
+            "noun",
+            "adv"
+        ],
         "optIkomaKanji": "19"
+    },
+    {
+        "Key": "コピーする-コピーする",
+        "Furi": "コピーする",
+        "Eng": "to copy",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ]
     },
     {
         "Key": "ご主人-ごしゅじん",
@@ -148,6 +196,39 @@
         "Furi": "ご飯[はん]",
         "Eng": "rice/meal (polite)",
         "optIkomaKanji": "37"
+    },
+    {
+        "Key": "ネクタイをする-ネクタイをする",
+        "Furi": "ネクタイをする",
+        "Eng": "to wear a necktie",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ]
+    },
+    {
+        "Key": "ハンサム-ハンサム",
+        "Furi": "ハンサム",
+        "Eng": "handsome",
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "な"
+        ]
+    },
+    {
+        "Key": "メモする-メモする",
+        "Furi": "メモする",
+        "Eng": "to take a memo",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ]
     },
     {
         "Key": "一万円-いちまんえん",
@@ -290,15 +371,25 @@
     {
         "Key": "上げる-あげる",
         "Furi": "上[あ]げる",
-        "Eng": "to raise",
+        "Eng": "to give/to raise",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "09"
     },
     {
         "Key": "上手-じょうず",
         "Furi": "上[じょう]手[ず]",
         "Eng": "good at",
-        "optTagMain": ["adj"],
-        "optTagSub": ["な"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "な"
+        ],
         "optIkomaKanji": "09"
     },
     {
@@ -314,6 +405,28 @@
         "optIkomaKanji": "09"
     },
     {
+        "Key": "下ろす-おろす",
+        "Furi": "下[お]ろす",
+        "Eng": "to withdraw",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ]
+    },
+    {
+        "Key": "下手-へた",
+        "Furi": "下手[へた]",
+        "Eng": "bad at",
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "な"
+        ]
+    },
+    {
         "Key": "下車する-げしゃする",
         "Furi": "下[げ]車[しゃ]する",
         "Eng": "to get off",
@@ -323,8 +436,12 @@
         "Key": "不便-ふべん",
         "Furi": "不[ふ]便[べん]",
         "Eng": "inconvenient",
-        "optTagMain": ["adj"],
-        "optTagSub": ["な"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "な"
+        ],
         "optIkomaKanji": "21"
     },
     {
@@ -373,6 +490,12 @@
         "Key": "並べる-ならべる",
         "Furi": "並[なら]べる",
         "Eng": "to line up/to arrange in a line (Transitive)",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "34"
     },
     {
@@ -442,9 +565,26 @@
         "optIkomaKanji": "18"
     },
     {
+        "Key": "乗り換える-のりかえる",
+        "Furi": "乗[の]り換[か]える",
+        "Eng": "to transfer (trains)/to change (bus)",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ]
+    },
+    {
         "Key": "乗る-のる",
         "Furi": "乗[の]る",
         "Eng": "to ride",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "49"
     },
     {
@@ -475,7 +615,24 @@
         "Key": "予約する-よやくする",
         "Furi": "予[よ]約[やく]する",
         "Eng": "to reserve/to book",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ],
         "optIkomaKanji": "32"
+    },
+    {
+        "Key": "予習する-よしゅうする",
+        "Furi": "予[よ]習[しゅう]する",
+        "Eng": "to prepare (for a lesson)",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ]
     },
     {
         "Key": "事-こと",
@@ -622,9 +779,26 @@
         "optIkomaKanji": "21"
     },
     {
+        "Key": "仕舞う-しまう",
+        "Furi": "仕[し]舞[ま]う",
+        "Eng": "to put away",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ]
+    },
+    {
         "Key": "付く-つく",
         "Furi": "付[つ]く",
         "Eng": "to be attached",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "45"
     },
     {
@@ -664,10 +838,32 @@
         "optIkomaKanji": "05"
     },
     {
+        "Key": "休む-やすむ",
+        "Furi": "休[やす]む",
+        "Eng": "to rest",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ]
+    },
+    {
         "Key": "休憩-きゅうけい",
         "Furi": "休[きゅう]憩[けい]",
         "Eng": "rest/break/recess/intermission",
         "optIkomaKanji": "05"
+    },
+    {
+        "Key": "休憩する-きゅうけいする",
+        "Furi": "休[きゅう]憩[けい]する",
+        "Eng": "to take a break/to take a rest",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ]
     },
     {
         "Key": "休日-きゅうじつ",
@@ -679,6 +875,12 @@
         "Key": "会う-あう",
         "Furi": "会[あ]う",
         "Eng": "to meet",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "02"
     },
     {
@@ -715,8 +917,12 @@
         "Key": "低い-ひくい",
         "Furi": "低[ひく]い",
         "Eng": "low",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "43"
     },
     {
@@ -729,6 +935,12 @@
         "Key": "住む-すむ",
         "Furi": "住[す]む",
         "Eng": "to live/to reside",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "16"
     },
     {
@@ -777,6 +989,12 @@
         "Key": "作る-つくる",
         "Furi": "作[つく]る",
         "Eng": "to make/to produce",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "16"
     },
     {
@@ -795,6 +1013,12 @@
         "Key": "使う-つかう",
         "Furi": "使[つか]う",
         "Eng": "to use",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "16"
     },
     {
@@ -837,8 +1061,12 @@
         "Key": "便利-べんり",
         "Furi": "便[べん]利[り]",
         "Eng": "convenient",
-        "optTagMain": ["adj"],
-        "optTagSub": ["な"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "な"
+        ],
         "optIkomaKanji": "35"
     },
     {
@@ -858,6 +1086,17 @@
         "Furi": "信[しん]号[ごう]",
         "Eng": "traffic light/signal",
         "optIkomaKanji": "36"
+    },
+    {
+        "Key": "修理する-しゅうりする",
+        "Furi": "修[しゅう]理[り]する",
+        "Eng": "to repair",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ]
     },
     {
         "Key": "倒す-たおす",
@@ -881,6 +1120,12 @@
         "Key": "借りる-かりる",
         "Furi": "借[か]りる",
         "Eng": "to borrow",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "20"
     },
     {
@@ -902,6 +1147,17 @@
         "optIkomaKanji": "46"
     },
     {
+        "Key": "偉い-えらい",
+        "Furi": "偉[えら]い",
+        "Eng": "great/admirable",
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ]
+    },
+    {
         "Key": "健康-けんこう",
         "Furi": "健[けん]康[こう]",
         "Eng": "health",
@@ -911,6 +1167,12 @@
         "Key": "働く-はたらく",
         "Furi": "働[はたら]く",
         "Eng": "to work",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "45"
     },
     {
@@ -947,8 +1209,12 @@
         "Key": "元気-げんき",
         "Furi": "元[げん]気[き]",
         "Eng": "fine/healthy/energetic",
-        "optTagMain": ["adj"],
-        "optTagSub": ["な"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "な"
+        ],
         "optIkomaKanji": "12"
     },
     {
@@ -996,13 +1262,25 @@
     {
         "Key": "入る-はいる",
         "Furi": "入[はい]る",
-        "Eng": "to enter",
+        "Eng": "to enter/to take a bath",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "13"
     },
     {
         "Key": "入れる-いれる",
         "Furi": "入[い]れる",
         "Eng": "to insert/to put in",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "13"
     },
     {
@@ -1090,6 +1368,17 @@
         "optIkomaKanji": "46"
     },
     {
+        "Key": "其のままにする-そのままにする",
+        "Furi": "其[そ]のままにする",
+        "Eng": "to leave things as they are",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ]
+    },
+    {
         "Key": "円い-まるい",
         "Furi": "円[まる]い",
         "Eng": "round",
@@ -1123,8 +1412,12 @@
         "Key": "冷たい-つめたい",
         "Furi": "冷[つめ]たい",
         "Eng": "cold",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "45"
     },
     {
@@ -1146,9 +1439,48 @@
         "optIkomaKanji": "45"
     },
     {
+        "Key": "凄い-すごい",
+        "Furi": "凄[すご]い",
+        "Eng": "great/amazing",
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ]
+    },
+    {
+        "Key": "出かける-でかける",
+        "Furi": "出[で]かける",
+        "Eng": "to depart",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ]
+    },
+    {
+        "Key": "出す-だす",
+        "Furi": "出[だ]す",
+        "Eng": "to submit/to take out",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ]
+    },
+    {
         "Key": "出る-でる",
         "Furi": "出[で]る",
         "Eng": "to leave",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "13"
     },
     {
@@ -1162,6 +1494,28 @@
         "Furi": "出[しゅっ]席[せき]する",
         "Eng": "to attend",
         "optIkomaKanji": "33"
+    },
+    {
+        "Key": "出張する-しゅっちょうする",
+        "Furi": "出[しゅっ]張[ちょう]する",
+        "Eng": "to go on a business trip",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ]
+    },
+    {
+        "Key": "出来る-できる",
+        "Furi": "出[で]来[き]る",
+        "Eng": "to be able/to be built",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ]
     },
     {
         "Key": "出港する-しゅっこうする",
@@ -1191,6 +1545,12 @@
         "Key": "分かる-わかる",
         "Furi": "分[わ]かる",
         "Eng": "to understand",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "03"
     },
     {
@@ -1203,6 +1563,12 @@
         "Key": "切る-きる",
         "Furi": "切[き]る",
         "Eng": "to cut/to sever",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "25"
     },
     {
@@ -1254,6 +1620,17 @@
         "optIkomaKanji": "05"
     },
     {
+        "Key": "割れる-われる",
+        "Furi": "割[わ]れる",
+        "Eng": "to break/to smash (physical, Intransitive verb)",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ]
+    },
+    {
         "Key": "力-ちから",
         "Furi": "力[ちから]",
         "Eng": "power",
@@ -1275,12 +1652,24 @@
         "Key": "勉強する-べんきょうする",
         "Furi": "勉[べん]強[きょう]する",
         "Eng": "to study",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ],
         "optIkomaKanji": "20"
     },
     {
         "Key": "動く-うごく",
         "Furi": "動[うご]く",
         "Eng": "to move/to stir",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "23"
     },
     {
@@ -1299,6 +1688,12 @@
         "Key": "勝つ-かつ",
         "Furi": "勝[か]つ",
         "Eng": "to win",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "26"
     },
     {
@@ -1443,8 +1838,12 @@
         "Key": "危ない-あぶない",
         "Furi": "危[あぶ]ない",
         "Eng": "dangerous/hazardous",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "33"
     },
     {
@@ -1544,9 +1943,37 @@
         "optIkomaKanji": "40"
     },
     {
+        "Key": "収穫する-しゅうかくする",
+        "Furi": "収[しゅう]穫[かく]する",
+        "Eng": "to harvest",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ]
+    },
+    {
+        "Key": "取り替える-とりかえる",
+        "Furi": "取[と]り替[か]える",
+        "Eng": "to change/to replace/to swap",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ]
+    },
+    {
         "Key": "取る-とる",
         "Furi": "取[と]る",
         "Eng": "to take/to grab/to catch",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "27"
     },
     {
@@ -1571,6 +1998,12 @@
         "Key": "受ける-うける",
         "Furi": "受[う]ける",
         "Eng": "to take",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "45"
     },
     {
@@ -1589,8 +2022,12 @@
         "Key": "古い-ふるい",
         "Furi": "古[ふる]い",
         "Eng": "old/aged (for things, not people)",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "18"
     },
     {
@@ -1678,6 +2115,17 @@
         "optIkomaKanji": "35"
     },
     {
+        "Key": "吸う-すう",
+        "Furi": "吸[す]う",
+        "Eng": "to smoke/to inhale",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ]
+    },
+    {
         "Key": "吹く-ふく",
         "Furi": "吹[ふ]く",
         "Eng": "to blow",
@@ -1688,6 +2136,17 @@
         "Furi": "吹[すい]奏[そう]楽[がく]団[だん]",
         "Eng": "brass band",
         "optIkomaKanji": "48"
+    },
+    {
+        "Key": "呉れる-くれる",
+        "Furi": "呉[く]れる",
+        "Eng": "to give (from someone to you)",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ]
     },
     {
         "Key": "味-あじ",
@@ -1711,6 +2170,12 @@
         "Key": "呼ぶ-よぶ",
         "Furi": "呼[よ]ぶ",
         "Eng": "to call",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "38"
     },
     {
@@ -1750,6 +2215,17 @@
         "optIkomaKanji": "17"
     },
     {
+        "Key": "噛む-かむ",
+        "Furi": "噛[か]む",
+        "Eng": "to chew/to bite",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ]
+    },
+    {
         "Key": "四人-よにん",
         "Furi": "四[よ]人[にん]",
         "Eng": "four people",
@@ -1777,6 +2253,12 @@
         "Key": "回す-まわす",
         "Furi": "回[まわ]す",
         "Eng": "to rotate/to turn",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "43"
     },
     {
@@ -1900,6 +2382,17 @@
         "optIkomaKanji": "44"
     },
     {
+        "Key": "壊れる-こわれる",
+        "Furi": "壊[こわ]れる",
+        "Eng": "to break/to be broken (function, Intransitive verb)",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ]
+    },
+    {
         "Key": "声-こえ",
         "Furi": "声[こえ]",
         "Eng": "voice",
@@ -1921,7 +2414,24 @@
         "Key": "売る-うる",
         "Furi": "売[う]る",
         "Eng": "to sell",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "17"
+    },
+    {
+        "Key": "売れる-うれる",
+        "Furi": "売[う]れる",
+        "Eng": "to sell well",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ]
     },
     {
         "Key": "売買-ばいばい",
@@ -1969,6 +2479,12 @@
         "Key": "外れる-はずれる",
         "Furi": "外[はず]れる",
         "Eng": "to be undone",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "10"
     },
     {
@@ -1981,8 +2497,12 @@
         "Key": "多い-おおい",
         "Furi": "多[おお]い",
         "Eng": "many/much",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "12"
     },
     {
@@ -2019,24 +2539,47 @@
         "Key": "大きい-おおきい",
         "Furi": "大[おお]きい",
         "Eng": "big/large",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "02"
+    },
+    {
+        "Key": "大丈夫-だいじょうぶ",
+        "Furi": "大[だい]丈[じょう]夫[ぶ]",
+        "Eng": "alright/okay/ok",
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "な"
+        ]
     },
     {
         "Key": "大切-たいせつ",
         "Furi": "大[たい]切[せつ]",
         "Eng": "important/significant",
-        "optTagMain": ["adj"],
-        "optTagSub": ["な"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "な"
+        ],
         "optIkomaKanji": "25"
     },
     {
         "Key": "大変-たいへん",
         "Furi": "大[たい]変[へん]",
         "Eng": "awful/tough",
-        "optTagMain": ["adj"],
-        "optTagSub": ["な"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "な"
+        ],
         "optIkomaKanji": "44"
     },
     {
@@ -2151,8 +2694,12 @@
         "Key": "好き-すき",
         "Furi": "好[す]き",
         "Eng": "like",
-        "optTagMain": ["adj"],
-        "optTagSub": ["な"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "な"
+        ],
         "optIkomaKanji": "45"
     },
     {
@@ -2207,7 +2754,24 @@
         "Key": "始める-はじめる",
         "Furi": "始[はじ]める",
         "Eng": "to start/to begin (transitive)",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "21"
+    },
+    {
+        "Key": "嫌い-きらい",
+        "Furi": "嫌[きら]い",
+        "Eng": "dislike/hate",
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "な"
+        ]
     },
     {
         "Key": "子ども-こども",
@@ -2249,8 +2813,12 @@
         "Key": "安い-やすい",
         "Furi": "安[やす]い",
         "Eng": "cheap",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "08"
     },
     {
@@ -2350,6 +2918,17 @@
         "optIkomaKanji": "37"
     },
     {
+        "Key": "寂しい-さびしい",
+        "Furi": "寂[さび]しい",
+        "Eng": "lonely",
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ]
+    },
+    {
         "Key": "寄付-きふ",
         "Furi": "寄[き]付[ふ]",
         "Eng": "donation",
@@ -2365,8 +2944,12 @@
         "Key": "寒い-さむい",
         "Furi": "寒[さむ]い",
         "Eng": "cold",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "35"
     },
     {
@@ -2385,6 +2968,12 @@
         "Key": "寝る-ねる",
         "Furi": "寝[ね]る",
         "Eng": "to sleep",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "45"
     },
     {
@@ -2409,8 +2998,12 @@
         "Key": "小さい-ちいさい",
         "Furi": "小[ちい]さい",
         "Eng": "small/little",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "08"
     },
     {
@@ -2435,9 +3028,24 @@
         "Key": "少ない-すくない",
         "Furi": "少[すく]ない",
         "Eng": "a little/a few",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "12"
+    },
+    {
+        "Key": "居る-いる",
+        "Furi": "居[い]る",
+        "Eng": "to exist (animate objects)",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ]
     },
     {
         "Key": "届く-とどく",
@@ -2456,6 +3064,17 @@
         "Furi": "屋[おく]上[じょう]",
         "Eng": "rooftop",
         "optIkomaKanji": "22"
+    },
+    {
+        "Key": "履く-はく",
+        "Furi": "履[は]く",
+        "Eng": "to wear (shoes, pants)",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ]
     },
     {
         "Key": "山-やま",
@@ -2545,6 +3164,12 @@
         "Key": "帰る-かえる",
         "Furi": "帰[かえ]る",
         "Eng": "to return",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "06"
     },
     {
@@ -2617,8 +3242,12 @@
         "Key": "広い-ひろい",
         "Furi": "広[ひろ]い",
         "Eng": "wide/spacious",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "13"
     },
     {
@@ -2649,6 +3278,12 @@
         "Key": "座る-すわる",
         "Furi": "座[すわ]る",
         "Eng": "to sit/to squat",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "26"
     },
     {
@@ -2667,6 +3302,12 @@
         "Key": "建てる-たてる",
         "Furi": "建[た]てる",
         "Eng": "to build/to construct",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "23"
     },
     {
@@ -2684,7 +3325,13 @@
     {
         "Key": "引く-ひく",
         "Furi": "引[ひ]く",
-        "Eng": "to pull",
+        "Eng": "to pull/to play a musical instrument",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "45"
     },
     {
@@ -2709,8 +3356,12 @@
         "Key": "弱い-よわい",
         "Furi": "弱[よわ]い",
         "Eng": "weak",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "47"
     },
     {
@@ -2720,11 +3371,26 @@
         "optIkomaKanji": "47"
     },
     {
+        "Key": "張る-はる",
+        "Furi": "張[は]る",
+        "Eng": "to stick/to paste/to affix",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ]
+    },
+    {
         "Key": "強い-つよい",
         "Furi": "強[つよ]い",
         "Eng": "strong/potent/tough",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "20"
     },
     {
@@ -2749,6 +3415,12 @@
         "Key": "役に立つ-やくにたつ",
         "Furi": "役[やく]に立[た]つ",
         "Eng": "useful",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "46"
     },
     {
@@ -2767,6 +3439,12 @@
         "Key": "待つ-まつ",
         "Furi": "待[ま]つ",
         "Eng": "to wait",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "37"
     },
     {
@@ -2790,7 +3468,13 @@
     {
         "Key": "復習する-ふくしゅうする",
         "Furi": "復[ふく]習[しゅう]する",
-        "Eng": "to review",
+        "Eng": "to review (lesson material)",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ],
         "optIkomaKanji": "30"
     },
     {
@@ -2818,9 +3502,26 @@
         "optIkomaKanji": "41"
     },
     {
+        "Key": "心配-しんぱい",
+        "Furi": "心[しん]配[ぱい]",
+        "Eng": "worried/anxious",
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "な"
+        ]
+    },
+    {
         "Key": "心配する-しんぱいする",
         "Furi": "心[しん]配[ぱい]する",
         "Eng": "to worry",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ],
         "optIkomaKanji": "17"
     },
     {
@@ -2845,6 +3546,12 @@
         "Key": "忘れる-わすれる",
         "Furi": "忘[わす]れる",
         "Eng": "to forget",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "30"
     },
     {
@@ -2857,26 +3564,48 @@
         "Key": "忙しい-いそがしい",
         "Furi": "忙[いそが]しい",
         "Eng": "busy (casual)",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "28"
     },
     {
         "Key": "思い出す-おもいだす",
         "Furi": "思[おも]い出[だ]す",
         "Eng": "to remember",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "13"
     },
     {
         "Key": "思う-おもう",
         "Furi": "思[おも]う",
         "Eng": "to think",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "16"
     },
     {
         "Key": "急ぐ-いそぐ",
         "Furi": "急[いそ]ぐ",
         "Eng": "to hurry",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "26"
     },
     {
@@ -2907,8 +3636,12 @@
         "Key": "悪い-わるい",
         "Furi": "悪[わる]い",
         "Eng": "bad",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "26"
     },
     {
@@ -2957,6 +3690,12 @@
         "Key": "成る-なる",
         "Furi": "成[な]る",
         "Eng": "to become",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "38"
     },
     {
@@ -2972,9 +3711,26 @@
         "optIkomaKanji": "38"
     },
     {
+        "Key": "戦う-たたかう",
+        "Furi": "戦[たたか]う",
+        "Eng": "to fight",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ]
+    },
+    {
         "Key": "戻す-もどす",
         "Furi": "戻[もど]す",
         "Eng": "to put back/to return",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "33"
     },
     {
@@ -2982,6 +3738,17 @@
         "Furi": "所[ところ]",
         "Eng": "address/place",
         "optIkomaKanji": "35"
+    },
+    {
+        "Key": "手伝う-てつだう",
+        "Furi": "手[て]伝[つだ]う",
+        "Eng": "to help",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ]
     },
     {
         "Key": "手紙-てがみ",
@@ -2993,6 +3760,12 @@
         "Key": "払う-はらう",
         "Furi": "払[はら]う",
         "Eng": "to pay",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "33"
     },
     {
@@ -3008,9 +3781,26 @@
         "optIkomaKanji": "30"
     },
     {
+        "Key": "折れる-おれる",
+        "Furi": "折[お]れる",
+        "Eng": "to break/to snap (tree, Intransitive verb)",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ]
+    },
+    {
         "Key": "押す-おす",
         "Furi": "押[お]す",
         "Eng": "to push",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "45"
     },
     {
@@ -3032,9 +3822,26 @@
         "optIkomaKanji": "38"
     },
     {
+        "Key": "拭く-ふく",
+        "Furi": "拭[ふ]く",
+        "Eng": "to wipe/to dry",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ]
+    },
+    {
         "Key": "拾う-ひろう",
         "Furi": "拾[ひろ]う",
         "Eng": "to pick up",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "26"
     },
     {
@@ -3053,18 +3860,63 @@
         "Key": "持つ-もつ",
         "Furi": "持[も]つ",
         "Eng": "to have/to carry",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "18"
+    },
+    {
+        "Key": "持っていく-もっていく",
+        "Furi": "持[も]っていく",
+        "Eng": "to take something and go",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ]
+    },
+    {
+        "Key": "持ってくる-もってくる",
+        "Furi": "持[も]ってくる",
+        "Eng": "to bring something and come",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ]
     },
     {
         "Key": "捨てる-すてる",
         "Furi": "捨[す]てる",
         "Eng": "to discard/to throw away",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "37"
+    },
+    {
+        "Key": "掃除する-そうじする",
+        "Furi": "掃[そう]除[じ]する",
+        "Eng": "to clean",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ]
     },
     {
         "Key": "授かる-さずかる",
         "Furi": "授[さず]かる",
-        "Eng": "to be awarded(prize)/to be gifted(talent)",
+        "Eng": "to be awarded (prize)/to be gifted (talent)",
         "optIkomaKanji": "30"
     },
     {
@@ -3086,9 +3938,37 @@
         "optIkomaKanji": "09"
     },
     {
+        "Key": "掛かる-かかる",
+        "Furi": "掛[か]かる",
+        "Eng": "to be locked",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ]
+    },
+    {
+        "Key": "掛ける-かける",
+        "Furi": "掛[か]ける",
+        "Eng": "to make a call/to wear accessories/to hang up",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ]
+    },
+    {
         "Key": "探す-さがす",
         "Furi": "探[さが]す",
         "Eng": "to search",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "26"
     },
     {
@@ -3096,6 +3976,39 @@
         "Furi": "探[たん]検[けん]",
         "Eng": "exploration",
         "optIkomaKanji": "26"
+    },
+    {
+        "Key": "描く-えがく",
+        "Furi": "描[えが]く",
+        "Eng": "to draw/to paint/to sketch",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ]
+    },
+    {
+        "Key": "換える-かえる",
+        "Furi": "換[か]える",
+        "Eng": "to change/to replace",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ]
+    },
+    {
+        "Key": "撮る-とる",
+        "Furi": "撮[と]る",
+        "Eng": "to record/to film/to photograph",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ]
     },
     {
         "Key": "操作-そうさ",
@@ -3137,6 +4050,12 @@
         "Key": "教える-おしえる",
         "Furi": "教[おし]える",
         "Eng": "to teach/to instruct",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "19"
     },
     {
@@ -3173,6 +4092,12 @@
         "Key": "散歩する-さんぽする",
         "Furi": "散[さん]歩[ぽ]する",
         "Eng": "to stroll",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ],
         "optIkomaKanji": "12"
     },
     {
@@ -3197,8 +4122,12 @@
         "Key": "新しい-あたらしい",
         "Furi": "新[あたら]しい",
         "Eng": "new/novel",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "18"
     },
     {
@@ -3212,6 +4141,17 @@
         "Furi": "新[しん]聞[ぶん]",
         "Eng": "newspaper",
         "optIkomaKanji": "06"
+    },
+    {
+        "Key": "新鮮-しんせん",
+        "Furi": "新[しん]鮮[せん]",
+        "Eng": "fresh",
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "な"
+        ]
     },
     {
         "Key": "方向-ほうこう",
@@ -3268,6 +4208,17 @@
         "optIkomaKanji": "02"
     },
     {
+        "Key": "早い-はやい",
+        "Furi": "早[はや]い",
+        "Eng": "fast/early",
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ]
+    },
+    {
         "Key": "早く-はやく",
         "Furi": "早[はや]く",
         "Eng": "early",
@@ -3283,9 +4234,24 @@
         "Key": "明るい-あかるい",
         "Furi": "明[あか]るい",
         "Eng": "bright/well-lit/cheerful",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "16"
+    },
+    {
+        "Key": "易しい-やさしい",
+        "Furi": "易[やさ]しい",
+        "Eng": "easy/plain/simple",
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ]
     },
     {
         "Key": "星-ほし",
@@ -3384,19 +4350,38 @@
         "optIkomaKanji": "31"
     },
     {
+        "Key": "暇-ひま",
+        "Furi": "暇[ひま]",
+        "Eng": "free time/spare time/leisure",
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "な"
+        ]
+    },
+    {
         "Key": "暑い-あつい",
         "Furi": "暑[あつ]い",
         "Eng": "hot (temperature)",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "35"
     },
     {
         "Key": "暖かい-あたたかい",
         "Furi": "暖[あたた]かい",
         "Eng": "warm",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "42"
     },
     {
@@ -3404,6 +4389,17 @@
         "Furi": "暖[だん]房[ぼう]",
         "Eng": "heating (indoor)",
         "optIkomaKanji": "42"
+    },
+    {
+        "Key": "暗い-くらい",
+        "Furi": "暗[くら]い",
+        "Eng": "dark",
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ]
     },
     {
         "Key": "暗記する-あんきする",
@@ -3421,12 +4417,24 @@
         "Key": "曲がる-まがる",
         "Furi": "曲[ま]がる",
         "Eng": "to bend/to turn",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "36"
     },
     {
         "Key": "書く-かく",
         "Furi": "書[か]く",
         "Eng": "to write",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "04"
     },
     {
@@ -3474,15 +4482,25 @@
     {
         "Key": "有る-ある",
         "Furi": "有[あ]る",
-        "Eng": "to have/to possess",
+        "Eng": "to have/to possess/to exist (inanimate objects)",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "22"
     },
     {
         "Key": "有名-ゆうめい",
         "Furi": "有[ゆう]名[めい]",
         "Eng": "famous",
-        "optTagMain": ["adj"],
-        "optTagSub": ["な"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "な"
+        ],
         "optIkomaKanji": "02"
     },
     {
@@ -3549,6 +4567,12 @@
         "Key": "来る-くる",
         "Furi": "来[く]る",
         "Eng": "to come",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ],
         "optIkomaKanji": "02"
     },
     {
@@ -3591,6 +4615,12 @@
         "Key": "案内する-あんないする",
         "Furi": "案[あん]内[ない]する",
         "Eng": "to guide",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ],
         "optIkomaKanji": "41"
     },
     {
@@ -3615,6 +4645,12 @@
         "Key": "植える-うえる",
         "Furi": "植[う]える",
         "Eng": "to plant",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "30"
     },
     {
@@ -3639,8 +4675,12 @@
         "Key": "楽しい-たのしい",
         "Furi": "楽[たの]しい",
         "Eng": "fun/enjoyable",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "19"
     },
     {
@@ -3689,8 +4729,12 @@
         "Key": "欲しい-ほしい",
         "Furi": "欲[ほ]しい",
         "Eng": "wanting",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "25"
     },
     {
@@ -3703,6 +4747,12 @@
         "Key": "歌う-うたう",
         "Furi": "歌[うた]う",
         "Eng": "to sing",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "19"
     },
     {
@@ -3714,13 +4764,25 @@
     {
         "Key": "止まる-とまる",
         "Furi": "止[と]まる",
-        "Eng": "to come to a halt",
+        "Eng": "to come to a halt (Intransitive verb)",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "13"
     },
     {
         "Key": "止める-とめる",
         "Furi": "止[と]める",
         "Eng": "to stop/to park",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "13"
     },
     {
@@ -3751,6 +4813,12 @@
         "Key": "歩く-あるく",
         "Furi": "歩[ある]く",
         "Eng": "to walk",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "12"
     },
     {
@@ -3811,6 +4879,12 @@
         "Key": "残業する-ざんぎょうする",
         "Furi": "残[ざん]業[ぎょう]する",
         "Eng": "to do overtime",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ],
         "optIkomaKanji": "40"
     },
     {
@@ -3842,6 +4916,17 @@
         "Furi": "毎[まい]朝[あさ]",
         "Eng": "every morning",
         "optIkomaKanji": "07"
+    },
+    {
+        "Key": "気をつける-きをつける",
+        "Furi": "気[き]をつける",
+        "Eng": "to take care/to pay attention",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ]
     },
     {
         "Key": "水-みず",
@@ -3876,7 +4961,13 @@
     {
         "Key": "汚れる-よごれる",
         "Furi": "汚[よご]れる",
-        "Eng": "to be dirty",
+        "Eng": "to get dirty/to become dirty (Intransitive verb)",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "40"
     },
     {
@@ -3901,6 +4992,12 @@
         "Key": "決める-きめる",
         "Furi": "決[き]める",
         "Eng": "to decide",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "29"
     },
     {
@@ -3943,6 +5040,12 @@
         "Key": "泊まる-とまる",
         "Furi": "泊[と]まる",
         "Eng": "to stay",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "49"
     },
     {
@@ -3979,6 +5082,12 @@
         "Key": "泳ぐ-およぐ",
         "Furi": "泳[およ]ぐ",
         "Eng": "to swim",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "35"
     },
     {
@@ -3997,12 +5106,24 @@
         "Key": "洗う-あらう",
         "Furi": "洗[あら]う",
         "Eng": "to wash",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "43"
     },
     {
         "Key": "洗濯する-せんたくする",
         "Furi": "洗[せん]濯[たく]する",
         "Eng": "to do laundry",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ],
         "optIkomaKanji": "43"
     },
     {
@@ -4015,6 +5136,12 @@
         "Key": "浴びる-あびる",
         "Furi": "浴[あ]びる",
         "Eng": "to bathe",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "25"
     },
     {
@@ -4044,13 +5171,25 @@
     {
         "Key": "消える-きえる",
         "Furi": "消[き]える",
-        "Eng": "to be turned off",
+        "Eng": "to go out/to be turned off (Intransitive verb)",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "49"
     },
     {
         "Key": "消す-けす",
         "Furi": "消[け]す",
         "Eng": "to turn off",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "49"
     },
     {
@@ -4063,8 +5202,12 @@
         "Key": "涼しい-すずしい",
         "Furi": "涼[すず]しい",
         "Eng": "cool/refreshing",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "28"
     },
     {
@@ -4095,6 +5238,12 @@
         "Key": "渡る-わたる",
         "Furi": "渡[わた]る",
         "Eng": "to cross",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "49"
     },
     {
@@ -4122,16 +5271,60 @@
         "optIkomaKanji": "04"
     },
     {
+        "Key": "点く-つく",
+        "Furi": "点[つ]く",
+        "Eng": "to be lit/to be turned on (Intransitive verb)",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ]
+    },
+    {
+        "Key": "点ける-つける",
+        "Furi": "点[つ]ける",
+        "Eng": "to turn on",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ]
+    },
+    {
         "Key": "無い-ない",
         "Furi": "無[な]い",
         "Eng": "nonexistent",
         "optIkomaKanji": "34"
     },
     {
+        "Key": "無くす-なくす",
+        "Furi": "無[な]くす",
+        "Eng": "to lose (something)",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ]
+    },
+    {
         "Key": "無料-むりょう",
         "Furi": "無[む]料[りょう]",
         "Eng": "free of charge",
         "optIkomaKanji": "18"
+    },
+    {
+        "Key": "無駄-むだ",
+        "Furi": "無[む]駄[だ]",
+        "Eng": "wasteful",
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "な"
+        ]
     },
     {
         "Key": "熱-ねつ",
@@ -4143,16 +5336,24 @@
         "Key": "熱い-あつい",
         "Furi": "熱[あつ]い",
         "Eng": "hot (to the touch)",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "31"
     },
     {
         "Key": "熱心-ねっしん",
         "Furi": "熱[ねっ]心[しん]",
         "Eng": "zealous/enthusiastic/keen/eager",
-        "optTagMain": ["adj"],
-        "optTagSub": ["な"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "な"
+        ],
         "optIkomaKanji": "31"
     },
     {
@@ -4231,8 +5432,12 @@
         "Key": "狭い-せまい",
         "Furi": "狭[せま]い",
         "Eng": "narrow/confined",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "26"
     },
     {
@@ -4245,8 +5450,12 @@
         "Key": "甘い-あまい",
         "Furi": "甘[あま]い",
         "Eng": "sweet/fragrant (adj)",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "26"
     },
     {
@@ -4265,7 +5474,24 @@
         "Key": "生まれる-うまれる",
         "Furi": "生[う]まれる",
         "Eng": "to be born",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "02"
+    },
+    {
+        "Key": "生む-うむ",
+        "Furi": "生[う]む",
+        "Eng": "to give birth",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ]
     },
     {
         "Key": "生卵-なまたまご",
@@ -4334,6 +5560,17 @@
         "optIkomaKanji": "32"
     },
     {
+        "Key": "申し込む-もうしこむ",
+        "Furi": "申[もう]し込[こ]む",
+        "Eng": "to apply for/to enter for",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ]
+    },
+    {
         "Key": "申告する-しんこくする",
         "Furi": "申[しん]告[こく]する",
         "Eng": "to declare/to report",
@@ -4379,6 +5616,12 @@
         "Key": "留学する-りゅうがくする",
         "Furi": "留[りゅう]学[がく]する",
         "Eng": "to study abroad",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ],
         "optIkomaKanji": "25"
     },
     {
@@ -4397,6 +5640,12 @@
         "Key": "疲れる-つかれる",
         "Furi": "疲[つか]れる",
         "Eng": "to tire/to get tired",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "28"
     },
     {
@@ -4436,6 +5685,17 @@
         "optIkomaKanji": "37"
     },
     {
+        "Key": "発表する-はっぴょうする",
+        "Furi": "発[はっ]表[ぴょう]する",
+        "Eng": "to announce/to present",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ]
+    },
+    {
         "Key": "発音-はつおん",
         "Furi": "発[はつ]音[おん]",
         "Eng": "pronunciation",
@@ -4445,6 +5705,12 @@
         "Key": "登る-のぼる",
         "Furi": "登[のぼ]る",
         "Eng": "to climb/to ascend",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "20"
     },
     {
@@ -4457,8 +5723,12 @@
         "Key": "白い-しろい",
         "Furi": "白[しろ]い",
         "Eng": "white",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "08"
     },
     {
@@ -4519,6 +5789,12 @@
         "Key": "直す-なおす",
         "Furi": "直[なお]す",
         "Eng": "to correct/to repair/to heal",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "26"
     },
     {
@@ -4564,23 +5840,50 @@
         "optIkomaKanji": "24"
     },
     {
+        "Key": "真面目-まじめ",
+        "Furi": "真[ま]面[じ]目[め]",
+        "Eng": "serious",
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "な"
+        ]
+    },
+    {
         "Key": "眠い-ねむい",
         "Furi": "眠[ねむ]い",
         "Eng": "sleepy/drowsy",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "26"
     },
     {
         "Key": "着く-つく",
         "Furi": "着[つ]く",
         "Eng": "to arrive/to reach",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "18"
     },
     {
         "Key": "着る-きる",
         "Furi": "着[き]る",
         "Eng": "to wear (shirt)",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "18"
     },
     {
@@ -4593,6 +5896,12 @@
         "Key": "知る-しる",
         "Furi": "知[し]る",
         "Eng": "to know",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "15"
     },
     {
@@ -4605,8 +5914,12 @@
         "Key": "短い-みじかい",
         "Furi": "短[みじか]い",
         "Eng": "short",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "43"
     },
     {
@@ -4637,6 +5950,12 @@
         "Key": "研究する-けんきゅうする",
         "Furi": "研[けん]究[きゅう]する",
         "Eng": "to research",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ],
         "optIkomaKanji": "29"
     },
     {
@@ -4646,10 +5965,32 @@
         "optIkomaKanji": "29"
     },
     {
+        "Key": "破れる-やぶれる",
+        "Furi": "破[やぶ]れる",
+        "Eng": "to rip/to tear (paper, Intransitive verb)",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ]
+    },
+    {
         "Key": "確かめる-たしかめる",
         "Furi": "確[たし]かめる",
         "Eng": "to make sure",
         "optIkomaKanji": "40"
+    },
+    {
+        "Key": "磨く-みがく",
+        "Furi": "磨[みが]く",
+        "Eng": "to brush",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ]
     },
     {
         "Key": "社員-しゃいん",
@@ -4712,6 +6053,17 @@
         "optIkomaKanji": "12"
     },
     {
+        "Key": "移動する-いどうする",
+        "Furi": "移[い]動[どう]する",
+        "Eng": "to be in transit",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ]
+    },
+    {
         "Key": "空-そら",
         "Furi": "空[そら]",
         "Eng": "sky",
@@ -4726,7 +6078,13 @@
     {
         "Key": "立つ-たつ",
         "Furi": "立[た]つ",
-        "Eng": "to stand up",
+        "Eng": "to stand",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "15"
     },
     {
@@ -4757,8 +6115,12 @@
         "Key": "簡単-かんたん",
         "Furi": "簡[かん]単[たん]",
         "Eng": "simple/easy/uncomplicated",
-        "optTagMain": ["adj"],
-        "optTagSub": ["な"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "な"
+        ],
         "optIkomaKanji": "27"
     },
     {
@@ -4786,6 +6148,17 @@
         "optIkomaKanji": "32"
     },
     {
+        "Key": "素敵-すてき",
+        "Furi": "素敵[すてき]",
+        "Eng": "fine/nice/wonderful",
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "な"
+        ]
+    },
+    {
         "Key": "細い-ほそい",
         "Furi": "細[ほそ]い",
         "Eng": "thin",
@@ -4807,12 +6180,24 @@
         "Key": "紹介する-しょうかいする",
         "Furi": "紹[しょう]介[かい]する",
         "Eng": "to introduce",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ],
         "optIkomaKanji": "42"
     },
     {
         "Key": "終わる-おわる",
         "Furi": "終[お]わる",
         "Eng": "to end/to finish",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "24"
     },
     {
@@ -4860,7 +6245,13 @@
     {
         "Key": "結婚する-けっこんする",
         "Furi": "結[けっ]婚[こん]する",
-        "Eng": "to get married",
+        "Eng": "to marry",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ],
         "optIkomaKanji": "39"
     },
     {
@@ -4933,7 +6324,24 @@
         "Key": "続ける-つづける",
         "Furi": "続[つづ]ける",
         "Eng": "to continue",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "32"
+    },
+    {
+        "Key": "綺麗-きれい",
+        "Furi": "綺[き]麗[れい]",
+        "Eng": "pretty/lovely/beautiful/fair",
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "な"
+        ]
     },
     {
         "Key": "練る-ねる",
@@ -4948,9 +6356,26 @@
         "optIkomaKanji": "19"
     },
     {
+        "Key": "纏める-まとめる",
+        "Furi": "纏[まと]める",
+        "Eng": "to put together",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ]
+    },
+    {
         "Key": "置く-おく",
         "Furi": "置[お]く",
         "Eng": "to put",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "30"
     },
     {
@@ -4966,6 +6391,17 @@
         "optIkomaKanji": "44"
     },
     {
+        "Key": "美味しい-おいしい",
+        "Furi": "美味[おい]しい",
+        "Eng": "delicious/tasty",
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ]
+    },
+    {
         "Key": "美術-びじゅつ",
         "Furi": "美[び]術[じゅつ]",
         "Eng": "art",
@@ -4975,6 +6411,12 @@
         "Key": "習う-ならう",
         "Furi": "習[なら]う",
         "Eng": "to learn",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "19"
     },
     {
@@ -4987,6 +6429,12 @@
         "Key": "考える-かんがえる",
         "Furi": "考[かんが]える",
         "Eng": "to consider/to ponder",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "25"
     },
     {
@@ -5011,7 +6459,24 @@
         "Key": "聞く-きく",
         "Furi": "聞[き]く",
         "Eng": "to listen",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "06"
+    },
+    {
+        "Key": "聞こえる-きこえる",
+        "Furi": "聞[き]こえる",
+        "Eng": "to be heard",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ]
     },
     {
         "Key": "肉-にく",
@@ -5030,6 +6495,28 @@
         "Furi": "育[そだ]てる",
         "Eng": "to raise/to bring up",
         "optIkomaKanji": "48"
+    },
+    {
+        "Key": "脱ぐ-ぬぐ",
+        "Furi": "脱[ぬ]ぐ",
+        "Eng": "to undress",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ]
+    },
+    {
+        "Key": "腫れる-はれる",
+        "Furi": "腫[は]れる",
+        "Eng": "to swell (from inflammation)",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ]
     },
     {
         "Key": "自動販売機-じどうはんばいき",
@@ -5074,6 +6561,17 @@
         "optIkomaKanji": "46"
     },
     {
+        "Key": "良い-よい",
+        "Furi": "良[よ]い",
+        "Eng": "good",
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ]
+    },
+    {
         "Key": "色-いろ",
         "Furi": "色[いろ]",
         "Eng": "color",
@@ -5095,8 +6593,12 @@
         "Key": "若い-わかい",
         "Furi": "若[わか]い",
         "Eng": "young",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "47"
     },
     {
@@ -5148,6 +6650,17 @@
         "optIkomaKanji": "07"
     },
     {
+        "Key": "荷造りする-にづくりする",
+        "Furi": "荷[に]造[づく]りする",
+        "Eng": "to pack",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ]
+    },
+    {
         "Key": "菜の花-なのはな",
         "Furi": "菜[な]の花[はな]",
         "Eng": "rape blossoms",
@@ -5162,7 +6675,13 @@
     {
         "Key": "落とす-おとす",
         "Furi": "落[お]とす",
-        "Eng": "to drop",
+        "Eng": "to drop/to lose",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "48"
     },
     {
@@ -5205,6 +6724,12 @@
         "Key": "行く-いく",
         "Furi": "行[い]く",
         "Eng": "to go",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "02"
     },
     {
@@ -5212,6 +6737,17 @@
         "Furi": "表[おもて]",
         "Eng": "surface",
         "optIkomaKanji": "40"
+    },
+    {
+        "Key": "被る-かぶる",
+        "Furi": "被[かぶ]る",
+        "Eng": "to wear (hat)",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ]
     },
     {
         "Key": "製品-せいひん",
@@ -5240,19 +6776,70 @@
     {
         "Key": "要る-いる",
         "Furi": "要[い]る",
-        "Eng": "to need",
+        "Eng": "to need/to require",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "39"
+    },
+    {
+        "Key": "見える-みえる",
+        "Furi": "見[み]える",
+        "Eng": "to be seen",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ]
+    },
+    {
+        "Key": "見せる-みせる",
+        "Furi": "見[み]せる",
+        "Eng": "to show/to display",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ]
+    },
+    {
+        "Key": "見つける-みつける",
+        "Furi": "見[み]つける",
+        "Eng": "to find",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ]
     },
     {
         "Key": "見る-みる",
         "Furi": "見[み]る",
         "Eng": "to see",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "06"
     },
     {
         "Key": "見学する-けんがくする",
         "Furi": "見[けん]学[がく]する",
         "Eng": "to visit for study",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ],
         "optIkomaKanji": "06"
     },
     {
@@ -5265,6 +6852,12 @@
         "Key": "覚える-おぼえる",
         "Furi": "覚[おぼ]える",
         "Eng": "to memorise/to remember",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "28"
     },
     {
@@ -5289,8 +6882,12 @@
         "Key": "親切-しんせつ",
         "Furi": "親[しん]切[せつ]",
         "Eng": "kind/gentle",
-        "optTagMain": ["adj"],
-        "optTagSub": ["な"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "な"
+        ],
         "optIkomaKanji": "25"
     },
     {
@@ -5312,9 +6909,26 @@
         "optIkomaKanji": "32"
     },
     {
+        "Key": "触る-さわる",
+        "Furi": "触[さわ]る",
+        "Eng": "to touch/to feel",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ]
+    },
+    {
         "Key": "言う-いう",
         "Furi": "言[い]う",
         "Eng": "to say/to utter/to declare",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "21"
     },
     {
@@ -5352,6 +6966,17 @@
         "Furi": "許[きょ]可[か]",
         "Eng": "permission/approval/authorization",
         "optIkomaKanji": "36"
+    },
+    {
+        "Key": "診る-みる",
+        "Furi": "診[み]る",
+        "Eng": "to examine (medically)",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ]
     },
     {
         "Key": "試す-ためす",
@@ -5393,6 +7018,12 @@
         "Key": "話す-はなす",
         "Furi": "話[はな]す",
         "Eng": "to chat/to talk/to speak",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "19"
     },
     {
@@ -5417,12 +7048,24 @@
         "Key": "説明する-せつめいする",
         "Furi": "説[せつ]明[めい]する",
         "Eng": "to explain",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ],
         "optIkomaKanji": "16"
     },
     {
         "Key": "読む-よむ",
         "Furi": "読[よ]む",
         "Eng": "to read",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "06"
     },
     {
@@ -5435,6 +7078,12 @@
         "Key": "調べる-しらべる",
         "Furi": "調[しら]べる",
         "Eng": "to investigate",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "50"
     },
     {
@@ -5464,8 +7113,25 @@
     {
         "Key": "負ける-まける",
         "Furi": "負[ま]ける",
-        "Eng": "to lose",
+        "Eng": "to lose/to yield",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "26"
+    },
+    {
+        "Key": "貰う-もらう",
+        "Furi": "貰[もら]う",
+        "Eng": "to receive",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ]
     },
     {
         "Key": "買い物-かいもの",
@@ -5474,9 +7140,37 @@
         "optIkomaKanji": "06"
     },
     {
+        "Key": "買い物する-かいものする",
+        "Furi": "買[か]い物[もの]する",
+        "Eng": "to shop",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ]
+    },
+    {
+        "Key": "買う-かう",
+        "Furi": "買[か]う",
+        "Eng": "to buy/to purchase",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ]
+    },
+    {
         "Key": "貸す-かす",
         "Furi": "貸[か]す",
         "Eng": "to lend/to loan",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "20"
     },
     {
@@ -5490,6 +7184,17 @@
         "Furi": "資[し]料[りょう]",
         "Eng": "material/data/document",
         "optIkomaKanji": "30"
+    },
+    {
+        "Key": "賑やか-にぎやか",
+        "Furi": "賑[にぎ]やか",
+        "Eng": "lively",
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "な"
+        ]
     },
     {
         "Key": "賛成する-さんせいする",
@@ -5513,8 +7218,12 @@
         "Key": "赤い-あかい",
         "Furi": "赤[あか]い",
         "Eng": "red",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "08"
     },
     {
@@ -5527,6 +7236,12 @@
         "Key": "走る-はしる",
         "Furi": "走[はし]る",
         "Eng": "to run",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "29"
     },
     {
@@ -5539,6 +7254,12 @@
         "Key": "起きる-おきる",
         "Furi": "起[お]きる",
         "Eng": "to wake up/to get up",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "43"
     },
     {
@@ -5581,7 +7302,24 @@
         "Key": "足りる-たりる",
         "Furi": "足[た]りる",
         "Eng": "to be enough",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "15"
+    },
+    {
+        "Key": "踊る-おどる",
+        "Furi": "踊[おど]る",
+        "Eng": "to dance",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ]
     },
     {
         "Key": "車-くるま",
@@ -5602,6 +7340,17 @@
         "optIkomaKanji": "27"
     },
     {
+        "Key": "軽い-かるい",
+        "Furi": "軽[かる]い",
+        "Eng": "light",
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ]
+    },
+    {
         "Key": "軽食-けいしょく",
         "Furi": "軽[けい]食[しょく]",
         "Eng": "snack/light meal/refreshments",
@@ -5617,16 +7366,24 @@
         "Key": "辛い (味覚)-からい",
         "Furi": "辛[から]い (味覚)",
         "Eng": "spicy (taste)",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "26"
     },
     {
         "Key": "辛い (経験)-つらい",
         "Furi": "辛[つら]い (経験)",
         "Eng": "difficult (experience)",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "26"
     },
     {
@@ -5638,7 +7395,13 @@
     {
         "Key": "辞める-やめる",
         "Furi": "辞[や]める",
-        "Eng": "to quit",
+        "Eng": "to quit/to stop",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "32"
     },
     {
@@ -5666,10 +7429,32 @@
         "optIkomaKanji": "32"
     },
     {
+        "Key": "迎える-むかえる",
+        "Furi": "迎[むか]える",
+        "Eng": "to welcome",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ]
+    },
+    {
         "Key": "迎春-げいしゅん",
         "Furi": "迎[げい]春[しゅん]",
         "Eng": "welcome spring (new year greeting)",
         "optIkomaKanji": "11"
+    },
+    {
+        "Key": "近い-ちかい",
+        "Furi": "近[ちか]い",
+        "Eng": "near",
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ]
     },
     {
         "Key": "近く-ちかく",
@@ -5687,6 +7472,12 @@
         "Key": "返す-かえす",
         "Furi": "返[かえ]す",
         "Eng": "to return (something)",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "32"
     },
     {
@@ -5716,7 +7507,13 @@
     {
         "Key": "送る-おくる",
         "Furi": "送[おく]る",
-        "Eng": "to send/to dispatch",
+        "Eng": "to send/to dispatch/to escort someone",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "20"
     },
     {
@@ -5729,6 +7526,12 @@
         "Key": "逃げる-にげる",
         "Furi": "逃[に]げる",
         "Eng": "to escape/to run away",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "34"
     },
     {
@@ -5747,6 +7550,12 @@
         "Key": "通う-かよう",
         "Furi": "通[かよ]う",
         "Eng": "to commute",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "27"
     },
     {
@@ -5780,15 +7589,38 @@
         "optIkomaKanji": "44"
     },
     {
+        "Key": "連れてくる-つれてくる",
+        "Furi": "連[つ]れてくる",
+        "Eng": "to bring someone and come",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ]
+    },
+    {
         "Key": "連れて行く-つれていく",
         "Furi": "連[つ]れて行[い]く",
-        "Eng": "to bring someone",
+        "Eng": "to take someone and go",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "44"
     },
     {
         "Key": "連絡する-れんらくする",
         "Furi": "連[れん]絡[らく]する",
-        "Eng": "to construct",
+        "Eng": "to contact/to get in touch with",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ],
         "optIkomaKanji": "44"
     },
     {
@@ -5825,14 +7657,24 @@
         "Key": "遅い-おそい",
         "Furi": "遅[おそ]い",
         "Eng": "slow/late",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "36"
     },
     {
         "Key": "遅れる-おくれる",
         "Furi": "遅[おく]れる",
         "Eng": "to be late/to be delayed",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "36"
     },
     {
@@ -5845,6 +7687,12 @@
         "Key": "遊ぶ-あそぶ",
         "Furi": "遊[あそ]ぶ",
         "Eng": "to play",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "47"
     },
     {
@@ -5874,7 +7722,7 @@
     {
         "Key": "運転する-うんてんする",
         "Furi": "運[うん]転[てん]する",
-        "Eng": "to drive",
+        "Eng": "to drive/to operate (machine)",
         "optIkomaKanji": "27"
     },
     {
@@ -5923,8 +7771,12 @@
         "Key": "遠い-とおい",
         "Furi": "遠[とお]い",
         "Eng": "far",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "47"
     },
     {
@@ -5934,9 +7786,26 @@
         "optIkomaKanji": "47"
     },
     {
+        "Key": "遣る-やる",
+        "Furi": "遣[や]る",
+        "Eng": "to do",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ]
+    },
+    {
         "Key": "選ぶ-えらぶ",
         "Furi": "選[えら]ぶ",
-        "Eng": "to choose",
+        "Eng": "to choose/to select",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "47"
     },
     {
@@ -6000,11 +7869,26 @@
         "optIkomaKanji": "50"
     },
     {
+        "Key": "酸っぱい-すっぱい",
+        "Furi": "酸[す]っぱい",
+        "Eng": "sour",
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ]
+    },
+    {
         "Key": "重い-おもい",
         "Furi": "重[おも]い",
         "Eng": "heavy",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "29"
     },
     {
@@ -6053,8 +7937,12 @@
         "Key": "長い-ながい",
         "Furi": "長[なが]い",
         "Eng": "long",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "16"
     },
     {
@@ -6073,12 +7961,24 @@
         "Key": "閉まる-しまる",
         "Furi": "閉[し]まる",
         "Eng": "to be closed",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "33"
     },
     {
-        "Key": "閉める-じめる",
-        "Furi": "閉[じ]める",
+        "Key": "閉める-しめる",
+        "Furi": "閉[し]める",
         "Eng": "to close",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "33"
     },
     {
@@ -6091,18 +7991,36 @@
         "Key": "開く (multiple directions)-ひらく",
         "Furi": "開[ひら]く (multiple directions)",
         "Eng": "to open up/to bloom/to hold events (multiple directions)",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "13"
     },
     {
         "Key": "開く (single direction)-あく",
         "Furi": "開[あ]く (single direction)",
         "Eng": "to open by itself (single direction)",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "13"
     },
     {
         "Key": "開ける-あける",
         "Furi": "開[あ]ける",
         "Eng": "to open",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "13"
     },
     {
@@ -6126,8 +8044,25 @@
     {
         "Key": "間に合う-まにあう",
         "Furi": "間[ま]に合[あ]う",
-        "Eng": "to be in time (for)",
+        "Eng": "to be on time",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "10"
+    },
+    {
+        "Key": "間違える-まちがえる",
+        "Furi": "間[ま]違[ちが]える",
+        "Eng": "to make a mistake",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ]
     },
     {
         "Key": "関係-かんけい",
@@ -6139,12 +8074,24 @@
         "Key": "降りる-おりる",
         "Furi": "降[お]りる",
         "Eng": "to alight/to get off",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "25"
     },
     {
         "Key": "降る-ふる",
         "Furi": "降[ふ]る",
         "Eng": "to fall (rain/snow)",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ],
         "optIkomaKanji": "25"
     },
     {
@@ -6168,13 +8115,19 @@
     {
         "Key": "集まる-あつまる",
         "Furi": "集[あつ]まる",
-        "Eng": "to gather",
+        "Eng": "to collect/to gather",
         "optIkomaKanji": "29"
     },
     {
         "Key": "集める-あつめる",
         "Furi": "集[あつ]める",
-        "Eng": "to collect",
+        "Eng": "to collect/to gather",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "29"
     },
     {
@@ -6199,16 +8152,24 @@
         "Key": "難い-かたい",
         "Furi": "難[かた]い",
         "Eng": "difficult/hard (for verbs)",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "40"
     },
     {
         "Key": "難しい-むずかしい",
         "Furi": "難[むずか]しい",
         "Eng": "difficult/hard (for nouns)",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "40"
     },
     {
@@ -6254,6 +8215,17 @@
         "optIkomaKanji": "19"
     },
     {
+        "Key": "電話する-でんわする",
+        "Furi": "電[でん]話[わ]する",
+        "Eng": "to phone",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ]
+    },
+    {
         "Key": "電車-でんしゃ",
         "Furi": "電[でん]車[しゃ]",
         "Eng": "train (vehicle)",
@@ -6263,8 +8235,12 @@
         "Key": "青い-あおい",
         "Furi": "青[あお]い",
         "Eng": "blue",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "08"
     },
     {
@@ -6283,8 +8259,12 @@
         "Key": "静か-しずか",
         "Furi": "静[しず]か",
         "Eng": "quiet",
-        "optTagMain": ["adj"],
-        "optTagSub": ["な"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "な"
+        ],
         "optIkomaKanji": "44"
     },
     {
@@ -6312,6 +8292,17 @@
         "optIkomaKanji": "26"
     },
     {
+        "Key": "面白い-おもしろい",
+        "Furi": "面[おも]白[しろ]い",
+        "Eng": "interesting",
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ]
+    },
+    {
         "Key": "音-おと",
         "Furi": "音[おと]",
         "Eng": "sound/noise/note",
@@ -6328,6 +8319,17 @@
         "Furi": "音[おん]楽[がく]家[か]",
         "Eng": "musician",
         "optIkomaKanji": "11"
+    },
+    {
+        "Key": "頑張る-がんばる",
+        "Furi": "頑張[がんば]る",
+        "Eng": "to persevere",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ]
     },
     {
         "Key": "頭-あたま",
@@ -6399,6 +8401,12 @@
         "Key": "食べる-たべる",
         "Furi": "食[た]べる",
         "Eng": "to eat",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "2"
+        ],
         "optIkomaKanji": "06"
     },
     {
@@ -6406,6 +8414,17 @@
         "Furi": "食[た]べ物[もの]",
         "Eng": "food",
         "optIkomaKanji": "07"
+    },
+    {
+        "Key": "食事する-しょくじする",
+        "Furi": "食[しょく]事[じ]する",
+        "Eng": "to have a meal",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "3"
+        ]
     },
     {
         "Key": "食堂-しょくどう",
@@ -6432,6 +8451,17 @@
         "optIkomaKanji": "06"
     },
     {
+        "Key": "飲む-のむ",
+        "Furi": "飲[の]む",
+        "Eng": "to drink/to take medicine",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ]
+    },
+    {
         "Key": "飲酒-いんしゅ",
         "Furi": "飲[いん]酒[しゅ]",
         "Eng": "drinking",
@@ -6442,6 +8472,28 @@
         "Furi": "飲[いん]酒[しゅ]運[うん]転[てん]",
         "Eng": "drink driving",
         "optIkomaKanji": "06"
+    },
+    {
+        "Key": "飼う-かう",
+        "Furi": "飼[か]う",
+        "Eng": "to raise a pet",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ]
+    },
+    {
+        "Key": "飾る-かざる",
+        "Furi": "飾[かざ]る",
+        "Eng": "to display/to decorate",
+        "optTagMain": [
+            "verb"
+        ],
+        "optTagSub": [
+            "1"
+        ]
     },
     {
         "Key": "首-くび",
@@ -6483,8 +8535,12 @@
         "Key": "高い-たかい",
         "Furi": "高[たか]い",
         "Eng": "tall/expensive",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "08"
     },
     {
@@ -6533,8 +8589,12 @@
         "Key": "黒い-くろい",
         "Furi": "黒[くろ]い",
         "Eng": "black",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"],
+        "optTagMain": [
+            "adj"
+        ],
+        "optTagSub": [
+            "い"
+        ],
         "optIkomaKanji": "08"
     },
     {
@@ -6542,173 +8602,5 @@
         "Furi": "黒[こく]板[ばん]",
         "Eng": "blackboard",
         "optIkomaKanji": "08"
-    },
-    {
-        "Key": "ハンサム-ハンサム",
-        "Furi": "ハンサム",
-        "Eng": "handsome",
-        "optTagMain": ["adj"],
-        "optTagSub": ["な"]
-    },
-    {
-        "Key": "綺麗-きれい",
-        "Furi": "綺[き]麗[れい]",
-        "Eng": "pretty/lovely/beautiful/fair",
-        "optTagMain": ["adj"],
-        "optTagSub": ["な"]
-    },
-    {
-        "Key": "賑やか-にぎやか",
-        "Furi": "賑[にぎ]やか",
-        "Eng": "lively",
-        "optTagMain": ["adj"],
-        "optTagSub": ["な"]
-    },
-    {
-        "Key": "暇-ひま",
-        "Furi": "暇[ひま]",
-        "Eng": "free time/spare time/leisure",
-        "optTagMain": ["adj"],
-        "optTagSub": ["な"]
-    },
-    {
-        "Key": "素敵-すてき",
-        "Furi": "素敵[すてき]",
-        "Eng": "fine/nice/wonderful",
-        "optTagMain": ["adj"],
-        "optTagSub": ["な"]
-    },
-    {
-        "Key": "良い-よい",
-        "Furi": "良[よ]い",
-        "Eng": "good",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"]
-    },
-    {
-        "Key": "易しい-やさしい",
-        "Furi": "易[やさ]しい",
-        "Eng": "easy/plain/simple",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"]
-    },
-    {
-        "Key": "面白い-おもしろい",
-        "Furi": "面[おも]白[しろ]い",
-        "Eng": "interesting",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"]
-    },
-    {
-        "Key": "美味しい-おいしい",
-        "Furi": "美味[おい]しい",
-        "Eng": "delicious/tasty",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"]
-    },
-    {
-        "Key": "嫌い-きらい",
-        "Furi": "嫌[きら]い",
-        "Eng": "dislike/hate",
-        "optTagMain": ["adj"],
-        "optTagSub": ["な"]
-    },
-    {
-        "Key": "下手-へた",
-        "Furi": "下手[へた]",
-        "Eng": "bad at",
-        "optTagMain": ["adj"],
-        "optTagSub": ["な"]
-    },
-    {
-        "Key": "近い-ちかい",
-        "Furi": "近[ちか]い",
-        "Eng": "near",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"]
-    },
-    {
-        "Key": "早い-はやい",
-        "Furi": "早[はや]い",
-        "Eng": "fast/early",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"]
-    },
-    {
-        "Key": "軽い-かるい",
-        "Furi": "軽[かる]い",
-        "Eng": "light",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"]
-    },
-    {
-        "Key": "暗い-くらい",
-        "Furi": "暗[くら]い",
-        "Eng": "dark",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"]
-    },
-    {
-        "Key": "大丈夫-だいじょうぶ",
-        "Furi": "大[だい]丈[じょう]夫[ぶ]",
-        "Eng": "alright/okay/ok",
-        "optTagMain": ["adj"],
-        "optTagSub": ["な"]
-    },
-    {
-        "Key": "無駄-むだ",
-        "Furi": "無[む]駄[だ]",
-        "Eng": "wasteful",
-        "optTagMain": ["adj"],
-        "optTagSub": ["な"]
-    },
-    {
-        "Key": "凄い-すごい",
-        "Furi": "凄[すご]い",
-        "Eng": "great/amazing",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"]
-    },
-    {
-        "Key": "寂しい-さびしい",
-        "Furi": "寂[さび]しい",
-        "Eng": "lonely",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"]
-    },
-    {
-        "Key": "心配-しんぱい",
-        "Furi": "心[しん]配[ぱい]",
-        "Eng": "worried/anxious",
-        "optTagMain": ["adj"],
-        "optTagSub": ["な"]
-    },
-    {
-        "Key": "真面目-まじめ",
-        "Furi": "真[ま]面[じ]目[め]",
-        "Eng": "serious",
-        "optTagMain": ["adj"],
-        "optTagSub": ["な"]
-    },
-    {
-        "Key": "偉い-えらい",
-        "Furi": "偉[えら]い",
-        "Eng": "great/admirable",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"]
-    },
-    {
-        "Key": "酸っぱい-すっぱい",
-        "Furi": "酸[す]っぱい",
-        "Eng": "sour",
-        "optTagMain": ["adj"],
-        "optTagSub": ["い"]
-    },
-    {
-        "Key": "新鮮-しんせん",
-        "Furi": "新[しん]鮮[せん]",
-        "Eng": "fresh",
-        "optTagMain": ["adj"],
-        "optTagSub": ["な"]
     }
 ]

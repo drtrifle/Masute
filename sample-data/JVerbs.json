@@ -174,7 +174,7 @@
   { "grpNum":"2", "chap":"27", "eng":"to be seen ", "kanji":"見える", "jisho":"みえる", "masu":"みえます" },
   { "grpNum":"2", "chap":"27", "eng":"to be heard", "kanji":"聞こえる", "jisho":"きこえる", "masu":"きこえます" },
   { "grpNum":"2", "chap":"27", "eng":"to be built (road/building)", "kanji":"出来る", "jisho":"できる", "masu":"できます" },
-  { "grpNum":"1", "chap":"27", "eng":"to hold (class/eeting/party)", "kanji":"開く", "jisho":"ひらく", "masu":"ひらきます" },
+  { "grpNum":"1", "chap":"27", "eng":"to hold (class/meeting/party)", "kanji":"開く", "jisho":"ひらく", "masu":"ひらきます" },
 
   { "grpNum":"2", "chap":"28", "eng":"to sell well", "kanji":"売れる", "jisho":"うれる", "masu":"うれます" },
   { "grpNum":"1", "chap":"28", "eng":"to dance", "kanji":"踊る", "jisho":"おどる", "masu":"おどります" },
@@ -219,7 +219,7 @@
   { "grpNum":"1", "chap":"31", "eng":"to take (a holiday)", "kanji":"取る", "jisho":"とる", "masu":"とります" },
   { "grpNum":"2", "chap":"31", "eng":"to take (an examination)", "kanji":"受ける", "jisho":"うける", "masu":"うけます" },
   { "grpNum":"1", "chap":"31", "eng":"to apply for/enter for", "kanji":"申し込む", "jisho":"もうしこむ", "masu":"もうしこみます" },
-  { "grpNum":"3", "chap":"31", "eng":"to take a break/take a rest", "kanji":"休憩します", "jisho":"きゅうけいする", "masu":"きゅうけいします" },
+  { "grpNum":"3", "chap":"31", "eng":"to take a break/take a rest", "kanji":"休憩する", "jisho":"きゅうけいする", "masu":"きゅうけいします" },
   { "grpNum":"3", "chap":"31", "eng":"to announce/present", "kanji":"発表する", "jisho":"はっぴょうする", "masu":"はっぴょうします" },
 
   { "grpNum":"2", "chap":"00", "eng":"to build", "kanji":"建てる", "jisho":"たてる", "masu":"たてます" },
