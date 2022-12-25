@@ -101,6 +101,14 @@
         "artistNameJpn" : "坂本 九"
     },
     {
+        "songID" : "SAYURI-001",
+        "songURL": "https://www.youtube.com/embed/Rwzy6Qt8gq8",
+        "songNameEng" : "Tower of Flower",
+        "songNameJpn" : "花の塔",
+        "artistNameEng" : "Kyu Sakamoto",
+        "artistNameJpn" : "さユり"
+    },
+    {
         "songID" : "TAICHI-001",
         "songURL": "https://www.youtube.com/embed/oTH0s0iRA0g",
         "songNameEng" : "Reset",

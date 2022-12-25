@@ -8,7 +8,7 @@
   "resources": {
     "assembly": {
       "DnetIndexedDb.dll": "sha256-Q7whEyXn1N2yyznvxll7xLHKDdD3Ukh6rrJf23yusOU=",
-      "Masute.dll": "sha256-WEZDhIctsKZHf1Im2Rtkl6Qtk\/r5omEMnRjlw6L3Su0=",
+      "Masute.dll": "sha256-p8ekzqBASy+GGbAK1SSxcELXH+tvcrrSZMhwg+0+awo=",
       "Microsoft.AspNetCore.Components.dll": "sha256-O2enDkwxdvqCWVCz7s6J4+Ydi+e+Musx8\/sIt6w6sCQ=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-YXmAsa6knjFOgANzSAaKoG+QZtUqqFqtGOBSErZywuA=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-NueFtThFBQ9En5+QYgGN3WkZPaFK2RMdIjHNrLbGokI=",
