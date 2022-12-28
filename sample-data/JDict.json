@@ -28,7 +28,8 @@
         "Furi": "お兄[にい]さん",
         "Eng": "older brother/elder brother (other)",
         "optTags": [
-            "noun"
+            "noun",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "11"
     },
@@ -37,7 +38,8 @@
         "Furi": "お姉[ねえ]さん",
         "Eng": "older sister/elder sister (other)",
         "optTags": [
-            "noun"
+            "noun",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "11"
     },
@@ -78,6 +80,24 @@
         "optIkomaKanji": "26"
     },
     {
+        "Key": "お弁当-おべんとう",
+        "Furi": "お弁[べん]当[とう]",
+        "Eng": "bento/japanese box lunch",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "お手洗い-おてあらい",
+        "Furi": "お手[て]洗[あら]い",
+        "Eng": "toilet/restroom/lavatory/bathroom",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "お正月-おしょうがつ",
         "Furi": "お正[しょう]月[がつ]",
         "Eng": "new year",
@@ -91,7 +111,8 @@
         "Furi": "お母[かあ]さん",
         "Eng": "mother (other)",
         "optTags": [
-            "noun"
+            "noun",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "07"
     },
@@ -109,9 +130,19 @@
         "Furi": "お父[とう]さん",
         "Eng": "father (other)",
         "optTags": [
-            "noun"
+            "noun",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "07"
+    },
+    {
+        "Key": "お皿-おさら",
+        "Furi": "お皿[さら]",
+        "Eng": "plate/dish",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "お経-おきょう",
@@ -127,16 +158,27 @@
         "Furi": "お茶[ちゃ]",
         "Eng": "tea",
         "optTags": [
-            "noun"
+            "noun",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "14"
+    },
+    {
+        "Key": "お菓子-おかし",
+        "Furi": "お菓[か]子[し]",
+        "Eng": "confections/sweets/candy/cake",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "お酒-おさけ",
         "Furi": "お酒[さけ]",
         "Eng": "alcohol",
         "optTags": [
-            "noun"
+            "noun",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "50"
     },
@@ -145,7 +187,8 @@
         "Furi": "お金[かね]",
         "Eng": "money",
         "optTags": [
-            "noun"
+            "noun",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "04"
     },
@@ -157,6 +200,15 @@
             "noun"
         ],
         "optIkomaKanji": "26"
+    },
+    {
+        "Key": "お風呂-おふろ",
+        "Furi": "お風[ふ]呂[ろ]",
+        "Eng": "bath",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "この度-このたび",
@@ -195,6 +247,25 @@
         "optIkomaKanji": "37"
     },
     {
+        "Key": "さ来年-さらいねん",
+        "Furi": "さ来[らい]年[ねん]",
+        "Eng": "year after next",
+        "optTags": [
+            "noun",
+            "adv",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "とり肉-とりにく",
+        "Furi": "とり肉[にく]",
+        "Eng": "chicken meat/poultry",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "ネクタイをする-ネクタイをする",
         "Furi": "ネクタイをする",
         "Eng": "to wear a necktie",
@@ -219,11 +290,30 @@
         ]
     },
     {
+        "Key": "もう一度-もういちど",
+        "Furi": "もう一[いち]度[ど]",
+        "Eng": "again/once more",
+        "optTags": [
+            "expr",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "一-いち",
         "Furi": "一[いち]",
         "Eng": "one",
         "optTags": [
-            "noun"
+            "num",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "一つ-ひとつ",
+        "Furi": "一[ひと]つ",
+        "Eng": "one",
+        "optTags": [
+            "num",
+            "jlpt-n5"
         ]
     },
     {
@@ -236,6 +326,9 @@
         "Key": "一人-ひとり",
         "Furi": "一[ひと]人[り]",
         "Eng": "one person",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "01"
     },
     {
@@ -254,6 +347,9 @@
         "Key": "一日 (日)-いちにち",
         "Furi": "一[いち]日[にち] (日)",
         "Eng": "one day/all day",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "01"
     },
     {
@@ -269,10 +365,39 @@
         "optIkomaKanji": "09"
     },
     {
+        "Key": "一昨年-おととし",
+        "Furi": "一昨年[おととし]",
+        "Eng": "year before last",
+        "optTags": [
+            "noun",
+            "adv",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "一昨日-おととい",
+        "Furi": "一昨日[おととい]",
+        "Eng": "day before yesterday",
+        "optTags": [
+            "noun",
+            "adv",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "一月-いちがつ",
         "Furi": "一[いち]月[がつ]",
         "Eng": "january",
         "optIkomaKanji": "01"
+    },
+    {
+        "Key": "一月-ひとつき",
+        "Furi": "一[ひとつ]月[き]",
+        "Eng": "one month",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "一番-いちばん",
@@ -286,7 +411,8 @@
         "Eng": "one",
         "optTags": [
             "noun",
-            "adv"
+            "adv",
+            "jlpt-n5"
         ]
     },
     {
@@ -294,6 +420,24 @@
         "Furi": "一[いち]行[ぎょう]",
         "Eng": "one line",
         "optIkomaKanji": "02"
+    },
+    {
+        "Key": "七-しち",
+        "Furi": "七[しち]",
+        "Eng": "seven",
+        "optTags": [
+            "num",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "七つ-ななつ",
+        "Furi": "七[なな]つ",
+        "Eng": "seven",
+        "optTags": [
+            "num",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "七夕-たなばた",
@@ -304,7 +448,10 @@
     {
         "Key": "七日-なのか",
         "Furi": "七[なの]日[か]",
-        "Eng": "the seventh day",
+        "Eng": "seven days/seventh day",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "01"
     },
     {
@@ -314,10 +461,55 @@
         "optIkomaKanji": "01"
     },
     {
+        "Key": "万-まん",
+        "Furi": "万[まん]",
+        "Eng": "ten thousand",
+        "optTags": [
+            "num",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "万全-ばんぜん",
         "Furi": "万[ばん]全[ぜん]",
         "Eng": "completely",
         "optIkomaKanji": "03"
+    },
+    {
+        "Key": "万年筆-まんねんひつ",
+        "Furi": "万[まん]年[ねん]筆[ひつ]",
+        "Eng": "fountain pen",
+        "optTags": [
+            "num",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "丈夫-じょうぶ",
+        "Furi": "丈[じょう]夫[ぶ]",
+        "Eng": "healthy/robust/strong/solid/durable",
+        "optTags": [
+            "adj-な",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "三-さん",
+        "Furi": "三[さん]",
+        "Eng": "three",
+        "optTags": [
+            "num",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "三つ-みっつ",
+        "Furi": "三[みっ]つ",
+        "Eng": "three",
+        "optTags": [
+            "num",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "三人-さんにん",
@@ -346,7 +538,10 @@
     {
         "Key": "三日-みっか",
         "Furi": "三[みっ]日[か]",
-        "Eng": "the third day",
+        "Eng": "three days/third day",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "01"
     },
     {
@@ -371,6 +566,9 @@
         "Key": "上-うえ",
         "Furi": "上[うえ]",
         "Eng": "on/above/up",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "09"
     },
     {
@@ -378,7 +576,8 @@
         "Furi": "上[あ]げる",
         "Eng": "to give/to raise",
         "optTags": [
-            "verb-2"
+            "verb-2",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "09"
     },
@@ -387,14 +586,27 @@
         "Furi": "上[じょう]手[ず]",
         "Eng": "good at",
         "optTags": [
-            "adj-な"
+            "adj-な",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "09"
+    },
+    {
+        "Key": "上着-うわぎ",
+        "Furi": "上[うわ]着[ぎ]",
+        "Eng": "coat/jacket/outerwear",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "下-した",
         "Furi": "下[した]",
         "Eng": "below/down",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "09"
     },
     {
@@ -416,7 +628,8 @@
         "Furi": "下手[へた]",
         "Eng": "bad at",
         "optTags": [
-            "adj-な"
+            "adj-な",
+            "jlpt-n5"
         ]
     },
     {
@@ -462,6 +675,9 @@
         "Key": "両親-りょうしん",
         "Furi": "両[りょう]親[しん]",
         "Eng": "parents/both parents",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "25"
     },
     {
@@ -474,6 +690,9 @@
         "Key": "並ぶ-ならぶ",
         "Furi": "並[なら]ぶ",
         "Eng": "to line up (Intransitive )",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "34"
     },
     {
@@ -481,7 +700,8 @@
         "Furi": "並[なら]べる",
         "Eng": "to line up/to arrange in a line (Transitive)",
         "optTags": [
-            "verb-2"
+            "verb-2",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "34"
     },
@@ -495,6 +715,9 @@
         "Key": "中-なか",
         "Furi": "中[なか]",
         "Eng": "inside",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "09"
     },
     {
@@ -537,6 +760,9 @@
         "Key": "丸い-まるい",
         "Furi": "丸[まる]い",
         "Eng": "round/circular",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "35"
     },
     {
@@ -564,7 +790,8 @@
         "Furi": "乗[の]る",
         "Eng": "to ride",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "49"
     },
@@ -575,6 +802,24 @@
         "optIkomaKanji": "49"
     },
     {
+        "Key": "九-きゅう",
+        "Furi": "九[きゅう]",
+        "Eng": "nine",
+        "optTags": [
+            "num",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "九つ-ここのつ",
+        "Furi": "九[ここの]つ",
+        "Eng": "nine",
+        "optTags": [
+            "num",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "九人-きゅうにん",
         "Furi": "九[きゅう]人[にん]",
         "Eng": "nine people",
@@ -583,7 +828,10 @@
     {
         "Key": "九日-ここのか",
         "Furi": "九[ここの]日[か]",
-        "Eng": "the ninth day",
+        "Eng": "nine days/ninth day",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "01"
     },
     {
@@ -628,9 +876,30 @@
         "optIkomaKanji": "40"
     },
     {
+        "Key": "二-に",
+        "Furi": "二[に]",
+        "Eng": "two",
+        "optTags": [
+            "num",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "二つ-ふたつ",
+        "Furi": "二[ふた]つ",
+        "Eng": "two",
+        "optTags": [
+            "num",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "二人-ふたり",
         "Furi": "二[ふた]人[り]",
         "Eng": "two people",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "01"
     },
     {
@@ -648,19 +917,28 @@
     {
         "Key": "二十日-はつか",
         "Furi": "二十[はつ]日[か]",
-        "Eng": "the twentieth day",
+        "Eng": "twenty days/twentieth day",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "01"
     },
     {
         "Key": "二十歳-はたち",
         "Furi": "二十歳[はたち]",
         "Eng": "twenty years old",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "01"
     },
     {
         "Key": "二日-ふつか",
         "Furi": "二[ふつ]日[か]",
-        "Eng": "the second day",
+        "Eng": "two days/second day",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "01"
     },
     {
@@ -670,9 +948,30 @@
         "optIkomaKanji": "01"
     },
     {
+        "Key": "五-ご",
+        "Furi": "五[ご]",
+        "Eng": "five",
+        "optTags": [
+            "num",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "五つ-いつつ",
+        "Furi": "五[いつ]つ",
+        "Eng": "five",
+        "optTags": [
+            "num",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "五日-いつか",
         "Furi": "五[いつ]日[か]",
-        "Eng": "the fifth day",
+        "Eng": "five days/fifth day",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "01"
     },
     {
@@ -688,9 +987,21 @@
         "optIkomaKanji": "33"
     },
     {
+        "Key": "交差点-こうさてん",
+        "Furi": "交[こう]差[さ]点[てん]",
+        "Eng": "crossing/intersection",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "交番-こうばん",
         "Furi": "交[こう]番[ばん]",
         "Eng": "police box",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "33"
     },
     {
@@ -698,6 +1009,15 @@
         "Furi": "京[きょう]都[と]",
         "Eng": "kyoto",
         "optIkomaKanji": "49"
+    },
+    {
+        "Key": "人-ひと",
+        "Furi": "人[ひと]",
+        "Eng": "people/person",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "人口-じんこう",
@@ -715,6 +1035,9 @@
         "Key": "今-いま",
         "Furi": "今[いま]",
         "Eng": "now",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "05"
     },
     {
@@ -727,6 +1050,9 @@
         "Key": "今年-ことし",
         "Furi": "今年[ことし]",
         "Eng": "this year",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "05"
     },
     {
@@ -736,15 +1062,61 @@
         "optIkomaKanji": "19"
     },
     {
+        "Key": "今日-きょう",
+        "Furi": "今日[きょう]",
+        "Eng": "today/this day",
+        "optTags": [
+            "noun",
+            "adv",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "今晩-こんばん",
+        "Furi": "今[こん]晩[ばん]",
+        "Eng": "tonight/this evening",
+        "optTags": [
+            "noun",
+            "adv",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "今月-こんげつ",
         "Furi": "今[こん]月[げつ]",
         "Eng": "this month",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "05"
+    },
+    {
+        "Key": "今朝-けさ",
+        "Furi": "今朝[けさ]",
+        "Eng": "this morning",
+        "optTags": [
+            "noun",
+            "adv",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "今週-こんしゅう",
+        "Furi": "今[こん]週[しゅう]",
+        "Eng": "this week",
+        "optTags": [
+            "noun",
+            "adv",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "仕事-しごと",
         "Furi": "仕[し]事[ごと]",
         "Eng": "job/work/labor",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "21"
     },
     {
@@ -804,6 +1176,9 @@
         "Key": "休み-やすみ",
         "Furi": "休[やす]み",
         "Eng": "rest day",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "05"
     },
     {
@@ -811,7 +1186,8 @@
         "Furi": "休[やす]む",
         "Eng": "to rest",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ]
     },
     {
@@ -839,7 +1215,8 @@
         "Furi": "会[あ]う",
         "Eng": "to meet",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "02"
     },
@@ -847,6 +1224,9 @@
         "Key": "会社-かいしゃ",
         "Furi": "会[かい]社[しゃ]",
         "Eng": "company",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "02"
     },
     {
@@ -874,11 +1254,30 @@
         "optIkomaKanji": "21"
     },
     {
+        "Key": "伯母さん-おばさん",
+        "Furi": "伯母[おば]さん",
+        "Eng": "aunt",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "伯父-おじ",
+        "Furi": "伯父[おじ]",
+        "Eng": "uncle",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "低い-ひくい",
         "Furi": "低[ひく]い",
         "Eng": "low",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "43"
     },
@@ -893,7 +1292,8 @@
         "Furi": "住[す]む",
         "Eng": "to live/to reside",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "16"
     },
@@ -907,6 +1307,9 @@
         "Key": "体-からだ",
         "Furi": "体[からだ]",
         "Eng": "body",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "15"
     },
     {
@@ -931,7 +1334,20 @@
         "Key": "何-なに",
         "Furi": "何[なに]",
         "Eng": "what",
+        "optTags": [
+            "pronoun",
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "02"
+    },
+    {
+        "Key": "何-なん",
+        "Furi": "何[なん]",
+        "Eng": "what",
+        "optTags": [
+            "pronoun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "何時-なんじ",
@@ -944,7 +1360,8 @@
         "Furi": "作[つく]る",
         "Eng": "to make/to produce",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "16"
     },
@@ -958,6 +1375,9 @@
         "Key": "作文-さくぶん",
         "Furi": "作[さく]文[ぶん]",
         "Eng": "short essay/composition",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "16"
     },
     {
@@ -965,7 +1385,8 @@
         "Furi": "使[つか]う",
         "Eng": "to use",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "16"
     },
@@ -1010,7 +1431,8 @@
         "Furi": "便[べん]利[り]",
         "Eng": "convenient",
         "optTags": [
-            "adj-な"
+            "adj-な",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "35"
     },
@@ -1063,7 +1485,8 @@
         "Furi": "借[か]りる",
         "Eng": "to borrow",
         "optTags": [
-            "verb-2"
+            "verb-2",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "20"
     },
@@ -1100,11 +1523,21 @@
         "optIkomaKanji": "41"
     },
     {
+        "Key": "傘-かさ",
+        "Furi": "傘[かさ]",
+        "Eng": "umbrella/parasol",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "働く-はたらく",
         "Furi": "働[はたら]く",
         "Eng": "to work",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "45"
     },
@@ -1143,7 +1576,8 @@
         "Furi": "元[げん]気[き]",
         "Eng": "fine/healthy/energetic",
         "optTags": [
-            "adj-な"
+            "adj-な",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "12"
     },
@@ -1151,13 +1585,28 @@
         "Key": "兄-あに",
         "Furi": "兄[あに]",
         "Eng": "older brother/elder brother (mine)",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "11"
     },
     {
         "Key": "兄弟-きょうだい",
         "Furi": "兄[きょう]弟[だい]",
         "Eng": "siblings/brothers and sisters",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "11"
+    },
+    {
+        "Key": "先-さき",
+        "Furi": "先[さき]",
+        "Eng": "previous/future",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "先に-さきに",
@@ -1166,10 +1615,33 @@
         "optIkomaKanji": "02"
     },
     {
+        "Key": "先月-せんげつ",
+        "Furi": "先[せん]月[げつ]",
+        "Eng": "last month",
+        "optTags": [
+            "noun",
+            "adv",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "先生-せんせい",
         "Furi": "先[せん]生[せい]",
         "Eng": "teacher",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "02"
+    },
+    {
+        "Key": "先週-せんしゅう",
+        "Furi": "先[せん]週[しゅう]",
+        "Eng": "last week",
+        "optTags": [
+            "noun",
+            "adv",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "光-ひかり",
@@ -1194,7 +1666,8 @@
         "Furi": "入[はい]る",
         "Eng": "to enter/to take a bath",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "13"
     },
@@ -1203,7 +1676,8 @@
         "Furi": "入[い]れる",
         "Eng": "to insert/to put in",
         "optTags": [
-            "verb-2"
+            "verb-2",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "13"
     },
@@ -1211,6 +1685,9 @@
         "Key": "入口-いりぐち",
         "Furi": "入[いり]口[ぐち]",
         "Eng": "entrance",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "15"
     },
     {
@@ -1235,12 +1712,36 @@
         "Key": "全部-ぜんぶ",
         "Furi": "全[ぜん]部[ぶ]",
         "Eng": "all/entire/whole",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "25"
+    },
+    {
+        "Key": "八-はち",
+        "Furi": "八[はち]",
+        "Eng": "eight",
+        "optTags": [
+            "num",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "八つ-やっつ",
+        "Furi": "八[やっ]つ",
+        "Eng": "eight",
+        "optTags": [
+            "num",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "八日-ようか",
         "Furi": "八[よう]日[か]",
-        "Eng": "the eighth day",
+        "Eng": "eight days/eighth day",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "01"
     },
     {
@@ -1259,6 +1760,9 @@
         "Key": "八百屋-やおや",
         "Furi": "八[や]百[お]屋[や]",
         "Eng": "greengrocer",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "01"
     },
     {
@@ -1271,12 +1775,36 @@
         "Key": "公園-こうえん",
         "Furi": "公[こう]園[えん]",
         "Eng": "public park",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "41"
+    },
+    {
+        "Key": "六-ろく",
+        "Furi": "六[ろく]",
+        "Eng": "six",
+        "optTags": [
+            "num",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "六つ-むっつ",
+        "Furi": "六[むっ]つ",
+        "Eng": "six",
+        "optTags": [
+            "num",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "六日-むいか",
         "Furi": "六[むい]日[か]",
-        "Eng": "the sixth day",
+        "Eng": "six days/sixth day",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "01"
     },
     {
@@ -1303,6 +1831,9 @@
         "Key": "円い-まるい",
         "Furi": "円[まる]い",
         "Eng": "round",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "03"
     },
     {
@@ -1315,7 +1846,20 @@
         "Key": "写真-しゃしん",
         "Furi": "写[しゃ]真[しん]",
         "Eng": "photo/photograph",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "24"
+    },
+    {
+        "Key": "冬-ふゆ",
+        "Furi": "冬[ふゆ]",
+        "Eng": "pork",
+        "optTags": [
+            "noun",
+            "adv",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "冬休み-ふゆやすみ",
@@ -1334,7 +1878,8 @@
         "Furi": "冷[つめ]たい",
         "Eng": "cold",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "45"
     },
@@ -1357,6 +1902,15 @@
         "optIkomaKanji": "45"
     },
     {
+        "Key": "冷蔵庫-れいぞうこ",
+        "Furi": "冷[れい]蔵[ぞう]庫[こ]",
+        "Eng": "fridge/refrigerator",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "凄い-すごい",
         "Furi": "凄[すご]い",
         "Eng": "great/amazing",
@@ -1369,7 +1923,8 @@
         "Furi": "出[で]かける",
         "Eng": "to depart",
         "optTags": [
-            "verb-2"
+            "verb-2",
+            "jlpt-n5"
         ]
     },
     {
@@ -1377,7 +1932,8 @@
         "Furi": "出[だ]す",
         "Eng": "to submit/to take out",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ]
     },
     {
@@ -1385,7 +1941,8 @@
         "Furi": "出[で]る",
         "Eng": "to leave",
         "optTags": [
-            "verb-2"
+            "verb-2",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "13"
     },
@@ -1393,6 +1950,9 @@
         "Key": "出口-でぐち",
         "Furi": "出[で]口[ぐち]",
         "Eng": "exit",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "15"
     },
     {
@@ -1446,7 +2006,8 @@
         "Furi": "分[わ]かる",
         "Eng": "to understand",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "03"
     },
@@ -1461,7 +2022,8 @@
         "Furi": "切[き]る",
         "Eng": "to cut/to sever",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "25"
     },
@@ -1469,12 +2031,37 @@
         "Key": "切手-きって",
         "Furi": "切[きっ]手[て]",
         "Eng": "stamp",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "25"
+    },
+    {
+        "Key": "切符-きっぷ",
+        "Furi": "切[きっ]符[ぷ]",
+        "Eng": "ticket",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "初め-はじめ",
+        "Furi": "初[はじ]め",
+        "Eng": "beginning/start",
+        "optTags": [
+            "noun",
+            "adv",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "初めて-はじめて",
         "Furi": "初[はじ]めて",
         "Eng": "first time",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "46"
     },
     {
@@ -1506,6 +2093,15 @@
         "Furi": "到[とう]着[ちゃく]する",
         "Eng": "to arrive",
         "optIkomaKanji": "18"
+    },
+    {
+        "Key": "前-まえ",
+        "Furi": "前[まえ]",
+        "Eng": "before/in front of",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "前半-ぜんはん",
@@ -1540,11 +2136,21 @@
         "optIkomaKanji": "45"
     },
     {
+        "Key": "勉強-べんきょう",
+        "Furi": "勉[べん]強[きょう]",
+        "Eng": "study",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "勉強する-べんきょうする",
         "Furi": "勉[べん]強[きょう]する",
         "Eng": "to study",
         "optTags": [
-            "verb-3"
+            "verb-3",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "20"
     },
@@ -1558,6 +2164,15 @@
         "optIkomaKanji": "23"
     },
     {
+        "Key": "動物-どうぶつ",
+        "Furi": "動[どう]物[ぶつ]",
+        "Eng": "animal",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "動物園-どうぶつえん",
         "Furi": "動[どう]物[ぶつ]園[えん]",
         "Eng": "zoo",
@@ -1566,7 +2181,7 @@
     {
         "Key": "務める-つとめる",
         "Furi": "務[つと]める",
-        "Eng": "to work (for)/to serve (as)",
+        "Eng": "to work for/to serve in",
         "optIkomaKanji": "36"
     },
     {
@@ -1597,6 +2212,15 @@
         "optIkomaKanji": "26"
     },
     {
+        "Key": "勤める-つとめる",
+        "Furi": "勤[つと]める",
+        "Eng": "to work for/to serve in",
+        "optTags": [
+            "verb-2",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "化ける-ばける",
         "Furi": "化[ば]ける",
         "Eng": "to turn into/to transform into",
@@ -1612,6 +2236,9 @@
         "Key": "北-きた",
         "Furi": "北[きた]",
         "Eng": "north",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "31"
     },
     {
@@ -1642,13 +2269,34 @@
         "Key": "医者-いしゃ",
         "Furi": "医[い]者[しゃ]",
         "Eng": "doctor/physician",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "22"
+    },
+    {
+        "Key": "十-じゅう",
+        "Furi": "十[じゅう]",
+        "Eng": "ten",
+        "optTags": [
+            "num",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "十分-じゅっぷん",
         "Furi": "十[じゅっ]分[ぷん]",
         "Eng": "ten minutes",
         "optIkomaKanji": "03"
+    },
+    {
+        "Key": "十日-とおか",
+        "Furi": "十[とお]日[か]",
+        "Eng": "ten days/tenth day",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "十月-じゅうがつ",
@@ -1660,6 +2308,9 @@
         "Key": "千-せん",
         "Furi": "千[せん]",
         "Eng": "thousand",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "03"
     },
     {
@@ -1672,13 +2323,28 @@
         "Key": "午前-ごぜん",
         "Furi": "午[ご]前[ぜん]",
         "Eng": "am",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "05"
     },
     {
         "Key": "午後-ごご",
         "Furi": "午[ご]後[ご]",
         "Eng": "pm",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "05"
+    },
+    {
+        "Key": "半-はん",
+        "Furi": "半[はん]",
+        "Eng": "half/semi",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "半ば-なかば",
@@ -1690,6 +2356,9 @@
         "Key": "半分-はんぶん",
         "Furi": "半[はん]分[ぶん]",
         "Eng": "half",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "03"
     },
     {
@@ -1708,6 +2377,9 @@
         "Key": "南-みなみ",
         "Furi": "南[みなみ]",
         "Eng": "south",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "31"
     },
     {
@@ -1721,7 +2393,8 @@
         "Furi": "危[あぶ]ない",
         "Eng": "dangerous/hazardous",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "33"
     },
@@ -1735,6 +2408,9 @@
         "Key": "卵-たまご",
         "Furi": "卵[たまご]",
         "Eng": "egg",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "26"
     },
     {
@@ -1747,6 +2423,9 @@
         "Key": "厚い-あつい",
         "Furi": "厚[あつ]い",
         "Eng": "think/deep/heavy",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "44"
     },
     {
@@ -1777,6 +2456,9 @@
         "Key": "去年-きょねん",
         "Furi": "去[きょ]年[ねん]",
         "Eng": "last year",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "05"
     },
     {
@@ -1795,6 +2477,9 @@
         "Key": "友達-ともだち",
         "Furi": "友[とも]達[だち]",
         "Eng": "friend",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "05"
     },
     {
@@ -1830,6 +2515,24 @@
         ]
     },
     {
+        "Key": "叔母さん-おばさん",
+        "Furi": "叔母[おば]さん",
+        "Eng": "aunt",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "叔父-おじ",
+        "Furi": "叔父[おじ]",
+        "Eng": "uncle",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "取り替える-とりかえる",
         "Furi": "取[と]り替[か]える",
         "Eng": "to change/to replace/to swap",
@@ -1842,7 +2545,8 @@
         "Furi": "取[と]る",
         "Eng": "to take/to grab/to catch",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "27"
     },
@@ -1883,6 +2587,9 @@
         "Key": "口-くち",
         "Furi": "口[くち]",
         "Eng": "mouth",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "15"
     },
     {
@@ -1890,7 +2597,8 @@
         "Furi": "古[ふる]い",
         "Eng": "old/aged (for things, not people)",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "18"
     },
@@ -1904,6 +2612,9 @@
         "Key": "台所-だいどころ",
         "Furi": "台[だい]所[どころ]",
         "Eng": "kitchen",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "37"
     },
     {
@@ -1916,6 +2627,9 @@
         "Key": "右-みぎ",
         "Furi": "右[みぎ]",
         "Eng": "right",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "09"
     },
     {
@@ -1946,6 +2660,9 @@
         "Key": "同じ-おなじ",
         "Furi": "同[おな]じ",
         "Eng": "same",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "35"
     },
     {
@@ -1958,6 +2675,9 @@
         "Key": "名前-なまえ",
         "Furi": "名[な]前[まえ]",
         "Eng": "name",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "02"
     },
     {
@@ -1976,6 +2696,9 @@
         "Key": "向こう-むこう",
         "Furi": "向[む]こう",
         "Eng": "over there/other side",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "35"
     },
     {
@@ -1983,13 +2706,17 @@
         "Furi": "吸[す]う",
         "Eng": "to smoke/to inhale",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ]
     },
     {
         "Key": "吹く-ふく",
         "Furi": "吹[ふ]く",
         "Eng": "to blow",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "48"
     },
     {
@@ -2029,7 +2756,8 @@
         "Furi": "呼[よ]ぶ",
         "Eng": "to call",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "38"
     },
@@ -2058,6 +2786,15 @@
         "optIkomaKanji": "41"
     },
     {
+        "Key": "咲く-さく",
+        "Furi": "咲[さ]く",
+        "Eng": "to bloom/to flower/to blossom/to open",
+        "optTags": [
+            "verb-1",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "品物-しなもの",
         "Furi": "品[しな]物[もの]",
         "Eng": "goods",
@@ -2070,11 +2807,47 @@
         "optIkomaKanji": "17"
     },
     {
+        "Key": "問題-もんだい",
+        "Furi": "問[もん]題[だい]",
+        "Eng": "question/problem",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "喫茶店-きっさてん",
+        "Furi": "喫[きっ]茶[さ]店[てん]",
+        "Eng": "cafe/coffeehouse/tearoom",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "噛む-かむ",
         "Furi": "噛[か]む",
         "Eng": "to chew/to bite",
         "optTags": [
             "verb-1"
+        ]
+    },
+    {
+        "Key": "四-し",
+        "Furi": "四[し]",
+        "Eng": "four",
+        "optTags": [
+            "num",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "四つ-よっつ",
+        "Furi": "四[よっ]つ",
+        "Eng": "four",
+        "optTags": [
+            "num",
+            "jlpt-n5"
         ]
     },
     {
@@ -2086,7 +2859,10 @@
     {
         "Key": "四日-よっか",
         "Furi": "四[よっ]日[か]",
-        "Eng": "the fourth day",
+        "Eng": "four days/fourth day",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "01"
     },
     {
@@ -2120,6 +2896,9 @@
         "Key": "困る-こまる",
         "Furi": "困[こま]る",
         "Eng": "to have a problem",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "35"
     },
     {
@@ -2138,12 +2917,18 @@
         "Key": "図書館-としょかん",
         "Furi": "図[と]書[しょ]館[かん]",
         "Eng": "library",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "23"
     },
     {
         "Key": "国-くに",
         "Furi": "国[くに]",
         "Eng": "country",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "04"
     },
     {
@@ -2186,12 +2971,29 @@
         "Key": "土曜日-どようび",
         "Furi": "土[ど]曜[よう]日[び]",
         "Eng": "saturday",
+        "optTags": [
+            "noun",
+            "adv",
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "04"
+    },
+    {
+        "Key": "地下鉄-ちかてつ",
+        "Furi": "地[ち]下[か]鉄[てつ]",
+        "Eng": "subway/metro",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "地図-ちず",
         "Furi": "地[ち]図[ず]",
         "Eng": "map",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "23"
     },
     {
@@ -2199,6 +3001,15 @@
         "Furi": "地[じ]震[しん]",
         "Eng": "earthquake",
         "optIkomaKanji": "29"
+    },
+    {
+        "Key": "塩-しお",
+        "Furi": "塩[しお]",
+        "Eng": "salt",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "増える-ふえる",
@@ -2242,6 +3053,9 @@
         "Key": "声-こえ",
         "Furi": "声[こえ]",
         "Eng": "voice",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "47"
     },
     {
@@ -2261,7 +3075,8 @@
         "Furi": "売[う]る",
         "Eng": "to sell",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "17"
     },
@@ -2292,21 +3107,49 @@
         "optIkomaKanji": "44"
     },
     {
+        "Key": "夏-なつ",
+        "Furi": "夏[なつ]",
+        "Eng": "summer",
+        "optTags": [
+            "noun",
+            "adv",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "夏休み-なつやすみ",
         "Furi": "夏[なつ]休[やす]み",
         "Eng": "summer holiday/summer vacation",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "11"
     },
     {
         "Key": "夕方-ゆうがた",
         "Furi": "夕[ゆう]方[がた]",
         "Eng": "evening",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "02"
+    },
+    {
+        "Key": "夕飯-ゆうはん",
+        "Furi": "夕[ゆう]飯[はん]",
+        "Eng": "dinner/supper/evening meal",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "外-そと",
         "Furi": "外[そと]",
         "Eng": "outside",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "10"
     },
     {
@@ -2328,14 +3171,27 @@
         "Key": "外国-がいこく",
         "Furi": "外[がい]国[こく]",
         "Eng": "foreign country",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "04"
+    },
+    {
+        "Key": "外国人-がいこくじん",
+        "Furi": "外[がい]国[こく]人[じん]",
+        "Eng": "foreigner/foreign citizen",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "多い-おおい",
         "Furi": "多[おお]い",
         "Eng": "many/much",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "12"
     },
@@ -2355,6 +3211,9 @@
         "Key": "夜-よる",
         "Furi": "夜[よる]",
         "Eng": "night",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "07"
     },
     {
@@ -2374,16 +3233,45 @@
         "Furi": "大[おお]きい",
         "Eng": "big/large",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "02"
+    },
+    {
+        "Key": "大きな-おおきな",
+        "Furi": "大[おお]きな",
+        "Eng": "big/large/great",
+        "optTags": [
+            "preNounAdj",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "大丈夫-だいじょうぶ",
         "Furi": "大[だい]丈[じょう]夫[ぶ]",
         "Eng": "alright/okay/ok",
         "optTags": [
-            "adj-な"
+            "adj-な",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "大人-おとな",
+        "Furi": "大人[おとな]",
+        "Eng": "adult",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "大使館-たいしかん",
+        "Furi": "大[たい]使[し]館[かん]",
+        "Eng": "embassy",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
         ]
     },
     {
@@ -2391,9 +3279,19 @@
         "Furi": "大[たい]切[せつ]",
         "Eng": "important/significant",
         "optTags": [
-            "adj-な"
+            "adj-な",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "25"
+    },
+    {
+        "Key": "大勢-おおぜい",
+        "Furi": "大[おお]勢[ぜい]",
+        "Eng": "crowd of people",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "大変-たいへん",
@@ -2405,9 +3303,21 @@
         "optIkomaKanji": "44"
     },
     {
+        "Key": "大好き-だいすき",
+        "Furi": "大[だい]好[す]き",
+        "Eng": "loving/liking very much",
+        "optTags": [
+            "adj-な",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "大学-だいがく",
         "Furi": "大[だい]学[がく]",
         "Eng": "university",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "02"
     },
     {
@@ -2432,6 +3342,9 @@
         "Key": "天気-てんき",
         "Furi": "天[てん]気[き]",
         "Eng": "weather",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "12"
     },
     {
@@ -2450,6 +3363,9 @@
         "Key": "太い-ふとい",
         "Furi": "太[ふと]い",
         "Eng": "thick",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "45"
     },
     {
@@ -2498,13 +3414,34 @@
         "Key": "奥さん-おくさん",
         "Furi": "奥[おく]さん",
         "Eng": "wife (other)",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "49"
+    },
+    {
+        "Key": "女-おんな",
+        "Furi": "女[おんな]",
+        "Eng": "female/woman",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "女の人-おんなのひと",
         "Furi": "女[おんな]の人[ひと]",
         "Eng": "woman",
         "optIkomaKanji": "09"
+    },
+    {
+        "Key": "女の子-おんなのこ",
+        "Furi": "女[おんな]の子[こ]",
+        "Eng": "girl/daughter",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "女性-じょせい",
@@ -2517,7 +3454,8 @@
         "Furi": "好[す]き",
         "Eng": "like",
         "optTags": [
-            "adj-な"
+            "adj-な",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "45"
     },
@@ -2537,6 +3475,9 @@
         "Key": "妹-いもうと",
         "Furi": "妹[いもうと]",
         "Eng": "younger sister (mine)",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "11"
     },
     {
@@ -2549,6 +3490,9 @@
         "Key": "姉-あね",
         "Furi": "姉[あね]",
         "Eng": "older sister/elder sister (mine)",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "11"
     },
     {
@@ -2567,7 +3511,20 @@
         "Key": "始まる-はじまる",
         "Furi": "始[はじ]まる",
         "Eng": "to start/to begin (intransitive)",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "21"
+    },
+    {
+        "Key": "始め-はじめ",
+        "Furi": "始[はじ]め",
+        "Eng": "beginning/start",
+        "optTags": [
+            "noun",
+            "adv",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "始める-はじめる",
@@ -2579,11 +3536,22 @@
         "optIkomaKanji": "21"
     },
     {
+        "Key": "嫌-いや",
+        "Furi": "嫌[いや]",
+        "Eng": "disagreeable/detestable/unpleasant",
+        "optTags": [
+            "noun",
+            "adj-な",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "嫌い-きらい",
         "Furi": "嫌[きら]い",
         "Eng": "dislike/hate",
         "optTags": [
-            "adj-な"
+            "adj-な",
+            "jlpt-n5"
         ]
     },
     {
@@ -2591,6 +3559,24 @@
         "Furi": "子[こ]ども",
         "Eng": "child",
         "optIkomaKanji": "17"
+    },
+    {
+        "Key": "子供-こども",
+        "Furi": "子[こ]供[ども]",
+        "Eng": "child",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "字引-じびき",
+        "Furi": "字[じ]引[びき]",
+        "Eng": "dictionary",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "学ぶ-まなぶ",
@@ -2602,12 +3588,18 @@
         "Key": "学校-がっこう",
         "Furi": "学校[がっこう]",
         "Eng": "school",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "02"
     },
     {
         "Key": "学生-がくせい",
         "Furi": "学[がく]生[せい]",
         "Eng": "student",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "02"
     },
     {
@@ -2627,7 +3619,8 @@
         "Furi": "安[やす]い",
         "Eng": "cheap",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "08"
     },
@@ -2695,6 +3688,10 @@
         "Key": "家 (physical)-いえ",
         "Furi": "家[いえ] (physical)",
         "Eng": "house",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "11"
     },
     {
@@ -2704,9 +3701,21 @@
         "optIkomaKanji": "27"
     },
     {
+        "Key": "家庭-かてい",
+        "Furi": "家[か]庭[てい]",
+        "Eng": "home/household/family",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "家族-かぞく",
         "Furi": "家[か]族[ぞく]",
         "Eng": "family",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "11"
     },
     {
@@ -2725,6 +3734,9 @@
         "Key": "宿題-しゅくだい",
         "Furi": "宿[しゅく]題[だい]",
         "Eng": "homework",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "37"
     },
     {
@@ -2752,7 +3764,8 @@
         "Furi": "寒[さむ]い",
         "Eng": "cold",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "35"
     },
@@ -2773,7 +3786,8 @@
         "Furi": "寝[ね]る",
         "Eng": "to sleep",
         "optTags": [
-            "verb-2"
+            "verb-2",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "45"
     },
@@ -2790,6 +3804,15 @@
         "optIkomaKanji": "26"
     },
     {
+        "Key": "封筒-ふうとう",
+        "Furi": "封[ふう]筒[とう]",
+        "Eng": "envelope",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "将来-しょうらい",
         "Furi": "将[しょう]来[らい]",
         "Eng": "future (usually near)",
@@ -2800,9 +3823,19 @@
         "Furi": "小[ちい]さい",
         "Eng": "small/little",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "08"
+    },
+    {
+        "Key": "小さな-ちいさな",
+        "Furi": "小[ちい]さな",
+        "Eng": "small/little/tiny",
+        "optTags": [
+            "preNounAdj",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "小学校-しょうがっこう",
@@ -2823,11 +3856,21 @@
         "optIkomaKanji": "12"
     },
     {
+        "Key": "少し-すこし",
+        "Furi": "少[すこ]し",
+        "Eng": "a little/a bit/a few/some",
+        "optTags": [
+            "adv",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "少ない-すくない",
         "Furi": "少[すく]ない",
         "Eng": "a little/a few",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "12"
     },
@@ -2836,7 +3879,8 @@
         "Furi": "居[い]る",
         "Eng": "to exist (animate objects)",
         "optTags": [
-            "verb-2"
+            "verb-2",
+            "jlpt-n5"
         ]
     },
     {
@@ -2869,6 +3913,9 @@
         "Key": "山-やま",
         "Furi": "山[やま]",
         "Eng": "mountain",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "08"
     },
     {
@@ -2905,6 +3952,10 @@
         "Key": "川-かわ",
         "Furi": "川[かわ]",
         "Eng": "river/stream",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "13"
     },
     {
@@ -2912,6 +3963,15 @@
         "Furi": "工[こう]場[じょう]",
         "Eng": "factory/plant/mill",
         "optIkomaKanji": "37"
+    },
+    {
+        "Key": "左-ひだり",
+        "Furi": "左[ひだり]",
+        "Eng": "left",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "左利き-ひだりきき",
@@ -2930,6 +3990,15 @@
         "Furi": "左[さ]折[せつ]",
         "Eng": "turn left",
         "optIkomaKanji": "09"
+    },
+    {
+        "Key": "差す-さす",
+        "Furi": "差[さ]す",
+        "Eng": "to stretch out hands/to raise an umbrella",
+        "optTags": [
+            "verb-1",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "市場-いちば",
@@ -2954,7 +4023,8 @@
         "Furi": "帰[かえ]る",
         "Eng": "to return",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "06"
     },
@@ -2974,6 +4044,9 @@
         "Key": "帽子-ぼうし",
         "Furi": "帽[ぼう]子[し]",
         "Eng": "hat/cap",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "17"
     },
     {
@@ -2999,6 +4072,15 @@
         "Furi": "平[びょう]等[どう]",
         "Eng": "equality",
         "optIkomaKanji": "26"
+    },
+    {
+        "Key": "年-とし",
+        "Furi": "年[とし]",
+        "Eng": "year",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "幸-さち",
@@ -3029,7 +4111,8 @@
         "Furi": "広[ひろ]い",
         "Eng": "wide/spacious",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "13"
     },
@@ -3043,6 +4126,9 @@
         "Key": "店-みせ",
         "Furi": "店[みせ]",
         "Eng": "shop/store",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "22"
     },
     {
@@ -3062,7 +4148,8 @@
         "Furi": "座[すわ]る",
         "Eng": "to sit/to squat",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "26"
     },
@@ -3070,7 +4157,19 @@
         "Key": "庭-にわ",
         "Furi": "庭[にわ]",
         "Eng": "garden",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "48"
+    },
+    {
+        "Key": "廊下-ろうか",
+        "Furi": "廊[ろう]下[か]",
+        "Eng": "corridor/hallway",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "建つ-たつ",
@@ -3097,6 +4196,9 @@
         "Key": "建物-たてもの",
         "Furi": "建[たて]物[もの]",
         "Eng": "building",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "23"
     },
     {
@@ -3104,7 +4206,8 @@
         "Furi": "引[ひ]く",
         "Eng": "to pull/to play a musical instrument",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "45"
     },
@@ -3124,6 +4227,9 @@
         "Key": "弟-おとうと",
         "Furi": "弟[おとうと]",
         "Eng": "younger brother (mine)",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "11"
     },
     {
@@ -3131,7 +4237,8 @@
         "Furi": "弱[よわ]い",
         "Eng": "weak",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "47"
     },
@@ -3154,7 +4261,8 @@
         "Furi": "強[つよ]い",
         "Eng": "strong/potent/tough",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "20"
     },
@@ -3163,6 +4271,15 @@
         "Furi": "強[きょう]風[ふう]",
         "Eng": "strong wind",
         "optIkomaKanji": "20"
+    },
+    {
+        "Key": "弾く-ひく",
+        "Furi": "弾[ひ]く",
+        "Eng": "to play a musical instrument",
+        "optTags": [
+            "verb-1",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "弾丸-だんがん",
@@ -3202,7 +4319,8 @@
         "Furi": "待[ま]つ",
         "Eng": "to wait",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "37"
     },
@@ -3217,7 +4335,8 @@
         "Furi": "後[あと]",
         "Eng": "later/after",
         "optTags": [
-            "noun"
+            "noun",
+            "jlpt-n5"
         ]
     },
     {
@@ -3230,7 +4349,19 @@
         "Key": "後ろ-うしろ",
         "Furi": "後[うし]ろ",
         "Eng": "back/behind",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "05"
+    },
+    {
+        "Key": "御飯-ごはん",
+        "Furi": "御[ご]飯[はん]",
+        "Eng": "meal",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "復習する-ふくしゅうする",
@@ -3305,7 +4436,8 @@
         "Furi": "忘[わす]れる",
         "Eng": "to forget",
         "optTags": [
-            "verb-2"
+            "verb-2",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "30"
     },
@@ -3320,7 +4452,8 @@
         "Furi": "忙[いそが]しい",
         "Eng": "busy (casual)",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "28"
     },
@@ -3380,7 +4513,8 @@
         "Furi": "悪[わる]い",
         "Eng": "bad",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "26"
     },
@@ -3389,6 +4523,15 @@
         "Furi": "情[じょう]報[ほう]",
         "Eng": "information",
         "optIkomaKanji": "42"
+    },
+    {
+        "Key": "意味-いみ",
+        "Furi": "意[い]味[み]",
+        "Eng": "meaning",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "意思-いし",
@@ -3456,6 +4599,15 @@
         ]
     },
     {
+        "Key": "戸-と",
+        "Furi": "戸[と]",
+        "Eng": "door",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "戻す-もどす",
         "Furi": "戻[もど]す",
         "Eng": "to put back/to return",
@@ -3468,7 +4620,19 @@
         "Key": "所-ところ",
         "Furi": "所[ところ]",
         "Eng": "address/place",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "35"
+    },
+    {
+        "Key": "手-て",
+        "Furi": "手[て]",
+        "Eng": "hand/arm",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "手伝う-てつだう",
@@ -3482,6 +4646,9 @@
         "Key": "手紙-てがみ",
         "Furi": "手[て]紙[がみ]",
         "Eng": "letter",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "10"
     },
     {
@@ -3518,7 +4685,8 @@
         "Furi": "押[お]す",
         "Eng": "to push",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "45"
     },
@@ -3574,7 +4742,8 @@
         "Furi": "持[も]つ",
         "Eng": "to have/to carry",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "18"
     },
@@ -3608,7 +4777,8 @@
         "Furi": "掃[そう]除[じ]する",
         "Eng": "to clean",
         "optTags": [
-            "verb-3"
+            "verb-3",
+            "jlpt-n5"
         ]
     },
     {
@@ -3627,6 +4797,9 @@
         "Key": "授業-じゅぎょう",
         "Furi": "授[じゅ]業[ぎょう]",
         "Eng": "school lesson",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "27"
     },
     {
@@ -3687,7 +4860,8 @@
         "Furi": "撮[と]る",
         "Eng": "to record/to film/to photograph",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ]
     },
     {
@@ -3731,7 +4905,8 @@
         "Furi": "教[おし]える",
         "Eng": "to teach/to instruct",
         "optTags": [
-            "verb-2"
+            "verb-2",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "19"
     },
@@ -3745,6 +4920,9 @@
         "Key": "教室-きょうしつ",
         "Furi": "教[きょう]室[しつ]",
         "Eng": "classroom",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "20"
     },
     {
@@ -3770,7 +4948,8 @@
         "Furi": "散[さん]歩[ぽ]する",
         "Eng": "to stroll",
         "optTags": [
-            "verb-3"
+            "verb-3",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "12"
     },
@@ -3787,9 +4966,21 @@
         "optIkomaKanji": "17"
     },
     {
+        "Key": "文章-ぶんしょう",
+        "Furi": "文[ぶん]章[しょう]",
+        "Eng": "writing/composition/essay",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "料理-りょうり",
         "Furi": "料[りょう]理[り]",
         "Eng": "cooking/cuisine",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "18"
     },
     {
@@ -3797,7 +4988,8 @@
         "Furi": "新[あたら]しい",
         "Eng": "new/novel",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "18"
     },
@@ -3811,6 +5003,9 @@
         "Key": "新聞-しんぶん",
         "Furi": "新[しん]聞[ぶん]",
         "Eng": "newspaper",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "06"
     },
     {
@@ -3819,6 +5014,15 @@
         "Eng": "fresh",
         "optTags": [
             "adj-な"
+        ]
+    },
+    {
+        "Key": "方-かた",
+        "Furi": "方[かた]",
+        "Eng": "direction/way/side",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
         ]
     },
     {
@@ -3840,6 +5044,15 @@
         "optIkomaKanji": "20"
     },
     {
+        "Key": "旅行-りょこう",
+        "Furi": "旅[りょ]行[こう]",
+        "Eng": "travel/trip",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "旅行する-りょこうする",
         "Furi": "旅[りょ]行[こう]する",
         "Eng": "to travel/to tour",
@@ -3850,6 +5063,16 @@
         "Furi": "日[に]光[こう]",
         "Eng": "sunlight",
         "optIkomaKanji": "33"
+    },
+    {
+        "Key": "日曜日-にちようび",
+        "Furi": "日[にち]曜[よう]日[び]",
+        "Eng": "sunday",
+        "optTags": [
+            "noun",
+            "adv",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "日本-にほん",
@@ -3880,7 +5103,8 @@
         "Furi": "早[はや]い",
         "Eng": "fast/early",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ]
     },
     {
@@ -3900,7 +5124,8 @@
         "Furi": "明[あか]るい",
         "Eng": "bright/well-lit/cheerful",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "16"
     },
@@ -3909,7 +5134,8 @@
         "Furi": "明[あ]日[した]",
         "Eng": "tomorrow",
         "optTags": [
-            "noun"
+            "noun",
+            "jlpt-n5"
         ]
     },
     {
@@ -3917,7 +5143,8 @@
         "Furi": "易[やさ]しい",
         "Eng": "easy/plain/simple",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ]
     },
     {
@@ -3942,25 +5169,72 @@
         "Key": "映画-えいが",
         "Furi": "映[えい]画[が]",
         "Eng": "movie/film",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "14"
     },
     {
         "Key": "映画館-えいがかん",
         "Furi": "映[えい]画[が]館[かん]",
         "Eng": "cinema",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "23"
     },
     {
         "Key": "春-はる",
         "Furi": "春[はる]",
         "Eng": "spring",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "11"
+    },
+    {
+        "Key": "昨夜-ゆうべ",
+        "Furi": "昨[ゆう]夜[べ]",
+        "Eng": "evening",
+        "optTags": [
+            "noun",
+            "adv",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "昨日-きのう",
+        "Furi": "昨日[きのう]",
+        "Eng": "yesterday",
+        "optTags": [
+            "noun",
+            "adv",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "昼-ひる",
+        "Furi": "昼[ひる]",
+        "Eng": "noon/midday",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "昼休み-ひるやすみ",
         "Furi": "昼[ひる]休[やす]み",
         "Eng": "lunchtime",
         "optIkomaKanji": "07"
+    },
+    {
+        "Key": "昼御飯-ひるごはん",
+        "Furi": "昼[ひる]御[ご]飯[はん]",
+        "Eng": "lunch/midday meal",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "昼食-ちゅうしょく",
@@ -3972,19 +5246,47 @@
         "Key": "時々-ときどき",
         "Furi": "時[とき]々[どき]",
         "Eng": "sometimes",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "03"
     },
     {
         "Key": "時計-とけい",
         "Furi": "時[と]計[けい]",
         "Eng": "clock/watch",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "10"
     },
     {
         "Key": "時間-じかん",
         "Furi": "時[じ]間[かん]",
         "Eng": "time",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "03"
+    },
+    {
+        "Key": "晩-ばん",
+        "Furi": "晩[ばん]",
+        "Eng": "evening/night",
+        "optTags": [
+            "noun",
+            "adv",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "晩御飯-ばんごはん",
+        "Furi": "晩[ばん]御[ご]飯[はん]",
+        "Eng": "dinner/evening meal",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "晩秋-ばんしゅう",
@@ -4005,9 +5307,21 @@
         "optIkomaKanji": "27"
     },
     {
+        "Key": "晴れ-はれ",
+        "Furi": "晴[は]れ",
+        "Eng": "clear weather/fine weather",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "晴れる-はれる",
         "Furi": "晴[は]れる",
         "Eng": "to clear up",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "31"
     },
     {
@@ -4021,7 +5335,8 @@
         "Furi": "暇[ひま]",
         "Eng": "free time/spare time/leisure",
         "optTags": [
-            "adj-な"
+            "adj-な",
+            "jlpt-n5"
         ]
     },
     {
@@ -4029,7 +5344,8 @@
         "Furi": "暑[あつ]い",
         "Eng": "hot (temperature)",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "35"
     },
@@ -4038,7 +5354,8 @@
         "Furi": "暖[あたた]かい",
         "Eng": "warm",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "42"
     },
@@ -4053,7 +5370,8 @@
         "Furi": "暗[くら]い",
         "Eng": "dark",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ]
     },
     {
@@ -4061,6 +5379,24 @@
         "Furi": "暗[あん]記[き]する",
         "Eng": "to memorize",
         "optIkomaKanji": "47"
+    },
+    {
+        "Key": "曇り-くもり",
+        "Furi": "曇[くも]り",
+        "Eng": "cloudiness/cloudy weather",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "曇る-くもる",
+        "Furi": "曇[くも]る",
+        "Eng": "to get cloudy/to cloud over",
+        "optTags": [
+            "verb-1",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "曲-きょく",
@@ -4073,7 +5409,8 @@
         "Furi": "曲[ま]がる",
         "Eng": "to bend/to turn",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "36"
     },
@@ -4082,7 +5419,8 @@
         "Furi": "書[か]く",
         "Eng": "to write",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "04"
     },
@@ -4126,6 +5464,11 @@
         "Key": "月曜日-げつようび",
         "Furi": "月[げつ]曜[よう]日[び]",
         "Eng": "monday",
+        "optTags": [
+            "noun",
+            "adv",
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "02"
     },
     {
@@ -4142,7 +5485,8 @@
         "Furi": "有[ゆう]名[めい]",
         "Eng": "famous",
         "optTags": [
-            "adj-な"
+            "adj-な",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "02"
     },
@@ -4150,6 +5494,9 @@
         "Key": "服-ふく",
         "Furi": "服[ふく]",
         "Eng": "clothes",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "33"
     },
     {
@@ -4157,7 +5504,8 @@
         "Furi": "朝[あさ]",
         "Eng": "morning",
         "optTags": [
-            "noun"
+            "noun",
+            "jlpt-n5"
         ]
     },
     {
@@ -4165,7 +5513,8 @@
         "Furi": "朝[あさ]ご飯[はん]",
         "Eng": "breakfast",
         "optTags": [
-            "noun"
+            "noun",
+            "jlpt-n5"
         ]
     },
     {
@@ -4184,18 +5533,47 @@
         "Key": "木-き",
         "Furi": "木[き]",
         "Eng": "tree",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "04"
     },
     {
         "Key": "木曜日-もくようび",
         "Furi": "木[もく]曜[よう]日[び]",
         "Eng": "thursday",
+        "optTags": [
+            "noun",
+            "adv",
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "04"
+    },
+    {
+        "Key": "本-ほん",
+        "Furi": "本[ほん]",
+        "Eng": "book",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "本棚-ほんだな",
+        "Furi": "本[ほん]棚[だな]",
+        "Eng": "bookcase/bookshelf",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "机-つくえ",
         "Furi": "机[つくえ]",
         "Eng": "desk",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "30"
     },
     {
@@ -4208,6 +5586,9 @@
         "Key": "村-むら",
         "Furi": "村[むら]",
         "Eng": "village",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "37"
     },
     {
@@ -4227,20 +5608,47 @@
         "Furi": "来[く]る",
         "Eng": "to come",
         "optTags": [
-            "verb-3"
+            "verb-3",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "02"
+    },
+    {
+        "Key": "来年-らいねん",
+        "Furi": "来[らい]年[ねん]",
+        "Eng": "next year",
+        "optTags": [
+            "noun",
+            "adv",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "来月-らいげつ",
+        "Furi": "来[らい]月[げつ]",
+        "Eng": "next month",
+        "optTags": [
+            "noun",
+            "adv",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "来週-らいしゅう",
         "Furi": "来[らい]週[しゅう]",
         "Eng": "next week",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "02"
     },
     {
         "Key": "東-ひがし",
         "Furi": "東[ひがし]",
         "Eng": "east",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "31"
     },
     {
@@ -4260,6 +5668,15 @@
         "Furi": "林[はやし]",
         "Eng": "forest/woods/grove",
         "optIkomaKanji": "24"
+    },
+    {
+        "Key": "果物-くだもの",
+        "Furi": "果物[くだもの]",
+        "Eng": "fruit",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "校庭-こうてい",
@@ -4326,7 +5743,8 @@
         "Furi": "楽[たの]しい",
         "Eng": "fun/enjoyable",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "19"
     },
@@ -4340,6 +5758,9 @@
         "Key": "横-よこ",
         "Furi": "横[よこ]",
         "Eng": "side/horizontal",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "29"
     },
     {
@@ -4352,12 +5773,18 @@
         "Key": "橋-はし",
         "Furi": "橋[はし]",
         "Eng": "bridge",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "29"
     },
     {
         "Key": "次-つぎ",
         "Furi": "次[つぎ]",
         "Eng": "next",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "39"
     },
     {
@@ -4377,7 +5804,8 @@
         "Furi": "欲[ほ]しい",
         "Eng": "wanting",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "25"
     },
@@ -4385,6 +5813,9 @@
         "Key": "歌-うた",
         "Furi": "歌[うた]",
         "Eng": "song",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "19"
     },
     {
@@ -4392,7 +5823,8 @@
         "Furi": "歌[うた]う",
         "Eng": "to sing",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "19"
     },
@@ -4407,7 +5839,8 @@
         "Furi": "止[と]まる",
         "Eng": "to come to a halt (Intransitive verb)",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "13"
     },
@@ -4449,7 +5882,8 @@
         "Furi": "歩[ある]く",
         "Eng": "to walk",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "12"
     },
@@ -4469,6 +5903,9 @@
         "Key": "歯-は",
         "Furi": "歯[は]",
         "Eng": "tooth",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "34"
     },
     {
@@ -4487,6 +5924,9 @@
         "Key": "死ぬ-しぬ",
         "Furi": "死[し]ぬ",
         "Eng": "to die",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "39"
     },
     {
@@ -4523,9 +5963,32 @@
         "optIkomaKanji": "07"
     },
     {
+        "Key": "毎年-まいとし",
+        "Furi": "毎[まい]年[とし]",
+        "Eng": "every year/yearly/annually",
+        "optTags": [
+            "noun",
+            "adv",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "毎年-まいねん",
+        "Furi": "毎[まい]年[ねん]",
+        "Eng": "every year/yearly/annually",
+        "optTags": [
+            "noun",
+            "adv",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "毎日-まいにち",
         "Furi": "毎[まい]日[にち]",
         "Eng": "daily",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "02"
     },
     {
@@ -4538,13 +6001,49 @@
         "Key": "毎晩-まいばん",
         "Furi": "毎[まい]晩[ばん]",
         "Eng": "every night",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "07"
+    },
+    {
+        "Key": "毎月-まいげつ",
+        "Furi": "毎[まい]月[げつ]",
+        "Eng": "every month/monthly",
+        "optTags": [
+            "noun",
+            "adv",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "毎月-まいつき",
+        "Furi": "毎[まい]月[つき]",
+        "Eng": "every month/monthly",
+        "optTags": [
+            "noun",
+            "adv",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "毎朝-まいあさ",
         "Furi": "毎[まい]朝[あさ]",
         "Eng": "every morning",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "07"
+    },
+    {
+        "Key": "毎週-まいしゅう",
+        "Furi": "毎[まい]週[しゅう]",
+        "Eng": "every week/weekly",
+        "optTags": [
+            "noun",
+            "adv",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "気をつける-きをつける",
@@ -4558,12 +6057,20 @@
         "Key": "水-みず",
         "Furi": "水[みず]",
         "Eng": "water",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "04"
     },
     {
         "Key": "水曜日-すいようび",
         "Furi": "水[すい]曜[よう]日[び]",
         "Eng": "wednesday",
+        "optTags": [
+            "noun",
+            "adv",
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "04"
     },
     {
@@ -4576,6 +6083,9 @@
         "Key": "汚い-きたない",
         "Furi": "汚[きたな]い",
         "Eng": "dirty",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "40"
     },
     {
@@ -4603,6 +6113,9 @@
         "Key": "池-いけ",
         "Furi": "池[いけ]",
         "Eng": "pond",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "29"
     },
     {
@@ -4625,6 +6138,15 @@
         "Furi": "決[けっ]心[しん]",
         "Eng": "decision",
         "optIkomaKanji": "29"
+    },
+    {
+        "Key": "河-かわ",
+        "Furi": "河[かわ]",
+        "Eng": "river/stream",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "油-あぶら",
@@ -4700,7 +6222,8 @@
         "Furi": "泳[およ]ぐ",
         "Eng": "to swim",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "35"
     },
@@ -4708,6 +6231,9 @@
         "Key": "洋服-ようふく",
         "Furi": "洋[よう]服[ふく]",
         "Eng": "western clothes",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "43"
     },
     {
@@ -4721,9 +6247,19 @@
         "Furi": "洗[あら]う",
         "Eng": "to wash",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "43"
+    },
+    {
+        "Key": "洗濯-せんたく",
+        "Furi": "洗[せん]濯[たく]",
+        "Eng": "washing/laundry",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "洗濯する-せんたくする",
@@ -4759,6 +6295,9 @@
         "Key": "海-うみ",
         "Furi": "海[うみ]",
         "Eng": "sea/ocean",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "13"
     },
     {
@@ -4778,7 +6317,8 @@
         "Furi": "消[き]える",
         "Eng": "to go out/to be turned off (Intransitive verb)",
         "optTags": [
-            "verb-2"
+            "verb-2",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "49"
     },
@@ -4787,7 +6327,8 @@
         "Furi": "消[け]す",
         "Eng": "to turn off",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "49"
     },
@@ -4802,7 +6343,8 @@
         "Furi": "涼[すず]しい",
         "Eng": "cool/refreshing",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "28"
     },
@@ -4831,11 +6373,21 @@
         "optIkomaKanji": "44"
     },
     {
+        "Key": "渡す-わたす",
+        "Furi": "渡[わた]す",
+        "Eng": "to traverse",
+        "optTags": [
+            "num",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "渡る-わたる",
         "Furi": "渡[わた]る",
         "Eng": "to cross",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "49"
     },
@@ -4844,6 +6396,15 @@
         "Furi": "渡[とう]米[べい]する",
         "Eng": "to go to USA",
         "optIkomaKanji": "49"
+    },
+    {
+        "Key": "温い-ぬるい",
+        "Furi": "温[ぬる]い",
+        "Eng": "lukewarm/tepid",
+        "optTags": [
+            "adj-い",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "港-みなと",
@@ -4855,13 +6416,30 @@
         "Key": "漢字-かんじ",
         "Furi": "漢[かん]字[じ]",
         "Eng": "kanji",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "18"
     },
     {
         "Key": "火曜日-かようび",
         "Furi": "火[か]曜[よう]日[び]",
         "Eng": "tuesday",
+        "optTags": [
+            "noun",
+            "adv",
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "04"
+    },
+    {
+        "Key": "灰皿-はいざら",
+        "Furi": "灰[はい]皿[ざら]",
+        "Eng": "ashtray",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "点く-つく",
@@ -4890,7 +6468,8 @@
         "Furi": "無[な]くす",
         "Eng": "to lose (something)",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ]
     },
     {
@@ -4908,6 +6487,15 @@
         ]
     },
     {
+        "Key": "煩い-うるさい",
+        "Furi": "煩[うるさ]い",
+        "Eng": "noisy/loud",
+        "optTags": [
+            "adj-い",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "熱-ねつ",
         "Furi": "熱[ねつ]",
         "Eng": "fever",
@@ -4918,7 +6506,8 @@
         "Furi": "熱[あつ]い",
         "Eng": "hot (to the touch)",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "31"
     },
@@ -4962,10 +6551,31 @@
         "optIkomaKanji": "24"
     },
     {
+        "Key": "牛乳-ぎゅうにゅう",
+        "Furi": "牛[ぎゅう]乳[にゅう]",
+        "Eng": "cows milk",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "牛肉-ぎゅうにく",
         "Furi": "牛[ぎゅう]肉[にく]",
         "Eng": "beef",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "24"
+    },
+    {
+        "Key": "物-もの",
+        "Furi": "物[もの]",
+        "Eng": "thing/object/stuff",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "物欲-ぶつよく",
@@ -5002,7 +6612,8 @@
         "Furi": "犬[いぬ]",
         "Eng": "dog",
         "optTags": [
-            "noun"
+            "noun",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "10"
     },
@@ -5011,9 +6622,28 @@
         "Furi": "狭[せま]い",
         "Eng": "narrow/confined",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "26"
+    },
+    {
+        "Key": "猫-ねこ",
+        "Furi": "猫[ねこ]",
+        "Eng": "cat",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "玄関-げんかん",
+        "Furi": "玄[げん]関[かん]",
+        "Eng": "entrance",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "球-たま",
@@ -5029,7 +6659,8 @@
         "Furi": "甘[あま]い",
         "Eng": "sweet/fragrant",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "26"
     },
@@ -5053,7 +6684,8 @@
         "Furi": "生[う]まれる",
         "Eng": "to be born",
         "optTags": [
-            "verb-2"
+            "verb-2",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "02"
     },
@@ -5073,6 +6705,15 @@
             "noun"
         ],
         "optIkomaKanji": "26"
+    },
+    {
+        "Key": "生徒-せいと",
+        "Furi": "生[せい]徒[と]",
+        "Eng": "pupil/student/schoolchild",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "生活-せいかつ",
@@ -5149,10 +6790,28 @@
         "optIkomaKanji": "32"
     },
     {
+        "Key": "男-おとこ",
+        "Furi": "男[おとこ]",
+        "Eng": "man/male",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "男の人-おとこのひと",
         "Furi": "男[おとこ]の人[ひと]",
         "Eng": "man",
         "optIkomaKanji": "09"
+    },
+    {
+        "Key": "男の子-おとこのこ",
+        "Furi": "男[おとこ]の子[こ]",
+        "Eng": "boy/son",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "男性-だんせい",
@@ -5164,6 +6823,9 @@
         "Key": "町-まち",
         "Furi": "町[まち]",
         "Eng": "town",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "07"
     },
     {
@@ -5194,6 +6856,15 @@
         "optIkomaKanji": "25"
     },
     {
+        "Key": "留学生-りゅうがくせい",
+        "Furi": "留[りゅう]学[がく]生[せい]",
+        "Eng": "overseas student",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "留守-るす",
         "Furi": "留[る]守[す]",
         "Eng": "absent/away",
@@ -5203,6 +6874,9 @@
         "Key": "番号-ばんごう",
         "Furi": "番[ばん]号[ごう]",
         "Eng": "number",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "33"
     },
     {
@@ -5210,7 +6884,8 @@
         "Furi": "疲[つか]れる",
         "Eng": "to tire/to get tired",
         "optTags": [
-            "verb-2"
+            "verb-2",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "28"
     },
@@ -5230,18 +6905,27 @@
         "Key": "病気-びょうき",
         "Furi": "病[びょう]気[き]",
         "Eng": "illness/disease (common)",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "21"
     },
     {
         "Key": "病院-びょういん",
         "Furi": "病[びょう]院[いん]",
         "Eng": "hospital",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "21"
     },
     {
         "Key": "痛い-いたい",
         "Furi": "痛[いた]い",
         "Eng": "painful",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "28"
     },
     {
@@ -5269,7 +6953,8 @@
         "Furi": "登[のぼ]る",
         "Eng": "to climb/to ascend",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "20"
     },
@@ -5280,11 +6965,21 @@
         "optIkomaKanji": "20"
     },
     {
+        "Key": "白-しろ",
+        "Furi": "白[しろ]",
+        "Eng": "white",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "白い-しろい",
         "Furi": "白[しろ]い",
         "Eng": "white",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "08"
     },
@@ -5304,6 +6999,9 @@
         "Key": "百-ひゃく",
         "Furi": "百[ひゃく]",
         "Eng": "hundred",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "03"
     },
     {
@@ -5322,6 +7020,9 @@
         "Key": "皆さん-みなさん",
         "Furi": "皆[みな]さん",
         "Eng": "everyone",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "36"
     },
     {
@@ -5334,6 +7035,9 @@
         "Key": "目-め",
         "Furi": "目[め]",
         "Eng": "eye",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "15"
     },
     {
@@ -5411,11 +7115,21 @@
         "optIkomaKanji": "26"
     },
     {
+        "Key": "眼鏡-めがね",
+        "Furi": "眼[め]鏡[がね]",
+        "Eng": "glasses/spectacles",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "着く-つく",
         "Furi": "着[つ]く",
         "Eng": "to arrive/to reach",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "18"
     },
@@ -5424,7 +7138,8 @@
         "Furi": "着[き]る",
         "Eng": "to wear (shirt)",
         "optTags": [
-            "verb-2"
+            "verb-2",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "18"
     },
@@ -5439,7 +7154,8 @@
         "Furi": "知[し]る",
         "Eng": "to know",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "15"
     },
@@ -5454,7 +7170,8 @@
         "Furi": "短[みじか]い",
         "Eng": "short",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "43"
     },
@@ -5475,6 +7192,15 @@
         "Furi": "石[せき]油[ゆ]",
         "Eng": "oil/petroleum",
         "optIkomaKanji": "41"
+    },
+    {
+        "Key": "砂糖-さとう",
+        "Furi": "砂[さ]糖[とう]",
+        "Eng": "sugar",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "研ぐ-とぐ",
@@ -5516,7 +7242,8 @@
         "Furi": "磨[みが]く",
         "Eng": "to brush",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ]
     },
     {
@@ -5565,6 +7292,9 @@
         "Key": "私-わたし",
         "Furi": "私[わたし]",
         "Eng": "I",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "49"
     },
     {
@@ -5577,6 +7307,9 @@
         "Key": "秋-あき",
         "Furi": "秋[あき]",
         "Eng": "authumn",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "12"
     },
     {
@@ -5591,6 +7324,9 @@
         "Key": "空-そら",
         "Furi": "空[そら]",
         "Eng": "sky",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "31"
     },
     {
@@ -5600,11 +7336,21 @@
         "optIkomaKanji": "31"
     },
     {
+        "Key": "窓-まど",
+        "Furi": "窓[まど]",
+        "Eng": "window",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "立つ-たつ",
         "Furi": "立[た]つ",
         "Eng": "to stand",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "15"
     },
@@ -5624,6 +7370,9 @@
         "Key": "答える-こたえる",
         "Furi": "答[こた]える",
         "Eng": "to answer/to reply",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "17"
     },
     {
@@ -5631,6 +7380,15 @@
         "Furi": "答[とう]案[あん]用[よう]紙[し]",
         "Eng": "answer sheet",
         "optIkomaKanji": "17"
+    },
+    {
+        "Key": "箱-はこ",
+        "Furi": "箱[はこ]",
+        "Eng": "box/case/chest",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "簡単-かんたん",
@@ -5666,6 +7424,24 @@
         "optIkomaKanji": "32"
     },
     {
+        "Key": "紅茶-こうちゃ",
+        "Furi": "紅[こう]茶[ちゃ]",
+        "Eng": "black tea",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "紙-かみ",
+        "Furi": "紙[かみ]",
+        "Eng": "paper",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "素敵-すてき",
         "Furi": "素敵[すてき]",
         "Eng": "fine/nice/wonderful",
@@ -5677,6 +7453,9 @@
         "Key": "細い-ほそい",
         "Furi": "細[ほそ]い",
         "Eng": "thin",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "45"
     },
     {
@@ -5705,7 +7484,8 @@
         "Furi": "終[お]わる",
         "Eng": "to end/to finish",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "24"
     },
@@ -5752,6 +7532,15 @@
         "optIkomaKanji": "39"
     },
     {
+        "Key": "結婚-けっこん",
+        "Furi": "結[けっ]婚[こん]",
+        "Eng": "marriage",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "結婚する-けっこんする",
         "Furi": "結[けっ]婚[こん]する",
         "Eng": "to marry",
@@ -5764,6 +7553,9 @@
         "Key": "結婚式-けっこんしき",
         "Furi": "結[けっ]婚[こん]式[しき]",
         "Eng": "wedding ceremony",
+        "optTags": [
+            "noun"
+        ],
         "optIkomaKanji": "39"
     },
     {
@@ -5771,6 +7563,15 @@
         "Furi": "結[けっ]果[か]",
         "Eng": "result",
         "optIkomaKanji": "39"
+    },
+    {
+        "Key": "結構-けっこう",
+        "Furi": "結[けっ]構[こう]",
+        "Eng": "splendid/nice/wonderful",
+        "optTags": [
+            "adj-な",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "絡まる-からまる",
@@ -5795,6 +7596,15 @@
         "Furi": "給[きゅう]食[しょく]",
         "Eng": "school meal",
         "optIkomaKanji": "28"
+    },
+    {
+        "Key": "絵-え",
+        "Furi": "絵[え]",
+        "Eng": "picture/drawing/painting/sketch",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "絵画-かいが",
@@ -5844,15 +7654,45 @@
         ]
     },
     {
+        "Key": "緑-みどり",
+        "Furi": "緑[みどり]",
+        "Eng": "green",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "締める-しめる",
+        "Furi": "締[し]める",
+        "Eng": "to tie/to fasten/to tighten",
+        "optTags": [
+            "verb-2",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "練る-ねる",
         "Furi": "練[ね]る",
         "Eng": "to knead/to polish (a plan)",
         "optIkomaKanji": "32"
     },
     {
+        "Key": "練習-れんしゅう",
+        "Furi": "練[れん]習[しゅう]",
+        "Eng": "practice/training",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "練習する-れんしゅうする",
         "Furi": "練[れん]習[しゅう]する",
         "Eng": "to practice/to train",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "19"
     },
     {
@@ -5868,7 +7708,8 @@
         "Furi": "置[お]く",
         "Eng": "to put",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "30"
     },
@@ -5903,7 +7744,8 @@
         "Furi": "習[なら]う",
         "Eng": "to learn",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "19"
     },
@@ -5932,6 +7774,9 @@
         "Key": "耳-みみ",
         "Furi": "耳[みみ]",
         "Eng": "ear",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "15"
     },
     {
@@ -5945,7 +7790,8 @@
         "Furi": "聞[き]く",
         "Eng": "to listen",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "06"
     },
@@ -5961,6 +7807,9 @@
         "Key": "肉-にく",
         "Furi": "肉[にく]",
         "Eng": "meat",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "16"
     },
     {
@@ -5976,11 +7825,30 @@
         "optIkomaKanji": "48"
     },
     {
+        "Key": "背-せ",
+        "Furi": "背[せ]",
+        "Eng": "height/stature/back",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "背広-せびろ",
+        "Furi": "背広[せびろ]",
+        "Eng": "business suit",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "脱ぐ-ぬぐ",
         "Furi": "脱[ぬ]ぐ",
         "Eng": "to undress",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ]
     },
     {
@@ -5989,6 +7857,15 @@
         "Eng": "to swell (from inflammation)",
         "optTags": [
             "verb-2"
+        ]
+    },
+    {
+        "Key": "自分-じぶん",
+        "Furi": "自[じ]分[ぶん]",
+        "Eng": "myself/yourself/oneself",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
         ]
     },
     {
@@ -6001,6 +7878,9 @@
         "Key": "自動車-じどうしゃ",
         "Furi": "自[じ]動[どう]車[しゃ]",
         "Eng": "car/automobile",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "23"
     },
     {
@@ -6014,6 +7894,15 @@
         "Furi": "自[じ]由[ゆう]",
         "Eng": "freedom",
         "optIkomaKanji": "48"
+    },
+    {
+        "Key": "自転車-じてんしゃ",
+        "Furi": "自[じ]転[てん]車[しゃ]",
+        "Eng": "bicycle/bike",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "船-ふね",
@@ -6045,7 +7934,19 @@
         "Key": "色-いろ",
         "Furi": "色[いろ]",
         "Eng": "color",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "27"
+    },
+    {
+        "Key": "花-はな",
+        "Furi": "花[はな]",
+        "Eng": "flower",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "花火-はなび",
@@ -6057,6 +7958,9 @@
         "Key": "花瓶-かびん",
         "Furi": "花[か]瓶[びん]",
         "Eng": "vase",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "14"
     },
     {
@@ -6064,7 +7968,8 @@
         "Furi": "若[わか]い",
         "Eng": "young",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "47"
     },
@@ -6102,7 +8007,19 @@
         "Key": "英語-えいご",
         "Furi": "英[えい]語[ご]",
         "Eng": "english (language)",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "14"
+    },
+    {
+        "Key": "茶色-ちゃいろ",
+        "Furi": "茶[ちゃ]色[いろ]",
+        "Eng": "brown/light brown",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "茶道-さどう",
@@ -6114,6 +8031,9 @@
         "Key": "荷物-にもつ",
         "Furi": "荷[に]物[もつ]",
         "Eng": "parcel/luggage",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "07"
     },
     {
@@ -6152,9 +8072,21 @@
         "optIkomaKanji": "48"
     },
     {
+        "Key": "葉書-はがき",
+        "Furi": "葉[は]書[がき]",
+        "Eng": "postcard",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "薄い-うすい",
         "Furi": "薄[うす]い",
         "Eng": "thin/pale/weak",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "44"
     },
     {
@@ -6167,6 +8099,9 @@
         "Key": "薬-くすり",
         "Furi": "薬[くすり]",
         "Eng": "medicine",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "33"
     },
     {
@@ -6186,7 +8121,8 @@
         "Furi": "行[い]く",
         "Eng": "to go",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "02"
     },
@@ -6220,6 +8156,9 @@
         "Key": "西-にし",
         "Furi": "西[にし]",
         "Eng": "west",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "31"
     },
     {
@@ -6233,7 +8172,8 @@
         "Furi": "要[い]る",
         "Eng": "to need/to require",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "39"
     },
@@ -6250,7 +8190,8 @@
         "Furi": "見[み]せる",
         "Eng": "to show/to display",
         "optTags": [
-            "verb-2"
+            "verb-2",
+            "jlpt-n5"
         ]
     },
     {
@@ -6266,7 +8207,8 @@
         "Furi": "見[み]る",
         "Eng": "to see",
         "optTags": [
-            "verb-2"
+            "verb-2",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "06"
     },
@@ -6290,7 +8232,8 @@
         "Furi": "覚[おぼ]える",
         "Eng": "to memorise/to remember",
         "optTags": [
-            "verb-2"
+            "verb-2",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "28"
     },
@@ -6337,6 +8280,10 @@
         "Key": "角 (street/sharpness)-かど",
         "Furi": "角[かど] (street/sharpness)",
         "Eng": "corner/edge",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "32"
     },
     {
@@ -6352,9 +8299,19 @@
         "Furi": "言[い]う",
         "Eng": "to say/to utter/to declare",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "21"
+    },
+    {
+        "Key": "言葉-ことば",
+        "Furi": "言[こと]葉[ば]",
+        "Eng": "language/dialect",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "言語-げんご",
@@ -6428,6 +8385,9 @@
         "Key": "話-はなし",
         "Furi": "話[はなし]",
         "Eng": "story/tale",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "19"
     },
     {
@@ -6441,7 +8401,8 @@
         "Furi": "話[はな]す",
         "Eng": "to chat/to talk/to speak",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "19"
     },
@@ -6455,6 +8416,9 @@
         "Key": "誕生日-たんじょうび",
         "Furi": "誕[たん]生[じょう]日[び]",
         "Eng": "birthday",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "02"
     },
     {
@@ -6477,7 +8441,8 @@
         "Furi": "読[よ]む",
         "Eng": "to read",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "06"
     },
@@ -6486,6 +8451,24 @@
         "Furi": "読[どく]書[しょ]",
         "Eng": "reading",
         "optIkomaKanji": "06"
+    },
+    {
+        "Key": "誰-だれ",
+        "Furi": "誰[だれ]",
+        "Eng": "who",
+        "optTags": [
+            "pronoun",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "誰か-だれか",
+        "Furi": "誰[だれ]か",
+        "Eng": "someone/somebody",
+        "optTags": [
+            "pronoun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "調べる-しらべる",
@@ -6503,6 +8486,15 @@
         "optIkomaKanji": "50"
     },
     {
+        "Key": "警官-けいかん",
+        "Furi": "警[けい]官[かん]",
+        "Eng": "police officer/policeman",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "警察犬-けいさつけん",
         "Furi": "警[けい]察[さつ]犬[けん]",
         "Eng": "police dog",
@@ -6513,6 +8505,15 @@
         "Furi": "議[ぎ]論[ろん]",
         "Eng": "discussion/dispute",
         "optIkomaKanji": "46"
+    },
+    {
+        "Key": "豚肉-ぶたにく",
+        "Furi": "豚[ぶた]肉[にく]",
+        "Eng": "pork",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "負う-おう",
@@ -6530,6 +8531,15 @@
         "optIkomaKanji": "26"
     },
     {
+        "Key": "財布-さいふ",
+        "Furi": "財[さい]布[ふ]",
+        "Eng": "purse/handbag/wallet",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "貰う-もらう",
         "Furi": "貰[もら]う",
         "Eng": "to receive",
@@ -6541,6 +8551,9 @@
         "Key": "買い物-かいもの",
         "Furi": "買[か]い物[もの]",
         "Eng": "shopping",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "06"
     },
     {
@@ -6556,7 +8569,8 @@
         "Furi": "買[か]う",
         "Eng": "to buy/to purchase",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ]
     },
     {
@@ -6564,9 +8578,19 @@
         "Furi": "貸[か]す",
         "Eng": "to lend/to loan",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "20"
+    },
+    {
+        "Key": "貼る-はる",
+        "Furi": "貼[は]る",
+        "Eng": "to stick/to paste/to affix",
+        "optTags": [
+            "verb-1",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "賃貸-ちんたい",
@@ -6585,7 +8609,8 @@
         "Furi": "賑[にぎ]やか",
         "Eng": "lively",
         "optTags": [
-            "adj-な"
+            "adj-な",
+            "jlpt-n5"
         ]
     },
     {
@@ -6593,6 +8618,15 @@
         "Furi": "賛[さん]成[せい]する",
         "Eng": "to agree/to approve",
         "optIkomaKanji": "48"
+    },
+    {
+        "Key": "質問-しつもん",
+        "Furi": "質[しつ]問[もん]",
+        "Eng": "question/inquiry/enquiry",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "質問をする-しつもんをする",
@@ -6611,7 +8645,8 @@
         "Furi": "赤[あか]",
         "Eng": "red/crimson/scarlet",
         "optTags": [
-            "noun"
+            "noun",
+            "jlpt-n5"
         ]
     },
     {
@@ -6619,7 +8654,8 @@
         "Furi": "赤[あか]い",
         "Eng": "red",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "08"
     },
@@ -6634,7 +8670,8 @@
         "Furi": "走[はし]る",
         "Eng": "to run",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "29"
     },
@@ -6649,7 +8686,8 @@
         "Furi": "起[お]きる",
         "Eng": "to wake up/to get up",
         "optTags": [
-            "verb-2"
+            "verb-2",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "43"
     },
@@ -6681,6 +8719,9 @@
         "Key": "足-あし",
         "Furi": "足[あし]",
         "Eng": "leg/foot",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "15"
     },
     {
@@ -6710,6 +8751,9 @@
         "Key": "車-くるま",
         "Furi": "車[くるま]",
         "Eng": "car",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "02"
     },
     {
@@ -6729,7 +8773,8 @@
         "Furi": "軽[かる]い",
         "Eng": "light",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ]
     },
     {
@@ -6749,7 +8794,8 @@
         "Furi": "辛[から]い (味覚)",
         "Eng": "spicy (taste)",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "26"
     },
@@ -6781,6 +8827,9 @@
         "Key": "辞書-じしょ",
         "Furi": "辞[じ]書[しょ]",
         "Eng": "dictionary",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "04"
     },
     {
@@ -6788,6 +8837,15 @@
         "Furi": "辞[じ]職[しょく]する",
         "Eng": "to resign",
         "optIkomaKanji": "32"
+    },
+    {
+        "Key": "辺-へん",
+        "Furi": "辺[へん]",
+        "Eng": "area/vicinity/region",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "込む-こむ",
@@ -6820,13 +8878,17 @@
         "Furi": "近[ちか]い",
         "Eng": "near",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ]
     },
     {
         "Key": "近く-ちかく",
         "Furi": "近[ちか]く",
         "Eng": "near",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "10"
     },
     {
@@ -6840,7 +8902,8 @@
         "Furi": "返[かえ]す",
         "Eng": "to return (something)",
         "optTags": [
-            "verb-2"
+            "verb-2",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "32"
     },
@@ -6935,6 +8998,9 @@
         "Key": "速い-はやい",
         "Furi": "速[はや]い",
         "Eng": "fast/quick",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "26"
     },
     {
@@ -7004,7 +9070,8 @@
         "Furi": "遅[おそ]い",
         "Eng": "slow/late",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "36"
     },
@@ -7028,7 +9095,8 @@
         "Furi": "遊[あそ]ぶ",
         "Eng": "to play",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "47"
     },
@@ -7084,12 +9152,18 @@
         "Key": "道-みち",
         "Furi": "道[みち]",
         "Eng": "road/street",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "23"
     },
     {
         "Key": "違う-ちがう",
         "Furi": "違[ちが]う",
         "Eng": "to differ",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "36"
     },
     {
@@ -7109,7 +9183,8 @@
         "Furi": "遠[とお]い",
         "Eng": "far",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "47"
     },
@@ -7152,6 +9227,9 @@
         "Key": "部屋-へや",
         "Furi": "部[へ]屋[や]",
         "Eng": "room/chamber",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "22"
     },
     {
@@ -7164,6 +9242,9 @@
         "Key": "郵便局-ゆうびんきょく",
         "Furi": "郵[ゆう]便[びん]局[きょく]",
         "Eng": "post office",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "35"
     },
     {
@@ -7209,7 +9290,8 @@
         "Furi": "重[おも]い",
         "Eng": "heavy",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "29"
     },
@@ -7229,12 +9311,20 @@
         "Key": "野菜-やさい",
         "Furi": "野[や]菜[さい]",
         "Eng": "vegetable",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "49"
     },
     {
         "Key": "金曜日-きんようび",
         "Furi": "金[きん]曜[よう]日[び]",
         "Eng": "friday",
+        "optTags": [
+            "noun",
+            "adv",
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "04"
     },
     {
@@ -7244,9 +9334,21 @@
         "optIkomaKanji": "10"
     },
     {
+        "Key": "鉛筆-えんぴつ",
+        "Furi": "鉛[えん]筆[ぴつ]",
+        "Eng": "pencil",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "銀行-ぎんこう",
         "Furi": "銀[ぎん]行[こう]",
         "Eng": "bank",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "02"
     },
     {
@@ -7260,7 +9362,8 @@
         "Furi": "長[なが]い",
         "Eng": "long",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "16"
     },
@@ -7268,6 +9371,9 @@
         "Key": "門-もん",
         "Furi": "門[もん]",
         "Eng": "gate",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "09"
     },
     {
@@ -7281,7 +9387,8 @@
         "Furi": "閉[し]まる",
         "Eng": "to be closed",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "33"
     },
@@ -7290,7 +9397,8 @@
         "Furi": "閉[し]める",
         "Eng": "to close",
         "optTags": [
-            "verb-2"
+            "verb-2",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "33"
     },
@@ -7314,7 +9422,8 @@
         "Furi": "開[あ]く (single direction)",
         "Eng": "to open by itself (single direction)",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "13"
     },
@@ -7323,7 +9432,8 @@
         "Furi": "開[あ]ける",
         "Eng": "to open",
         "optTags": [
-            "verb-2"
+            "verb-2",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "13"
     },
@@ -7373,7 +9483,8 @@
         "Furi": "降[お]りる",
         "Eng": "to alight/to get off",
         "optTags": [
-            "verb-2"
+            "verb-2",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "25"
     },
@@ -7382,7 +9493,8 @@
         "Furi": "降[ふ]る",
         "Eng": "to fall (rain/snow)",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "25"
     },
@@ -7402,7 +9514,19 @@
         "Key": "階段-かいだん",
         "Furi": "階[かい]段[だん]",
         "Eng": "stairs",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "46"
+    },
+    {
+        "Key": "隣-となり",
+        "Furi": "隣[となり]",
+        "Eng": "next to/adjoining/adjacent",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "集まる-あつまる",
@@ -7435,6 +9559,9 @@
         "Key": "雑誌-ざっし",
         "Furi": "雑[ざっ]誌[し]",
         "Eng": "magazine",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "40"
     },
     {
@@ -7451,7 +9578,8 @@
         "Furi": "難[むずか]しい",
         "Eng": "difficult/hard (for nouns)",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "40"
     },
@@ -7465,6 +9593,9 @@
         "Key": "雨-あめ",
         "Furi": "雨[あめ]",
         "Eng": "rain",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "13"
     },
     {
@@ -7474,15 +9605,36 @@
         "optIkomaKanji": "13"
     },
     {
+        "Key": "雪-ゆき",
+        "Furi": "雪[ゆき]",
+        "Eng": "snow",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "雪祭り-ゆきまつり",
         "Furi": "雪[ゆき]祭[まつ]り",
         "Eng": "snow festival",
         "optIkomaKanji": "49"
     },
     {
+        "Key": "零-れい",
+        "Furi": "零[れい]",
+        "Eng": "zero/nought",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "電気-でんき",
         "Furi": "電[でん]気[き]",
         "Eng": "electricity/electric light",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "12"
     },
     {
@@ -7495,6 +9647,9 @@
         "Key": "電話-でんわ",
         "Furi": "電[でん]話[わ]",
         "Eng": "telephone",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "19"
     },
     {
@@ -7509,6 +9664,9 @@
         "Key": "電車-でんしゃ",
         "Furi": "電[でん]車[しゃ]",
         "Eng": "train (vehicle)",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "02"
     },
     {
@@ -7516,7 +9674,8 @@
         "Furi": "青[あお]",
         "Eng": "blue/azure",
         "optTags": [
-            "noun"
+            "noun",
+            "jlpt-n5"
         ]
     },
     {
@@ -7524,7 +9683,8 @@
         "Furi": "青[あお]い",
         "Eng": "blue",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "08"
     },
@@ -7545,7 +9705,8 @@
         "Furi": "静[しず]か",
         "Eng": "quiet",
         "optTags": [
-            "adj-な"
+            "adj-な",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "44"
     },
@@ -7582,6 +9743,24 @@
         ]
     },
     {
+        "Key": "靴-くつ",
+        "Furi": "靴[くつ]",
+        "Eng": "shoes/boots",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "靴下-くつした",
+        "Furi": "靴[くつ]下[した]",
+        "Eng": "socks/stockings",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "音-おと",
         "Furi": "音[おと]",
         "Eng": "sound/noise/note",
@@ -7591,6 +9770,9 @@
         "Key": "音楽-おんがく",
         "Furi": "音[おん]楽[がく]",
         "Eng": "music",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "19"
     },
     {
@@ -7611,6 +9793,9 @@
         "Key": "頭-あたま",
         "Furi": "頭[あたま]",
         "Eng": "head",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "43"
     },
     {
@@ -7623,6 +9808,9 @@
         "Key": "頼む-たのむ",
         "Furi": "頼[たの]む",
         "Eng": "to request/to beg/to ask",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "38"
     },
     {
@@ -7659,18 +9847,36 @@
         "Key": "風-かぜ",
         "Furi": "風[かぜ]",
         "Eng": "wind",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "31"
+    },
+    {
+        "Key": "風邪-かぜ",
+        "Furi": "風邪[かぜ]",
+        "Eng": "cold/flu/influenza",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "飛ぶ-とぶ",
         "Furi": "飛[と]ぶ",
         "Eng": "to fly",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "46"
     },
     {
         "Key": "飛行機-ひこうき",
         "Furi": "飛[ひ]行[こう]機[き]",
         "Eng": "aeroplane/airplane",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "36"
     },
     {
@@ -7678,7 +9884,8 @@
         "Furi": "食[た]べる",
         "Eng": "to eat",
         "optTags": [
-            "verb-2"
+            "verb-2",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "06"
     },
@@ -7686,6 +9893,9 @@
         "Key": "食べ物-たべもの",
         "Furi": "食[た]べ物[もの]",
         "Eng": "food",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "07"
     },
     {
@@ -7700,6 +9910,9 @@
         "Key": "食堂-しょくどう",
         "Furi": "食[しょく]堂[どう]",
         "Eng": "dining room/canteen",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "06"
     },
     {
@@ -7718,6 +9931,9 @@
         "Key": "飲み物-のみもの",
         "Furi": "飲[の]み物[もの]",
         "Eng": "beverage",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "06"
     },
     {
@@ -7725,7 +9941,8 @@
         "Furi": "飲[の]む",
         "Eng": "to drink/to take medicine",
         "optTags": [
-            "verb-1"
+            "verb-1",
+            "jlpt-n5"
         ]
     },
     {
@@ -7745,7 +9962,8 @@
         "Furi": "飴[あめ]",
         "Eng": "candy",
         "optTags": [
-            "noun"
+            "noun",
+            "jlpt-n5"
         ]
     },
     {
@@ -7786,6 +10004,9 @@
         "Key": "駅-えき",
         "Furi": "駅[えき]",
         "Eng": "station",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "24"
     },
     {
@@ -7805,7 +10026,8 @@
         "Furi": "高[たか]い",
         "Eng": "tall/expensive",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "08"
     },
@@ -7825,13 +10047,28 @@
         "Key": "魚-さかな",
         "Furi": "魚[さかな]",
         "Eng": "fish",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "10"
     },
     {
         "Key": "鳥-とり",
         "Furi": "鳥[とり]",
         "Eng": "bird",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "27"
+    },
+    {
+        "Key": "鳴く-なく",
+        "Furi": "鳴[な]く",
+        "Eng": "to call/to cry/to whine",
+        "optTags": [
+            "verb-1",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "黄砂-こうさ",
@@ -7843,7 +10080,19 @@
         "Key": "黄色-きいろ",
         "Furi": "黄[き]色[いろ]",
         "Eng": "yellow",
+        "optTags": [
+            "jlpt-n5"
+        ],
         "optIkomaKanji": "34"
+    },
+    {
+        "Key": "黄色い-きいろい",
+        "Furi": "黄[き]色[いろ]い",
+        "Eng": "yellow",
+        "optTags": [
+            "adj-い",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "黄金-おうごん",
@@ -7852,11 +10101,21 @@
         "optIkomaKanji": "34"
     },
     {
+        "Key": "黒-くろ",
+        "Furi": "黒[くろ]",
+        "Eng": "black",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
+    },
+    {
         "Key": "黒い-くろい",
         "Furi": "黒[くろ]い",
         "Eng": "black",
         "optTags": [
-            "adj-い"
+            "adj-い",
+            "jlpt-n5"
         ],
         "optIkomaKanji": "08"
     },
@@ -7864,158 +10123,18 @@
         "Key": "黒板-こくばん",
         "Furi": "黒[こく]板[ばん]",
         "Eng": "blackboard",
+        "optTags": [
+            "noun"
+        ],
         "optIkomaKanji": "08"
     },
     {
-        "Key": "五つ-いつつ",
-        "Furi": "五[いつ]つ",
-        "Eng": "five",
+        "Key": "鼻-はな",
+        "Furi": "鼻[はな]",
+        "Eng": "nose",
         "optTags": [
-            "noun"
-        ]
-    },
-    {
-        "Key": "意味-いみ",
-        "Furi": "意[い]味[み]",
-        "Eng": "meaning",
-        "optTags": [
-            "noun"
-        ]
-    },
-    {
-        "Key": "嫌-いや",
-        "Furi": "嫌[いや]",
-        "Eng": "disagreeable/detestable/unpleasant",
-        "optTags": [
-            "noun","adj-な"
-        ]
-    },
-    {
-        "Key": "煩い-うるさい",
-        "Furi": "煩[うるさ]い",
-        "Eng": "noisy/loud",
-        "optTags": [
-            "adj-い"
-        ]
-    },
-    {
-        "Key": "上着-うわぎ",
-        "Furi": "上[うわ]着[ぎ]",
-        "Eng": "coat/jacket/outerwear",
-        "optTags": [
-            "noun"
-        ]
-    },
-    {
-        "Key": "絵-え",
-        "Furi": "絵[え]",
-        "Eng": "picture/drawing/painting/sketch",
-        "optTags": [
-            "noun"
-        ]
-    },
-    {
-        "Key": "鉛筆-えんぴつ",
-        "Furi": "鉛[えん]筆[ぴつ]",
-        "Eng": "pencil",
-        "optTags": [
-            "noun"
-        ]
-    },
-    {
-        "Key": "大きな-おおきな",
-        "Furi": "大[おお]きな",
-        "Eng": "big/large/great",
-        "optTags": [
-            "preNounAdj"
-        ]
-    },
-    {
-        "Key": "大勢-おおぜい",
-        "Furi": "大[おお]勢[ぜい]",
-        "Eng": "crowd of people",
-        "optTags": [
-            "noun"
-        ]
-    },
-    {
-        "Key": "お菓子-おかし",
-        "Furi": "お菓[か]子[し]",
-        "Eng": "confections/sweets/candy/cake",
-        "optTags": [
-            "noun"
-        ]
-    },
-    {
-        "Key": "お皿-おさら",
-        "Furi": "お皿[さら]",
-        "Eng": "plate/dish",
-        "optTags": [
-            "noun"
-        ]
-    },
-    {
-        "Key": "伯父-おじ",
-        "Furi": "伯父[おじ]",
-        "Eng": "uncle",
-        "optTags": [
-            "noun"
-        ]
-    },
-    {
-        "Key": "叔父-おじ",
-        "Furi": "叔父[おじ]",
-        "Eng": "uncle",
-        "optTags": [
-            "noun"
-        ]
-    },
-    {
-        "Key": "お手洗い-おてあらい",
-        "Furi": "お手[て]洗[あら]い",
-        "Eng": "toilet/restroom/lavatory/bathroom",
-        "optTags": [
-            "noun"
-        ]
-    },
-    {
-        "Key": "男-おとこ",
-        "Furi": "男[おとこ]",
-        "Eng": "man/male",
-        "optTags": [
-            "noun"
-        ]
-    },
-    {
-        "Key": "男の子-おとこのこ",
-        "Furi": "男[おとこ]の子[こ]",
-        "Eng": "boy/son",
-        "optTags": [
-            "noun"
-        ]
-    },
-    {
-        "Key": "一昨日-おととい",
-        "Furi": "一昨日[おととい]",
-        "Eng": "day before yesterday",
-        "optTags": [
-            "noun","adv"
-        ]
-    },
-    {
-        "Key": "一昨年-おととし",
-        "Furi": "一昨年[おととし]",
-        "Eng": "year before last",
-        "optTags": [
-            "noun","adv"
-        ]
-    },
-    {
-        "Key": "大人-おとな",
-        "Furi": "大人[おとな]",
-        "Eng": "adult",
-        "optTags": [
-            "noun"
+            "noun",
+            "jlpt-n5"
         ]
     }
 ]
