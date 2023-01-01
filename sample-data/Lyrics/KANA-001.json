@@ -1,167 +1,206 @@
 {
-    "songLyrics": [
+    "SongLyrics": [
         {
-            "jpnStr": "いっせーのーせで踏[ふ]み込[こ]むゴーライン",
-            "engStr": "Altogether now, make a break for the goal line"
+            "JpnStr": "いっせーのーせで踏[ふ]み込[こ]むゴーライン",
+            "EngStr": "Altogether now, make a break for the goal line",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "僕[ぼく]らは何[なに]も何[なに]もまだ知[し]らぬ",
-            "engStr": "We don't know anything, anything yet"
+            "JpnStr": "僕[ぼく]らは何[なに]も何[なに]もまだ知[し]らぬ",
+            "EngStr": "We don't know anything, anything yet",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "一線超[いっせんこ]えて振[ふ]り返[かえ]るともうない",
-            "engStr": "We passed the point of no return, but looking back"
+            "JpnStr": "一線超[いっせんこ]えて振[ふ]り返[かえ]るともうない",
+            "EngStr": "We passed the point of no return, but looking back",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "僕[ぼく]らは何[なに]も何[なに]もまだ知[し]らぬ",
-            "engStr": "We don't know anything, anything yet"
+            "JpnStr": "僕[ぼく]らは何[なに]も何[なに]もまだ知[し]らぬ",
+            "EngStr": "We don't know anything, anything yet",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "",
-            "engStr": ""
+            "JpnStr": "",
+            "EngStr": "",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "うだって,うだって,うだってく",
-            "engStr": "Fired up, fired up, get fired up"
+            "JpnStr": "うだって,うだって,うだってく",
+            "EngStr": "Fired up, fired up, get fired up",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "煌[きら]めく汗[あせ]がこぼれるのさ",
-            "engStr": "Bursting with glistening sweat"
+            "JpnStr": "煌[きら]めく汗[あせ]がこぼれるのさ",
+            "EngStr": "Bursting with glistening sweat",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "",
-            "engStr": ""
+            "JpnStr": "",
+            "EngStr": "",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "覚[おぼ]えてないこともたくさんあっただろう",
-            "engStr": "There are probably a lot of things we don't remember"
+            "JpnStr": "覚[おぼ]えてないこともたくさんあっただろう",
+            "EngStr": "There are probably a lot of things we don't remember",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "誰[だれ]も彼[かれ]もシルエット",
-            "engStr": "Everyone, even him, becoming mere silhouettes"
+            "JpnStr": "誰[だれ]も彼[かれ]もシルエット",
+            "EngStr": "Everyone, even him, becoming mere silhouettes",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "大事[だいじ]にしてたもの、忘[わす]れたフリをしたんだよ",
-            "engStr": "We've pretended to forget the things we held dear"
+            "JpnStr": "大事[だいじ]にしてたもの、忘[わす]れたフリをしたんだよ",
+            "EngStr": "We've pretended to forget the things we held dear",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "なにもないよ、笑[わら]えるさ",
-            "engStr": "So we can just laugh and say it's nothing"
+            "JpnStr": "なにもないよ、笑[わら]えるさ",
+            "EngStr": "So we can just laugh and say it's nothing",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "",
-            "engStr": ""
+            "JpnStr": "",
+            "EngStr": "",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "いっせーのーで、思[おも]い出[だ]す少年[しょうねん]",
-            "engStr": "As we count together, we all remember:"
+            "JpnStr": "いっせーのーで、思[おも]い出[だ]す少年[しょうねん]",
+            "EngStr": "As we count together, we all remember:",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "僕[ぼく]らは何[なに]もかもを欲[ほ]しがった",
-            "engStr": "We wanted to have it all"
+            "JpnStr": "僕[ぼく]らは何[なに]もかもを欲[ほ]しがった",
+            "EngStr": "We wanted to have it all",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "わかってるって、あぁ気[き]づいてるって",
-            "engStr": "I know (ahh), I've noticed"
+            "JpnStr": "わかってるって、あぁ気[き]づいてるって",
+            "EngStr": "I know (ahh), I've noticed",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "時計[とけい]の針[はり]は日々[ひび]は止[と]まらない",
-            "engStr": "The hands-on the clock, these days can't be stopped"
+            "JpnStr": "時計[とけい]の針[はり]は日々[ひび]は止[と]まらない",
+            "EngStr": "The hands-on the clock, these days can't be stopped",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "",
-            "engStr": ""
+            "JpnStr": "",
+            "EngStr": "",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "奪[うば]って,奪[うば]って,奪[うば]ってく",
-            "engStr": "Fighting, fighting, fighting for ownership"
+            "JpnStr": "奪[うば]って,奪[うば]って,奪[うば]ってく",
+            "EngStr": "Fighting, fighting, fighting for ownership",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "流[なが]れる時[とき]と記憶[きおく]",
-            "engStr": "Time and memories flow"
+            "JpnStr": "流[なが]れる時[とき]と記憶[きおく]",
+            "EngStr": "Time and memories flow",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "遠[とお]く,遠[とお]く,遠[とお]くになって",
-            "engStr": "Getting further, further, further away"
+            "JpnStr": "遠[とお]く,遠[とお]く,遠[とお]くになって",
+            "EngStr": "Getting further, further, further away",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "",
-            "engStr": ""
+            "JpnStr": "",
+            "EngStr": "",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "覚[おぼ]えてないこともたくさんあっただろう",
-            "engStr": "There are probably a lot of things we don't remember"
+            "JpnStr": "覚[おぼ]えてないこともたくさんあっただろう",
+            "EngStr": "There are probably a lot of things we don't remember",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "誰[だれ]も彼[かれ]もシルエット",
-            "engStr": "Everyone, even him, becoming mere silhouettes"
+            "JpnStr": "誰[だれ]も彼[かれ]もシルエット",
+            "EngStr": "Everyone, even him, becoming mere silhouettes",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "恐[おそ]れてやまぬこと、知[し]らないフリをしたんだよ",
-            "engStr": "Everything we've worried about, we've tried to sweep under the carpet"
+            "JpnStr": "恐[おそ]れてやまぬこと、知[し]らないフリをしたんだよ",
+            "EngStr": "Everything we've worried about, we've tried to sweep under the carpet",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "なにもないよ、笑[わら]えるさ",
-            "engStr": "So we can just laugh and say it's nothing"
+            "JpnStr": "なにもないよ、笑[わら]えるさ",
+            "EngStr": "So we can just laugh and say it's nothing",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "",
-            "engStr": ""
+            "JpnStr": "",
+            "EngStr": "",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "ひらりとひらりと舞[ま]ってる",
-            "engStr": "Lightly, nimbly, they dance…"
+            "JpnStr": "ひらりとひらりと舞[ま]ってる",
+            "EngStr": "Lightly, nimbly, they dance…",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "木[こ]の葉[は]のように憂[うれ]うことなく焦燥[しょうそう]なく過[す]ごしていたいよ",
-            "engStr": "Just like those leaves, having a singular purpose"
+            "JpnStr": "木[こ]の葉[は]のように憂[うれ]うことなく焦燥[しょうそう]なく過[す]ごしていたいよ",
+            "EngStr": "Just like those leaves, having a singular purpose",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "",
-            "engStr": ""
+            "JpnStr": "",
+            "EngStr": "",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "覚[おぼ]えてないこともたくさんあったけど",
-            "engStr": "There are probably a lot of things we don't remember"
+            "JpnStr": "覚[おぼ]えてないこともたくさんあったけど",
+            "EngStr": "There are probably a lot of things we don't remember",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "きっとずっと変[か]わらないものがあることを",
-            "engStr": "But there are also things that will never change, and you"
+            "JpnStr": "きっとずっと変[か]わらないものがあることを",
+            "EngStr": "But there are also things that will never change, and you",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "教[おし]えてくれたあなたは消[き]えぬ消[き]えぬシルエット",
-            "engStr": "Who taught me this, are a fading, fading silhouette"
+            "JpnStr": "教[おし]えてくれたあなたは消[き]えぬ消[き]えぬシルエット",
+            "EngStr": "Who taught me this, are a fading, fading silhouette",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "大事[だいじ]にしたいもの持[も]って大人[おとな]になるんだ",
-            "engStr": "Clutching the things we wish to hold dear, we'll become more mature,"
+            "JpnStr": "大事[だいじ]にしたいもの持[も]って大人[おとな]になるんだ",
+            "EngStr": "Clutching the things we wish to hold dear, we'll become more mature,",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "どんな時[とき]も離[はな]さずに守[まも]り続[つづ]けよう",
-            "engStr": "Always protecting them, never letting them go"
+            "JpnStr": "どんな時[とき]も離[はな]さずに守[まも]り続[つづ]けよう",
+            "EngStr": "Always protecting them, never letting them go",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "そしたらいつの日[ひ]にか",
-            "engStr": "Then someday…"
+            "JpnStr": "そしたらいつの日[ひ]にか",
+            "EngStr": "Then someday…",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "なにもかもを笑[わら]えるさ",
-            "engStr": "we'll be able to laugh about it all"
+            "JpnStr": "なにもかもを笑[わら]えるさ",
+            "EngStr": "we'll be able to laugh about it all",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "",
-            "engStr": ""
+            "JpnStr": "",
+            "EngStr": "",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "ひらりとひらりと舞[ま]ってる",
-            "engStr": "Lightly, nimbly, they dance"
+            "JpnStr": "ひらりとひらりと舞[ま]ってる",
+            "EngStr": "Lightly, nimbly, they dance",
+            "IsEmptyLine": false
         },
         {
-            "jpnStr": "木[こ]の葉[は]が飛[と]んでゆく",
-            "engStr": "Those leaves fly into the distance"
+            "JpnStr": "木[こ]の葉[は]が飛[と]んでゆく",
+            "EngStr": "Those leaves fly into the distance",
+            "IsEmptyLine": false
         }
     ],
-    "lyricsJpn": [],
-    "lyricsEng": [],
-    "kanjiList": []
+    "KanjiList": [],
+    "ListDictKey": []
 }

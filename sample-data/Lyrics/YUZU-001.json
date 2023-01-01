@@ -2,732 +2,232 @@
     "SongLyrics": [
         {
             "JpnStr": "海沿[うみぞ]いの道[みち]を 手[て]をつないで歩[ある]いた",
-            "EngStr": "We walked hand in hand along the road by the sea"
+            "EngStr": "We walked hand in hand along the road by the sea",
+            "IsEmptyLine": false
         },
         {
             "JpnStr": "あの日[ひ]の約束[やくそく]はもう叶[かな]わない夜空[よぞら]の星[ほし]",
-            "EngStr": "That day's promise will no longer come true, stars in the night sky"
+            "EngStr": "That day's promise will no longer come true, stars in the night sky",
+            "IsEmptyLine": false
         },
         {
             "JpnStr": "通[とお]り過[す]ぎてゆく 人[ひと]も景色達[けしきたち]も",
-            "EngStr": "The people and scenery that pass by"
+            "EngStr": "The people and scenery that pass by",
+            "IsEmptyLine": false
         },
         {
             "JpnStr": "気[き]づいた時[とき]は いつもおいてけぼりになってた",
-            "EngStr": "When I realized I was always left behind"
+            "EngStr": "When I realized I was always left behind",
+            "IsEmptyLine": false
         },
         {
             "JpnStr": "",
-            "EngStr": ""
+            "EngStr": "",
+            "IsEmptyLine": false
         },
         {
             "JpnStr": "季節変[きせつが]わり今[いま]も君[きみ]の事[こと] 想[おも]い出[だ]してしまうけれど",
-            "EngStr": "The seasons change, and I still think of you"
+            "EngStr": "The seasons change, and I still think of you",
+            "IsEmptyLine": false
         },
         {
             "JpnStr": "何[なに]も無[な]かったような顔[かお]して 今日[きょう]も街[まち]に溶[と]けて行[い]く",
-            "EngStr": "But today, too, I'm melting into the city with a face as if nothing had happened"
+            "EngStr": "But today, too, I'm melting into the city with a face as if nothing had happened",
+            "IsEmptyLine": false
         },
         {
             "JpnStr": "",
-            "EngStr": ""
+            "EngStr": "",
+            "IsEmptyLine": false
         },
         {
             "JpnStr": "さよなら もう新[あたら]しい明日[あした]へ歩[ある]き出[だ]した",
-            "EngStr": "Goodbye, I've already walked to a new tomorrow"
+            "EngStr": "Goodbye, I've already walked to a new tomorrow",
+            "IsEmptyLine": false
         },
         {
             "JpnStr": "最後[さいご]の強[つよ]がりきっと これが二人[ふたり]の為[ため]だよね?",
-            "EngStr": "It's the last time I'll be strong. This is for the both of us, right?"
+            "EngStr": "It's the last time I'll be strong. This is for the both of us, right?",
+            "IsEmptyLine": false
         },
         {
             "JpnStr": "待[ま]ち合[あ]わせ場所[ばしょ]いつもの桜木町[さくらぎちょう]に君[きみ]は もう来[こ]ない",
-            "EngStr": "At the usual meeting place in Sakuragicho, you're no longer coming."
+            "EngStr": "At the usual meeting place in Sakuragicho, you're no longer coming.",
+            "IsEmptyLine": false
         },
         {
             "JpnStr": "",
-            "EngStr": ""
+            "EngStr": "",
+            "IsEmptyLine": false
         },
         {
             "JpnStr": "大[おお]きな観覧車[かんらんしゃ]「花火[はなび]みたいだね」 って",
-            "EngStr": "The big Ferris wheel 'looks like fireworks', you said."
+            "EngStr": "The big Ferris wheel 'looks like fireworks', you said.",
+            "IsEmptyLine": false
         },
         {
             "JpnStr": "笑[わら]った君[きみ]の横顔[よこがお] 時間[じかん]が止[と]まって欲[ほ]しかった",
-            "EngStr": "I wanted time to stop."
+            "EngStr": "I wanted time to stop.",
+            "IsEmptyLine": false
         },
         {
             "JpnStr": "",
-            "EngStr": ""
+            "EngStr": "",
+            "IsEmptyLine": false
         },
         {
             "JpnStr": "心変[こころが]わり今[いま]は責[せ]めても 違[ちが]う誰[だれ]かの元[もと]へ",
-            "EngStr": "Even if I blame you for changing my mind now, I'll go to someone else."
+            "EngStr": "Even if I blame you for changing my mind now, I'll go to someone else.",
+            "IsEmptyLine": false
         },
         {
             "JpnStr": "そして いつの日[ひ]か忘[わす]れてゆく 君[きみ]の笑顔[えがお]も泪[なみだ]も",
-            "EngStr": "And someday I'll forget your smile and your tears"
+            "EngStr": "And someday I'll forget your smile and your tears",
+            "IsEmptyLine": false
         },
         {
             "JpnStr": "",
-            "EngStr": ""
+            "EngStr": "",
+            "IsEmptyLine": false
         },
         {
             "JpnStr": "ありがとう さあ振[ふ]り返[かえ]らずに行[ゆ]けばいい",
-            "EngStr": "Thank you, don't look back, just go"
+            "EngStr": "Thank you, don't look back, just go",
+            "IsEmptyLine": false
         },
         {
             "JpnStr": "いつの日[ひ]かまた 笑[わら]って話[はな]せる時[とき]が来[く]るさ",
-            "EngStr": "Someday we'll be able to laugh and talk again"
+            "EngStr": "Someday we'll be able to laugh and talk again",
+            "IsEmptyLine": false
         },
         {
             "JpnStr": "初[はじ]めて君[きみ]と口付[くちづ]けた 桜木町[さくらぎちょう]で最後[さいご]の手[て]を振[ふ]るよ",
-            "EngStr": "I'll wave my hand for the last time in Sakuragicho, where I first kissed you"
+            "EngStr": "I'll wave my hand for the last time in Sakuragicho, where I first kissed you",
+            "IsEmptyLine": false
         },
         {
             "JpnStr": "",
-            "EngStr": ""
+            "EngStr": "",
+            "IsEmptyLine": false
         },
         {
             "JpnStr": "変[か]わり続[つづ]けてく 見慣[みな]れてた街並[まちなみ]も",
-            "EngStr": "The streets that I'm used to seeing keep changing"
+            "EngStr": "The streets that I'm used to seeing keep changing",
+            "IsEmptyLine": false
         },
         {
             "JpnStr": "だけど今[いま]も目[め]を閉[と]じれば あの日[ひ]の二人[ふたり]がそこにはいる",
-            "EngStr": "But even now, if I close my eyes, the two of us from that day are still there"
+            "EngStr": "But even now, if I close my eyes, the two of us from that day are still there",
+            "IsEmptyLine": false
         },
         {
             "JpnStr": "",
-            "EngStr": ""
+            "EngStr": "",
+            "IsEmptyLine": false
         },
         {
             "JpnStr": "繋[つな]いだ その手[て]をいつまでも離[はな]したくなかった",
-            "EngStr": "I didn't want to let go of the hand we held forever"
+            "EngStr": "I didn't want to let go of the hand we held forever",
+            "IsEmptyLine": false
         },
         {
             "JpnStr": "それでも行[い]かなくちゃ 僕[ぼく]らが見[み]つけた答[こた]えだから",
-            "EngStr": "I still have to go, because that's the answer we've found"
+            "EngStr": "I still have to go, because that's the answer we've found",
+            "IsEmptyLine": false
         },
         {
             "JpnStr": "",
-            "EngStr": ""
+            "EngStr": "",
+            "IsEmptyLine": false
         },
         {
             "JpnStr": "さよなら もう新[あたら]しい明日[あした]へ歩[ある]き出[だ]した",
-            "EngStr": "Goodbye, we've already started walking to a new tomorrow"
+            "EngStr": "Goodbye, we've already started walking to a new tomorrow",
+            "IsEmptyLine": false
         },
         {
             "JpnStr": "最後[さいご]の 強[つよ]がり きっと これが二人[ふたり]の為[ため]だよね?",
-            "EngStr": "I'm sure this is for the both of us, right?"
+            "EngStr": "I'm sure this is for the both of us, right?",
+            "IsEmptyLine": false
         },
         {
             "JpnStr": "待[ま]ち合[あ]わせ場所[ばしょ]いつもの桜木町[さくらぎちょう]に君[きみ]は もう来[こ]ない",
-            "EngStr": "At the usual meeting place in Sakuragicho, you're no longer there."
+            "EngStr": "At the usual meeting place in Sakuragicho, you're no longer there.",
+            "IsEmptyLine": false
         },
         {
             "JpnStr": "初[はじ]めて君[きみ]と口付[くちづ]けた桜木町[さくらぎちょう]で最後[さいご]の手[て]を振[ふ]るよ",
-            "EngStr": "I'll wave my hand for the last time at Sakuragicho, where I first kissed you."
+            "EngStr": "I'll wave my hand for the last time at Sakuragicho, where I first kissed you.",
+            "IsEmptyLine": false
         }
     ],
-    "LyricsJpn": [
-    ],
-    "LyricsEng": [
-    ],
-    "KanjiList": [
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "海沿い",
-            "Jpn": "うみぞい",
-            "Eng": "Seaside"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "道",
-            "Jpn": "みち",
-            "Eng": "Road"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "手",
-            "Jpn": "て",
-            "Eng": "Hand"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "繋ぐ",
-            "Jpn": "つなぐ",
-            "Eng": "To Link"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "歩く",
-            "Jpn": "あるく",
-            "Eng": "To walk"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "日",
-            "Jpn": "ひ",
-            "Eng": "Day"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "約束",
-            "Jpn": "やくそく",
-            "Eng": "Promise/agreement"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": " 叶う",
-            "Jpn": "かなう",
-            "Eng": "To come true"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "夜空",
-            "Jpn": "よぞら",
-            "Eng": "Night sky"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "星",
-            "Jpn": "ほし",
-            "Eng": "Star"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "通り過ぎる",
-            "Jpn": "とおりすぎる",
-            "Eng": "To go past"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "人",
-            "Jpn": "ひと",
-            "Eng": "Person"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "気づく",
-            "Jpn": "きづく",
-            "Eng": "To notice/recognise"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "時",
-            "Jpn": "とき",
-            "Eng": "Time"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "季節",
-            "Jpn": "きせつ",
-            "Eng": "Season"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "変わり",
-            "Jpn": "かわり",
-            "Eng": "Change"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "今も",
-            "Jpn": "いまも",
-            "Eng": "Still"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "君",
-            "Jpn": "きみ",
-            "Eng": "You"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "事",
-            "Jpn": "こと",
-            "Eng": "Thing/matter"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "思い出",
-            "Jpn": "おもいで",
-            "Eng": "Memories"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "何",
-            "Jpn": "なに",
-            "Eng": "What"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "無い",
-            "Jpn": "ない",
-            "Eng": "Nonexistent"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "顔",
-            "Jpn": "かお",
-            "Eng": "Face"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "今日",
-            "Jpn": "きょう",
-            "Eng": "Today"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "町",
-            "Jpn": "まち",
-            "Eng": "Town"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "溶ける",
-            "Jpn": "とける",
-            "Eng": "To melt"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "新しい",
-            "Jpn": "あたらしい",
-            "Eng": "New"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "明日",
-            "Jpn": "あした",
-            "Eng": "Tomorrow"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "最後",
-            "Jpn": "さいご",
-            "Eng": "End/conclusion"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "強がる",
-            "Jpn": "つよがる",
-            "Eng": "To put on a brave front"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "為",
-            "Jpn": "ため",
-            "Eng": "Good/advantage"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "待ち合わせ場所",
-            "Jpn": "まちあわせばしょ",
-            "Eng": "Meeting place"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "来る",
-            "Jpn": "くる",
-            "Eng": "To come"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "大きな",
-            "Jpn": "おおきな",
-            "Eng": "Big/Large"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "観覧車",
-            "Jpn": "かんらんしゃ",
-            "Eng": "Ferris wheel"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "花火",
-            "Jpn": "はなび",
-            "Eng": "Fireworks"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "笑う",
-            "Jpn": "わらう",
-            "Eng": "To laugh"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "横顔",
-            "Jpn": "よこがお",
-            "Eng": "Profile"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "時間",
-            "Jpn": "じかん",
-            "Eng": "Time"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "欲しい",
-            "Jpn": "ほしい",
-            "Eng": "Want (something)"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "心変わり",
-            "Jpn": "こころがわり",
-            "Eng": "Change of heart"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "今",
-            "Jpn": "いま",
-            "Eng": "Now"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "責める",
-            "Jpn": "せめる",
-            "Eng": "To condemn"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "違う",
-            "Jpn": "ちがう",
-            "Eng": "To differ/vary"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "誰か",
-            "Jpn": "だれか",
-            "Eng": "Someone"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "元",
-            "Jpn": "もと",
-            "Eng": "Origin"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "忘れる",
-            "Jpn": "わすれる",
-            "Eng": "To forget"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "笑顔",
-            "Jpn": "えがお",
-            "Eng": "Smile"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "泪",
-            "Jpn": "なみだ",
-            "Eng": "Tears (Crying)"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "有り難う",
-            "Jpn": "ありがとう",
-            "Eng": "Thank you"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "振り返る",
-            "Jpn": "ふりかえる",
-            "Eng": "To turn around"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "行く",
-            "Jpn": "いく",
-            "Eng": "To go"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "話せる",
-            "Jpn": "はなせる",
-            "Eng": "To be able to speak"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "初めて",
-            "Jpn": "はじめて",
-            "Eng": "For the first time"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "口",
-            "Jpn": "くち",
-            "Eng": "Mouth"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "付ける",
-            "Jpn": "つける",
-            "Eng": "To attach/join"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "振る",
-            "Jpn": "ふる",
-            "Eng": "To wave"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "変わる",
-            "Jpn": "かわる",
-            "Eng": "To change"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "見慣れる",
-            "Jpn": "みなれる",
-            "Eng": "To be familiar"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "町並み",
-            "Jpn": "まちなみ",
-            "Eng": "Townscape"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "閉じる",
-            "Jpn": "とじる",
-            "Eng": "To close"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "その手",
-            "Jpn": "そのて",
-            "Eng": "That way"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "離す",
-            "Jpn": "はなす",
-            "Eng": "To separate"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "僕ら",
-            "Jpn": "ぼくら",
-            "Eng": "We"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "見つける",
-            "Jpn": "みつける",
-            "Eng": "To discover"
-        },
-        {
-            "Id": 0,
-            "Chap": "0",
-            "Furi": "",
-            "Furigana": null,
-            "Kanji": "答え",
-            "Jpn": "こたえ",
-            "Eng": "Answer"
-        }
-    ],
-    "FuriLyricsJpn": null
+    "KanjiList": [],
+    "ListDictKey": [
+        "海沿い-うみぞい",
+        "道-みち",
+        "手-て",
+        "繋ぐ-つなぐ",
+        "歩く-あるく",
+        "日-ひ",
+        "約束-やくそく",
+        "叶う-かなう",
+        "夜空-よぞら",
+        "星-ほし",
+        "通り過ぎる-とおりすぎる",
+        "人-ひと",
+        "気づく-きづく",
+        "時-とき",
+        "季節-きせつ",
+        "変わり-かわり",
+        "今も-いまも",
+        "君-きみ",
+        "事-こと",
+        "思い出-おもいで",
+        "何-なに",
+        "無い-ない",
+        "顔-かお",
+        "今日-きょう",
+        "町-まち",
+        "溶ける-とける",
+        "新しい-あたらしい",
+        "明日-あした",
+        "最後-さいご",
+        "強がる-つよがる",
+        "為-ため",
+        "待ち合わせ場所-まちあわせばしょ",
+        "来る-くる",
+        "大きな-おおきな",
+        "観覧車-かんらんしゃ",
+        "花火-はなび",
+        "笑う-わらう",
+        "横顔-よこがお",
+        "時間-じかん",
+        "欲しい-ほしい",
+        "心変わり-こころがわり",
+        "今-いま",
+        "責める-せめる",
+        "違う-ちがう",
+        "誰か-だれか",
+        "元-もと",
+        "忘れる-わすれる",
+        "笑顔-えがお",
+        "泪-なみだ",
+        "有り難う-ありがとう",
+        "振り返る-ふりかえる",
+        "行く-いく",
+        "話せる-はなせる",
+        "初めて-はじめて",
+        "口-くち",
+        "付ける-つける",
+        "振る-ふる",
+        "変わる-かわる",
+        "見慣れる-みなれる",
+        "町並み-まちなみ",
+        "閉じる-とじる",
+        "その手-そのて",
+        "離す-はなす",
+        "僕ら-ぼくら",
+        "見つける-みつける",
+        "答え-こたえ"
+    ]
 }

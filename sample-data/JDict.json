@@ -24,6 +24,15 @@
         "optIkomaKanji": "41"
     },
     {
+        "Key": "いつも通り-いつもどおり",
+        "Furi": "いつも通[どお]り",
+        "Eng": "as always/as usual",
+        "optTags": [
+            "noun",
+            "adv"
+        ]
+    },
+    {
         "Key": "お兄さん-おにいさん",
         "Furi": "お兄[にい]さん",
         "Eng": "older brother/elder brother (other)",
@@ -660,6 +669,14 @@
         "optIkomaKanji": "14"
     },
     {
+        "Key": "世界線-せかいせん",
+        "Furi": "世[せ]界[かい]線[せん]",
+        "Eng": "world line",
+        "optTags": [
+            "noun"
+        ]
+    },
+    {
         "Key": "世話-せわ",
         "Furi": "世[せ]話[わ]",
         "Eng": "care",
@@ -839,6 +856,14 @@
         "Furi": "九[く]月[がつ]",
         "Eng": "september",
         "optIkomaKanji": "01"
+    },
+    {
+        "Key": "予想通り-よそうどおり",
+        "Furi": "予[よ]想[そう]通[どお]り",
+        "Eng": "as expected/as predicted",
+        "optTags": [
+            "adv"
+        ]
     },
     {
         "Key": "予約する-よやくする",
@@ -1350,6 +1375,14 @@
         ]
     },
     {
+        "Key": "何一つ-なにひとつ",
+        "Furi": "何[なに]一[ひと]つ",
+        "Eng": "not one",
+        "optTags": [
+            "adv"
+        ]
+    },
+    {
         "Key": "何時-なんじ",
         "Furi": "何[なん]時[じ]",
         "Eng": "what time",
@@ -1517,6 +1550,14 @@
         ]
     },
     {
+        "Key": "偉そう-えらそう",
+        "Furi": "偉[えら]そう",
+        "Eng": "proud/snobbish",
+        "optTags": [
+            "adj-な"
+        ]
+    },
+    {
         "Key": "健康-けんこう",
         "Furi": "健[けん]康[こう]",
         "Eng": "health",
@@ -1540,6 +1581,23 @@
             "jlpt-n5"
         ],
         "optIkomaKanji": "45"
+    },
+    {
+        "Key": "僕-ぼく",
+        "Furi": "僕[ぼく]",
+        "Eng": "I/me",
+        "optTags": [
+            "pronoun",
+            "jlpt-n4"
+        ]
+    },
+    {
+        "Key": "僕ら-ぼくら",
+        "Furi": "僕[ぼく]ら",
+        "Eng": "we",
+        "optTags": [
+            "pronoun"
+        ]
     },
     {
         "Key": "優しい-やさしい",
@@ -2639,6 +2697,15 @@
         "optIkomaKanji": "09"
     },
     {
+        "Key": "叶う-かなう",
+        "Furi": "叶[かな]う",
+        "Eng": "to be realized/to be fulfilled",
+        "optTags": [
+            "verb-1",
+            "jlpt-n1"
+        ]
+    },
+    {
         "Key": "号泣-ごうきゅう",
         "Furi": "号[ごう]泣[きゅう]",
         "Eng": "bawling/wailing",
@@ -2687,10 +2754,28 @@
         "optIkomaKanji": "02"
     },
     {
+        "Key": "向かう-むかう",
+        "Furi": "向[む]かう",
+        "Eng": "to face",
+        "optTags": [
+            "verb-1",
+            "jlpt-n4"
+        ]
+    },
+    {
         "Key": "向く-むく",
         "Furi": "向[む]く",
         "Eng": "to turn towards/to face",
         "optIkomaKanji": "35"
+    },
+    {
+        "Key": "向ける-むける",
+        "Furi": "向[む]ける",
+        "Eng": "to face/to turn towards",
+        "optTags": [
+            "verb-2",
+            "jlpt-n3"
+        ]
     },
     {
         "Key": "向こう-むこう",
@@ -2700,6 +2785,23 @@
             "jlpt-n5"
         ],
         "optIkomaKanji": "35"
+    },
+    {
+        "Key": "君-きみ",
+        "Furi": "君[きみ]",
+        "Eng": "you/buddy/pal",
+        "optTags": [
+            "pronoun",
+            "jlpt-n4"
+        ]
+    },
+    {
+        "Key": "否めない-いなめない",
+        "Furi": "否[いな]めない",
+        "Eng": "undeniable",
+        "optTags": [
+            "adj-い"
+        ]
     },
     {
         "Key": "吸う-すう",
@@ -2822,6 +2924,15 @@
         "optTags": [
             "noun",
             "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "嘘-うそ",
+        "Furi": "嘘[うそ]",
+        "Eng": "lie/fib",
+        "optTags": [
+            "noun",
+            "jlpt-n3"
         ]
     },
     {
@@ -3215,6 +3326,14 @@
             "jlpt-n5"
         ],
         "optIkomaKanji": "07"
+    },
+    {
+        "Key": "夜汽車-よぎしゃ",
+        "Furi": "夜[よ]汽[ぎ]車[しゃ]",
+        "Eng": "night train",
+        "optTags": [
+            "noun"
+        ]
     },
     {
         "Key": "夢-ゆめ",
@@ -3838,6 +3957,14 @@
         ]
     },
     {
+        "Key": "小っぽけ-ちっぽけ",
+        "Furi": "小[ち]っぽけ",
+        "Eng": "tiny/very small",
+        "optTags": [
+            "adj-な"
+        ]
+    },
+    {
         "Key": "小学校-しょうがっこう",
         "Furi": "小[しょう]学校[がっこう]",
         "Eng": "primary school/elementary school",
@@ -4458,6 +4585,14 @@
         "optIkomaKanji": "28"
     },
     {
+        "Key": "思い-おもい",
+        "Furi": "思[おも]い",
+        "Eng": "thought",
+        "optTags": [
+            "noun"
+        ]
+    },
+    {
         "Key": "思い出す-おもいだす",
         "Furi": "思[おも]い出[だ]す",
         "Eng": "to remember",
@@ -4519,6 +4654,15 @@
         "optIkomaKanji": "26"
     },
     {
+        "Key": "悲しい-かなしい",
+        "Furi": "悲[かな]しい",
+        "Eng": "sad/unhappy",
+        "optTags": [
+            "adj-い",
+            "jlpt-n4"
+        ]
+    },
+    {
         "Key": "情報-じょうほう",
         "Furi": "情[じょう]報[ほう]",
         "Eng": "information",
@@ -4546,6 +4690,15 @@
         "optIkomaKanji": "21"
     },
     {
+        "Key": "愛-あい",
+        "Furi": "愛[あい]",
+        "Eng": "love/affection/care",
+        "optTags": [
+            "noun",
+            "jlpt-n3"
+        ]
+    },
+    {
         "Key": "愛妻家-あいさいか",
         "Furi": "愛[あい]妻[さい]家[か]",
         "Eng": "devoted husband",
@@ -4556,6 +4709,15 @@
         "Furi": "感[かん]動[どう]する",
         "Eng": "to be touched/to be moved",
         "optIkomaKanji": "50"
+    },
+    {
+        "Key": "感情-かんじょう",
+        "Furi": "感[かん]情[じょう]",
+        "Eng": "emotion/feelings",
+        "optTags": [
+            "noun",
+            "jlpt-n3"
+        ]
     },
     {
         "Key": "感覚-かんかく",
@@ -4764,6 +4926,14 @@
         ]
     },
     {
+        "Key": "振り向く-ふりむく",
+        "Furi": "振[ふ]り向[む]く",
+        "Eng": "to turn around/to look over ones shoulder",
+        "optTags": [
+            "verb-1"
+        ]
+    },
+    {
         "Key": "捨てる-すてる",
         "Furi": "捨[す]てる",
         "Eng": "to discard/to throw away",
@@ -4853,6 +5023,15 @@
         "Eng": "to change/to replace",
         "optTags": [
             "verb-2"
+        ]
+    },
+    {
+        "Key": "揺さぶる-ゆさぶる",
+        "Furi": "揺[ゆ]さぶる",
+        "Eng": "to shake/to jolt",
+        "optTags": [
+            "verb-1",
+            "jlpt-n1"
         ]
     },
     {
@@ -5550,6 +5729,15 @@
         "optIkomaKanji": "04"
     },
     {
+        "Key": "未来-みらい",
+        "Furi": "未[み]来[らい]",
+        "Eng": "future (distant)",
+        "optTags": [
+            "noun",
+            "jlpt-n3"
+        ]
+    },
+    {
         "Key": "本-ほん",
         "Furi": "本[ほん]",
         "Eng": "book",
@@ -6218,6 +6406,14 @@
         "optIkomaKanji": "37"
     },
     {
+        "Key": "泳がせる-およがせる",
+        "Furi": "泳[およ]がせる",
+        "Eng": "to let swim/to make swim",
+        "optTags": [
+            "verb-2"
+        ]
+    },
+    {
         "Key": "泳ぐ-およぐ",
         "Furi": "泳[およ]ぐ",
         "Eng": "to swim",
@@ -6484,6 +6680,23 @@
         "Eng": "wasteful",
         "optTags": [
             "adj-な"
+        ]
+    },
+    {
+        "Key": "煙に巻く-けむにまく",
+        "Furi": "煙[けむ]に巻[ま]く",
+        "Eng": "to confuse",
+        "optTags": [
+            "verb-1"
+        ]
+    },
+    {
+        "Key": "照らす-てらす",
+        "Furi": "照[て]らす",
+        "Eng": "to shine on/to illuminate",
+        "optTags": [
+            "verb-1",
+            "jlpt-n2"
         ]
     },
     {
@@ -7086,6 +7299,15 @@
         "optIkomaKanji": "42"
     },
     {
+        "Key": "真っ赤-まっか",
+        "Furi": "真[ま]っ赤[か]",
+        "Eng": "bright red/deep red",
+        "optTags": [
+            "adj-な",
+            "jlpt-n3"
+        ]
+    },
+    {
         "Key": "真ん中-まんなか",
         "Furi": "真[ま]ん中[なか]",
         "Eng": "middle/centre/center",
@@ -7113,6 +7335,15 @@
             "adj-い"
         ],
         "optIkomaKanji": "26"
+    },
+    {
+        "Key": "眩しい-まぶしい",
+        "Furi": "眩[まぶ]しい",
+        "Eng": "dazzling/radiant",
+        "optTags": [
+            "adj-い",
+            "jlpt-n2"
+        ]
     },
     {
         "Key": "眼鏡-めがね",
@@ -7229,6 +7460,16 @@
         "Eng": "to rip/to tear (paper, Intransitive verb)",
         "optTags": [
             "verb-2"
+        ]
+    },
+    {
+        "Key": "確か-たしか",
+        "Furi": "確[たし]か",
+        "Eng": "sure/certain/positive",
+        "optTags": [
+            "noun",
+            "adj-な",
+            "jlpt-n4"
         ]
     },
     {
@@ -7367,6 +7608,15 @@
         "optIkomaKanji": "43"
     },
     {
+        "Key": "答え-こたえ",
+        "Furi": "答[こた]え",
+        "Eng": "answer/reply/response",
+        "optTags": [
+            "noun",
+            "jlpt-n4"
+        ]
+    },
+    {
         "Key": "答える-こたえる",
         "Furi": "答[こた]える",
         "Eng": "to answer/to reply",
@@ -7430,6 +7680,14 @@
         "optTags": [
             "noun",
             "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "純-じゅん",
+        "Furi": "純[じゅん]",
+        "Eng": "innocent/naive",
+        "optTags": [
+            "adj-な"
         ]
     },
     {
@@ -7559,6 +7817,16 @@
         "optIkomaKanji": "39"
     },
     {
+        "Key": "結局-けっきょく",
+        "Furi": "結[けっ]局[きょく]",
+        "Eng": "end/conclusion/ultimately/eventually",
+        "optTags": [
+            "noun",
+            "adv",
+            "jlpt-n3"
+        ]
+    },
+    {
         "Key": "結果-けっか",
         "Furi": "結[けっ]果[か]",
         "Eng": "result",
@@ -7631,6 +7899,15 @@
         "optIkomaKanji": "39"
     },
     {
+        "Key": "続き-つづき",
+        "Furi": "続[つづ]き",
+        "Eng": "sequel/continuation",
+        "optTags": [
+            "noun",
+            "jlpt-n3"
+        ]
+    },
+    {
         "Key": "続く-つづく",
         "Furi": "続[つづ]く",
         "Eng": "to be continued",
@@ -7660,6 +7937,15 @@
         "optTags": [
             "noun",
             "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "線-せん",
+        "Furi": "線[せん]",
+        "Eng": "line/stripe",
+        "optTags": [
+            "noun",
+            "jlpt-n4"
         ]
     },
     {
@@ -7694,6 +7980,22 @@
             "jlpt-n5"
         ],
         "optIkomaKanji": "19"
+    },
+    {
+        "Key": "繋ぎ-つなぎ",
+        "Furi": "繋[つな]ぎ",
+        "Eng": "link/connection",
+        "optTags": [
+            "noun"
+        ]
+    },
+    {
+        "Key": "繋ぐ-つなぐ",
+        "Furi": "繋[つな]ぐ",
+        "Eng": "to tie/to connect",
+        "optTags": [
+            "verb-1"
+        ]
     },
     {
         "Key": "纏める-まとめる",
@@ -7940,6 +8242,23 @@
         "optIkomaKanji": "27"
     },
     {
+        "Key": "色づく-いろづく",
+        "Furi": "色[いろ]づく",
+        "Eng": "to change color",
+        "optTags": [
+            "verb-1"
+        ]
+    },
+    {
+        "Key": "芝居-しばい",
+        "Furi": "芝[しば]居[い]",
+        "Eng": "play/drama",
+        "optTags": [
+            "noun",
+            "jlpt-n3"
+        ]
+    },
+    {
         "Key": "花-はな",
         "Furi": "花[はな]",
         "Eng": "flower",
@@ -8117,6 +8436,14 @@
         "optIkomaKanji": "02"
     },
     {
+        "Key": "行き先-いきさき",
+        "Furi": "行[い]き先[さき]",
+        "Eng": "destination",
+        "optTags": [
+            "noun"
+        ]
+    },
+    {
         "Key": "行く-いく",
         "Furi": "行[い]く",
         "Eng": "to go",
@@ -8271,6 +8598,15 @@
         "optIkomaKanji": "05"
     },
     {
+        "Key": "観客-かんきゃく",
+        "Furi": "観[かん]客[きゃく]",
+        "Eng": "spectator/audience",
+        "optTags": [
+            "noun",
+            "jlpt-n3"
+        ]
+    },
+    {
         "Key": "角 (animal)-つの",
         "Furi": "角[つの] (animal)",
         "Eng": "horn/antler",
@@ -8292,6 +8628,15 @@
         "Eng": "to touch/to feel",
         "optTags": [
             "verb-1"
+        ]
+    },
+    {
+        "Key": "触れる-ふれる",
+        "Furi": "触[ふ]れる",
+        "Eng": "to touch/to feel",
+        "optTags": [
+            "verb-2",
+            "jlpt-n3"
         ]
     },
     {
@@ -8336,6 +8681,15 @@
         "Furi": "記[しる]す",
         "Eng": "to write",
         "optIkomaKanji": "49"
+    },
+    {
+        "Key": "設定-せってい",
+        "Furi": "設[せっ]定[てい]",
+        "Eng": "scene/creation/establishment",
+        "optTags": [
+            "noun",
+            "jlpt-n1"
+        ]
     },
     {
         "Key": "許す-ゆるす",
@@ -8422,6 +8776,15 @@
         "optIkomaKanji": "02"
     },
     {
+        "Key": "語る-かたる",
+        "Furi": "語[かた]る",
+        "Eng": "to tell/to narrate",
+        "optTags": [
+            "verb-1",
+            "jlpt-n3"
+        ]
+    },
+    {
         "Key": "説く-とく",
         "Furi": "説[と]く",
         "Eng": "to preach",
@@ -8484,6 +8847,15 @@
         "Furi": "調[ちょう]子[し]",
         "Eng": "condition",
         "optIkomaKanji": "50"
+    },
+    {
+        "Key": "論理-ろんり",
+        "Furi": "論[ろん]理[り]",
+        "Eng": "logic",
+        "optTags": [
+            "noun",
+            "jlpt-n1"
+        ]
     },
     {
         "Key": "警官-けいかん",
@@ -9125,6 +9497,15 @@
         "optIkomaKanji": "27"
     },
     {
+        "Key": "運命-うんめい",
+        "Furi": "運[うん]命[めい]",
+        "Eng": "fate/destiny/lot",
+        "optTags": [
+            "noun",
+            "jlpt-n1"
+        ]
+    },
+    {
         "Key": "運転する-うんてんする",
         "Furi": "運[うん]転[てん]する",
         "Eng": "to drive/to operate (machine)",
@@ -9565,6 +9946,14 @@
         "optIkomaKanji": "40"
     },
     {
+        "Key": "離れ-はなれ",
+        "Furi": "離[はな]れ",
+        "Eng": "detached building/solitary house",
+        "optTags": [
+            "noun"
+        ]
+    },
+    {
         "Key": "難い-かたい",
         "Furi": "難[かた]い",
         "Eng": "difficult/hard (for verbs)",
@@ -9838,6 +10227,15 @@
         "optIkomaKanji": "27"
     },
     {
+        "Key": "願う-ねがう",
+        "Furi": "願[ねが]う",
+        "Eng": "to desire/to wish/to hope",
+        "optTags": [
+            "verb-1",
+            "jlpt-n3"
+        ]
+    },
+    {
         "Key": "願望-がんぼう",
         "Furi": "願[がん]望[ぼう]",
         "Eng": "desire",
@@ -10042,6 +10440,15 @@
         "Furi": "高[こう]速[そく]道[どう]路[ろ]",
         "Eng": "expressway",
         "optIkomaKanji": "26"
+    },
+    {
+        "Key": "髪-かみ",
+        "Furi": "髪[かみ]",
+        "Eng": "hair (head)",
+        "optTags": [
+            "noun",
+            "jlpt-n4"
+        ]
     },
     {
         "Key": "魚-さかな",
