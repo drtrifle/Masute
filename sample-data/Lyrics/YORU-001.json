@@ -76,7 +76,7 @@
             "IsEmptyLine": false
         },
         {
-            "JpnStr": "僕[ぼく]らは今[いま]歩[ある]き出[だす] 潮風[しおかぜ]は肌[はだ]を舐[な]む",
+            "JpnStr": "僕[ぼく]らは今[いま]歩[ある]き出[だ]す 潮風[しおかぜ]は肌[はだ]を舐[な]む",
             "EngStr": "The sea breeze licks our skin, as we walk along",
             "IsEmptyLine": false
         },
@@ -201,7 +201,7 @@
             "IsEmptyLine": false
         }
     ],
-    "KanjiList": [],
+    
     "ListDictKey": [
         "靴紐-くつひも",
         "解ける-ほどける",
@@ -241,7 +241,7 @@
         "遊ぶ-あそぶ",
         "気-き",
         "歩き-あるき",
-        "出-だす",
+        "出す-だす",
         "潮風-しおかぜ",
         "肌-はだ",
         "手-て",
