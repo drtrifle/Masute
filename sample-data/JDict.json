@@ -948,9 +948,19 @@
         "Furi": "二[ふた]人[り]",
         "Eng": "two people",
         "optTags": [
+            "noun",
             "jlpt-n5"
         ],
         "optIkomaKanji": "01"
+    },
+    {
+        "Key": "二人-ににん",
+        "Furi": "二[に]人[にん]",
+        "Eng": "two people",
+        "optTags": [
+            "noun",
+            "jlpt-n5"
+        ]
     },
     {
         "Key": "二倍-にばい",
@@ -2213,7 +2223,7 @@
     {
         "Key": "割れる-われる",
         "Furi": "割[わ]れる",
-        "Eng": "to break/to smash (physical, Intransitive verb)",
+        "Eng": "to break/to smash (physical,Intransitive verb)",
         "optTags": [
             "verb-2"
         ]
@@ -2705,7 +2715,7 @@
     {
         "Key": "古い-ふるい",
         "Furi": "古[ふる]い",
-        "Eng": "old/aged (for things, not people)",
+        "Eng": "old/aged (for things,not people)",
         "optTags": [
             "adj-い",
             "jlpt-n5"
@@ -3232,7 +3242,7 @@
     {
         "Key": "壊れる-こわれる",
         "Furi": "壊[こわ]れる",
-        "Eng": "to break/to be broken (function, Intransitive verb)",
+        "Eng": "to break/to be broken (function,Intransitive verb)",
         "optTags": [
             "verb-2"
         ]
@@ -4141,7 +4151,7 @@
     {
         "Key": "履く-はく",
         "Furi": "履[は]く",
-        "Eng": "to wear (shoes, pants)",
+        "Eng": "to wear (shoes,pants)",
         "optTags": [
             "verb-1"
         ]
@@ -5028,7 +5038,7 @@
     {
         "Key": "折れる-おれる",
         "Furi": "折[お]れる",
-        "Eng": "to break/to snap (tree, Intransitive verb)",
+        "Eng": "to break/to snap (tree,Intransitive verb)",
         "optTags": [
             "verb-2"
         ]
@@ -7877,7 +7887,7 @@
     {
         "Key": "破れる-やぶれる",
         "Furi": "破[やぶ]れる",
-        "Eng": "to rip/to tear (paper, Intransitive verb)",
+        "Eng": "to rip/to tear (paper,Intransitive verb)",
         "optTags": [
             "verb-2"
         ]
@@ -8521,7 +8531,7 @@
     {
         "Key": "耳鼻科-じびか",
         "Furi": "耳[じ]鼻[び]科[か]",
-        "Eng": "ear, nose and throat clinic",
+        "Eng": "ear,nose and throat clinic",
         "optIkomaKanji": "15"
     },
     {
@@ -11182,6 +11192,327 @@
         "optTags": [
             "noun",
             "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "漫画-まんが",
+        "Furi": "漫[まん]画[が]",
+        "Eng": "manga/cartoon",
+        "optTags": [
+            "noun",
+            "jlpt-n4"
+        ]
+    },
+    {
+        "Key": "知らない-しらない",
+        "Furi": "知[し]らない",
+        "Eng": "unknown/strange",
+        "optTags": [
+            "adj-い"
+        ]
+    },
+    {
+        "Key": "未だ-まだ",
+        "Furi": "未[ま]だ",
+        "Eng": "still/as yet/only",
+        "optTags": [
+            "adv",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "なぞる-なぞる",
+        "Furi": "なぞる-なぞる",
+        "Eng": "to trace/to follow",
+        "optTags": [
+            "verb-1"
+        ]
+    },
+    {
+        "Key": "宇宙-うちゅう",
+        "Furi": "宇[う]宙[ちゅう]",
+        "Eng": "universe/cosmos/space",
+        "optTags": [
+            "noun"
+        ]
+    },
+    {
+        "Key": "握る-にぎる",
+        "Furi": "握[にぎ]る",
+        "Eng": "to grip/to grasp/to clutch",
+        "optTags": [
+            "verb-1",
+            "jlpt-n3"
+        ]
+    },
+    {
+        "Key": "けど-けど",
+        "Furi": "けど",
+        "Eng": "but/however/although",
+        "optTags": [
+            "conjunction",
+            "particle",
+            "jlpt-n4"
+        ]
+    },
+    {
+        "Key": "これ-これ",
+        "Furi": "これ",
+        "Eng": "this/this one",
+        "optTags": [
+            "pronoun",
+            "jlpt-n5"
+        ]
+    },
+    {
+        "Key": "それは-それは",
+        "Furi": "それは",
+        "Eng": "very/extremely",
+        "optTags": [
+            "adv"
+        ]
+    },
+    {
+        "Key": "でしょう-でしょう",
+        "Furi": "でしょう",
+        "Eng": "it seems/I think/I guess",
+        "optTags": [
+            "phrase"
+        ]
+    },
+    {
+        "Key": "不自由-ふじゆう",
+        "Furi": "不[ふ]自[じ]由[ゆう]",
+        "Eng": "discomfort/inconvenience",
+        "optTags": [
+            "noun",
+            "adj-な"
+        ]
+    },
+    {
+        "Key": "二度-ふたたび",
+        "Furi": "二[ふたた]度[び]",
+        "Eng": "again/once more/a second time",
+        "optTags": [
+            "adv",
+            "jlpt-n3"
+        ]
+    },
+    {
+        "Key": "会話-かいわ",
+        "Furi": "会[かい]話[わ]",
+        "Eng": "talk/chat/conversation",
+        "optTags": [
+            "noun",
+            "verb-3",
+            "jlpt-n4"
+        ]
+    },
+    {
+        "Key": "再び-ふたたび",
+        "Furi": "再[ふたた]び",
+        "Eng": "again/once more/a second time",
+        "optTags": [
+            "adv",
+            "jlpt-n3"
+        ]
+    },
+    {
+        "Key": "埋める-うめる",
+        "Furi": "埋[う]める",
+        "Eng": "to bury/to fill up",
+        "optTags": [
+            "verb-2",
+            "jlpt-n2"
+        ]
+    },
+    {
+        "Key": "塔-とう",
+        "Furi": "塔[とう]",
+        "Eng": "tower/steeple/spire",
+        "optTags": [
+            "noun",
+            "jlpt-n3"
+        ]
+    },
+    {
+        "Key": "孤独-こどく",
+        "Furi": "孤[こ]独[どく]",
+        "Eng": "solitude/loneliness/isolation",
+        "optTags": [
+            "noun",
+            "adj-な",
+            "jlpt-n1"
+        ]
+    },
+    {
+        "Key": "差し伸べる-さしのべる",
+        "Furi": "差[さ]し伸[の]べる",
+        "Eng": "to stretch out/to hold out/to extend",
+        "optTags": [
+            "verb-2"
+        ]
+    },
+    {
+        "Key": "帰って来る-かえってくる",
+        "Furi": "帰[かえ]って来[く]る",
+        "Eng": "to return/to come back",
+        "optTags": [
+            "verb-3"
+        ]
+    },
+    {
+        "Key": "幾らでも-いくらでも",
+        "Furi": "幾[いく]らでも-らでも",
+        "Eng": "as much as one likes",
+        "optTags": [
+            "adv"
+        ]
+    },
+    {
+        "Key": "影-かげ",
+        "Furi": "影[かげ]",
+        "Eng": "shadow/silhouette",
+        "optTags": [
+            "noun"
+        ]
+    },
+    {
+        "Key": "惰性-だせい",
+        "Furi": "惰[だ]性[せい]",
+        "Eng": "inertia/force of habit",
+        "optTags": [
+            "noun"
+        ]
+    },
+    {
+        "Key": "日々-ひび",
+        "Furi": "日[ひ]々[び]",
+        "Eng": "daily/everyday",
+        "optTags": [
+            "noun",
+            "jlpt-n1"
+        ]
+    },
+    {
+        "Key": "書き換える-かきかえる",
+        "Furi": "書[か]き換[か]える",
+        "Eng": "to rewrite/to overwrite",
+        "optTags": [
+            "verb-2"
+        ]
+    },
+    {
+        "Key": "歪-いびつ",
+        "Furi": "歪[いびつ]",
+        "Eng": "distorted/crooked/irregular/warped",
+        "optTags": [
+            "noun",
+            "adj-な"
+        ]
+    },
+    {
+        "Key": "満たす-みたす",
+        "Furi": "満[み]たす",
+        "Eng": "to fulfill/to meet demands",
+        "optTags": [
+            "verb-1",
+            "jlpt-n1"
+        ]
+    },
+    {
+        "Key": "澄ます-すます",
+        "Furi": "澄[す]ます",
+        "Eng": "to clear/to make clear",
+        "optTags": [
+            "verb-1",
+            "jlpt-n1"
+        ]
+    },
+    {
+        "Key": "町中-まちなか",
+        "Furi": "町[まち]中[なか]",
+        "Eng": "downtown",
+        "optTags": [
+            "noun"
+        ]
+    },
+    {
+        "Key": "穴-あな",
+        "Furi": "穴[あな]",
+        "Eng": "hole/opening",
+        "optTags": [
+            "noun",
+            "jlpt-n3"
+        ]
+    },
+    {
+        "Key": "端-はし",
+        "Furi": "端[はし]",
+        "Eng": "end/tip/point/edge/margin",
+        "optTags": [
+            "noun",
+            "jlpt-n3"
+        ]
+    },
+    {
+        "Key": "聳える-そびえる",
+        "Furi": "聳[そび]える",
+        "Eng": "to rise/to tower/to soar",
+        "optTags": [
+            "verb-2",
+            "jlpt-n1"
+        ]
+    },
+    {
+        "Key": "見-み",
+        "Furi": "見[み]",
+        "Eng": "looking/viewing",
+        "optTags": [
+            "noun"
+        ]
+    },
+    {
+        "Key": "蹴散らす-けちらす",
+        "Furi": "蹴[け]散[ち]らす",
+        "Eng": "to kick and scatter about",
+        "optTags": [
+            "verb-1"
+        ]
+    },
+    {
+        "Key": "退屈-たいくつ",
+        "Furi": "退[たい]屈[くつ]",
+        "Eng": "tedious/boring/dull/monotonous",
+        "optTags": [
+            "noun",
+            "adj-な",
+            "jlpt-n3"
+        ]
+    },
+    {
+        "Key": "連れる-つれる",
+        "Furi": "連[つ]れる",
+        "Eng": "to bring along/to go with",
+        "optTags": [
+            "verb-2"
+        ]
+    },
+    {
+        "Key": "飛ばす-とばす",
+        "Furi": "飛[と]ばす",
+        "Eng": "to launch/to hurl",
+        "optTags": [
+            "verb-1",
+            "jlpt-n3"
+        ]
+    },
+    {
+        "Key": "高鳴る-たかなる",
+        "Furi": "高[たか]鳴[な]る",
+        "Eng": "to throb/to beat fast",
+        "optTags": [
+            "verb-1"
         ]
     }
 ]
