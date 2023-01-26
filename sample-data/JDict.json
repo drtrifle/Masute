@@ -3836,7 +3836,7 @@
     {
         "Key": "守る-まもる",
         "Furi": "守[まも]る",
-        "Eng": "to keep/protect",
+        "Eng": "to keep/to protect",
         "optIkomaKanji": "34"
     },
     {
@@ -6416,8 +6416,8 @@
         "optIkomaKanji": "34"
     },
     {
-        "Key": "歯医者-はしゃ",
-        "Furi": "歯[は]医[]者[しゃ]",
+        "Key": "歯医者-はいしゃ",
+        "Furi": "歯[は]医[い]者[しゃ]",
         "Eng": "dentist",
         "optIkomaKanji": "34"
     },
@@ -11079,7 +11079,7 @@
     {
         "Key": "高速道路-こうそくどうろ",
         "Furi": "高[こう]速[そく]道[どう]路[ろ]",
-        "Eng": "expressway",
+        "Eng": "expressway/highway",
         "optIkomaKanji": "26"
     },
     {
