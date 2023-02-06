@@ -46,32 +46,6 @@
 .songLyrics[b-0lq6o3rvj3] {
     margin-bottom: .5rem;
 }
-/* /Pages/Quizzes/QuizJAdjs.razor.rz.scp.css */
-.quizStats_Div[b-g182x2on88]{
-    display: flex;
-    flex-flow:row wrap;
-}
-
-[b-g182x2on88] .quizStats_Left{
-    width:33.33333%;
-    text-align:left;
-}
-
-[b-g182x2on88] .quizStats_Center{
-    width:33.33333%;
-    text-align:center;
-}
-
-[b-g182x2on88] .quizStats_Right{
-    width:33.33333%;
-    text-align:right;
-}
-
-.inputDiv[b-g182x2on88]{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
 /* /Pages/Quizzes/QuizJAlpha.razor.rz.scp.css */
 .quizStats_Div[b-3iv0150xbu]{
     display: flex;

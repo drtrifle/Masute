@@ -1,177 +1,285 @@
 {
-    "songLyrics": [
-        {
-            "jpnStr": "いったいこのままいつまで",
-            "engStr": "How much longer will I have to go on like this?"
-        },
-        {
-            "jpnStr": "1人[ひとり]でいるつもりだろう",
-            "engStr": "I wonder if I'm going to be alone"
-        },
-        {
-            "jpnStr": "だんだん自分[じぶん]を憎[にく]んだり",
-            "engStr": "I hate myself more and more"
-        },
-        {
-            "jpnStr": "誰[だれ]かを羨[うらや]んだり",
-            "engStr": "Envious of others"
-        },
-        {
-            "jpnStr": "",
-            "engStr": ""
-        },
-        {
-            "jpnStr": "いつかいつかと",
-            "engStr": "Someday, someday..."
-        },
-        {
-            "jpnStr": "言[い]い聞[き]かせながら",
-            "engStr": "I'll keep telling myself that"
-        },
-        {
-            "jpnStr": "今日[きょう]まで沢山愛[たくさんあい]してきた",
-            "engStr": "I've had a lot of love and a lot of affection until today"
-        },
-        {
-            "jpnStr": "そして今[いま]も",
-            "engStr": "And now..."
-        },
-        {
-            "jpnStr": "",
-            "engStr": ""
-        },
-        {
-            "jpnStr": "この恋[こい]が実[みの]りますように",
-            "engStr": "May this love come to fruition"
-        },
-        {
-            "jpnStr": "少[すこ]しだけ少[すこ]しだけ",
-            "engStr": "A little bit more, a little bit more"
-        },
-        {
-            "jpnStr": "そう思[おも]わせて",
-            "engStr": "Let me think so"
-        },
-        {
-            "jpnStr": "今[いま]、私[わたし] 恋[こい]をしている",
-            "engStr": "Right now, I'm in love"
-        },
-        {
-            "jpnStr": "裸[はだか]の心[こころ] 抱[かか]えて",
-            "engStr": "Holding a naked heart"
-        },
-        {
-            "jpnStr": "",
-            "engStr": ""
-        },
-        {
-            "jpnStr": "バイバイ愛[いと]しの思[おも]い出でと",
-            "engStr": "Bye bye dear memories"
-        },
-        {
-            "jpnStr": "私[わたし]の夢見[ゆめみ]がちな憧[あこが]れ",
-            "engStr": "My dreamy longing"
-        },
-        {
-            "jpnStr": "優[やさ]しくなれたよ 少[すこ]しね",
-            "engStr": "I've become a little kinder"
-        },
-        {
-            "jpnStr": "強[つよ]くもなれたみたい",
-            "engStr": "I feel like I've become stronger"
-        },
-        {
-            "jpnStr": "",
-            "engStr": ""
-        },
-        {
-            "jpnStr": "どんな未来[みらい]も",
-            "engStr": "Whatever the future holds"
-        },
-        {
-            "jpnStr": "受[う]け止[と]めてきたの",
-            "engStr": "I have come to accept"
-        },
-        {
-            "jpnStr": "今[いま]まで沢山[たくさん]夜[よる]を越[こ]えた",
-            "engStr": "Until now, I've passed many nights"
-        },
-        {
-            "jpnStr": "そして今[いま]も",
-            "engStr": "And now..."
-        },
-        {
-            "jpnStr": "",
-            "engStr": ""
-        },
-        {
-            "jpnStr": "この恋[こい]の行[ゆ]く先[さき]なんて",
-            "engStr": "Where this love is going"
-        },
-        {
-            "jpnStr": "分[わ]からない 分[わ]からない",
-            "engStr": "I don't know, I don't know"
-        },
-        {
-            "jpnStr": "ただ想[おも]いを",
-            "engStr": "Just feelings"
-        },
-        {
-            "jpnStr": "今[いま]、私[わたし] 伝[つた]えに行[い]くから",
-            "engStr": "I'm going to tell you now"
-        },
-        {
-            "jpnStr": "裸[はだか]の心[こころ] 受[う]けとめて",
-            "engStr": "Take my naked heart"
-        },
-        {
-            "jpnStr": "",
-            "engStr": ""
-        },
-        {
-            "jpnStr": "恋[こい]なんてしなきゃよかったと",
-            "engStr": "I wish I'd never fallen in love"
-        },
-        {
-            "jpnStr": "あの時[とき]も あの夜[よる]も",
-            "engStr": "At that time, on that night"
-        },
-        {
-            "jpnStr": "思[おも]っていたの",
-            "engStr": "I thought"
-        },
-        {
-            "jpnStr": "今[いま]、私[わたし] また恋[こい]をしている",
-            "engStr": "Now, I'm in love again"
-        },
-        {
-            "jpnStr": "裸[はだか]の心[こころ] 震[ふる]わせて",
-            "engStr": "My naked heart trembles"
-        },
-        {
-            "jpnStr": "",
-            "engStr": ""
-        },
-        {
-            "jpnStr": "この恋[こい]が実[みの]りますように",
-            "engStr": "May this love come to fruition"
-        },
-        {
-            "jpnStr": "少[すこ]しだけ少[すこ]しだけ",
-            "engStr": "A little bit more, a little bit more"
-        },
-        {
-            "jpnStr": "そう思[おも]わせて",
-            "engStr": "Let me think so"
-        },
-        {
-            "jpnStr": "今[いま]、私[わたし] 恋[こい]をしている",
-            "engStr": "Right now, I'm in love"
-        },
-        {
-            "jpnStr": "裸[はだか]の心[こころ] 抱[かか]えて",
-            "engStr": "Holding a naked heart"
-        }
+    "SongLyrics": [
+      {
+        "JpnStr": "一[いっ]体[たい]この儘[まま]何[い]時[つ]まで",
+        "EngStr": "How much longer will I have to go on like this?",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "一[ひと]人[り]で居[い]る積[つ]もりだろう",
+        "EngStr": "I wonder if I'm going to be alone",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "段[だん]々[だん]自[じ]分[ぶん]を憎[にく]んだり",
+        "EngStr": "I hate myself more and more",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "誰[だれ]かを羨[うらや]んだり",
+        "EngStr": "Envious of others",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "",
+        "EngStr": "",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "何[い]時[つ]か何[い]時[つ]かと",
+        "EngStr": "Someday, someday...",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "言[い]い聞[き]かせながら",
+        "EngStr": "I'll keep telling myself that",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "今日[きょう]まで沢[たく]山[さん]愛[あい]してきた",
+        "EngStr": "I've had a lot of love and a lot of affection until today",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "然[そ]して今[いま]も",
+        "EngStr": "And now...",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "",
+        "EngStr": "",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "この恋[こい]が実[みの]ります様[よう]に",
+        "EngStr": "May this love come to fruition",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "少[すこ]し丈[だけ]少[すこ]し丈[だけ]",
+        "EngStr": "A little bit more, a little bit more",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "そう思[おも]わせて",
+        "EngStr": "Let me think so",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "今[いま]、私[わたし] 恋[こい]をして居[い]る",
+        "EngStr": "Right now, I'm in love",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "裸[はだか]の心[こころ] 抱[かか]えて",
+        "EngStr": "Holding a naked heart",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "",
+        "EngStr": "",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "バイバイ愛[いと]しの思[おも]い出でと",
+        "EngStr": "Bye bye dear memories",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "私[わたし]の夢見[ゆめみ]がちな憧[あこが]れ",
+        "EngStr": "My dreamy longing",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "優[やさ]しくなれたよ 少[すこ]しね",
+        "EngStr": "I've become a little kinder",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "強[つよ]くもなれたみたい",
+        "EngStr": "I feel like I've become stronger",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "",
+        "EngStr": "",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "どんな未来[みらい]も",
+        "EngStr": "Whatever the future holds",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "受[う]け止[と]めてきたの",
+        "EngStr": "I have come to accept",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "今[いま]まで沢[たく]山[さん]夜[よる]を越[こ]えた",
+        "EngStr": "Until now, I've passed many nights",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "然[そ]して今[いま]も",
+        "EngStr": "And now...",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "",
+        "EngStr": "",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "この恋[こい]の行[ゆ]く先[さき]なんて",
+        "EngStr": "Where this love is going",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "分[わ]からない 分[わ]からない",
+        "EngStr": "I don't know, I don't know",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "ただ想[おも]いを",
+        "EngStr": "Just feelings",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "今[いま]、私[わたし] 伝[つた]えに行[い]くから",
+        "EngStr": "I'm going to tell you now",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "裸[はだか]の心[こころ] 受[う]けとめて",
+        "EngStr": "Take my naked heart",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "",
+        "EngStr": "",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "恋[こい]なんてしなきゃよかったと",
+        "EngStr": "I wish I'd never fallen in love",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "あの時[とき]も あの夜[よる]も",
+        "EngStr": "At that time, on that night",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "思[おも]っていたの",
+        "EngStr": "I thought",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "今[いま]、私[わたし] また恋[こい]をして居[い]る",
+        "EngStr": "Now, I'm in love again",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "裸[はだか]の心[こころ] 震[ふる]わせて",
+        "EngStr": "My naked heart trembles",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "",
+        "EngStr": "",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "この恋[こい]が実[みの]ります様[よう]に",
+        "EngStr": "May this love come to fruition",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "少[すこ]し丈[だけ]少[すこ]し丈[だけ]",
+        "EngStr": "A little bit more, a little bit more",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "そう思[おも]わせて",
+        "EngStr": "Let me think so",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "今[いま]、私[わたし] 恋[こい]をして居[い]る",
+        "EngStr": "Right now, I'm in love",
+        "IsEmptyLine": false
+      },
+      {
+        "JpnStr": "裸[はだか]の心[こころ] 抱[かか]えて",
+        "EngStr": "Holding a naked heart",
+        "IsEmptyLine": false
+      }
     ],
-    "ListDictKey": []
-}
+    "ListDictKey": [
+      "一体-いったい",
+      "この儘-このまま",
+      "何時まで-いつまで",
+      "一人で-ひとりで",
+      "居る-いる",
+      "積もり-つもり",
+      "だろう-だろう",
+      "段々-だんだん",
+      "自分-じぶん",
+      "憎む-にくむ",
+      "誰か-だれか",
+      "羨む-うらやむ",
+      "何時か-いつか",
+      "言い聞かせる-いいきかせる",
+      "乍ら-ながら",
+      "今日まで-きょうまで",
+      "沢山-たくさん",
+      "愛す-あいす",
+      "北-きた",
+      "然して-そして",
+      "今-いま",
+      "此の-この",
+      "恋-こい",
+      "実る-みのる",
+      "様に-ように",
+      "少し-すこし",
+      "丈-だけ",
+      "然う-そう",
+      "思わせる-おもわせる",
+      "私-わたし",
+      "恋をする-こいをする",
+      "裸-はだか",
+      "心-しん",
+      "抱える-かかえる",
+      "愛し-はし",
+      "思い出-おもいで",
+      "夢見-ゆめみ",
+      "勝ち-がち",
+      "憧れ-あこがれ",
+      "優しい-やさしい",
+      "慣れた-なれた",
+      "強い-つよい",
+      "みたい-みたい",
+      "どんな-どんな",
+      "未来-みらい",
+      "受け止める-うけとめる",
+      "行く先-ゆくさき",
+      "何て-なんて",
+      "分かる-わかる",
+      "只-ただ",
+      "想い-おもい",
+      "伝え-つたえ",
+      "行く-いく",
+      "から-から",
+      "受けとめる-うけとめる",
+      "無きゃ-なきゃ",
+      "佳い-よい",
+      "彼の-あの",
+      "時-とき",
+      "夜-よる",
+      "思う-おもう",
+      "板-いた",
+      "股-また",
+      "震わせる-ふるわせる"
+    ]
+  }

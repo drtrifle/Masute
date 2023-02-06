@@ -1,159 +1,161 @@
 [
     {
-        "songID" : "AIMYON-001",
-        "songURL": "https://www.youtube.com/embed/yOAwvRmVIyo",
-        "songNameEng" : "Naked Heart",
-        "songNameJpn" : "裸の心",
-        "artistNameEng" : "Aimyon",
-        "artistNameJpn" : "あいみょん "
-
+        "SongID": "AIMYON-001",
+        "SongURL": "https://www.youtube.com/embed/yOAwvRmVIyo",
+        "SongNameEng": "Naked Heart",
+        "SongNameJpn": "裸の心",
+        "ArtistNameEng": "Aimyon",
+        "ArtistNameJpn": "あいみょん "
     },
     {
-        "songID" : "AYA-001",
-        "songURL": "https://www.youtube.com/embed/5QNaSMiZ_-o",
-        "songNameEng" : "God knows...",
-        "songNameJpn" : "",
-        "artistNameEng" : "Aya Hirano",
-        "artistNameJpn" : "平野綾"
-
+        "SongID": "AYA-001",
+        "SongURL": "https://www.youtube.com/embed/5QNaSMiZ_-o",
+        "SongNameEng": "God knows...",
+        "SongNameJpn": "",
+        "ArtistNameEng": "Aya Hirano",
+        "ArtistNameJpn": "平野綾"
     },
     {
-        "songID" : "BACK-001",
-        "songURL": "https://www.youtube.com/embed/EMYa07zHC9w",
-        "songNameEng" : "Yellow",
-        "songNameJpn" : "黄色",
-        "artistNameEng" : "back number",
-        "artistNameJpn" : ""
-
+        "SongID": "BACK-001",
+        "SongURL": "https://www.youtube.com/embed/EMYa07zHC9w",
+        "SongNameEng": "Yellow",
+        "SongNameJpn": "黄色",
+        "ArtistNameEng": "back number",
+        "ArtistNameJpn": ""
     },
     {
-        "songID" : "FRED-001",
-        "songURL": "https://www.youtube.com/embed/vn7vfza-6fQ",
-        "songNameEng" : "Kanashii Ureshii",
-        "songNameJpn" : "かなしいうれしい",
-        "artistNameEng" : "Frederic",
-        "artistNameJpn" : "フレデリック"
-
+        "SongID": "FRED-001",
+        "SongURL": "https://www.youtube.com/embed/vn7vfza-6fQ",
+        "SongNameEng": "Kanashii Ureshii",
+        "SongNameJpn": "かなしいうれしい",
+        "ArtistNameEng": "Frederic",
+        "ArtistNameJpn": "フレデリック"
     },
     {
-        "songID" : "HIGE-001",
-        "songURL": "https://www.youtube.com/embed/TQ8WlA2GXbk",
-        "songNameEng" : "Pretender",
-        "songNameJpn" : "",
-        "artistNameEng" : "Official Hige Dandism",
-        "artistNameJpn" : "Official髭男dism"
-
+        "SongID": "HIGE-001",
+        "SongURL": "https://www.youtube.com/embed/TQ8WlA2GXbk",
+        "SongNameEng": "Pretender",
+        "SongNameJpn": "",
+        "ArtistNameEng": "Official Hige Dandism",
+        "ArtistNameJpn": "Official髭男dism"
     },
     {
-        "songID" : "KANA-001",
-        "songURL": "https://www.youtube.com/embed/dlFA0Zq1k2A",
-        "songNameEng" : "Silhouette",
-        "songNameJpn" : "シルエット",
-        "artistNameEng" : "KANA-BOON",
-        "artistNameJpn" : ""
+        "SongID": "KANA-001",
+        "SongURL": "https://www.youtube.com/embed/dlFA0Zq1k2A",
+        "SongNameEng": "Silhouette",
+        "SongNameJpn": "シルエット",
+        "ArtistNameEng": "KANA-BOON",
+        "ArtistNameJpn": ""
     },
     {
-        "songID" : "KENTA-001",
-        "songURL": "https://www.youtube.com/embed/-zQWavER7to",
-        "songNameEng" : "Voice of the Sea",
-        "songNameJpn" : "海の声",
-        "artistNameEng" : "Kenta Kiritani",
-        "artistNameJpn" : "桐谷 健太"
+        "SongID": "KENTA-001",
+        "SongURL": "https://www.youtube.com/embed/-zQWavER7to",
+        "SongNameEng": "Voice of the Sea",
+        "SongNameJpn": "海の声",
+        "ArtistNameEng": "Kenta Kiritani",
+        "ArtistNameJpn": "桐谷 健太"
     },
     {
-        "songID" : "MAYN-001",
-        "songURL": "https://www.youtube.com/embed/NW7lvC7xeRQ",
-        "songNameEng" : "Lion",
-        "songNameJpn" : "ライオン",
-        "artistNameEng" : "May'n",
-        "artistNameJpn" : ""
+        "SongID": "MAYN-001",
+        "SongURL": "https://www.youtube.com/embed/NW7lvC7xeRQ",
+        "SongNameEng": "Lion",
+        "SongNameJpn": "ライオン",
+        "ArtistNameEng": "May\u0027n",
+        "ArtistNameJpn": ""
     },
     {
-        "songID" : "MINAMI-001",
-        "songURL": "https://www.youtube.com/embed/0YF8vecQWYs",
-        "songNameEng" : "Crying for Rain",
-        "songNameJpn" : "カワキヲアメク",
-        "artistNameEng" : "Minami",
-        "artistNameJpn" : "美波"
+        "SongID": "MINAMI-001",
+        "SongURL": "https://www.youtube.com/embed/0YF8vecQWYs",
+        "SongNameEng": "Crying for Rain",
+        "SongNameJpn": "カワキヲアメク",
+        "ArtistNameEng": "Minami",
+        "ArtistNameJpn": "美波"
     },
     {
-        "songID" : "PEGG-001",
-        "songURL": "https://www.youtube.com/embed/xdc9DgV0aDA",
-        "songNameEng" : "Dive to Love",
-        "songNameJpn" : "",
-        "artistNameEng" : "the peggies",
-        "artistNameJpn" : ""
+        "SongID": "PEGG-001",
+        "SongURL": "https://www.youtube.com/embed/xdc9DgV0aDA",
+        "SongNameEng": "Dive to Love",
+        "SongNameJpn": "",
+        "ArtistNameEng": "the peggies",
+        "ArtistNameJpn": ""
     },
     {
-        "songID" : "REOL-001",
-        "songURL": "https://www.youtube.com/embed/9eyyhtOrKPI",
-        "songNameEng" : "drop pop candy",
-        "songNameJpn" : "",
-        "artistNameEng" : "REOL",
-        "artistNameJpn" : ""
+        "SongID": "REOL-001",
+        "SongURL": "https://www.youtube.com/embed/9eyyhtOrKPI",
+        "SongNameEng": "drop pop candy",
+        "SongNameJpn": "",
+        "ArtistNameEng": "REOL",
+        "ArtistNameJpn": ""
     },
     {
-        "songID" : "SAKA-001",
-        "songURL": "https://www.youtube.com/embed/T_WuE_AV6kg",
-        "songNameEng" : "I Look Up as I Walk / Sukiyaki",
-        "songNameJpn" : "上を向いて歩こう",
-        "artistNameEng" : "Kyu Sakamoto",
-        "artistNameJpn" : "坂本 九"
+        "SongID": "SAKA-001",
+        "SongURL": "https://www.youtube.com/embed/T_WuE_AV6kg",
+        "SongNameEng": "I Look Up as I Walk / Sukiyaki",
+        "SongNameJpn": "上を向いて歩こう",
+        "ArtistNameEng": "Kyu Sakamoto",
+        "ArtistNameJpn": "坂本 九"
     },
     {
-        "songID" : "SAYURI-001",
-        "songURL": "https://www.youtube.com/embed/Rwzy6Qt8gq8",
-        "songNameEng" : "Tower of Flower",
-        "songNameJpn" : "花の塔",
-        "artistNameEng" : "Sayuri",
-        "artistNameJpn" : "さユり"
+        "SongID": "SAYURI-001",
+        "SongURL": "https://www.youtube.com/embed/Rwzy6Qt8gq8",
+        "SongNameEng": "Tower of Flower",
+        "SongNameJpn": "花の塔",
+        "ArtistNameEng": "Sayuri",
+        "ArtistNameJpn": "さユり"
     },
     {
-        "songID" : "TAICHI-001",
-        "songURL": "https://www.youtube.com/embed/oTH0s0iRA0g",
-        "songNameEng" : "Reset",
-        "songNameJpn" : "リセット",
-        "artistNameEng" : "Taichi Mukai",
-        "artistNameJpn" : "向井太一"
+        "SongID": "SNOOTY-001",
+        "SongURL": "https://www.youtube.com/embed/l2TqsetcqeU",
+        "SongNameEng": "Ai",
+        "SongNameJpn": "哀",
+        "ArtistNameEng": "snooty"
     },
     {
-        "songID" : "YONE-001",
-        "songURL": "https://www.youtube.com/embed/L_pRTyuZ9fk",
-        "songNameEng" : "Shinigami",
-        "songNameJpn" : "死神",
-        "artistNameEng" : "Kenshi Yonezu",
-        "artistNameJpn" : "米津玄師"
+        "SongID": "TAICHI-001",
+        "SongURL": "https://www.youtube.com/embed/oTH0s0iRA0g",
+        "SongNameEng": "Reset",
+        "SongNameJpn": "リセット",
+        "ArtistNameEng": "Taichi Mukai",
+        "ArtistNameJpn": "向井太一"
     },
     {
-        "songID" : "YORU-001",
-        "songURL": "https://www.youtube.com/embed/WwnZeQiI6hQ",
-        "songNameEng" : "The Old Man and the Sea",
-        "songNameJpn" : "老人と海",
-        "artistNameEng" : "Yorushika",
-        "artistNameJpn" : "ヨルシカ"
+        "SongID": "YONE-001",
+        "SongURL": "https://www.youtube.com/embed/L_pRTyuZ9fk",
+        "SongNameEng": "Shinigami",
+        "SongNameJpn": "死神",
+        "ArtistNameEng": "Kenshi Yonezu",
+        "ArtistNameJpn": "米津玄師"
     },
     {
-        "songID" : "YORU-002",
-        "songURL": "https://www.youtube.com/embed/-VKIqrvVOpo",
-        "songNameEng" : "Just a Sunny Day for You",
-        "songNameJpn" : "ただ君に晴れ",
-        "artistNameEng" : "Yorushika",
-        "artistNameJpn" : "ヨルシカ"
+        "SongID": "YORU-001",
+        "SongURL": "https://www.youtube.com/embed/WwnZeQiI6hQ",
+        "SongNameEng": "The Old Man and the Sea",
+        "SongNameJpn": "老人と海",
+        "ArtistNameEng": "Yorushika",
+        "ArtistNameJpn": "ヨルシカ"
     },
     {
-        "songID" : "YUURI-001",
-        "songURL": "https://www.youtube.com/embed/jVGmah8Ul8M",
-        "songNameEng" : "Shutter",
-        "songNameJpn" : "シャッター",
-        "artistNameEng" : "Yuuri",
-        "artistNameJpn" : "優里"
+        "SongID": "YORU-002",
+        "SongURL": "https://www.youtube.com/embed/-VKIqrvVOpo",
+        "SongNameEng": "Just a Sunny Day for You",
+        "SongNameJpn": "ただ君に晴れ",
+        "ArtistNameEng": "Yorushika",
+        "ArtistNameJpn": "ヨルシカ"
     },
     {
-        "songID" : "YUZU-001",
-        "songURL": "https://www.youtube.com/embed/dgKocTADT0I",
-        "songNameEng" : "Sakuragicho",
-        "songNameJpn" : "桜木町",
-        "artistNameEng" : "Yuzu",
-        "artistNameJpn" : "ゆず"
+        "SongID": "YUURI-001",
+        "SongURL": "https://www.youtube.com/embed/jVGmah8Ul8M",
+        "SongNameEng": "Shutter",
+        "SongNameJpn": "シャッター",
+        "ArtistNameEng": "Yuuri",
+        "ArtistNameJpn": "優里"
+    },
+    {
+        "SongID": "YUZU-001",
+        "SongURL": "https://www.youtube.com/embed/dgKocTADT0I",
+        "SongNameEng": "Sakuragicho",
+        "SongNameJpn": "桜木町",
+        "ArtistNameEng": "Yuzu",
+        "ArtistNameJpn": "ゆず"
     }
 ]

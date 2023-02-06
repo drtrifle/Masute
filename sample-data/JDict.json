@@ -7936,8 +7936,8 @@
         "optIkomaKanji": "07"
     },
     {
-        "Key": "祖父-そぶ",
-        "Furi": "祖[そ]父[ぶ]",
+        "Key": "祖父-そふ",
+        "Furi": "祖[そ]父[ふ]",
         "Eng": "grandfather (mine)",
         "optIkomaKanji": "07"
     },
@@ -7977,7 +7977,7 @@
     {
         "Key": "秋-あき",
         "Furi": "秋[あき]",
-        "Eng": "authumn",
+        "Eng": "autumn/fall",
         "optTags": [
             "jlpt-n5"
         ],
@@ -9941,7 +9941,7 @@
     {
         "Key": "通る-とおる",
         "Furi": "通[とお]る",
-        "Eng": "to pass",
+        "Eng": "to go by/to go past/to pass through",
         "optIkomaKanji": "27"
     },
     {
