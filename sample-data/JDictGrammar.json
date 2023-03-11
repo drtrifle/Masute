@@ -1,0 +1,20 @@
+[
+    {
+        "Key":"～だ/です",
+        "Eng":"to be (am, is, are, were, used to)",
+        "note":[
+            "For "
+        ],
+        "examples": [
+            "1) 私はクリスだ。",
+            "1) I am Chris.",
+            "2) 私はクリスです。",
+            "2) I am Chris.",
+            "3) 彼らは3年生です。",
+            "3) They are 3rd year students."
+        ],
+        "optTags":[
+            "jlpt-n5"
+        ]
+    }
+]
