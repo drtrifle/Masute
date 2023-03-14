@@ -1,7 +1,7 @@
 [
     {
         "lesson" : "25",
-        "topic": "Past じしょformら，~(main clause)",
+        "topic": "Past じしょformら, ~(main clause)",
         "explanations": [
             "Attaching ら to the past-tense of verbs, adjectives or nouns makes them conditional",
             "The clause that follows it (main clause) describes what will happen if the conditional clause were true",
@@ -12,7 +12,7 @@
             "1) お金[かね]が あったら，旅行[りょこう]します。",
             "1) If I had some money, I'd go travelling",
             "2) 時間[じかん]が あったら，旅行[りょこう]します。",
-            "2) If I don't have time, I won't watch TV",
+            "2) If I had time, I'd go travelling",
             "3) 安[やす]かったら，パソコンを 買[か]いたいです。",
             "3) If I can find a cheap one, I'd like to buy a PC",
             "4) 暇[ひま]だったら，手伝[でつだ]って ください。",
@@ -23,7 +23,7 @@
     },
     {
         "lesson" : "25",
-        "topic": "Verb た-formら，~(main clause)",
+        "topic": "Verb た-formら, ~(main clause)",
         "explanations": [
             "This expression is used to show that a certain action will be done or a certain situation will arise on the completition or occurence of a matter, action or state that the speaker is certain will happen"
         ],
