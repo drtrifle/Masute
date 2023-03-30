@@ -11,7 +11,7 @@
             "IsEmptyLine": false
         },
         {
-            "JpnStr": "一線超[いっせんこ]えて振[ふ]り返[かえ]るともうない",
+            "JpnStr": "一[いっ]線[せん]超[こ]えて振[ふ]り返[かえ]るともうない",
             "EngStr": "We passed the point of no return, but looking back",
             "IsEmptyLine": false
         },
@@ -208,7 +208,7 @@
         "何も-なにも",
         "未だ-まだ ",
         "知る-知る",
-        "一線-いちせん",
+        "一線-いっせん",
         "越える-こえる",
         "振り返る-ふりかえる",
         "もう-もう",
