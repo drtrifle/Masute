@@ -10853,9 +10853,10 @@
     {
       "Key": "良い-よい",
       "Furi": "良[よ]い",
-      "Eng": "good",
+      "Eng": "fine/good/excellent",
       "optTags": [
-        "adj-い"
+        "adj-い",
+        "jlpt-n5"
       ],
       "optSongLibFreq": 0
     },
@@ -13824,6 +13825,225 @@
       "optTags": [
         "noun",
         "jlpt-n5"
+      ],
+      "optSongLibFreq": 0
+    },
+    {
+      "Key": "仕舞った-しまった",
+      "Furi": "仕[し]舞[ま]った",
+      "Eng": "darn/oops/oh no",
+      "optTags": [
+        "phrase"
+      ],
+      "optSongLibFreq": 0
+    },
+    {
+      "Key": "何て-なんて",
+      "Furi": "何[なん]て",
+      "Eng": "how!/what!",
+      "optTags": [
+        "phrase"
+      ],
+      "optSongLibFreq": 0
+    },
+    {
+      "Key": "何も-なにも",
+      "Furi": "何[なに]も",
+      "Eng": "nothing/not at all",
+      "optTags": [
+        "phrase",
+        "jlpt-n3"
+      ],
+      "optSongLibFreq": 0
+    },
+    {
+      "Key": "何もかも-なにもかも",
+      "Furi": "何[なに]もかも",
+      "Eng": "anything and everything/just about everything",
+      "optTags": [
+        "phrase",
+        "noun",
+        "adv"
+      ],
+      "optSongLibFreq": 0
+    },
+    {
+      "Key": "何れも-どれも",
+      "Furi": "何[ど]れも",
+      "Eng": "any/all/every",
+      "optTags": [
+        "adv"
+      ],
+      "optSongLibFreq": 0
+    },
+    {
+      "Key": "何時か-いつか",
+      "Furi": "何時[いつ]か",
+      "Eng": "sometime/someday/one day",
+      "optTags": [
+        "adv"
+      ],
+      "optSongLibFreq": 0
+    },
+    {
+      "Key": "何時まで-いつまで",
+      "Furi": "何時[いつ]まで",
+      "Eng": "how long?/till when?",
+      "optTags": [
+        "adv"
+      ],
+      "optSongLibFreq": 0
+    },
+    {
+      "Key": "何時も-いつも",
+      "Furi": "何時[いつ]も",
+      "Eng": "always/all the time/never",
+      "optTags": [
+        "adv",
+        "jlpt-n5"
+      ],
+      "optSongLibFreq": 0
+    },
+    {
+      "Key": "佳い-よい",
+      "Furi": "佳[よ]い",
+      "Eng": "fine/good/excellent",
+      "optTags": [
+        "adj-い",
+        "jlpt-n5"
+      ],
+      "optSongLibFreq": 0
+    },
+    {
+      "Key": "傷付ける-きずつける",
+      "Furi": "傷[きず]付[つ]ける",
+      "Eng": "to wound/to injure",
+      "optTags": [
+        "verb-2"
+      ],
+      "optSongLibFreq": 0
+    },
+    {
+      "Key": "傷跡-きずあと",
+      "Furi": "傷[きず]跡[あと]",
+      "Eng": "scar",
+      "optTags": [
+        "noun"
+      ],
+      "optSongLibFreq": 0
+    },
+    {
+      "Key": "全て-すべて",
+      "Furi": "全[すべ]て",
+      "Eng": "all/everything/the whole",
+      "optTags": [
+        "noun",
+        "adv"
+      ],
+      "optSongLibFreq": 0
+    },
+    {
+      "Key": "内容-ないよう",
+      "Furi": "内[ない]容[よう]",
+      "Eng": "content/substance",
+      "optTags": [
+        "noun",
+        "jlpt-n3"
+      ],
+      "optSongLibFreq": 0
+    },
+    {
+      "Key": "冴-さえ",
+      "Furi": "冴[さえ]",
+      "Eng": "clarity/skillfulness",
+      "optTags": [
+        "noun"
+      ],
+      "optSongLibFreq": 0
+    },
+    {
+      "Key": "出会い-であい",
+      "Furi": "出[で]会[あ]い",
+      "Eng": "meeting/encounter",
+      "optTags": [
+        "noun",
+        "jlpt-n3"
+      ],
+      "optSongLibFreq": 0
+    },
+    {
+      "Key": "分かち合う-わかちあう",
+      "Furi": "分[わ]かち合[あ]う",
+      "Eng": "to share",
+      "optTags": [
+        "verb-2"
+      ],
+      "optSongLibFreq": 0
+    },
+    {
+      "Key": "勝ち-がち",
+      "Furi": "勝[が]ち",
+      "Eng": "win/victory",
+      "optTags": [
+        "noun"
+      ],
+      "optSongLibFreq": 0
+    },
+    {
+      "Key": "受け止める-うけとめる",
+      "Furi": "受[う]け止[と]める",
+      "Eng": "to catch/to accept",
+      "optTags": [
+        "verb-2",
+        "jlpt-n1"
+      ],
+      "optSongLibFreq": 0
+    },
+    {
+      "Key": "只-ただ",
+      "Furi": "只[ただ]",
+      "Eng": "ordinary/common/usual",
+      "optTags": [
+        "noun",
+        "jlpt-n3"
+      ],
+      "optSongLibFreq": 0
+    },
+    {
+      "Key": "叶える-かなえる",
+      "Furi": "叶[かな]える",
+      "Eng": "to grant/to answer",
+      "optTags": [
+        "verb-2",
+        "jlpt-n1"
+      ],
+      "optSongLibFreq": 0
+    },
+    {
+      "Key": "合う-あう",
+      "Furi": "合[あ]う",
+      "Eng": "to meet/to merge/to unite",
+      "optTags": [
+        "verb-1",
+        "jlpt-n4"
+      ],
+      "optSongLibFreq": 0
+    },
+    {
+      "Key": "同じよう-じよう",
+      "Furi": "同[おな]じよう-おなじよう",
+      "Eng": "similar",
+      "optTags": [
+        "adj-な"
+      ],
+      "optSongLibFreq": 0
+    },
+    {
+      "Key": "同化-どうか",
+      "Furi": "同[どう]化[か]",
+      "Eng": "assimilation/absorption/adaptation",
+      "optTags": [
+        "noun"
       ],
       "optSongLibFreq": 0
     }

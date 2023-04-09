@@ -1,179 +1,354 @@
 [
     {
         "title": "Introduction",
-        "lessons" : [
+        "sublessons": [
             {
-                "topic": "Nice to meet you (Introduction part 1)",
+                "title": "(Part 1) Nice to meet you",
+                "phrases": [
+                    "初[はじ]めまして"
+                ],
                 "explanations": [
                     "初[はじ]めまして rougly translates to 'nice to meet you for the first time'",
                     "It is commonly used as the first sentence when introducing yourself"
-                ],
-                "examples": [
                 ]
             },
             {
-                "topic": "My name is ... (Introduction part 2)",
+                "title": "(Part 2) My name is ...",
+                "phrases": [
+                    "私[わたし]は ...です"
+                ],
                 "explanations": [
                     "私[わたし]は ...です means 'my name is ...です'",
                     "です is added at the end to show politeness",
                     "Sometimes, 私[わたし]は is omitted as when it is obvious that you are referring to yourself",
                     "It is commonly used as the second sentence when introducing yourself"
-                ],
-                "examples": [
                 ]
             },
             {
-                "topic": "I will be in your care (Introduction part 3)",
+                "title": "(Part 3) I will be in your care",
+                "phrases": [
+                    "どうぞ よるしく"
+                ],
                 "explanations": [
                     "どうぞ よるしく does not really have a proper english translation and is almost like a request for the other person to be kind towards you",
                     "It is commonly used as the last sentence when introducing yourself"
-                ],
-                "examples": [
                 ]
             }
         ]
     },
     {
         "title": "Greetings",
-        "lessons" : [
+        "sublessons": [
             {
-                "topic": "Good Morning",
-                "explanations": [
-                    "お早[はよ]う means 'good morning'",
-                    "お早[はよ]う ございます also means 'good morning' but is more polite"
-                ],
-                "examples": [
+                "title": "Greetings (Meeting someone)",
+                "sublessons": [
+                    {
+                        "title": "Good Morning",
+                        "phrases": [
+                            "お早[はよ]う",
+                            "お早[はよ]う ございま"
+                        ],
+                        "explanations": [
+                            "お早[はよ]う means 'good morning'",
+                            "お早[はよ]う ございます also means 'good morning' but is more polite"
+                        ]
+                    },
+                    {
+                        "title": "Good Afternoon",
+                        "phrases": [
+                            "今日[こんにち]は"
+                        ],
+                        "explanations": [
+                            "今日[こんにち]は means 'good afternoon'",
+                            "[Note] は here is pronounced as わ"
+                        ]
+                    },
+                    {
+                        "title": "Good Evening",
+                        "phrases": [
+                            "今晩[こんばん]は"
+                        ],
+                        "explanations": [
+                            "今晩[こんばん]は means 'good evening'",
+                            "[Note] は here is pronounced as わ"
+                        ]
+                    }
                 ]
             },
             {
-                "topic": "Good Afternoon",
-                "explanations": [
-                    "今日[こんにち]は means 'good afternoon'",
-                    "[Note] は here is pronounced as わ"
-                ],
-                "examples": [
+                "title": "Greetings (Meeting someone)",
+                "sublessons": [
+                    {
+                        "title": "Goodbye/Farewell",
+                        "phrases": [
+                            "さようなら",
+                            "じゃあね",
+                            "またね"
+                        ],
+                        "explanations": [
+                            "さようなら means 'goodbye' but is more formal and akin to farewell where you might not see the other party for a long time again",
+                            "じゃあね means 'see you' and is used casually among friends",
+                            "またね means 'later' and is also used casually among friends"
+                        ]
+                    },
+                    {
+                        "title": "Goodnight",
+                        "phrases": [
+                            "お休[やす]み",
+                            "お休[やす]みなさい"
+                        ],
+                        "explanations": [
+                            "お休[やす]み means 'goodnight'",
+                            "お休[やす]みなさい also means 'goodnight' but is more polite"
+                        ]
+                    }
                 ]
             },
             {
-                "topic": "Good Evening",
-                "explanations": [
-                    "今晩[こんばん]は means 'good evening'",
-                    "[Note] は here is pronounced as わ"
+                "title": "Thank you",
+                "phrases": [
+                    "有[あ]り難[がと]う",
+                    "有[あ]り難[がと]う ございます",
+                    "どうも"
                 ],
-                "examples": [
-                ]
-            },
-            {
-                "topic": "Goodbye/Farewell",
-                "explanations": [
-                    "さようなら means 'goodbye' but is more formal and akin to farewell where you might not see the other party for a long time again",
-                    "じゃあね means 'see you' and is used casually among friends",
-                    "またね means 'later' and is also used casually among friends"
-                ],
-                "examples": [
-                ]
-            },
-            {
-                "topic": "Goodnight",
-                "explanations": [
-                    "お休[やす]みなさい means 'goodnight' but is more formal",
-                    "Usually, it is shortend to お休[やす]み instead"
-                ],
-                "examples": [
-                ]
-            },
-            {
-                "topic": "Thank you",
                 "explanations": [
                     "有[あ]り難[がと]う means 'thank you'",
                     "有[あ]り難[がと]う ございます is a more polite form of showing appreciation",
                     "どうも is the casual form of saying thanks"
-                ],
-                "examples": [
                 ]
             },
             {
-                "topic": "You're welcome",
+                "title": "You're welcome",
+                "phrases": [
+                    "どういたしまして"
+                ],
                 "explanations": [
-                    "どういたしまして can be generally translated into 'you're welcome'"
-                ],
-                "examples": [
+                    "どういたしまして means 'you're welcome'"
                 ]
             },
             {
-                "topic": "Excuse me/Sorry/Thanks",
+                "title": "Excuse me/Sorry/Thanks",
+                "phrases": [
+                    "すみません"
+                ],
                 "explanations": [
                     "すみません is a versatile word that can be used to grab someone's attention, apologise for a small error or show appreciation"
-                ],
-                "examples": [
                 ]
             },
             {
-                "topic": "Not at all",
+                "title": "Not at all",
+                "phrases": [
+                    "いいえ"
+                ],
                 "explanations": [
                     "いいえ means 'No'",
                     "It can be used as a reply to すみません, when someone expresses gratitude or an apology towards you"
-                ],
-                "examples": [
                 ]
             },
             {
-                "topic": "I'm going out and coming back",
-                "explanations": [
-                    "行[い]ってきます means that you are leaving but implies that you will be coming back",
-                    "It can be used amongst family or colleagues when leaving home or the office"
-                ],
-                "examples": [
+                "title": "Greetings (For Homes)",
+                "sublessons": [
+                    {
+                        "title": "I'm going out and coming back",
+                        "phrases": [
+                            "行[い]ってきます"
+                        ],
+                        "explanations": [
+                            "行[い]ってきます means that you are leaving but implies that you will be coming back",
+                            "It can be used amongst family or colleagues when leaving home or the office"
+                        ]
+                    },
+                    {
+                        "title": "See you! Take care",
+                        "phrases": [
+                            "行[い]ってらっしゃい"
+                        ],
+                        "explanations": [
+                            "行[い]ってらっしゃい is directly translated to 'go and come back' but it's meaning is closer to 'see you later' or 'take care'",
+                            "It is used as reply phrase to someone saying 行[い]ってきます"
+                        ]
+                    },
+                    {
+                        "title": "I'm back",
+                        "phrases": [
+                            "ただ今[いま]"
+                        ],
+                        "explanations": [
+                            "ただ今[いま] is used to annouce your return to somewhere"
+                        ]
+                    },
+                    {
+                        "title": "Welcome home",
+                        "phrases": [
+                            "お帰[かえ]りなさい"
+                        ],
+                        "explanations": [
+                            "お帰[かえ]りなさい means welcome home and is used as a reply to ただ今[いま]",
+                            "It can also be shortened to お帰[かえ]り"
+                        ]
+                    }
+                ]
+            }  
+        ]
+    },
+    {
+        "title": "Dining",
+        "sublessons": [
+            {
+                "title": "Entering the Store",
+                "sublessons": [
+                    {
+                        "title": "How many people are in your group?",
+                        "phrases": [
+                            "何[なん]名[めい]様[さま]ですか?"
+                        ]
+                    },
+                    {
+                        "title": "Reservation",
+                        "sublessons": [
+                            {
+                                "title": "Do you have a reservation?",
+                                "phrases": [
+                                    "ご予約[よやく]はされているんでしょうか?"
+                                ]
+                            },
+                            {
+                                "title": "Yes I made a reservation, it is booked under ...",
+                                "phrases": [
+                                    "予約[よやく]をしています。...です。"
+                                ]
+                            },
+                            {
+                                "title": "Sorry, I haven't, are there any seats/spaces available?",
+                                "phrases": [
+                                    "すみません、予約[よやく]してないのですが, 空いて[あいて]いますか？"
+                                ]
+                            },
+                            {
+                                "title": "Sorry, we are full now (No seat available)",
+                                "phrases": [
+                                    "申[もう]し訳[わけ]ございません。只[ただ]今[いま]、満席[まんせき] となっております"
+                                ]
+                            }
+                        ]
+                    }
                 ]
             },
             {
-                "topic": "See you! Take care",
-                "explanations": [
-                    "行[い]ってらっしゃい is directly translated to 'go and come back' but it's meaning is closer to 'see you later' or 'take care'",
-                    "It is used as reply phrase to someone saying 行[い]ってきます"
-                ],
-                "examples": [
+                "title": "Ordering from the menu",
+                "sublessons": [
+                    {
+                        "title": "Do you have an english menu?",
+                        "phrases": [
+                            "英[えい]語[ご]メニューはありますか？"
+                        ]
+                    },
+                    {
+                        "title": "What is your recommendation?",
+                        "phrases": [
+                            "お勧[すす]めは何[なん]ですか?"
+                        ]
+                    },
+                    {
+                        "title": "Excuse me, I'll like to order",
+                        "phrases": [
+                            "すみません, 注[ちゅう]文[もん]をお願[ねが]いします"
+                        ]
+                    },
+                    {
+                        "title": "Please wait a moment",
+                        "phrases": [
+                            "少[しょう]々[しょう]お待[ま]ち下[くだ]さい"
+                        ]
+                    },
+                    {
+                        "title": "Does this have shellfish?",
+                        "phrases": [
+                            "これに貝[かい]類[るい]入っていますか?"
+                        ]
+                    },
+                    {
+                        "title": "I would like a glass of beer please",
+                        "phrases": [
+                            "ビールを一[いっ]杯[ぱい]お願[ねが]いします"
+                        ]
+                    },
+                    {
+                        "title": "Thank you for the meal (Before eating)",
+                        "phrases": [
+                            "いだだきます"
+                        ],
+                        "explanations": [
+                            "いだだきます express gratitude and is said before eating"
+                        ]
+                    }
                 ]
             },
             {
-                "topic": "I'm back",
-                "explanations": [
-                    "ただ今[いま] is used to annouce your return to somewhere"
-                ],
-                "examples": [
+                "title": "Finishing Up and Bill Payments",
+                "sublessons": [
+                    {
+                        "title": "Excuse me, could we get the bill/check, please",
+                        "phrases": [
+                            "すみません, お会[かい]計[けい]をお願[ねが]いします",
+                            "すみません, チェックをお願[ねが]いします"
+                        ]
+                    },
+                    {
+                        "title": "Thank you for the meal (After eating)",
+                        "phrases": [
+                            "ごちそうさまでした"
+                        ],
+                        "explanations": [
+                            "ごちそうさまでした express gratitude and is said after eating"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Transportation",
+        "sublessons": [
+
+        ]
+    }
+    ,
+    {
+        "title": "Emergencies",
+        "sublessons": [
+            {
+                "title": "Please Help",
+                "phrases": [
+                    "手て伝[つだ]って下[くだ]さい"
                 ]
             },
             {
-                "topic": "I'm home",
-                "explanations": [
-                    "ただ今[いま] is used to annouce your return to a house"
-                ],
-                "examples": [
+                "title": "Missing items",
+                "sublessons": [
+                    {
+                        "title": "I lost my bag",
+                        "phrases": [
+                            "鞄[かばん]をなくしました"
+                        ]
+                    },
+                    {
+                        "title": "I dropped my wallet",
+                        "phrases": [
+                            "財[さい]布[ふ]をおとしました"
+                        ]
+                    }
                 ]
             },
             {
-                "topic": "Welcome home",
-                "explanations": [
-                    "お帰[かえ]りなさい means welcome home and is used as a reply to ただ今[いま]",
-                    "It can also be shortened to お帰[かえ]り"
-                ],
-                "examples": [
-                ]
-            },
-            {
-                "topic": "Thank you for the meal (Before eating)",
-                "explanations": [
-                    "いだだきます express gratitude and is said before eating"
-                ],
-                "examples": [
-                ]
-            },
-            {
-                "topic": "Thank you for the meal (After eating)",
-                "explanations": [
-                    "ごちそうさまでした express gratitude and is said after eating"
-                ],
-                "examples": [
+                "title": "Medical Emergencies",
+                "sublessons": [
+                    {
+                        "title": "Please take me to the Hospital",
+                        "phrases": [
+                            "病[びょう]院[いん]に連[つ]れていって下[くだ]さい"
+                        ]
+                    }
                 ]
             }
         ]
