@@ -2,6 +2,50 @@
 .medium[b-2nmmtol4ds] {
     font-size: 16px;
 }
+/* /Pages/Lessons/LessonPhrases.razor.rz.scp.css */
+.font-small[b-mof2c7l1gd] {
+    font-size: 14px;
+}
+
+.font-medium[b-mof2c7l1gd] {
+    font-size: 17px;
+}
+
+.font-large[b-mof2c7l1gd] {
+    font-size: 20px;
+}
+
+.ruby[b-mof2c7l1gd]{
+    font-size: 75%;
+}
+.rt[b-mof2c7l1gd]{
+    font-size: 75%;
+}
+
+.configBox[b-mof2c7l1gd]{
+    margin-bottom: 0rem;
+}
+
+[b-mof2c7l1gd] .configBox_Btn{
+    min-width: unset;
+}
+
+.configBox_Title[b-mof2c7l1gd]{
+    color: #fff;
+    font-size: 90%;
+    text-align: center;
+    background-color: #555;
+    margin-bottom: 5px;
+    border-radius: 3px;
+}
+.configBox_Content[b-mof2c7l1gd]{
+    margin-bottom: 0rem;
+}
+
+
+.songLyrics[b-mof2c7l1gd] {
+    margin-bottom: .5rem;
+}
 /* /Pages/Lessons/LessonSong.razor.rz.scp.css */
 .font-small[b-0lq6o3rvj3] {
     font-size: 14px;
