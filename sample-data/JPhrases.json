@@ -192,134 +192,18 @@
         ]
     },
     {
-        "title": "Dining",
+        "title": "Time",
         "sublessons": [
             {
-                "title": "Entering the Store",
-                "sublessons": [
-                    {
-                        "title": "Group size",
-                        "sublessons": [
-                            {
-                                "title": "How many people are in your group?",
-                                "phrases": [
-                                    "何[なん]名[めい]様[さま]ですか?"
-                                ]
-                            },
-                            {
-                                "title": "Nine people. Separate table is OK",
-                                "phrases": [
-                                    "九[きゅう]人[にん]です。別[べつ]テーブル OK です。"
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "title": "Reservation",
-                        "sublessons": [
-                            {
-                                "title": "Do you have a reservation?",
-                                "phrases": [
-                                    "ご予[よ]約[やく]はされているん でしょうか?"
-                                ]
-                            },
-                            {
-                                "title": "Yes I made a reservation, it is booked under ...",
-                                "phrases": [
-                                    "予[よ]約[やく]をしています。...です。"
-                                ]
-                            },
-                            {
-                                "title": "Sorry, I haven't, are there any seats/spaces available?",
-                                "phrases": [
-                                    "すみません、予[よ]約[やく]してないのですが, 空[あ]いていますか？"
-                                ]
-                            },
-                            {
-                                "title": "Sorry, we are full now (No seat available)",
-                                "phrases": [
-                                    "申[もう]し訳[わけ]ございません。只[ただ]今[いま]、満[まん]席[せき] となっております"
-                                ]
-                            }
-                        ]
-                    }
+                "title": "How long will it take approximately?",
+                "phrases": [
+                    "何[どの]位[ぐらい]掛[か]かります?"
                 ]
             },
             {
-                "title": "Ordering from the menu",
-                "sublessons": [
-                    {
-                        "title": "Do you have an english menu?",
-                        "phrases": [
-                            "英[えい]語[ご]メニューはありますか？"
-                        ]
-                    },
-                    {
-                        "title": "What is your recommendation?",
-                        "phrases": [
-                            "お勧[すす]めは何[なん]ですか?"
-                        ]
-                    },
-                    {
-                        "title": "Excuse me, I'll like to order",
-                        "phrases": [
-                            "すみません, 注[ちゅう]文[もん]をお願[ねが]いします"
-                        ]
-                    },
-                    {
-                        "title": "Please wait a moment",
-                        "phrases": [
-                            "少[しょう]々[しょう]お待[ま]ち下[くだ]さい"
-                        ]
-                    },
-                    {
-                        "title": "Does this have shellfish?",
-                        "phrases": [
-                            "これに貝[かい]類[るい]入っていますか?"
-                        ]
-                    },
-                    {
-                        "title": "Do you have set meals?",
-                        "phrases": [
-                            "定[てい]食[しょく]ありますか?"
-                        ]
-                    },
-                    {
-                        "title": "I would like a glass of beer please",
-                        "phrases": [
-                            "ビールを一[いっ]杯[ぱい]お願[ねが]いします"
-                        ]
-                    },
-                    {
-                        "title": "Thank you for the meal (Before eating)",
-                        "phrases": [
-                            "いだだきます"
-                        ],
-                        "explanations": [
-                            "いだだきます express gratitude and is said before eating"
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "Finishing Up and Bill Payments",
-                "sublessons": [
-                    {
-                        "title": "Excuse me, could we get the bill/check, please",
-                        "phrases": [
-                            "すみません, お会[かい]計[けい]をお願[ねが]いします",
-                            "すみません, チェックをお願[ねが]いします"
-                        ]
-                    },
-                    {
-                        "title": "Thank you for the meal (After eating)",
-                        "phrases": [
-                            "ごちそうさまでした"
-                        ],
-                        "explanations": [
-                            "ごちそうさまでした express gratitude and is said after eating"
-                        ]
-                    }
+                "title": "What time does it start/open and end/close?",
+                "phrases": [
+                    "何[なん]時[じ]から何[なん]時[じ]までですか?"
                 ]
             }
         ]
@@ -328,6 +212,50 @@
         "title": "Direction",
         "sublessons": [
             {
+                "title": "This/That/That over there",
+                "sublessons": [
+                    {
+                        "title": "This/That/That over there",
+                        "phrases": [
+                            "これ",
+                            "それ",
+                            "あれ"
+                        ],
+                        "explanation":[
+                            "これ refers to something near the speaker",
+                            "それ refers to something near the listener",
+                            "あれ refers to something distant from both the speaker and listener"
+                        ]
+                    },
+                    {
+                        "title": "This thing/That thing/That thing over there",
+                        "phrases": [
+                            "この...(noun)",
+                            "その...(noun)",
+                            "あの...(noun)"
+                        ],
+                        "explanation":[
+                            "この...(noun) refers to a (noun) near the speaker",
+                            "その...(noun) refers to a (noun) near the listener",
+                            "あの...(noun) refers to a (noun) distant from both the speaker and listener"
+                        ]
+                    },
+                    {
+                        "title": "Here/There/Over there",
+                        "phrases": [
+                            "ここ",
+                            "そこ",
+                            "あそこ"
+                        ],
+                        "explanation":[
+                            "ここ refers to a place near the speaker",
+                            "そこ refers to a place near the listener",
+                            "あそこ refers to a place distant from both the speaker and listener"
+                        ]
+                    }
+                ]                
+            },
+            {
                 "title": "Is there a washroom? Where is it?",
                 "phrases": [
                     "トイレはありますか? どこですか?",
@@ -335,87 +263,265 @@
                 ]
             },
             {
-                "title": "Does this train stop at ...?",
+                "title": "Does this train stop at... (station name)?",
                 "phrases": [
-                    "この電[でん]車[しゃ]は ... 停[てい]車[しゃ]しますか？"
+                    "この電[でん]車[しゃ]は... (station name)に 停[てい]車[しゃ]しますか？"
                 ]
             }
         ]
     },
     {
-        "title": "Conversation",
-        "sublessons": [
+        "title": "Situations",
+        "sublessons":[
             {
-                "title": "Nationality",
+                "title": "Buying things",
                 "sublessons": [
                     {
-                        "title": "Are you Chinese (Nationality)",
+                        "title": "How much does that (thing) cost?",
                         "phrases": [
-                            "中[ちゅう]国[ごく]人[じん]ですか?"
+                            "それはいくらですか?"
                         ]
                     },
                     {
-                        "title": "No. I'm Singaporean",
+                        "title": "Can I pay by Suica or credit card?",
                         "phrases": [
-                            "いいえ，違[ちが]う。シンガポール人[じん]です"
+                            "Suica又[また]はクレジットカードで払[はら]っていいですか？"
                         ]
                     },
                     {
-                        "title": "Where are you from?",
+                        "title": "Sorry. Only cash",
                         "phrases": [
-                            "出[しゅっ]身[しん]はどこですか?"
+                            "すみません。現[げん]金[きん]のみとです"
                         ]
                     },
                     {
-                        "title": "I'm from Singapore. I'm on holiday now so I'm travelling",
+                        "title": "Is there Tax Refund?",
                         "phrases": [
-                            "シンガポールから来[き]ました. 今[いま]休[きゅう]暇[か]中[ちゅう]なので旅[りょ]行[こう]に行[い]っています"
+                            "還[かん]付[ぷ]税[ぜい]はありますか?"
                         ]
                     }
                 ]
             },
             {
-                "title": "Occupation",
+                "title": "Dining",
                 "sublessons": [
                     {
-                        "title": "What is your occupation?",
-                        "phrases": [
-                            "仕[し]事[ごと]は何[なん]ですか?"
+                        "title": "Entering the Store",
+                        "sublessons": [
+                            {
+                                "title": "Group size",
+                                "sublessons": [
+                                    {
+                                        "title": "How many people are in your group?",
+                                        "phrases": [
+                                            "何[なん]名[めい]様[さま]ですか?"
+                                        ]
+                                    },
+                                    {
+                                        "title": "Nine people. Separate table is OK",
+                                        "phrases": [
+                                            "九[きゅう]人[にん]です。別[べつ]テーブル OK です。"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Reservation",
+                                "sublessons": [
+                                    {
+                                        "title": "Do you have a reservation?",
+                                        "phrases": [
+                                            "ご予[よ]約[やく]はされているん でしょうか?"
+                                        ]
+                                    },
+                                    {
+                                        "title": "Yes I made a reservation, it is booked under ...",
+                                        "phrases": [
+                                            "予[よ]約[やく]をしています。...です。"
+                                        ]
+                                    },
+                                    {
+                                        "title": "Sorry, I haven't, are there any seats/spaces available?",
+                                        "phrases": [
+                                            "すみません、予[よ]約[やく]してないのですが, 空[あ]いていますか？"
+                                        ]
+                                    },
+                                    {
+                                        "title": "Sorry, we are full now (No seat available)",
+                                        "phrases": [
+                                            "申[もう]し訳[わけ]ございません。只[ただ]今[いま]、満[まん]席[せき] となっております"
+                                        ]
+                                    }
+                                ]
+                            }
                         ]
                     },
                     {
-                        "title": "I'm a programmer",
-                        "phrases": [
-                            "プログラマーです"
+                        "title": "Ordering from the menu",
+                        "sublessons": [
+                            {
+                                "title": "Do you have an english menu?",
+                                "phrases": [
+                                    "英[えい]語[ご]メニューはありますか？"
+                                ]
+                            },
+                            {
+                                "title": "What is your recommendation?",
+                                "phrases": [
+                                    "お勧[すす]めは何[なん]ですか?"
+                                ]
+                            },
+                            {
+                                "title": "Excuse me, I'll like to order",
+                                "phrases": [
+                                    "すみません, 注[ちゅう]文[もん]をお願[ねが]いします"
+                                ]
+                            },
+                            {
+                                "title": "Please wait a moment",
+                                "phrases": [
+                                    "少[しょう]々[しょう]お待[ま]ち下[くだ]さい"
+                                ]
+                            },
+                            {
+                                "title": "Does this have shellfish?",
+                                "phrases": [
+                                    "これに貝[かい]類[るい]入っていますか?"
+                                ]
+                            },
+                            {
+                                "title": "Do you have set meals?",
+                                "phrases": [
+                                    "定[てい]食[しょく]ありますか?"
+                                ]
+                            },
+                            {
+                                "title": "I would like a glass of beer please",
+                                "phrases": [
+                                    "ビールを一[いっ]杯[ぱい]お願[ねが]いします"
+                                ]
+                            },
+                            {
+                                "title": "Thank you for the meal (Before eating)",
+                                "phrases": [
+                                    "いだだきます"
+                                ],
+                                "explanations": [
+                                    "いだだきます express gratitude and is said before eating"
+                                ]
+                            }
                         ]
                     },
                     {
-                        "title": "How long have you been working",
-                        "phrases": [
-                            "何[なん]年[ねん]働[はたら]いているのか?"
-                        ]
-                    },
-                    {
-                        "title": "About 3 years",
-                        "phrases": [
-                            "三[さん]年[ねん]ぐらいです"
+                        "title": "Finishing Up and Bill Payments",
+                        "sublessons": [
+                            {
+                                "title": "Excuse me, could we get the bill/check, please",
+                                "phrases": [
+                                    "すみません, お会[かい]計[けい]をお願[ねが]いします",
+                                    "すみません, チェックをお願[ねが]いします"
+                                ]
+                            },
+                            {
+                                "title": "Thank you for the meal (After eating)",
+                                "phrases": [
+                                    "ごちそうさまでした"
+                                ],
+                                "explanations": [
+                                    "ごちそうさまでした express gratitude and is said after eating"
+                                ]
+                            }
                         ]
                     }
                 ]
             },
             {
-                "title": "Food",
+                "title": "Conversation",
                 "sublessons": [
                     {
-                        "title": "What is your favorite Japanese cuisine?",
-                        "phrases": [
-                            "一[いち]番[ばん]日[に]本[ほん]料[りょう]理[り]は 何[なん]ですか?"
+                        "title": "Nationality",
+                        "sublessons": [
+                            {
+                                "title": "Are you Chinese (Nationality)",
+                                "phrases": [
+                                    "中[ちゅう]国[ごく]人[じん]ですか?"
+                                ]
+                            },
+                            {
+                                "title": "No. I'm Singaporean",
+                                "phrases": [
+                                    "いいえ，違[ちが]う。シンガポール人[じん]です"
+                                ]
+                            },
+                            {
+                                "title": "Where are you from?",
+                                "phrases": [
+                                    "出[しゅっ]身[しん]はどこですか?"
+                                ]
+                            },
+                            {
+                                "title": "I'm from Singapore. I'm on holiday now so I'm travelling",
+                                "phrases": [
+                                    "シンガポールから来[き]ました. 今[いま]休[きゅう]暇[か]中[ちゅう]なので旅[りょ]行[こう]に行[い]っています"
+                                ]
+                            }
                         ]
                     },
                     {
-                        "title": "Me too. Do you know of any good shops to recommend?",
-                        "phrases": [
-                            "私も。お勧[すす]めの店[みせ]を知[し]りますか?"
+                        "title": "Occupation",
+                        "sublessons": [
+                            {
+                                "title": "What is your occupation?",
+                                "phrases": [
+                                    "仕[し]事[ごと]は何[なん]ですか?"
+                                ]
+                            },
+                            {
+                                "title": "I'm a programmer",
+                                "phrases": [
+                                    "プログラマーです"
+                                ]
+                            },
+                            {
+                                "title": "How long have you been working",
+                                "phrases": [
+                                    "何[なん]年[ねん]働[はたら]いているのか?"
+                                ]
+                            },
+                            {
+                                "title": "About 3 years",
+                                "phrases": [
+                                    "三[さん]年[ねん]ぐらいです"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Food",
+                        "sublessons": [
+                            {
+                                "title": "What is your favorite Japanese cuisine?",
+                                "phrases": [
+                                    "一[いち]番[ばん]日[に]本[ほん]料[りょう]理[り]は 何[なん]ですか?"
+                                ]
+                            },
+                            {
+                                "title": "Me too. Do you know of any good shops to recommend?",
+                                "phrases": [
+                                    "私も。お勧[すす]めの店[みせ]を知[し]りますか?"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Hobbies",
+                        "sublessons": [
+                            {
+                                "title": "What kind of hobbies do you do?",
+                                "phrases": [
+                                    "どんな趣[しゅ]味[み]はしましたか?"
+                                ]
+                            }
                         ]
                     }
                 ]
