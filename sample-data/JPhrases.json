@@ -506,9 +506,9 @@
                                 ]
                             },
                             {
-                                "title": "Me too. Do you know of any good shops to recommend?",
+                                "title": "Really? Me too! Do you know any good shops to recommend?",
                                 "phrases": [
-                                    "私も。お勧[すす]めの店[みせ]を知[し]りますか?"
+                                    "本[ほん]当[とう]に? 私[わたし]も! お勧[すす]めの店[みせ]を知[し]りますか?"
                                 ]
                             }
                         ]
@@ -517,9 +517,101 @@
                         "title": "Hobbies",
                         "sublessons": [
                             {
-                                "title": "What kind of hobbies do you do?",
+                                "title": "What kind of hobbies do you like?",
                                 "phrases": [
-                                    "どんな趣[しゅ]味[み]はしましたか?"
+                                    "どんな趣[しゅ]味[み]は好[す]きですか?"
+                                ]
+                            },
+                            {
+                                "title": "Sports",
+                                "sublessons": [
+                                    {
+                                        "title": "What kind of sports do you do?",
+                                        "phrases": [
+                                            "どんなスポーツをしていますか?"
+                                        ]
+                                    },
+                                    {
+                                        "title": "Lets see... Tennis, Swimming, Skateboard...",
+                                        "phrases": [
+                                            "そうですね。テニスとか, 水[すい]泳[えい]とか, スケートボードとか..."
+                                        ]
+                                    },
+                                    {
+                                        "title": "Umm, I'm a beginner. I started learning at the start of the year",
+                                        "phrases": [
+                                            "ええっと...初[しょ]心[しん]者[しゃ]です。今年[ことし]から習[なら]い初[はじ]めてました。"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Pets",
+                                "sublessons": [
+                                    {
+                                        "title": "Do you own a pet?",
+                                        "phrases": [
+                                            "ペットを飼[か]いますか?"
+                                        ]
+                                    },
+                                    {
+                                        "title": "Do you have a photo? Can I see it?",
+                                        "phrases": [
+                                            "写[しゃ]真[しん]ありますか? 見[み]せていいですか?"
+                                        ]
+                                    },
+                                    {
+                                        "title": "Ehh! Soo cute!",
+                                        "phrases": [
+                                            "ええ!とても可[か]愛[わい]いです!"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Shows/Movies",
+                                "sublessons": [
+                                    {
+                                        "title": "What kind of movies do you like?",
+                                        "phrases": [
+                                            "どんな映[えい]画[が]好[す]きですか?"
+                                        ]
+                                    },
+                                    {
+                                        "title": "Did you watch Susume the movie?",
+                                        "phrases": [
+                                            "すずめの戸[と]締[じ]まりの映[えい]画[が]は見[み]ましたか?"
+                                        ]
+                                    },
+                                    {
+                                        "title": "What is your favorite anime?",
+                                        "phrases": [
+                                            "一[いち]番[ばん]好[す]きなアニメは何[なん]ですか?"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Weather",
+                        "sublessons": [
+                            {
+                                "title": "Nice weather isnt it?",
+                                "phrases": [
+                                    "いい天[てん]気[き]ですね"
+                                ]
+                            },
+                            {
+                                "title": "Ahh. Its raining now",
+                                "phrases": [
+                                    "ああ，雨[あめ]が降[ふ]っている"
+                                ]
+                            },
+                            {
+                                "title": "Recently the weather is very hot isnt it?",
+                                "phrases": [
+                                    "最[さい]近[きん]の天[てん]気[き]は暑[あつ]いですね?"
                                 ]
                             }
                         ]
@@ -532,9 +624,15 @@
         "title": "Emergencies",
         "sublessons": [
             {
-                "title": "Please Help",
+                "title": "Earthquake",
                 "phrases": [
-                    "手て伝[つだ]って下[くだ]さい"
+                    "地[じ]震[しん]"
+                ]
+            },
+            {
+                "title": "Please Help!",
+                "phrases": [
+                    "助[たす]けて下[くだ]さい!"
                 ]
             },
             {
