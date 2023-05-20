@@ -101,6 +101,12 @@
                             "お休[やす]み means 'goodnight'",
                             "お休[やす]みなさい also means 'goodnight' but is more polite"
                         ]
+                    },
+                    {
+                        "title": "Take care/Be careful",
+                        "phrases": [
+                            "気[き]を付[つ]けて"
+                        ]
                     }
                 ]
             },
@@ -283,21 +289,49 @@
                         ]
                     },
                     {
-                        "title": "Can I pay by Suica or credit card?",
-                        "phrases": [
-                            "Suica又[また]はクレジットカードで払[はら]っていいですか？"
-                        ]
-                    },
-                    {
-                        "title": "Sorry. Only cash",
-                        "phrases": [
-                            "すみません。現[げん]金[きん]のみとです"
+                        "title": "Payment Methods",
+                        "sublessons": [
+                            {
+                                "title": "Can I pay by Suica or credit card?",
+                                "phrases": [
+                                    "Suica又[また]はクレジットカードで払[はら]っていいですか？"
+                                ]
+                            },
+                            {
+                                "title": "Sorry. Only cash",
+                                "phrases": [
+                                    "すみません。現[げん]金[きん]のみとです"
+                                ]
+                            }
                         ]
                     },
                     {
                         "title": "Is there Tax Refund?",
                         "phrases": [
                             "還[かん]付[ぷ]税[ぜい]はありますか?"
+                        ]
+                    },
+                    {
+                        "title": "Bagging your Purchase",
+                        "sublessons": [
+                            {
+                                "title": "Do you need a bag?",
+                                "phrases": [
+                                    "袋[ふくろ]をいりますか？"
+                                ]
+                            },
+                            {
+                                "title": "No, I'm fine (without a bag)",
+                                "phrases": [
+                                    "いいえ, 大[だい]丈[じょう]夫[ぶ]です"
+                                ]
+                            },
+                            {
+                                "title": "Yes, I'll have one bag please",
+                                "phrases": [
+                                    "はい, 一[いち]枚[まい]お願[ねが]いします"
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -384,6 +418,13 @@
                                 ]
                             },
                             {
+                                "title": "Please buy the meal ticket first",
+                                "phrases": [
+                                    "先[ま]ず食券[しょっけん]を買[か]ってください",
+                                    "先[ま]ず食[しょく]事[じ]券[けん]を買[か]ってください"
+                                ]
+                            },
+                            {
                                 "title": "Does this have shellfish?",
                                 "phrases": [
                                     "これに貝[かい]類[るい]入っていますか?"
@@ -420,6 +461,12 @@
                                 "phrases": [
                                     "すみません, お会[かい]計[けい]をお願[ねが]いします",
                                     "すみません, チェックをお願[ねが]いします"
+                                ]
+                            },
+                            {
+                                "title": "We'd like separate checks, please",
+                                "phrases": [
+                                    "伝でん]票[ぴょう]は別[べつ]々[べつ]にお願[ねが]いします"
                                 ]
                             },
                             {
@@ -609,9 +656,26 @@
                                 ]
                             },
                             {
-                                "title": "Recently the weather is very hot isnt it?",
-                                "phrases": [
-                                    "最[さい]近[きん]の天[てん]気[き]は暑[あつ]いですね?"
+                                "title": "Hot Weather",
+                                "sublessons": [
+                                    {
+                                        "title": "Recently the weather is very hot isnt it?",
+                                        "phrases": [
+                                            "最[さい]近[きん]の天[てん]気[き]はとても暑[あつ]いですね?"
+                                        ]
+                                    },
+                                    {
+                                        "title": "Yea. Its 35 degrees now",
+                                        "phrases": [
+                                            "そうですね。今[いま]三[さん]十[じゅう]五[ご]度[ど]"
+                                        ]
+                                    },
+                                    {
+                                        "title": "Drink lots of water",
+                                        "phrases": [
+                                            "水をたくさん飲んで"
+                                        ]
+                                    }
                                 ]
                             }
                         ]
