@@ -36,12 +36,12 @@
             "IsEmptyLine": false
         },
         {
-            "JpnStr": "川[かわ]のつぶやき 山[やま]のささやき",
+            "JpnStr": "川[かわ]の呟[つぶや]き 山[やま]の囁[ささや]き",
             "EngStr": "The murmur of the river, the whisper of the mountains",
             "IsEmptyLine": false
         },
         {
-            "JpnStr": "君[きみ]の声[こえ]のように 感[かん]じるんだ",
+            "JpnStr": "君[きみ]の声[こえ]の様[よう]に 感[かん]じるんだ",
             "EngStr": "I feel it like your voice",
             "IsEmptyLine": false
         },
@@ -101,7 +101,7 @@
             "IsEmptyLine": false
         },
         {
-            "JpnStr": "たとえ僕[ぼく]が おじいさんになっても ここで 歌[うた]ってる",
+            "JpnStr": "たとえ僕[ぼく]が お祖父[じい]さんになっても ここで 歌[うた]ってる",
             "EngStr": "Even if I become a grandfather, I'll still be here singing",
             "IsEmptyLine": false
         },
@@ -136,5 +136,37 @@
             "IsEmptyLine": false
         }
     ],
-    "ListVocab": []
+    "ListVocab": [
+        "空-そら",
+        "声-こえ",
+        "聞く-きく",
+        "風-かぜ",
+        "耳-みみ",
+        "海-うみ",
+        "知る-しる",
+        "君-きみ",
+        "探す-さがす",
+        "思う-おもう",
+        "会う-あう",
+        "大きく-おおきく",
+        "成る-なる",
+        "川-かわ",
+        "呟き-つぶやき",
+        "山-やま",
+        "囁き-ささやき",
+        "様に-ように",
+        "感じる-かんじる",
+        "目-め",
+        "閉じる-とじる",
+        "聞こえる-きこえる",
+        "コロコロ-コロコロ",
+        "笑い声-わらいごえ",
+        "出す-だす",
+        "今日-きょう",
+        "歌う-うたう",
+        "僕-ぼく",
+        "お祖父さん-おじいさん",
+        "太陽-たいよう",
+        "乗せる-のせる"
+    ]
 }

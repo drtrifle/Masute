@@ -5,7 +5,7 @@
             "EngStr": "I look up as I walk"
         },
         {
-            "JpnStr": "涙[なみだ]がこぼれないように",
+            "JpnStr": "涙[なみだ]が零[こぼ]れない様[よう]に",
             "EngStr": "So that the tears won't fall"
         },
         {
@@ -25,7 +25,7 @@
             "EngStr": "I look up as I walk"
         },
         {
-            "JpnStr": "にじんだ星[ほし]をかぞえて",
+            "JpnStr": "滲[にじ]んだ星[ほし]を数[かぞ]えて",
             "EngStr": "Counting the stars with tearful eyes"
         },
         {
@@ -57,7 +57,7 @@
             "EngStr": "I look up as I walk"
         },
         {
-            "JpnStr": "涙[なみだ]がこぼれないように",
+            "JpnStr": "涙[なみだ]が零[こぼ]れない様[よう]に",
             "EngStr": "So that the tears won't fall"
         },
         {
@@ -85,11 +85,11 @@
             "EngStr": ""
         },
         {
-            "JpnStr": "悲[かな]しみは星[ほし]のかげに",
+            "JpnStr": "悲[かな]しみは星[ほし]の影[かげ]に",
             "EngStr": "Sadness lies in the shadow of the stars"
         },
         {
-            "JpnStr": "悲[かな]しみは月[つき]のかげに",
+            "JpnStr": "悲[かな]しみは月[つき]の影[かげ]に",
             "EngStr": "Sadness lies in the shadow of the moon"
         },
         {
@@ -101,7 +101,7 @@
             "EngStr": "I look up as I walk"
         },
         {
-            "JpnStr": "涙[なみだ]がこぼれないように",
+            "JpnStr": "涙[なみだ]が零[こぼ]れない様[よう]に",
             "EngStr": "So that the tears won't fall"
         },
         {
@@ -114,6 +114,27 @@
         }
     ],
     "ListVocab": [
-        "一人ぼっち-ひとりぼっち"
+        "上-うえ",
+        "向く-むく",
+        "歩く-あるく",
+        "涙-なみだ",
+        "零-こぼれる",
+        "様に-ように",
+        "思い出す-おもいだす",
+        "春の日-はるのひ",
+        "一人ぼっち-ひとりぼっち",
+        "夜-よる",
+        "滲む-にじむ",
+        "星-ほし",
+        "数える-かぞえる",
+        "夏の日-なつのひ",
+        "幸せ-しあわせ",
+        "雲の上-くものうえ",
+        "空-そら",
+        "泣き-なき",
+        "秋の日-あきのひ",
+        "悲しみ-かなしい",
+        "影-げに",
+        "月-つき"
     ]
 }
