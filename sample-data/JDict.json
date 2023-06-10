@@ -10406,6 +10406,10 @@
     "Key": "熱-ねつ",
     "Furi": "熱[ねつ]",
     "Eng": "fever",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "31",
     "optSongLibFreq": 0
   },
@@ -10426,7 +10430,8 @@
     "Furi": "熱[ねっ]心[しん]",
     "Eng": "zealous/enthusiastic/keen/eager",
     "optTags": [
-      "adj-な"
+      "adj-な",
+      "jlpt-n3"
     ],
     "optIkomaKanji": "31",
     "optSongLibFreq": 0
@@ -10435,6 +10440,11 @@
     "Key": "燃える-もえる",
     "Furi": "燃[も]える",
     "Eng": "to be burned",
+    "optTags": [
+      "verb-2",
+      "verb-intransitive",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "48",
     "optSongLibFreq": 0
   },
@@ -10442,6 +10452,11 @@
     "Key": "燃やす-もやす",
     "Furi": "燃[も]やす",
     "Eng": "to burn",
+    "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n2"
+    ],
     "optIkomaKanji": "48",
     "optSongLibFreq": 0
   },
@@ -10449,6 +10464,9 @@
     "Key": "燃費-ねんぴ",
     "Furi": "燃[ねん]費[ぴ]",
     "Eng": "mileage",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "48",
     "optSongLibFreq": 0
   },
@@ -10467,13 +10485,20 @@
     "Key": "父-ちち",
     "Furi": "父[ちち]",
     "Eng": "father (mine)",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "07",
     "optSongLibFreq": 0
   },
   {
     "Key": "牛-うし",
     "Furi": "牛[うし]",
-    "Eng": "cow",
+    "Eng": "cow/cattle",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "24",
     "optSongLibFreq": 0
   },
@@ -10492,6 +10517,7 @@
     "Furi": "牛[ぎゅう]肉[にく]",
     "Eng": "beef",
     "optTags": [
+      "noun",
       "jlpt-n5"
     ],
     "optIkomaKanji": "24",
@@ -10512,6 +10538,9 @@
     "Key": "物欲-ぶつよく",
     "Furi": "物[ぶつ]欲[よく]",
     "Eng": "greed",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "25",
     "optSongLibFreq": 0
   },
@@ -10519,6 +10548,10 @@
     "Key": "特に-とくに",
     "Furi": "特[とく]に",
     "Eng": "especially/particularly",
+    "optTags": [
+      "adverb",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "24",
     "optSongLibFreq": 0
   },
@@ -10526,6 +10559,10 @@
     "Key": "特別-とくべつ",
     "Furi": "特[とく]別[べつ]",
     "Eng": "special",
+    "optTags": [
+      "adj-な",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "43",
     "optSongLibFreq": 0
   },
@@ -10533,6 +10570,10 @@
     "Key": "特急-とっきゅう",
     "Furi": "特急[とっきゅう]",
     "Eng": "limited express",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "24",
     "optSongLibFreq": 0
   },
@@ -10540,6 +10581,10 @@
     "Key": "特色-とくしょく",
     "Furi": "特[とく]色[しょく]",
     "Eng": "characteristic",
+    "optTags": [
+      "noun",
+      "jlpt-n2"
+    ],
     "optIkomaKanji": "27",
     "optSongLibFreq": 0
   },
@@ -10675,8 +10720,10 @@
   {
     "Key": "生きる-いきる",
     "Furi": "生[い]きる",
-    "Eng": "to be alive",
+    "Eng": "to live/to be alive/to exist",
     "optTags": [
+      "verb-2",
+      "verb-intransitive",
       "songLib"
     ],
     "optIkomaKanji": "02",
@@ -10688,6 +10735,7 @@
     "Eng": "to be born",
     "optTags": [
       "verb-2",
+      "verb-intransitive",
       "jlpt-n5",
       "songLib"
     ],
@@ -10699,7 +10747,8 @@
     "Furi": "生[う]む",
     "Eng": "to give birth",
     "optTags": [
-      "verb-1"
+      "verb-1",
+      "verb-transitive"
     ],
     "optSongLibFreq": 0
   },

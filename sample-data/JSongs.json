@@ -37,6 +37,14 @@
     "ArtistNameJpn": "フレデリック"
   },
   {
+    "SongID": "FUJII-001",
+    "SongURL": "https://www.youtube.com/embed/TcLLpZBWsck",
+    "SongNameEng": "Kirari",
+    "SongNameJpn": "きらり",
+    "ArtistNameEng": "Fujii Kaze",
+    "ArtistNameJpn": "藤井 風"
+  },
+  {
     "SongID": "HIGE-001",
     "SongURL": "https://www.youtube.com/embed/TQ8WlA2GXbk",
     "SongNameEng": "Pretender",
@@ -131,6 +139,14 @@
     "SongNameJpn": "リセット",
     "ArtistNameEng": "Taichi Mukai",
     "ArtistNameJpn": "向井太一"
+  },
+  {
+    "SongID": "VAUNDY-001",
+    "SongURL": "https://www.youtube.com/embed/7HgJIAUtICU",
+    "SongNameEng": "Odoriko",
+    "SongNameJpn": "踊り子",
+    "ArtistNameEng": "Vaundy",
+    "ArtistNameJpn": ""
   },
   {
     "SongID": "YONE-001",
