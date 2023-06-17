@@ -3,35 +3,53 @@
         "title": "Introduction",
         "sublessons": [
             {
-                "title": "(Part 1) Nice to meet you",
+                "title": "Simple Self-Introduction",
                 "phrases": [
-                    "初[はじ]めまして"
+                    "初[はじ]めまして。",
+                    "私[わたし]は [Name] です。",
+                    "どうぞ よるしく。"
                 ],
                 "explanations": [
-                    "初[はじ]めまして rougly translates to 'nice to meet you for the first time'",
-                    "It is commonly used as the first sentence when introducing yourself"
+                    "Nice to meet you for the first time",
+                    "My name is [Name]",
+                    "I'll be in your care"
                 ]
             },
             {
-                "title": "(Part 2) My name is ...",
+                "title": "Casual Self-introduction",
                 "phrases": [
-                    "私[わたし]は ...です"
+                    "やあ、[Name] だよ。"
                 ],
                 "explanations": [
-                    "私[わたし]は ...です means 'my name is ...です'",
-                    "です is added at the end to show politeness",
-                    "Sometimes, 私[わたし]は is omitted as when it is obvious that you are referring to yourself",
-                    "It is commonly used as the second sentence when introducing yourself"
+                    "Hey, I'm [Name]"
                 ]
             },
             {
-                "title": "(Part 3) I will be in your care",
+                "title": "Formal Self-introduction",
                 "phrases": [
-                    "どうぞ よるしく"
+                    "ご挨[あい]拶[さつ]申[もう]し上[あ]げます。",
+                    "[Name] と申[もう]します。",
+                    "[Country/City] から参[まい]りました。"
                 ],
                 "explanations": [
-                    "どうぞ よるしく does not really have a proper english translation and is almost like a request for the other person to be kind towards you",
-                    "It is commonly used as the last sentence when introducing yourself"
+                    "Allow me to introduce myself",
+                    "I am [Name]",
+                    "I have come from [Country/City]"
+                ]
+            },
+            {
+                "title": "Interview Self-introduction",
+                "phrases": [
+                    "初[はじ]めまして。",
+                    "[Name] と申[もう]します。",
+                    "[Job Position] の応[おう]募[ぼ]者[しゃ]です。",
+                    "[Number] 年[ねん]の経[けい]験[けん]を持[も]っており。"
+                ],
+                "explanations": [
+                    "Nice to meet you for the first time",
+                    "I am [Name]",
+                    "I am a candidate for the [Job Position]",
+                    "I have [Number] years of experience"
                 ]
             }
         ]
@@ -725,6 +743,17 @@
                             "病[びょう]院[いん]に連[つ]れていって下[くだ]さい"
                         ]
                     }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Grammar",
+        "sublessons": [
+            {
+                "title": "Earthquake",
+                "phrases": [
+                    "地[じ]震[しん]"
                 ]
             }
         ]

@@ -548,7 +548,7 @@
   {
     "Key": "だろう-だろう",
     "Furi": "だろう",
-    "Eng": "seems/I guess",
+    "Eng": "seems/I guess/right?",
     "optTags": [
       "phrase",
       "songLib"
@@ -3680,7 +3680,7 @@
   {
     "Key": "午前-ごぜん",
     "Furi": "午[ご]前[ぜん]",
-    "Eng": "am",
+    "Eng": "am (time)",
     "optTags": [
       "jlpt-n5"
     ],
@@ -3690,7 +3690,7 @@
   {
     "Key": "午後-ごご",
     "Furi": "午[ご]後[ご]",
-    "Eng": "pm",
+    "Eng": "pm (time)",
     "optTags": [
       "jlpt-n5"
     ],
@@ -4623,7 +4623,7 @@
   {
     "Key": "土-つち",
     "Furi": "土[つち]",
-    "Eng": "soil",
+    "Eng": "soil/dirt",
     "optIkomaKanji": "04",
     "optSongLibFreq": 0
   },
@@ -4852,7 +4852,7 @@
   {
     "Key": "変わらない-かわらない",
     "Furi": "変[か]わらない",
-    "Eng": "constant/invariant",
+    "Eng": "constant/invariant/unchanging",
     "optTags": [
       "adj-い",
       "songLib"
@@ -5739,6 +5739,10 @@
     "Key": "実力-じつりょく",
     "Furi": "実[じつ]力[りょく]",
     "Eng": "real ability",
+    "optTags": [
+      "noun",
+      "jlpt-n2"
+    ],
     "optIkomaKanji": "27",
     "optSongLibFreq": 0
   },
@@ -5746,6 +5750,10 @@
     "Key": "実験-じっけん",
     "Furi": "実[じっ]験[けん]",
     "Eng": "experiment",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "28",
     "optSongLibFreq": 0
   },
@@ -5753,13 +5761,16 @@
     "Key": "家 (environment)-うち",
     "Furi": "家[うち] (environment)",
     "Eng": "home",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "11",
     "optSongLibFreq": 0
   },
   {
     "Key": "家 (physical)-いえ",
     "Furi": "家[いえ] (physical)",
-    "Eng": "house",
+    "Eng": "house/residence",
     "optTags": [
       "noun",
       "jlpt-n5"
@@ -5771,6 +5782,10 @@
     "Key": "家具-かぐ",
     "Furi": "家[か]具[ぐ]",
     "Eng": "furniture",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "27",
     "optSongLibFreq": 0
   },
@@ -5789,6 +5804,7 @@
     "Furi": "家[か]族[ぞく]",
     "Eng": "family",
     "optTags": [
+      "noun",
       "jlpt-n5"
     ],
     "optIkomaKanji": "11",
@@ -5798,13 +5814,23 @@
     "Key": "宿-やど",
     "Furi": "宿[やど]",
     "Eng": "inn",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "37",
     "optSongLibFreq": 0
   },
   {
-    "Key": "宿泊する-しゅくはくする",
-    "Furi": "宿[しゅく]泊[はく]する",
-    "Eng": "to lodge",
+    "Key": "宿泊-しゅくはく",
+    "Furi": "宿[しゅく]泊[はく]",
+    "Eng": "accommodation/lodging",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-intransitive",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "49",
     "optSongLibFreq": 0
   },
@@ -5813,6 +5839,7 @@
     "Furi": "宿[しゅく]題[だい]",
     "Eng": "homework",
     "optTags": [
+      "noun",
       "jlpt-n5"
     ],
     "optIkomaKanji": "37",
@@ -6001,6 +6028,7 @@
     "Eng": "to exist (animate objects)",
     "optTags": [
       "verb-2",
+      "verb-intransitive",
       "jlpt-n5",
       "songLib"
     ],
@@ -6011,6 +6039,9 @@
     "Furi": "届[とど]く",
     "Eng": "to be delivered",
     "optTags": [
+      "verb-1",
+      "verb-intransitive",
+      "jlpt-n3",
       "songLib"
     ],
     "optIkomaKanji": "48",
@@ -6021,6 +6052,8 @@
     "Furi": "届[とど]ける",
     "Eng": "to send/to deliver",
     "optTags": [
+      "verb-2",
+      "verb-transitive",
       "songLib"
     ],
     "optIkomaKanji": "48",
@@ -6030,6 +6063,10 @@
     "Key": "屋上-おくじょう",
     "Furi": "屋[おく]上[じょう]",
     "Eng": "rooftop",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "22",
     "optSongLibFreq": 0
   },
@@ -6038,7 +6075,9 @@
     "Furi": "履[は]く",
     "Eng": "to wear (shoes,pants)",
     "optTags": [
-      "verb-1"
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n3"
     ],
     "optSongLibFreq": 0
   },
@@ -6047,6 +6086,7 @@
     "Furi": "山[やま]",
     "Eng": "mountain",
     "optTags": [
+      "noun",
       "jlpt-n5",
       "songLib"
     ],
@@ -6064,6 +6104,10 @@
     "Key": "山林-さんりん",
     "Furi": "山[さん]林[りん]",
     "Eng": "woodlands/mountain forest",
+    "optTags": [
+      "noun",
+      "jlpt-n2"
+    ],
     "optIkomaKanji": "24",
     "optSongLibFreq": 0
   },
@@ -6089,6 +6133,10 @@
     "Key": "岸-きし",
     "Furi": "岸[きし]",
     "Eng": "shore",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "38",
     "optSongLibFreq": 0
   },
@@ -6096,6 +6144,9 @@
     "Key": "島国-しまぐに",
     "Furi": "島[しま]国[ぐに]",
     "Eng": "island country",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "36",
     "optSongLibFreq": 0
   },
@@ -6115,6 +6166,10 @@
     "Key": "工場-こうじょう",
     "Furi": "工[こう]場[じょう]",
     "Eng": "factory/plant/mill",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "37",
     "optSongLibFreq": 0
   },
@@ -6132,6 +6187,10 @@
     "Key": "左利き-ひだりきき",
     "Furi": "左[ひだり]利[き]き",
     "Eng": "left handed",
+    "optTags": [
+      "noun",
+      "jlpt-n1"
+    ],
     "optIkomaKanji": "35",
     "optSongLibFreq": 0
   },
@@ -6139,6 +6198,9 @@
     "Key": "左手-ひだりて",
     "Furi": "左[ひだり]手[て]",
     "Eng": "left hand",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "09",
     "optSongLibFreq": 0
   },
@@ -6146,6 +6208,11 @@
     "Key": "左折-させつ",
     "Furi": "左[さ]折[せつ]",
     "Eng": "turn left",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-intransitive"
+    ],
     "optIkomaKanji": "09",
     "optSongLibFreq": 0
   },
@@ -6155,6 +6222,7 @@
     "Eng": "to stretch out/to hold out/to extend",
     "optTags": [
       "verb-2",
+      "verb-transitive",
       "songLib"
     ],
     "optSongLibFreq": 1
@@ -6165,6 +6233,7 @@
     "Eng": "to stretch out hands/to raise an umbrella",
     "optTags": [
       "verb-1",
+      "verb-intransitive",
       "jlpt-n5"
     ],
     "optSongLibFreq": 0
@@ -6173,6 +6242,10 @@
     "Key": "市場-いちば",
     "Furi": "市[いち]場[ば]",
     "Eng": "market",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "31",
     "optSongLibFreq": 0
   },
@@ -6180,6 +6253,9 @@
     "Key": "市役所-しやくしょ",
     "Furi": "市[し]役[やく]所[しょ]",
     "Eng": "city hall",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "31",
     "optSongLibFreq": 0
   },
@@ -6187,6 +6263,9 @@
     "Key": "市町村-しちょうそん",
     "Furi": "市[し]町[ちょう]村[そん]",
     "Eng": "municipality",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "07",
     "optSongLibFreq": 0
   },
@@ -6206,6 +6285,7 @@
     "Eng": "to return",
     "optTags": [
       "verb-1",
+      "verb-intransitive",
       "jlpt-n5"
     ],
     "optIkomaKanji": "06",
@@ -6215,13 +6295,22 @@
     "Key": "帰国-きこく",
     "Furi": "帰[き]国[こく]",
     "Eng": "return to ones country",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-intransitive"
+    ],
     "optIkomaKanji": "06",
     "optSongLibFreq": 0
   },
   {
     "Key": "常に-つねに",
     "Furi": "常[つね]に",
-    "Eng": "always",
+    "Eng": "always/constantly",
+    "optTags": [
+      "adverb",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "30",
     "optSongLibFreq": 0
   },
@@ -8034,7 +8123,7 @@
   {
     "Key": "早く-はやく",
     "Furi": "早[はや]く",
-    "Eng": "early",
+    "Eng": "early/quickly",
     "optIkomaKanji": "10",
     "optSongLibFreq": 0
   },
