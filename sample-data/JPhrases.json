@@ -751,9 +751,177 @@
         "title": "Grammar",
         "sublessons": [
             {
-                "title": "Earthquake",
-                "phrases": [
-                    "地[じ]震[しん]"
+                "title": "Sentence Structure",
+                "sublessons": [
+                    {
+                        "title": "Subject-Object-Verb",
+                        "explanations" :[
+                            "Japanese is a (Subject-Object-Verb) language",
+                            "In Japanese, the verb always appears at the end of clauses and sentences",
+                            "Sentences, generally have the following structure:",
+                            " - Sentence Topic, Time, Location, Subject, Indirect Object, Direct Object, Verb"
+                        ],
+                        "examples": [
+                            "1) 私[わたし]は(Subject) リンゴを(Object) 食[た]べます(Verb)",
+                            "1) I am going to eat an apple"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Five Ws",
+                "sublessons": [
+                    {
+                        "title": "Who: 誰[だれ]",
+                        "examples": [
+                            "1) 誰[だれ]が来ましたか?",
+                            "1) Who came?"
+                        ]
+                    },
+                    {
+                        "title": "What: 何[なに/なん]",
+                        "examples": [
+                            "1) これは何[なん]ですか?",
+                            "1) What is this?"
+                        ]
+                    },
+                    {
+                        "title": "Where: どこ",
+                        "examples": [
+                            "1) 貴[あな]方[た]は どこに行[い]きますか?",
+                            "1) Where are you going?"
+                        ]
+                    },
+                    {
+                        "title": "When: いつ",
+                        "examples": [
+                            "1) 会[かい]議[ぎ]はいつですか?",
+                            "1) When is the meeting?"
+                        ]
+                    },
+                    {
+                        "title": "Why: なぜ/どうして",
+                        "examples": [
+                            "1) なぜそれをやりましたか?",
+                            "1) Why did you do that?"
+                        ]
+                    },
+                    {
+                        "title": "How: どう",
+                        "examples": [
+                            "1) どうやってそこに行[い]きますか?",
+                            "1) How do I get there?"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Particles",
+                "sublessons": [
+                    {
+                        "title": "Overview",
+                        "explanations" :[
+                            "Japanese parts of speech are usually marked with words called particles that follow the word they modify",
+                            "These particles identify the word's or phrase's function in the sentence, for example:",
+                            " - topic, subject, direct/indirect object, location of action, etc."
+                        ]
+                    },
+                    {
+                        "title": "は (Subject, Topic Marker)",
+                        "explanations" :[
+                            "Marks the topic or subject of a sentence."
+                        ],
+                        "examples":[
+                            "1) 私[わたし]は(Subject) 学[がく]生[せい]です。",
+                            "1) I am a student"
+                        ]
+                    },
+                    {
+                        "title": "が (Subject, Emphasis Marker)",
+                        "explanations" :[
+                            "Marks the subject of a sentence",
+                            "Often used when introducing new information or emphasizing a specific subject"
+                        ],
+                        "examples":[
+                            "1) 彼[かれ]が(Subject) 来[き]ました。",
+                            "1) He came"
+                        ]
+                    },
+                    {
+                        "title": "を (Direct Object Marker)",
+                        "explanations" :[
+                            "Marks the direct object of a verb"
+                        ],
+                        "examples":[
+                            "1) リンゴを(Object) 食[た]べます。",
+                            "1) I'm going to eat an apple"
+                        ]
+                    },
+                    {
+                        "title": "に (Direction, Target, Destination Marker)",
+                        "explanations" :[
+                            "Marks the specific destination or target where an action is directed",
+                            "Used to indicate tjhe endgoal of an action"
+                        ],
+                        "examples":[
+                            "1) 学[がっ]校[こう]に(Destination) 行[い]きます。",
+                            "1) I (go/am going) to school"
+                        ]
+                    },
+                    {
+                        "title": "で (Location, Setting Marker)",
+                        "explanations" :[
+                            "Marks the location where an action takes place",
+                            "Or the means by which an action is performe",
+                            "Often used to specify the setting or background of an action"
+                        ],
+                        "examples":[
+                            "1) 公[こう]園[えん]で(Location) 遊[あそ]びます。",
+                            "1) I play in the park"
+                        ]
+                    },
+                    {
+                        "title": "から (Start, Source Marker)",
+                        "explanations" :[
+                            "Marks the starting point or the source of an action",
+                            "Marks a Time or Duration",
+                            "Marks a Reason or Cause"
+                        ],
+                        "examples":[
+                            "1) 家[いえ]から(From location) 出[しゅっ]発[ぱつ]します。",
+                            "1) I depart from home",
+                            "2) 午前[ごぜん]９時[じ]から(From time) 会[かい]議[ぎ]が始[はじ]まります",
+                            "2) The meeting will start from 9 am",
+                            "3) 雨[あめ]が降[ふ]っているから(Reason) 傘[かさ]を持[も]って行[い]きます。",
+                            "3) Because it is raining, I will bring an umbrella."
+                        ]
+                    },
+                    {
+                        "title": "まで (Destination, Limit Marker)",
+                        "explanations" :[
+                            "Marks a Destination or point reached, emphasizing the limit of an action",
+                            "Marks the Distance, Time, or Position up to which something occurs",
+                            "Marks a Limit or Range of an action"
+                        ],
+                        "examples":[
+                            "1) 家[いえ]まで(Until) 歩[ある]きます。",
+                            "1) I will walk until (I reach) home",
+                            "2) 五[ご]時[じ]まで勉[べん]強[きょう]します。",
+                            "2) I will study until 5 o'clock",
+                            "3) 1000円[えん]まで買[か]えます",
+                            "3) I can buy (something) up to 1000 yen"
+                        ]
+                    },
+                    {
+                        "title": "の (Possessive, Relationship Marker)",
+                        "explanations" :[
+                            "Marks possession or a relationship between nouns"
+                        ],
+                        "examples":[
+                            "1) 私[わたし]の(Mine) 本[ほん]。",
+                            "1) My book"
+                        ]
+                    }
                 ]
             }
         ]
