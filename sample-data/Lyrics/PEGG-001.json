@@ -1,145 +1,223 @@
 {
     "SongLyrics": [
-        {
-            "JpnStr": "ああ!僕[ぼく]はこんなダメじゃなかったはずなのに",
-            "EngStr": "Oh! I'm not supposed to be this bad."
-        },
-        {
-            "JpnStr": "くだらない持論[じろん]は勿論[もちろん]",
-            "EngStr": "Of course your stupid theories"
-        },
-        {
-            "JpnStr": "君[きみ]の前[まえ]じゃ通用[つうよ]うしないよ",
-            "EngStr": "Of course they won't work in front of you."
-        },
-        {
-            "JpnStr": "昨日[きのう]読[よ]んだ漫画[まんが]の続[つづ]きみたいなストーリーは",
-            "EngStr": "It's like a continuation of a comic book I read yesterday."
-        },
-        {
-            "JpnStr": "あるわけない!でもね",
-            "EngStr": "No way! But you know what?"
-        },
-        {
-            "JpnStr": "いつだって君[きみ]の心[こころ]の中[なか]にいたい、いたい!",
-            "EngStr": "I always want to be in your heart, I always want to be in your heart!"
-        },
-        {
-            "JpnStr": "痛[いた]い・・・。痛[いた]い胸[むね]が!",
-            "EngStr": "It hurts... My aching chest!"
-        },
-        {
-            "JpnStr": "好[す]き!好[す]き?隙間[すきま]なく君[きみ]で溢[あふ]れている",
-            "EngStr": "I love you! Like? It's filled with you without any space."
-        },
-        {
-            "JpnStr": "僕[ぼく]の心[こころ]はーーーーあ!何処[どこ]だ?",
-            "EngStr": "My heart... ah! Where is it?"
-        },
-        {
-            "JpnStr": "",
-            "EngStr": ""
-        },
-        {
-            "JpnStr": "DIVE TO LOVE (x3)",
-            "EngStr": ""
-        },
-        {
-            "JpnStr": "恋[こい]に飛[と]び込[こ]め!",
-            "EngStr": "Dive into love!"
-        },
-        {
-            "JpnStr": "DIVE TO LOVE (x3)",
-            "EngStr": ""
-        },
-        {
-            "JpnStr": "君[きみ]に夢中[むちゅう]さ",
-            "EngStr": "I'm crazy about you"
-        },
-        {
-            "JpnStr": "",
-            "EngStr": ""
-        },
-        {
-            "JpnStr": "ああ!今日[きょう]もずっと見[み]えない罠[わな] 嵌[はま]ってく",
-            "EngStr": "Oh! Today and always, I'll fall into the invisible trap"
-        },
-        {
-            "JpnStr": "溢[あふ]れ出[だ]す魅力[みりょく]が暴走[ぼうそう]",
-            "EngStr": "My overflowing charm is out of control"
-        },
-        {
-            "JpnStr": "もはや重罪[じゅうざい]判決[はんけつ]レベルさ",
-            "EngStr": "I'm on the verge of a felony conviction"
-        },
-        {
-            "JpnStr": "昨日[きのう]読[よ]んだ漫画[まんが]を君[きみ]に返[かえ]さなきゃいけないな",
-            "EngStr": "I'll have to give you back the comic I read yesterday."
-        },
-        {
-            "JpnStr": "さぁここからが勝負[しょうぶ]!",
-            "EngStr": "This is where it all starts!"
-        },
-        {
-            "JpnStr": "友達[ともだち]ってレッテルを剥[は]がす時[とき]が来[き]た、来[き]た!",
-            "EngStr": "It's time to get rid of the 'friend' label, it's time!"
-        },
-        {
-            "JpnStr": "来[き]た?期待[きたい]してる!",
-            "EngStr": "You got it? I'm counting on it!"
-        },
-        {
-            "JpnStr": "嫌[きら]い!嫌[きら]い?キラキラに輝[かがや]いて眩[まぶ]しい",
-            "EngStr": "I hate you! Hate? They're so bright and shiny."
-        },
-        {
-            "JpnStr": "君[きみ]の瞳[ひとみ]はーーーーあ!何処[どこ]だ?",
-            "EngStr": "Your eyes... ah! Where are they?"
-        },
-        {
-            "JpnStr": "",
-            "EngStr": ""
-        },
-        {
-            "JpnStr": "DIVE TO LOVE (x3)",
-            "EngStr": ""
-        },
-        {
-            "JpnStr": "準備[じゅんび]はいいか!",
-            "EngStr": "Are you ready?"
-        },
-        {
-            "JpnStr": "DIVE TO LOVE (x3)",
-            "EngStr": ""
-        },
-        {
-            "JpnStr": "目[め]と目[め]が合[あ]えば・・・",
-            "EngStr": "If we see eye to eye..."
-        },
-        {
-            "JpnStr": "ああああ",
-            "EngStr": "Ahh!"
-        },
-        {
-            "JpnStr": "",
-            "EngStr": ""
-        },
-        {
-            "JpnStr": "DIVE TO LOVE (x3)",
-            "EngStr": ""
-        },
-        {
-            "JpnStr": "君[きみ]に飛[と]び込[こ]め!",
-            "EngStr": "Dive to you!"
-        },
-        {
-            "JpnStr": "DIVE TO LOVE (x3)",
-            "EngStr": ""
-        },
-        {
-            "JpnStr": "怖[こわ]くはないさ",
-            "EngStr": "I'm not afraid of you"
-        }
+      {
+        "JpnStr": "ああ!僕[ぼく]はこんな駄[だ]目[め]じゃなかったはずなのに",
+        "EngStr": "Oh! I'm not supposed to be this bad."
+      },
+      {
+        "JpnStr": "くだらない持論[じろん]は勿論[もちろん]",
+        "EngStr": "Of course your stupid theories"
+      },
+      {
+        "JpnStr": "君[きみ]の前[まえ]じゃ通用[つうよ]うしないよ",
+        "EngStr": "Of course they won't work in front of you."
+      },
+      {
+        "JpnStr": "昨日[きのう]読[よ]んだ漫画[まんが]の続[つづ]きみたいなストーリーは",
+        "EngStr": "It's like a continuation of a comic book I read yesterday."
+      },
+      {
+        "JpnStr": "あるわけない!でもね",
+        "EngStr": "No way! But you know what?"
+      },
+      {
+        "JpnStr": "いつだって君[きみ]の心[こころ]の中[なか]にいたい、いたい!",
+        "EngStr": "I always want to be in your heart, I always want to be in your heart!"
+      },
+      {
+        "JpnStr": "痛[いた]い・・・。痛[いた]い胸[むね]が!",
+        "EngStr": "It hurts... My aching chest!"
+      },
+      {
+        "JpnStr": "好[す]き!好[す]き?隙間[すきま]なく君[きみ]で溢[あふ]れている",
+        "EngStr": "I love you! Like? It's filled with you without any space."
+      },
+      {
+        "JpnStr": "僕[ぼく]の心[こころ]はーーーーあ!何処[どこ]だ?",
+        "EngStr": "My heart... ah! Where is it?"
+      },
+      {
+        "JpnStr": "",
+        "EngStr": ""
+      },
+      {
+        "JpnStr": "DIVE TO LOVE (x3)",
+        "EngStr": ""
+      },
+      {
+        "JpnStr": "恋[こい]に飛[と]び込[こ]め!",
+        "EngStr": "Dive into love!"
+      },
+      {
+        "JpnStr": "DIVE TO LOVE (x3)",
+        "EngStr": ""
+      },
+      {
+        "JpnStr": "君[きみ]に夢中[むちゅう]さ",
+        "EngStr": "I'm crazy about you"
+      },
+      {
+        "JpnStr": "",
+        "EngStr": ""
+      },
+      {
+        "JpnStr": "ああ!今日[きょう]もずっと見[み]えない罠[わな] 嵌[はま]ってく",
+        "EngStr": "Oh! Today and always, I'll fall into the invisible trap"
+      },
+      {
+        "JpnStr": "溢[あふ]れ出[だ]す魅力[みりょく]が暴走[ぼうそう]",
+        "EngStr": "My overflowing charm is out of control"
+      },
+      {
+        "JpnStr": "もはや重罪[じゅうざい]判決[はんけつ]レベルさ",
+        "EngStr": "I'm on the verge of a felony conviction"
+      },
+      {
+        "JpnStr": "昨日[きのう]読[よ]んだ漫画[まんが]を君[きみ]に返[かえ]さなきゃいけないな",
+        "EngStr": "I'll have to give you back the comic I read yesterday."
+      },
+      {
+        "JpnStr": "さぁここからが勝負[しょうぶ]!",
+        "EngStr": "This is where it all starts!"
+      },
+      {
+        "JpnStr": "友達[ともだち]ってレッテルを剥[は]がす時[とき]が来[き]た、来[き]た!",
+        "EngStr": "It's time to get rid of the 'friend' label, it's time!"
+      },
+      {
+        "JpnStr": "来[き]た?期待[きたい]してる!",
+        "EngStr": "You got it? I'm counting on it!"
+      },
+      {
+        "JpnStr": "嫌[きら]い!嫌[きら]い?キラキラに輝[かがや]いて眩[まぶ]しい",
+        "EngStr": "I hate you! Hate? They're so bright and shiny."
+      },
+      {
+        "JpnStr": "君[きみ]の瞳[ひとみ]はーーーーあ!何処[どこ]だ?",
+        "EngStr": "Your eyes... ah! Where are they?"
+      },
+      {
+        "JpnStr": "",
+        "EngStr": ""
+      },
+      {
+        "JpnStr": "DIVE TO LOVE (x3)",
+        "EngStr": ""
+      },
+      {
+        "JpnStr": "準備[じゅんび]はいいか!",
+        "EngStr": "Are you ready?"
+      },
+      {
+        "JpnStr": "DIVE TO LOVE (x3)",
+        "EngStr": ""
+      },
+      {
+        "JpnStr": "目[め]と目[め]が合[あ]えば・・・",
+        "EngStr": "If we see eye to eye..."
+      },
+      {
+        "JpnStr": "嗚[あ]呼[あ]嗚[あ]呼[あ]",
+        "EngStr": "Ahh!"
+      },
+      {
+        "JpnStr": "",
+        "EngStr": ""
+      },
+      {
+        "JpnStr": "DIVE TO LOVE (x3)",
+        "EngStr": ""
+      },
+      {
+        "JpnStr": "君[きみ]に飛[と]び込[こ]め!",
+        "EngStr": "Dive to you!"
+      },
+      {
+        "JpnStr": "DIVE TO LOVE (x3)",
+        "EngStr": ""
+      },
+      {
+        "JpnStr": "怖[こわ]くはないさ",
+        "EngStr": "I'm not afraid of you"
+      }
     ],
-    "ListVocab": []
-}
+    "ListVocab": [
+      "僕-ぼく",
+      "こんな-こんな",
+      "駄目-だめ",
+      "じゃない-じゃない",
+      "はず-はず",
+      "くだらない-くだらない",
+      "持論-じろん",
+      "勿論-もちろん",
+      "君-きみ",
+      "前-まえ",
+      "通用-つうよう",
+      "しない-しない",
+      "よ-よ",
+      "昨日-きのう",
+      "読ん-よん",
+      "漫画-まんが",
+      "続き-つづき",
+      "みたい-みたい",
+      "ストーリー-ストーリー",
+      "ある-ある",
+      "わけ-わけ",
+      "ない-ない",
+      "でも-でも",
+      "いつ-いつ",
+      "だって-だって",
+      "心-こころ",
+      "中-なか",
+      "痛い-いたい",
+      "胸-むね",
+      "好き-すき",
+      "隙間-すきま",
+      "なく-なく",
+      "溢れ-あふれ",
+      "る-る",
+      "何処-どこ",
+      "飛び込め-とびこめ",
+      "恋-こい",
+      "夢中-むちゅう",
+      "さ-さ",
+      "今日-きょう",
+      "も-も",
+      "ずっと-ずっと",
+      "見え-みえ",
+      "罠-わな",
+      "嵌っ-はまっ",
+      "て-て",
+      "く-く",
+      "溢れ出す-あふれだす",
+      "魅力-みりょく",
+      "暴走-ぼうそう",
+      "もはや-もはや",
+      "重罪-じゅうざい",
+      "判決-はんけつ",
+      "レベル-れべる",
+      "返さ-かえさ",
+      "なきゃ-なきゃ",
+      "いけ-いけ",
+      "ここ-ここ",
+      "勝負-しょうぶ",
+      "友達-ともだち",
+      "レッテル-れってる",
+      "剥がす-はがす",
+      "時-とき",
+      "来-き",
+      "期待-きたい",
+      "嫌い-きらい",
+      "キラキラ-きらきら",
+      "輝い-かがやい",
+      "眩しい-まぶしい",
+      "瞳-ひとみ",
+      "準備-じゅんび",
+      "いい-いい",
+      "か-か",
+      "目-め",
+      "合え-あえ",
+      "嗚呼嗚呼-ああああ",
+      "怖く-こわく"
+    ]
+  }

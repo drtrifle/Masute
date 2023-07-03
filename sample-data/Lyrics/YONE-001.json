@@ -1,169 +1,249 @@
 {
     "SongLyrics": [
-        {
-            "JpnStr": "くだらねえ いつになりゃ終[お]わる?",
-            "EngStr": "What a load of crap, when will this end?"
-        },
-        {
-            "JpnStr": "なんか死[し]にてえ気持[きも]ちで ブラブラブラ",
-            "EngStr": "Feel like I'm dying inside, blah blah blah"
-        },
-        {
-            "JpnStr": "残念[ざんねん] 手前[てまえ]じゃ所在[しょざい]ねえ",
-            "EngStr": "Too bad, got nothing to do on my own"
-        },
-        {
-            "JpnStr": "アジャラカモクレン テケレッツのパー",
-            "EngStr": "Ajarakamokuren tekerettsu no paa"
-        },
-        {
-            "JpnStr": "",
-            "EngStr": ""
-        },
-        {
-            "JpnStr": "うぜえ じゃらくれたタコが",
-            "EngStr": "Getting on my nerves, what a loser"
-        },
-        {
-            "JpnStr": "やってらんねえ 与太[よた]吹[ふ]きブラブラブラ",
-            "EngStr": "Could you not? Spouting nonsense blah blah blah"
-        },
-        {
-            "JpnStr": "悪銭[あくせん] 抱[かか]えどこへ行[ゆ]く",
-            "EngStr": "Where are you going with that dirty money?"
-        },
-        {
-            "JpnStr": "アジャラカモクレン テケレッツのパー",
-            "EngStr": "Ajarakamokuren tekerettsu no paa"
-        },
-        {
-            "JpnStr": "",
-            "EngStr": ""
-        },
-        {
-            "JpnStr": "プリーズヘルプミー",
-            "EngStr": "Hey, hey, please please help me"
-        },
-        {
-            "JpnStr": "ちっとこんがらがって 目[め]が眩[くら]んだだけなんだわ",
-            "EngStr": "Just got a little confused and greedy is all"
-        },
-        {
-            "JpnStr": "プリーズヘルプミー",
-            "EngStr": "Hey, hey, please please help me"
-        },
-        {
-            "JpnStr": "そんなけったいなことばっか言[い]わんで容赦[ようしゃ]したってや",
-            "EngStr": "Won't you stop with the baffling talk and show some mercy?"
-        },
-        {
-            "JpnStr": "ああ 火[ひ]が消[き]える 夜明[よあ]けを待[ま]たず",
-            "EngStr": "Ahh, the light's going out before the break of dawn"
-        },
-        {
-            "JpnStr": "ああ 面白[おもしろ]くなるところだったのに",
-            "EngStr": "Ahh, just as it was getting interesting"
-        },
-        {
-            "JpnStr": "",
-            "EngStr": ""
-        },
-        {
-            "JpnStr": "だらしねえ 義理[ぎり]も糸瓜[へちま]もねえ",
-            "EngStr": "So unsightly, no honor or nothing"
-        },
-        {
-            "JpnStr": "半端[はんぱ]抜[ぬ]かしい 死[し]ぬまでブラブラブラ",
-            "EngStr": "Foolishly taking and taking until you die, blah blah blah"
-        },
-        {
-            "JpnStr": "雑念[ざつねん] そりゃ渡[わた]りに船[ふね]",
-            "EngStr": "Idle thoughts. Now here's a lifesaver"
-        },
-        {
-            "JpnStr": "アジャラカモクレン テケレッツのパー",
-            "EngStr": "Ajarakamokuren tekerettsu no paa"
-        },
-        {
-            "JpnStr": "",
-            "EngStr": ""
-        },
-        {
-            "JpnStr": "つれえ いちびりのガキが",
-            "EngStr": "A pain in the ass, this prankster brat"
-        },
-        {
-            "JpnStr": "勝手[かって]やらかし お上[かみ]はブラブラブラ",
-            "EngStr": "Made a selfish mess for the higher ups, Blah blah blah"
-        },
-        {
-            "JpnStr": "怨念[おんねん] これじゃ気[き]が済[す]まねえ",
-            "EngStr": "Got a grudge, won't be satisfied like this"
-        },
-        {
-            "JpnStr": "アジャラカモクレン テケレッツのパー",
-            "EngStr": "Ajarakamokuren tekerettsu no paa"
-        },
-        {
-            "JpnStr": "",
-            "EngStr": ""
-        },
-        {
-            "JpnStr": "さあどこからどこまでやればいい",
-            "EngStr": "So how should we start and how should we end?"
-        },
-        {
-            "JpnStr": "責[せ]め苦[く]の果[は]てに覗[のぞ]けるやつがいい",
-            "EngStr": "You who peeked the extent of hellish pain, its alright"
-        },
-        {
-            "JpnStr": "飛[と]んで滑[すべ]って泣[な]いて喚[わめ]いた顔[かお]が見[み]たい",
-            "EngStr": "I wanna see your face when you try and you fail and you cry and you wail"
-        },
-        {
-            "JpnStr": "どうせ俺[おれ]らの仲間入[なかまい]り",
-            "EngStr": "We're gonna be friends anyhow"
-        },
-        {
-            "JpnStr": "",
-            "EngStr": ""
-        },
-        {
-            "JpnStr": "プリーズヘルプミー",
-            "EngStr": "Hey, hey, please please help me"
-        },
-        {
-            "JpnStr": "そうだ過あやまつは人ひとの常つね なああんたはどうすんだ",
-            "EngStr": "That's right, to make mistakes is human nature. Hey, what're you gonna do?"
-        },
-        {
-            "JpnStr": "プリーズヘルプミー",
-            "EngStr": "Hey, hey, please please help me"
-        },
-        {
-            "JpnStr": "あんなええもん持もったらこうなるわ そりゃあんたのせいやんか",
-            "EngStr": "Now that you've come to have something so good, isn't this your fault"
-        },
-        {
-            "JpnStr": "ああ どこへ行[ゆ]く 妻子つまこもいるんです",
-            "EngStr": "Hey where ya going? Where, where ya going? You see I have a wife and kids"
-        },
-        {
-            "JpnStr": "ああ 香かおり立たつおしまいのフレグランス",
-            "EngStr": "Ahh, the scent, the scent. The fragrance of death."
-        },
-        {
-            "JpnStr": "",
-            "EngStr": ""
-        },
-        {
-            "JpnStr": "ああ 火[ひ]が消[き]える 夜明[よあ]けを待[ま]たず",
-            "EngStr": "Ahh, the light's going out before the break of dawn"
-        },
-        {
-            "JpnStr": "ああ 面白[おもしろ]くなるところだったのに",
-            "EngStr": "Ahh, just as it was getting interesting"
-        }
+      {
+        "JpnStr": "くだらねえ いつになりゃ終[お]わる?",
+        "EngStr": "What a load of crap, when will this end?"
+      },
+      {
+        "JpnStr": "なんか死[し]にてえ気持[きも]ちで ブラブラブラ",
+        "EngStr": "Feel like I'm dying inside, blah blah blah"
+      },
+      {
+        "JpnStr": "残念[ざんねん] 手前[てまえ]じゃ所在[しょざい]ねえ",
+        "EngStr": "Too bad, got nothing to do on my own"
+      },
+      {
+        "JpnStr": "アジャラカモクレン テケレッツのパー",
+        "EngStr": "Ajarakamokuren tekerettsu no paa"
+      },
+      {
+        "JpnStr": "",
+        "EngStr": ""
+      },
+      {
+        "JpnStr": "うぜえ じゃらくれたタコが",
+        "EngStr": "Getting on my nerves, what a loser"
+      },
+      {
+        "JpnStr": "やってらんねえ 与太[よた]吹[ふ]きブラブラブラ",
+        "EngStr": "Could you not? Spouting nonsense blah blah blah"
+      },
+      {
+        "JpnStr": "悪銭[あくせん] 抱[かか]えどこへ行[ゆ]く",
+        "EngStr": "Where are you going with that dirty money?"
+      },
+      {
+        "JpnStr": "アジャラカモクレン テケレッツのパー",
+        "EngStr": "Ajarakamokuren tekerettsu no paa"
+      },
+      {
+        "JpnStr": "",
+        "EngStr": ""
+      },
+      {
+        "JpnStr": "プリーズヘルプミー",
+        "EngStr": "Hey, hey, please please help me"
+      },
+      {
+        "JpnStr": "ちっとこんがらがって 目[め]が眩[くら]んだだけなんだわ",
+        "EngStr": "Just got a little confused and greedy is all"
+      },
+      {
+        "JpnStr": "プリーズヘルプミー",
+        "EngStr": "Hey, hey, please please help me"
+      },
+      {
+        "JpnStr": "そんなけったいなことばっか言[い]わんで容赦[ようしゃ]したってや",
+        "EngStr": "Won't you stop with the baffling talk and show some mercy?"
+      },
+      {
+        "JpnStr": "ああ 火[ひ]が消[き]える 夜明[よあ]けを待[ま]たず",
+        "EngStr": "Ahh, the light's going out before the break of dawn"
+      },
+      {
+        "JpnStr": "ああ 面白[おもしろ]くなるところだったのに",
+        "EngStr": "Ahh, just as it was getting interesting"
+      },
+      {
+        "JpnStr": "",
+        "EngStr": ""
+      },
+      {
+        "JpnStr": "だらしねえ 義理[ぎり]も糸瓜[へちま]もねえ",
+        "EngStr": "So unsightly, no honor or nothing"
+      },
+      {
+        "JpnStr": "半端[はんぱ]抜[ぬ]かしい 死[し]ぬまでブラブラブラ",
+        "EngStr": "Foolishly taking and taking until you die, blah blah blah"
+      },
+      {
+        "JpnStr": "雑念[ざつねん] そりゃ渡[わた]りに船[ふね]",
+        "EngStr": "Idle thoughts. Now here's a lifesaver"
+      },
+      {
+        "JpnStr": "アジャラカモクレン テケレッツのパー",
+        "EngStr": "Ajarakamokuren tekerettsu no paa"
+      },
+      {
+        "JpnStr": "",
+        "EngStr": ""
+      },
+      {
+        "JpnStr": "つれえ いちびりのガキが",
+        "EngStr": "A pain in the ass, this prankster brat"
+      },
+      {
+        "JpnStr": "勝手[かって]やらかし お上[かみ]はブラブラブラ",
+        "EngStr": "Made a selfish mess for the higher ups, Blah blah blah"
+      },
+      {
+        "JpnStr": "怨念[おんねん] これじゃ気[き]が済[す]まねえ",
+        "EngStr": "Got a grudge, won't be satisfied like this"
+      },
+      {
+        "JpnStr": "アジャラカモクレン テケレッツのパー",
+        "EngStr": "Ajarakamokuren tekerettsu no paa"
+      },
+      {
+        "JpnStr": "",
+        "EngStr": ""
+      },
+      {
+        "JpnStr": "さあどこからどこまでやればいい",
+        "EngStr": "So how should we start and how should we end?"
+      },
+      {
+        "JpnStr": "責[せ]め苦[く]の果[は]てに覗[のぞ]けるやつがいい",
+        "EngStr": "You who peeked the extent of hellish pain, its alright"
+      },
+      {
+        "JpnStr": "飛[と]んで滑[すべ]って泣[な]いて喚[わめ]いた顔[かお]が見[み]たい",
+        "EngStr": "I wanna see your face when you try and you fail and you cry and you wail"
+      },
+      {
+        "JpnStr": "どうせ俺[おれ]らの仲間入[なかまい]り",
+        "EngStr": "We're gonna be friends anyhow"
+      },
+      {
+        "JpnStr": "",
+        "EngStr": ""
+      },
+      {
+        "JpnStr": "プリーズヘルプミー",
+        "EngStr": "Hey, hey, please please help me"
+      },
+      {
+        "JpnStr": "そうだ過あやまつは人ひとの常つね なああんたはどうすんだ",
+        "EngStr": "That's right, to make mistakes is human nature. Hey, what're you gonna do?"
+      },
+      {
+        "JpnStr": "プリーズヘルプミー",
+        "EngStr": "Hey, hey, please please help me"
+      },
+      {
+        "JpnStr": "あんなええもん持もったらこうなるわ そりゃあんたのせいやんか",
+        "EngStr": "Now that you've come to have something so good, isn't this your fault"
+      },
+      {
+        "JpnStr": "ああ どこへ行[ゆ]く 妻子つまこもいるんです",
+        "EngStr": "Hey where ya going? Where, where ya going? You see I have a wife and kids"
+      },
+      {
+        "JpnStr": "ああ 香かおり立たつおしまいのフレグランス",
+        "EngStr": "Ahh, the scent, the scent. The fragrance of death."
+      },
+      {
+        "JpnStr": "",
+        "EngStr": ""
+      },
+      {
+        "JpnStr": "ああ 火[ひ]が消[き]える 夜明[よあ]けを待[ま]たず",
+        "EngStr": "Ahh, the light's going out before the break of dawn"
+      },
+      {
+        "JpnStr": "ああ 面白[おもしろ]くなるところだったのに",
+        "EngStr": "Ahh, just as it was getting interesting"
+      }
     ],
-    "ListVocab": []
-}
+    "ListVocab": [
+      "くだらない-くだらない",
+      "いつ-いつ",
+      "なる-なりゃ",
+      "おわる-おわる",
+      "なんか-なんか",
+      "しに-しに",
+      "てえ-てえ",
+      "きもち-きもち",
+      "ブラブラ-ぶらぶら",
+      "ざんねん-ざんねん",
+      "てまえ-てまえ",
+      "じゃしょざい-じゃしょざい",
+      "アジャラカモクレン-あじゃらかもくれん",
+      "テケレッツ-てけれっつ",
+      "パー-ぱー",
+      "うぜえ-うぜえ",
+      "じゃらくれる-じゃらくれた",
+      "タコ-たこ",
+      "やる-やらん",
+      "よたふく-よたふき",
+      "あくせん-あくせん",
+      "かかえる-かかえ",
+      "どこ-どこ",
+      "ゆく-ゆく",
+      "プリーズヘルプミー-ぷりーずへるぷみー",
+      "ちっと-ちっと",
+      "こんがらがる-こんがらがって",
+      "め-め",
+      "くらむ-くらん",
+      "ただ-ただ",
+      "そんな-そんな",
+      "けったい-けったい",
+      "こと-こと",
+      "ばっか-ばっか",
+      "いわむ-いわん",
+      "ようしゃする-ようしゃしたっ",
+      "ああ-ああ",
+      "ひくえる-ひがきえる",
+      "よあけ-よあけ",
+      "おもしろい-おもしろく",
+      "なる-なる",
+      "だらし-だらし",
+      "ぎりも-ぎりも",
+      "へちま-へちま",
+      "はんぱ-はんぱ",
+      "ぬかしい-ぬかしい",
+      "しん-しぬ",
+      "まで-まで",
+      "さわる-さわら",
+      "そりゃ-そりゃ",
+      "わたる-わたり",
+      "ふね-ふね",
+      "つれい-つれえ",
+      "いちびり-いちびり",
+      "ガキ-がき",
+      "やる-やらかし",
+      "おかみ-おかみ",
+      "おんねん-おんねん",
+      "これ-これ",
+      "じゃ-じゃ",
+      "きがすむ-きがすまねえ",
+      "どうせ-どうせ",
+      "おれ-おれら",
+      "なかま-なかま",
+      "いり-いり",
+      "せめくの-せめくの",
+      "はて-はて",
+      "のぞく-のぞける",
+      "やつ-やつ",
+      "とん-とん",
+      "すべる-すべって",
+      "なく-ないて",
+      "わめく-わめいた",
+      "かお-かお",
+      "みる-みたい",
+      "つまこむ-つまこもいる",
+      "かおりたつ-かおりたつ",
+      "おしまい-おしまい",
+      "フレグランス-ふれぐらんす"
+    ]
+  }

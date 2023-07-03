@@ -1,145 +1,204 @@
 {
-    "SongLyrics": [
-      {
-        "jpnStr": "八[はち]月[がつ]を過[す]ぎた頃[ころ]",
-        "engStr": "After August"
-      },
-      {
-        "jpnStr": "あなたは戻[もど]ってこなくて",
-        "engStr": "You never came back"
-      },
-      {
-        "jpnStr": "壊[こわ]れた時[と]計[けい]のよう",
-        "engStr": "Like a broken clock"
-      },
-      {
-        "jpnStr": "私[わたし]は止[と]まったまま",
-        "engStr": "I stopped and stopped"
-      },
-      {
-        "jpnStr": "",
-        "engStr": ""
-      },
-      {
-        "jpnStr": "忘[わす]れた頃[ころ]にまた出[で]会[あ]って",
-        "engStr": "I met you again when I'd forgotten you"
-      },
-      {
-        "jpnStr": "思[おも]い出[だ]してしまったの",
-        "engStr": "And I remembered you"
-      },
-      {
-        "jpnStr": "笑[わら]いかける貴方[あなた]は",
-        "engStr": "The way you smile at me"
-      },
-      {
-        "jpnStr": "なんてずるい人[ひと]なのでしょう",
-        "engStr": "What a cunning man you are"
-      },
-      {
-        "jpnStr": "",
-        "engStr": ""
-      },
-      {
-        "jpnStr": "書[か]いては消[け]しては",
-        "engStr": "I wrote and erased"
-      },
-      {
-        "jpnStr": "想[おも]いも消[け]そうとした",
-        "engStr": "I tried to erase my feelings"
-      },
-      {
-        "jpnStr": "はかなかった言[こと]葉[ば]は",
-        "engStr": "Words that never came out"
-      },
-      {
-        "jpnStr": "どこに向[む]かえばいい?",
-        "engStr": "Where should they go?"
-      },
-      {
-        "jpnStr": "なんて可哀想[かわいそう]",
-        "engStr": "How pitiful"
-      },
-      {
-        "jpnStr": "",
-        "engStr": ""
-      },
-      {
-        "jpnStr": "まだ残[のこ]る蝉[せみ]時雨[しぐれ]",
-        "engStr": "The cicada rain still lingers"
-      },
-      {
-        "jpnStr": "遠[とお]くの夕日[ゆうひ]に消[き]えてゆく",
-        "engStr": "Fading into the distant sunset"
-      },
-      {
-        "jpnStr": "私[わたし]はただ歩[あ]るく",
-        "engStr": "I just walk on"
-      },
-      {
-        "jpnStr": "生[なま]ぬるい風[かぜ]と共[とも]に",
-        "engStr": "With a lukewarm wind"
-      },
-      {
-        "jpnStr": "",
-        "engStr": ""
-      },
-      {
-        "jpnStr": "結[けつ]末[まつ]がわかるドラマみたいね",
-        "engStr": "It's like a drama with an ending."
-      },
-      {
-        "jpnStr": "なんの面[おも]白[しろ]味[み]も無[な]いわ",
-        "engStr": "There's nothing interesting about it."
-      },
-      {
-        "jpnStr": "",
-        "engStr": ""
-      },
-      {
-        "jpnStr": "泣[な]いて喚[わめ]いては",
-        "engStr": "Crying and screaming"
-      },
-      {
-        "jpnStr": "また明[あ]日[した]が来[き]た",
-        "engStr": "And then tomorrow comes again"
-      },
-      {
-        "jpnStr": "吐[は]けなかった言[こと]葉[ば]は",
-        "engStr": "And the words I couldn't speak"
-      },
-      {
-        "jpnStr": "どこに向[む]かえばいい?",
-        "engStr": "Where do I go from here?"
-      },
-      {
-        "jpnStr": "なんて可哀想[かわいそう]",
-        "engStr": "It's so sad"
-      },
-      {
-        "jpnStr": "",
-        "engStr": ""
-      },
-      {
-        "jpnStr": "書[か]いては消[け]しては",
-        "engStr": "I wrote and erased"
-      },
-      {
-        "jpnStr": "想[おも]いも消[け]そうとした",
-        "engStr": "I tried to erase my thoughts"
-      },
-      {
-        "jpnStr": "はかなかった言[こと]葉[ば]は",
-        "engStr": "The words I couldn't speak"
-      },
-      {
-        "jpnStr": "どこに向[む]かえばいい",
-        "engStr": "Where should I turn?"
-      },
-      {
-        "jpnStr": "なんて可哀想[かわいそう]",
-        "engStr": "What a pity"
-      }
-    ],
-    "ListVocab": []
-  }
+  "SongLyrics": [
+    {
+      "JpnStr": "八[はち]月[がつ]を過[す]ぎた頃[ころ]",
+      "EngStr": "After August"
+    },
+    {
+      "JpnStr": "あなたは戻[もど]ってこなくて",
+      "EngStr": "You never came back"
+    },
+    {
+      "JpnStr": "壊[こわ]れた時[と]計[けい]のよう",
+      "EngStr": "Like a broken clock"
+    },
+    {
+      "JpnStr": "私[わたし]は止[と]まったまま",
+      "EngStr": "I stopped and stopped"
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "忘[わす]れた頃[ころ]にまた出[で]会[あ]って",
+      "EngStr": "I met you again when I'd forgotten you"
+    },
+    {
+      "JpnStr": "思[おも]い出[だ]してしまったの",
+      "EngStr": "And I remembered you"
+    },
+    {
+      "JpnStr": "笑[わら]いかける貴方[あなた]は",
+      "EngStr": "The way you smile at me"
+    },
+    {
+      "JpnStr": "なんてずるい人[ひと]なのでしょう",
+      "EngStr": "What a cunning man you are"
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "書[か]いては消[け]しては",
+      "EngStr": "I wrote and erased"
+    },
+    {
+      "JpnStr": "想[おも]いも消[け]そうとした",
+      "EngStr": "I tried to erase my feelings"
+    },
+    {
+      "JpnStr": "はかなかった言[こと]葉[ば]は",
+      "EngStr": "Words that never came out"
+    },
+    {
+      "JpnStr": "どこに向[む]かえばいい?",
+      "EngStr": "Where should they go?"
+    },
+    {
+      "JpnStr": "なんて可哀想[かわいそう]",
+      "EngStr": "How pitiful"
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "まだ残[のこ]る蝉[せみ]時雨[しぐれ]",
+      "EngStr": "The cicada rain still lingers"
+    },
+    {
+      "JpnStr": "遠[とお]くの夕日[ゆうひ]に消[き]えてゆく",
+      "EngStr": "Fading into the distant sunset"
+    },
+    {
+      "JpnStr": "私[わたし]はただ歩[あ]るく",
+      "EngStr": "I just walk on"
+    },
+    {
+      "JpnStr": "生[なま]ぬるい風[かぜ]と共[とも]に",
+      "EngStr": "With a lukewarm wind"
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "結[けつ]末[まつ]がわかるドラマみたいね",
+      "EngStr": "It's like a drama with an ending."
+    },
+    {
+      "JpnStr": "なんの面[おも]白[しろ]味[み]も無[な]いわ",
+      "EngStr": "There's nothing interesting about it."
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "泣[な]いて喚[わめ]いては",
+      "EngStr": "Crying and screaming"
+    },
+    {
+      "JpnStr": "また明[あ]日[した]が来[き]た",
+      "EngStr": "And then tomorrow comes again"
+    },
+    {
+      "JpnStr": "吐[は]けなかった言[こと]葉[ば]は",
+      "EngStr": "And the words I couldn't speak"
+    },
+    {
+      "JpnStr": "どこに向[む]かえばいい?",
+      "EngStr": "Where do I go from here?"
+    },
+    {
+      "JpnStr": "なんて可哀想[かわいそう]",
+      "EngStr": "It's so sad"
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "書[か]いては消[け]しては",
+      "EngStr": "I wrote and erased"
+    },
+    {
+      "JpnStr": "想[おも]いも消[け]そうとした",
+      "EngStr": "I tried to erase my thoughts"
+    },
+    {
+      "JpnStr": "はかなかった言[こと]葉[ば]は",
+      "EngStr": "The words I couldn't speak"
+    },
+    {
+      "JpnStr": "どこに向[む]かえばいい",
+      "EngStr": "Where should I turn?"
+    },
+    {
+      "JpnStr": "なんて可哀想[かわいそう]",
+      "EngStr": "What a pity"
+    }
+  ],
+  "ListVocab": [
+    "八月-はちがつ",
+    "過ぎた-すぎた",
+    "頃-ころ",
+    "あなた-あなた",
+    "戻ってこなくて-もどってこなくて",
+    "壊れた-こわれた",
+    "時計-とけい",
+    "よう-よう",
+    "私-わたし",
+    "止まった-とまった",
+    "まま-まま",
+    "忘れた-わすれた",
+    "また-また",
+    "出会って-であって",
+    "思い出して-おもいだして",
+    "しまった-しまった",
+    "笑いかける-わらいかける",
+    "貴方-あなた",
+    "ずるい-ずるい",
+    "人-ひと",
+    "なのでしょう-なのでしょう",
+    "書いて-かいて",
+    "消して-けして",
+    "想い-おもい",
+    "消そう-けそう",
+    "した-した",
+    "はかなかった-はかなかった",
+    "言葉-ことば",
+    "どこ-どこ",
+    "向かえば-むかえば",
+    "いい-いい",
+    "なんて-なんて",
+    "可哀想-かわいそう",
+    "まだ-まだ",
+    "残る-のこる",
+    "蝉時雨-せみしぐれ",
+    "遠く-とおく",
+    "夕日-ゆうひ",
+    "消えて-きえて",
+    "ゆく-ゆく",
+    "ただ-ただ",
+    "歩る-あるく",
+    "生ぬるい-なまぬるい",
+    "風-かぜ",
+    "共に-ともに",
+    "結末-けつまつ",
+    "わかる-わかる",
+    "ドラマ-どらま",
+    "みたい-みたい",
+    "ね-ね",
+    "なんの-なんの",
+    "面白味-おもしろみ",
+    "無い-ない",
+    "泣いて-ないて",
+    "喚いて-わめいて",
+    "明日-あした",
+    "来た-きた",
+    "吐けなかった-はけなかった"
+  ]
+}
