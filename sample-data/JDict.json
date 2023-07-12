@@ -628,6 +628,7 @@
     "Furi": "そしたら",
     "Eng": "",
     "optTags": [
+      "conjunction",
       "songLib"
     ],
     "optSongLibFreq": 1
@@ -957,7 +958,7 @@
   {
     "Key": "ほろり-ほろり",
     "Furi": "ほろり",
-    "Eng": "softly/delicately",
+    "Eng": "moved to tears/falling softly",
     "optTags": [
       "adverb",
       "songLib"
@@ -1057,7 +1058,7 @@
   {
     "Key": "ゆらり-ゆらり",
     "Furi": "ゆらり",
-    "Eng": "gently/swaying",
+    "Eng": "swaying/relaxedly",
     "optTags": [
       "adverb",
       "songLib"
@@ -1208,8 +1209,10 @@
   {
     "Key": "一日中-いちにちじゅう",
     "Furi": "一[いち]日[にち]中[じゅう]",
-    "Eng": "whole day",
+    "Eng": "whole day/all day long",
     "optTags": [
+      "noun",
+      "adverb",
       "songLib"
     ],
     "optIkomaKanji": "09",
@@ -1270,6 +1273,9 @@
     "Furi": "一[いち]番[ばん]",
     "Eng": "the most",
     "optTags": [
+      "noun",
+      "adverb",
+      "jlpt-n5",
       "songLib"
     ],
     "optIkomaKanji": "33",
@@ -1938,6 +1944,8 @@
     "Furi": "事[こと]",
     "Eng": "thing/matter",
     "optTags": [
+      "noun",
+      "jlpt-n3",
       "songLib"
     ],
     "optIkomaKanji": "21",
@@ -2202,6 +2210,9 @@
     "Furi": "今[こん]夜[や]",
     "Eng": "tonight",
     "optTags": [
+      "noun",
+      "adverb",
+      "jlpt-n4",
       "songLib"
     ],
     "optIkomaKanji": "07",
@@ -2372,6 +2383,9 @@
     "Furi": "付[つ]ける",
     "Eng": "to attach",
     "optTags": [
+      "verb-2",
+      "verb-transitive",
+      "jlpt-n5",
       "songLib"
     ],
     "optIkomaKanji": "45",
@@ -2416,6 +2430,10 @@
     "Furi": "以[い]内[ない]",
     "Eng": "within",
     "optTags": [
+      "noun",
+      "suffix",
+      "adverb",
+      "jlpt-n4",
       "songLib"
     ],
     "optIkomaKanji": "39",
@@ -2538,6 +2556,9 @@
     "Furi": "伝[つた]える",
     "Eng": "to convey/to inform/to tell",
     "optTags": [
+      "verb-2",
+      "verb-transitive",
+      "jlpt-n4",
       "songLib"
     ],
     "optIkomaKanji": "47",
@@ -2548,6 +2569,9 @@
     "Furi": "伝[つた]わる",
     "Eng": "to be conveyed",
     "optTags": [
+      "verb-1",
+      "verb-intransitive",
+      "jlpt-n2",
       "songLib"
     ],
     "optIkomaKanji": "47",
@@ -3021,6 +3045,9 @@
     "Furi": "信[しん]じる",
     "Eng": "to believe",
     "optTags": [
+      "verb-2",
+      "verb-transitive",
+      "jlpt-n3",
       "songLib"
     ],
     "optIkomaKanji": "36",
@@ -3031,6 +3058,10 @@
     "Furi": "信[しん]号[ごう]",
     "Eng": "traffic light/signal",
     "optTags": [
+      "noun",
+      "verb-3",
+      "verb-intransitive",
+      "jlpt-n3",
       "songLib"
     ],
     "optIkomaKanji": "36",
@@ -3041,7 +3072,9 @@
     "Furi": "修[しゅう]理[り]する",
     "Eng": "to repair",
     "optTags": [
-      "verb-3"
+      "verb-3",
+      "verb-transitive",
+      "jlpt-n3"
     ],
     "optSongLibFreq": 0
   },
@@ -3244,6 +3277,8 @@
     "Furi": "優[やさ]しい",
     "Eng": "kind/good/nice",
     "optTags": [
+      "adj-い",
+      "jlpt-n4",
       "songLib"
     ],
     "optIkomaKanji": "46",
@@ -3374,6 +3409,8 @@
     "Furi": "光[ひかり]",
     "Eng": "light",
     "optTags": [
+      "noun",
+      "jlpt-n4",
       "songLib"
     ],
     "optIkomaKanji": "33",
@@ -3384,6 +3421,9 @@
     "Furi": "光[ひか]る",
     "Eng": "to shine",
     "optTags": [
+      "verb-1",
+      "verb-intransitive",
+      "jlpt-n4",
       "songLib"
     ],
     "optIkomaKanji": "33",
@@ -3506,6 +3546,7 @@
     "Furi": "八[はち]月[がつ]",
     "Eng": "august",
     "optTags": [
+      "noun",
       "songLib"
     ],
     "optIkomaKanji": "01",
@@ -3719,6 +3760,9 @@
     "Furi": "冷[さ]める",
     "Eng": "to get cold",
     "optTags": [
+      "verb-2",
+      "verb-intransitive",
+      "jlpt-n2",
       "songLib"
     ],
     "optIkomaKanji": "45",
@@ -4047,8 +4091,10 @@
   {
     "Key": "力-ちから",
     "Furi": "力[ちから]",
-    "Eng": "power",
+    "Eng": "power/force/strength",
     "optTags": [
+      "noun",
+      "jlpt-n4",
       "songLib"
     ],
     "optIkomaKanji": "27",
@@ -4174,6 +4220,8 @@
     "Furi": "勝[しょう]負[ぶ]",
     "Eng": "contest/competition (emphasis on win/lose)",
     "optTags": [
+      "noun",
+      "jlpt-n2",
       "songLib"
     ],
     "optIkomaKanji": "26",
@@ -4474,6 +4522,9 @@
     "Furi": "去[さ]る",
     "Eng": "to leave",
     "optTags": [
+      "verb-1",
+      "verb-intransitive",
+      "jlpt-n3",
       "songLib"
     ],
     "optIkomaKanji": "26",
@@ -4484,6 +4535,8 @@
     "Furi": "去[きょ]年[ねん]",
     "Eng": "last year",
     "optTags": [
+      "noun",
+      "adverb",
       "jlpt-n5"
     ],
     "optIkomaKanji": "05",
@@ -4905,6 +4958,10 @@
     "Furi": "向[む]く",
     "Eng": "to turn towards/to face",
     "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "verb-intransitive",
+      "jlpt-n3",
       "songLib"
     ],
     "optIkomaKanji": "35",
@@ -4916,6 +4973,7 @@
     "Eng": "to face/to turn towards",
     "optTags": [
       "verb-2",
+      "verb-transitive",
       "jlpt-n3",
       "songLib"
     ],
@@ -5561,6 +5619,9 @@
     "Furi": "変[か]える",
     "Eng": "to change",
     "optTags": [
+      "verb-2",
+      "verb-transitive",
+      "jlpt-n4",
       "songLib"
     ],
     "optIkomaKanji": "44",
@@ -5821,6 +5882,9 @@
     "Furi": "夢[む]中[ちゅう]",
     "Eng": "be absorbed/be immersed",
     "optTags": [
+      "noun",
+      "adj-な",
+      "jlpt-n3",
       "songLib"
     ],
     "optIkomaKanji": "28",
@@ -6071,6 +6135,8 @@
     "Furi": "太[たい]陽[よう]",
     "Eng": "sun",
     "optTags": [
+      "noun",
+      "jlpt-n3",
       "songLib"
     ],
     "optIkomaKanji": "45",
@@ -6095,6 +6161,9 @@
     "Furi": "失[うしな]う",
     "Eng": "to lose",
     "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n3",
       "songLib"
     ],
     "optIkomaKanji": "34",
@@ -6418,6 +6487,9 @@
     "Furi": "守[まも]る",
     "Eng": "to keep/to protect",
     "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n3",
       "songLib"
     ],
     "optIkomaKanji": "34",
@@ -7485,7 +7557,11 @@
   {
     "Key": "弱点-じゃくてん",
     "Furi": "弱[じゃく]点[てん]",
-    "Eng": "weak point",
+    "Eng": "weakness/weak point/shortcoming",
+    "optTags": [
+      "noun",
+      "jlpt-n2"
+    ],
     "optIkomaKanji": "47",
     "optSongLibFreq": 0
   },
@@ -7495,6 +7571,7 @@
     "Eng": "to re-cover/to reupholster",
     "optTags": [
       "verb-2",
+      "verb-transitive",
       "songLib"
     ],
     "optSongLibFreq": 1
@@ -7504,7 +7581,9 @@
     "Furi": "張[は]る",
     "Eng": "to stick/to paste/to affix",
     "optTags": [
-      "verb-1"
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n5"
     ],
     "optSongLibFreq": 0
   },
@@ -7526,6 +7605,7 @@
     "Eng": "to bluff/to put on a brave front",
     "optTags": [
       "verb-1",
+      "verb-intransitive",
       "songLib"
     ],
     "optSongLibFreq": 2
@@ -7534,6 +7614,9 @@
     "Key": "強風-きょうふう",
     "Furi": "強[きょう]風[ふう]",
     "Eng": "strong wind",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "20",
     "optSongLibFreq": 0
   },
@@ -7552,6 +7635,9 @@
     "Key": "弾丸-だんがん",
     "Furi": "弾[だん]丸[がん]",
     "Eng": "bullet",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "35",
     "optSongLibFreq": 0
   },
@@ -7570,6 +7656,8 @@
     "Furi": "形[かたち]",
     "Eng": "shape/form",
     "optTags": [
+      "noun",
+      "jlpt-n4",
       "songLib"
     ],
     "optIkomaKanji": "29",
@@ -7591,6 +7679,7 @@
     "Eng": "to loiter/to putter/to prowl",
     "optTags": [
       "verb-1",
+      "verb-intransitive",
       "songLib"
     ],
     "optSongLibFreq": 1
@@ -7600,7 +7689,9 @@
     "Furi": "役[やく]に立[た]つ",
     "Eng": "useful",
     "optTags": [
-      "verb-1"
+      "verb-1",
+      "phrase",
+      "jlpt-n4"
     ],
     "optIkomaKanji": "46",
     "optSongLibFreq": 0
@@ -7608,8 +7699,10 @@
   {
     "Key": "彼-かれ",
     "Furi": "彼[かれ]",
-    "Eng": "he/boyfriend",
+    "Eng": "he/him/boyfriend",
     "optTags": [
+      "pronoun",
+      "jlpt-n4",
       "songLib"
     ],
     "optIkomaKanji": "28",
@@ -7618,8 +7711,10 @@
   {
     "Key": "彼女-かのじょ",
     "Furi": "彼[かの]女[じょ]",
-    "Eng": "she/girlfriend",
+    "Eng": "she/her/girlfriend",
     "optTags": [
+      "pronoun",
+      "jlpt-n4",
       "songLib"
     ],
     "optIkomaKanji": "28",
@@ -7641,6 +7736,8 @@
     "Eng": "to wait",
     "optTags": [
       "verb-1",
+      "verb-transitive",
+      "verb-intransitive",
       "jlpt-n5"
     ],
     "optIkomaKanji": "37",
@@ -7650,6 +7747,10 @@
     "Key": "律儀-りちぎ",
     "Furi": "律[りち]儀[ぎ]",
     "Eng": "conscientious",
+    "optTags": [
+      "noun",
+      "adj-な"
+    ],
     "optIkomaKanji": "42",
     "optSongLibFreq": 0
   },
@@ -7668,14 +7769,19 @@
     "Key": "後で-あとで",
     "Furi": "後[あと]で",
     "Eng": "later/afterwards",
+    "optTags": [
+      "adverb",
+      "phrase"
+    ],
     "optIkomaKanji": "05",
     "optSongLibFreq": 0
   },
   {
     "Key": "後ろ-うしろ",
     "Furi": "後[うし]ろ",
-    "Eng": "back/behind",
+    "Eng": "back/behind/rear",
     "optTags": [
+      "noun",
       "jlpt-n5"
     ],
     "optIkomaKanji": "05",
@@ -7687,6 +7793,7 @@
     "Eng": "sorry/apologies/excuse me",
     "optTags": [
       "noun",
+      "jlpt-n2",
       "songLib"
     ],
     "optSongLibFreq": 1
@@ -7706,7 +7813,8 @@
     "Furi": "復[ふく]習[しゅう]する",
     "Eng": "to review (lesson material)",
     "optTags": [
-      "verb-3"
+      "verb-3",
+      "verb-transitive"
     ],
     "optIkomaKanji": "30",
     "optSongLibFreq": 0
@@ -7715,6 +7823,12 @@
     "Key": "微笑-びしょう",
     "Furi": "微[び]笑[しょう]",
     "Eng": "smile",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-intransitive",
+      "jlpt-n1"
+    ],
     "optIkomaKanji": "43",
     "optSongLibFreq": 0
   },
@@ -7722,6 +7836,11 @@
     "Key": "微笑む-ほほえむ",
     "Furi": "微[ほほ]笑[え]む",
     "Eng": "to smile",
+    "optTags": [
+      "verb-1",
+      "verb-intransitive",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "43",
     "optSongLibFreq": 0
   },
@@ -7730,6 +7849,8 @@
     "Furi": "心[こころ]",
     "Eng": "heart",
     "optTags": [
+      "noun",
+      "jlpt-n4",
       "songLib"
     ],
     "optIkomaKanji": "17",
@@ -7749,6 +7870,10 @@
     "Key": "心の内-こころのうち",
     "Furi": "心[こころ]の内[うち]",
     "Eng": "in ones mind",
+    "optTags": [
+      "noun",
+      "phrase"
+    ],
     "optIkomaKanji": "41",
     "optSongLibFreq": 0
   },
@@ -7778,7 +7903,11 @@
     "Furi": "心[しん]配[ぱい]",
     "Eng": "worried/anxious",
     "optTags": [
-      "adj-な"
+      "noun",
+      "verb-3",
+      "verb-transitive",
+      "adj-な",
+      "jlpt-n3"
     ],
     "optSongLibFreq": 0
   },
@@ -7787,7 +7916,9 @@
     "Furi": "心[しん]配[ぱい]する",
     "Eng": "to worry",
     "optTags": [
-      "verb-3"
+      "verb-3",
+      "verb-transitive",
+      "jlpt-n3"
     ],
     "optIkomaKanji": "17",
     "optSongLibFreq": 0
@@ -7795,15 +7926,22 @@
   {
     "Key": "必ず-かならず",
     "Furi": "必[かなら]ず",
-    "Eng": "certainly",
+    "Eng": "always/certainly",
+    "optTags": [
+      "adverb",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "39",
     "optSongLibFreq": 0
   },
   {
     "Key": "必死-ひっし",
     "Furi": "必[ひっ]死[し]",
-    "Eng": "desperate",
+    "Eng": "frantic/desperate",
     "optTags": [
+      "noun",
+      "adj-な",
+      "jlpt-n3",
       "songLib"
     ],
     "optIkomaKanji": "39",
@@ -7813,6 +7951,10 @@
     "Key": "必要-ひつよう",
     "Furi": "必[ひつ]要[よう]",
     "Eng": "necessary",
+    "optTags": [
+      "adj-な",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "39",
     "optSongLibFreq": 0
   },
@@ -7832,6 +7974,7 @@
     "Eng": "to forget",
     "optTags": [
       "verb-2",
+      "verb-transitive",
       "jlpt-n5",
       "songLib"
     ],
@@ -7842,6 +7985,9 @@
     "Key": "忘年会-ぼうねんかい",
     "Furi": "忘[ぼう]年[ねん]会[かい]",
     "Eng": "year end party",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "30",
     "optSongLibFreq": 0
   },
@@ -7893,6 +8039,8 @@
     "Eng": "to remember",
     "optTags": [
       "verb-1",
+      "verb-transitive",
+      "jlpt-n4",
       "songLib"
     ],
     "optIkomaKanji": "13",
@@ -7904,6 +8052,8 @@
     "Eng": "to think",
     "optTags": [
       "verb-1",
+      "verb-transitive",
+      "jlpt-n4",
       "songLib"
     ],
     "optIkomaKanji": "16",
@@ -7934,7 +8084,10 @@
     "Furi": "急[いそ]ぐ",
     "Eng": "to hurry",
     "optTags": [
-      "verb-1"
+      "verb-1",
+      "verb-transitive",
+      "verb-intransitive",
+      "jlpt-n4"
     ],
     "optIkomaKanji": "26",
     "optSongLibFreq": 0
@@ -7943,6 +8096,11 @@
     "Key": "急行-きゅうこう",
     "Furi": "急[きゅう]行[こう]",
     "Eng": "express train",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "26",
     "optSongLibFreq": 0
   },
@@ -7951,6 +8109,8 @@
     "Furi": "性[せい]格[かく]",
     "Eng": "character",
     "optTags": [
+      "noun",
+      "jlpt-n3",
       "songLib"
     ],
     "optIkomaKanji": "50",
@@ -7970,15 +8130,23 @@
   {
     "Key": "恋人-こいびと",
     "Furi": "恋[こい]人[びと]",
-    "Eng": "lover",
+    "Eng": "lover/sweetheart",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "48",
     "optSongLibFreq": 0
   },
   {
     "Key": "恋愛-れんあい",
     "Furi": "恋[れん]愛[あい]",
-    "Eng": "love",
+    "Eng": "love/passion",
     "optTags": [
+      "noun",
+      "verb-3",
+      "verb-intransitive",
+      "jlpt-n1",
       "songLib"
     ],
     "optIkomaKanji": "48",
@@ -15542,6 +15710,7 @@
     "Furi": "車[くるま]",
     "Eng": "car",
     "optTags": [
+      "noun",
       "jlpt-n5"
     ],
     "optIkomaKanji": "02",
@@ -15551,6 +15720,9 @@
     "Key": "車道-しゃどう",
     "Furi": "車[しゃ]道[どう]",
     "Eng": "roadway",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "23",
     "optSongLibFreq": 0
   },
@@ -15558,6 +15730,11 @@
     "Key": "転ぶ-ころぶ",
     "Furi": "転[ころ]ぶ",
     "Eng": "to fall",
+    "optTags": [
+      "verb-1",
+      "verb-intransitive",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "27",
     "optSongLibFreq": 0
   },
@@ -15595,6 +15772,11 @@
     "Key": "輸入する-ゆにゅうする",
     "Furi": "輸[ゆ]入[にゅう]する",
     "Eng": "to import",
+    "optTags": [
+      "verb-3",
+      "verb-transitive",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "38",
     "optSongLibFreq": 0
   },
@@ -15625,6 +15807,12 @@
     "Key": "辛抱-しんぼう",
     "Furi": "辛[しん]抱[ぼう]",
     "Eng": "perseverance",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-intransitive",
+      "jlpt-n1"
+    ],
     "optIkomaKanji": "26",
     "optSongLibFreq": 0
   },
@@ -15633,7 +15821,8 @@
     "Furi": "辞[や]める",
     "Eng": "to quit/to stop",
     "optTags": [
-      "verb-2"
+      "verb-2",
+      "verb-transitive"
     ],
     "optIkomaKanji": "32",
     "optSongLibFreq": 0
@@ -15643,6 +15832,7 @@
     "Furi": "辞[じ]書[しょ]",
     "Eng": "dictionary",
     "optTags": [
+      "noun",
       "jlpt-n5"
     ],
     "optIkomaKanji": "04",
@@ -15652,6 +15842,12 @@
     "Key": "辞職する-じしょくする",
     "Furi": "辞[じ]職[しょく]する",
     "Eng": "to resign",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-intransitive",
+      "jlpt-n1"
+    ],
     "optIkomaKanji": "32",
     "optSongLibFreq": 0
   },
@@ -15669,6 +15865,11 @@
     "Key": "込む-こむ",
     "Furi": "込[こ]む",
     "Eng": "be crowded",
+    "optTags": [
+      "verb-1",
+      "verb-intransitive",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "32",
     "optSongLibFreq": 0
   },
@@ -15676,6 +15877,11 @@
     "Key": "込める-こめる",
     "Furi": "込[こ]める",
     "Eng": "to load",
+    "optTags": [
+      "verb-2",
+      "verb-transitive",
+      "jlpt-n1"
+    ],
     "optIkomaKanji": "32",
     "optSongLibFreq": 0
   },
@@ -15706,7 +15912,9 @@
     "Furi": "迎[むか]える",
     "Eng": "to welcome",
     "optTags": [
-      "verb-2"
+      "verb-2",
+      "verb-transitive",
+      "jlpt-n4"
     ],
     "optSongLibFreq": 0
   },
@@ -15714,13 +15922,16 @@
     "Key": "迎春-げいしゅん",
     "Furi": "迎[げい]春[しゅん]",
     "Eng": "welcome spring (new year greeting)",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "11",
     "optSongLibFreq": 0
   },
   {
     "Key": "近い-ちかい",
     "Furi": "近[ちか]い",
-    "Eng": "near",
+    "Eng": "near/close",
     "optTags": [
       "adj-い",
       "jlpt-n5"
@@ -15730,8 +15941,10 @@
   {
     "Key": "近く-ちかく",
     "Furi": "近[ちか]く",
-    "Eng": "near",
+    "Eng": "near/close",
     "optTags": [
+      "noun",
+      "adverb",
       "jlpt-n5"
     ],
     "optIkomaKanji": "10",
@@ -15741,6 +15954,10 @@
     "Key": "近所-きんじょ",
     "Furi": "近[きん]所[じょ]",
     "Eng": "neighborhood/neighbourhood",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "10",
     "optSongLibFreq": 0
   },
@@ -15750,6 +15967,7 @@
     "Eng": "to return (something)",
     "optTags": [
       "verb-2",
+      "verb-transitive",
       "jlpt-n5"
     ],
     "optIkomaKanji": "32",
@@ -15759,6 +15977,12 @@
     "Key": "返事-へんじ",
     "Furi": "返[へん]事[じ]",
     "Eng": "reply/response",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-intransitive",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "32",
     "optSongLibFreq": 0
   },
@@ -15777,7 +16001,12 @@
   {
     "Key": "退く-しりぞく",
     "Furi": "退[しりぞ]く",
-    "Eng": "to retreat",
+    "Eng": "to retreat/to withdraw",
+    "optTags": [
+      "verb-2",
+      "verb-intransitive",
+      "jlpt-n1"
+    ],
     "optIkomaKanji": "38",
     "optSongLibFreq": 0
   },
@@ -15797,6 +16026,11 @@
     "Key": "退職する-たいしょくする",
     "Furi": "退[たい]職[しょく]する",
     "Eng": "to resign",
+    "optTags": [
+      "verb-3",
+      "verb-intransitive",
+      "jlpt-n1"
+    ],
     "optIkomaKanji": "38",
     "optSongLibFreq": 0
   },
@@ -15804,6 +16038,11 @@
     "Key": "退院する-たいいんする",
     "Furi": "退[たい]院[いん]する",
     "Eng": "to leave hospital",
+    "optTags": [
+      "verb-3",
+      "verb-intransitive",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "38",
     "optSongLibFreq": 0
   },
@@ -15813,6 +16052,7 @@
     "Eng": "to send/to dispatch/to escort someone",
     "optTags": [
       "verb-1",
+      "verb-transitive",
       "songLib"
     ],
     "optIkomaKanji": "20",
@@ -15822,15 +16062,21 @@
     "Key": "送料-そうりょう",
     "Furi": "送[そう]料[りょう]",
     "Eng": "postage",
+    "optTags": [
+      "noun",
+      "jlpt-n2"
+    ],
     "optIkomaKanji": "20",
     "optSongLibFreq": 0
   },
   {
     "Key": "逃げる-にげる",
     "Furi": "逃[に]げる",
-    "Eng": "to escape/to run away",
+    "Eng": "to flee/to escape/to run away",
     "optTags": [
-      "verb-2"
+      "verb-2",
+      "verb-intransitive",
+      "jlpt-n4"
     ],
     "optIkomaKanji": "34",
     "optSongLibFreq": 0
@@ -15839,13 +16085,24 @@
     "Key": "逃亡-とうほう",
     "Furi": "逃[とう]亡[ほう]",
     "Eng": "escape",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-intransitive",
+      "jlpt-n1"
+    ],
     "optIkomaKanji": "34",
     "optSongLibFreq": 0
   },
   {
     "Key": "途中-とちゅう",
     "Furi": "途[と]中[ちゅう]",
-    "Eng": "on the way",
+    "Eng": "on the way/en route",
+    "optTags": [
+      "noun",
+      "adverb",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "46",
     "optSongLibFreq": 0
   },
@@ -15854,7 +16111,9 @@
     "Furi": "通[かよ]う",
     "Eng": "to commute",
     "optTags": [
-      "verb-1"
+      "verb-1",
+      "verb-intransitive",
+      "jlpt-n4"
     ],
     "optIkomaKanji": "27",
     "optSongLibFreq": 0
@@ -15865,6 +16124,8 @@
     "Eng": "to pass by/to go past",
     "optTags": [
       "verb-2",
+      "verb-intransitive",
+      "jlpt-n3",
       "songLib"
     ],
     "optSongLibFreq": 1
@@ -15874,6 +16135,9 @@
     "Furi": "通[とお]る",
     "Eng": "to go by/to go past/to pass through",
     "optTags": [
+      "verb-1",
+      "verb-intransitive",
+      "jlpt-n4",
       "songLib"
     ],
     "optIkomaKanji": "27",
@@ -15882,7 +16146,12 @@
   {
     "Key": "通勤する-つうきんする",
     "Furi": "通[つう]勤[きん]する",
-    "Eng": "to commute",
+    "Eng": "to commute (to work)",
+    "optTags": [
+      "verb-3",
+      "verb-intransitive",
+      "jlpt-n2"
+    ],
     "optIkomaKanji": "50",
     "optSongLibFreq": 0
   },
@@ -15890,6 +16159,11 @@
     "Key": "通過する-つうかする",
     "Furi": "通[つう]過[か]する",
     "Eng": "to pass",
+    "optTags": [
+      "verb-3",
+      "verb-intransitive",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "50",
     "optSongLibFreq": 0
   },
@@ -15898,6 +16172,7 @@
     "Furi": "速[はや]い",
     "Eng": "fast/quick",
     "optTags": [
+      "adj-い",
       "jlpt-n5"
     ],
     "optIkomaKanji": "26",
@@ -15906,16 +16181,22 @@
   {
     "Key": "連なる-つらなる",
     "Furi": "連[つら]なる",
-    "Eng": "to string",
+    "Eng": "to extend/to stretch out",
+    "optTags": [
+      "verb-1",
+      "verb-intransitive",
+      "jlpt-n1"
+    ],
     "optIkomaKanji": "44",
     "optSongLibFreq": 0
   },
   {
     "Key": "連れてくる-つれてくる",
     "Furi": "連[つ]れてくる",
-    "Eng": "to bring someone and come",
+    "Eng": "to bring someone along",
     "optTags": [
-      "verb-3"
+      "verb-3",
+      "phrase"
     ],
     "optSongLibFreq": 0
   },
@@ -15924,7 +16205,8 @@
     "Furi": "連[つ]れて行[い]く",
     "Eng": "to take someone and go",
     "optTags": [
-      "verb-1"
+      "verb-1",
+      "verb-transitive"
     ],
     "optIkomaKanji": "44",
     "optSongLibFreq": 0
@@ -15935,6 +16217,7 @@
     "Eng": "to bring along/to go with",
     "optTags": [
       "verb-2",
+      "verb-transitive",
       "songLib"
     ],
     "optSongLibFreq": 2
@@ -15944,7 +16227,9 @@
     "Furi": "連[れん]絡[らく]する",
     "Eng": "to contact/to get in touch with",
     "optTags": [
-      "verb-3"
+      "verb-3",
+      "verb-transitive",
+      "jlpt-n4"
     ],
     "optIkomaKanji": "44",
     "optSongLibFreq": 0
@@ -15953,6 +16238,13 @@
     "Key": "連続-れんぞく",
     "Furi": "連[れん]続[ぞく]",
     "Eng": "continuation/series",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-transitive",
+      "verb-intransitive",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "32",
     "optSongLibFreq": 0
   },
@@ -15960,6 +16252,10 @@
     "Key": "週末-しゅうまつ",
     "Furi": "週[しゅう]末[まつ]",
     "Eng": "weekend",
+    "optTags": [
+      "noun",
+      "adverb"
+    ],
     "optIkomaKanji": "05",
     "optSongLibFreq": 0
   },
@@ -15968,6 +16264,9 @@
     "Furi": "進[すす]む",
     "Eng": "to go on",
     "optTags": [
+      "verb-1",
+      "verb-intransitive",
+      "jlpt-n4",
       "songLib"
     ],
     "optIkomaKanji": "41",
@@ -15976,7 +16275,12 @@
   {
     "Key": "進める-すすめる",
     "Furi": "進[すす]める",
-    "Eng": "to proceed",
+    "Eng": "to advance/to proceed",
+    "optTags": [
+      "verb-2",
+      "verb-transitive",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "41",
     "optSongLibFreq": 0
   },
@@ -15984,6 +16288,12 @@
     "Key": "進学する-しんがくする",
     "Furi": "進[しん]学[がく]する",
     "Eng": "to go on a higher school",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-intransitive",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "41",
     "optSongLibFreq": 0
   },
@@ -16003,7 +16313,9 @@
     "Furi": "遅[おく]れる",
     "Eng": "to be late/to be delayed",
     "optTags": [
-      "verb-2"
+      "verb-2",
+      "verb-intransitive",
+      "jlpt-n4"
     ],
     "optIkomaKanji": "36",
     "optSongLibFreq": 0
@@ -16012,6 +16324,11 @@
     "Key": "遅刻する-ちこくする",
     "Furi": "遅[ち]刻[こく]する",
     "Eng": "to be late/to be tardy",
+    "optTags": [
+      "verb-3",
+      "verb-intransitive",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "36",
     "optSongLibFreq": 0
   },
@@ -16030,7 +16347,11 @@
   {
     "Key": "遊園地-ゆうえんち",
     "Furi": "遊[ゆう]園[えん]地[ち]",
-    "Eng": "theme park",
+    "Eng": "theme park/amusement park",
+    "optTags": [
+      "noun",
+      "jlpt-n2"
+    ],
     "optIkomaKanji": "47",
     "optSongLibFreq": 0
   },
@@ -16038,13 +16359,22 @@
     "Key": "運がいい-うんがいい",
     "Furi": "運[うん]がいい",
     "Eng": "lucky/fortunate",
+    "optTags": [
+      "adj-い",
+      "phrase"
+    ],
     "optIkomaKanji": "27",
     "optSongLibFreq": 0
   },
   {
     "Key": "運ぶ-はこぶ",
     "Furi": "運[はこ]ぶ",
-    "Eng": "to carry",
+    "Eng": "to carry/to transport",
+    "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "27",
     "optSongLibFreq": 0
   },
@@ -16052,6 +16382,11 @@
     "Key": "運動する-うんどうする",
     "Furi": "運[うん]動[どう]する",
     "Eng": "to exercise",
+    "optTags": [
+      "verb-3",
+      "verb-intransitive",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "27",
     "optSongLibFreq": 0
   },
@@ -16070,6 +16405,12 @@
     "Key": "運転する-うんてんする",
     "Furi": "運[うん]転[てん]する",
     "Eng": "to drive/to operate (machine)",
+    "optTags": [
+      "verb-3",
+      "verb-transitive",
+      "verb-intransitive",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "27",
     "optSongLibFreq": 0
   },
@@ -16077,21 +16418,32 @@
     "Key": "運転免許証-うんてんめんきょしょう",
     "Furi": "運[うん]転[てん]免[めん]許[きょ]証[しょう]",
     "Eng": "driving license",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "36",
     "optSongLibFreq": 0
   },
   {
     "Key": "過ぎる-すぎる",
     "Furi": "過[す]ぎる",
-    "Eng": "to pass",
+    "Eng": "to pass through/to pass by",
+    "optTags": [
+      "verb-2",
+      "verb-intransitive",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "50",
     "optSongLibFreq": 0
   },
   {
     "Key": "過ごす-すごす",
     "Furi": "過[す]ごす",
-    "Eng": "to spend",
+    "Eng": "to spend/to pass",
     "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n3",
       "songLib"
     ],
     "optIkomaKanji": "50",
@@ -16102,6 +16454,7 @@
     "Furi": "道[みち]",
     "Eng": "road/street",
     "optTags": [
+      "noun",
       "jlpt-n5",
       "songLib"
     ],
@@ -16113,6 +16466,8 @@
     "Furi": "違[ちが]う",
     "Eng": "to differ",
     "optTags": [
+      "verb-1",
+      "verb-intransitive",
       "jlpt-n5",
       "songLib"
     ],
@@ -16122,7 +16477,10 @@
   {
     "Key": "違法-いほう",
     "Furi": "違[い]法[ほう]",
-    "Eng": "illegal",
+    "Eng": "illegal/illicit",
+    "optTags": [
+      "adj-な"
+    ],
     "optIkomaKanji": "36",
     "optSongLibFreq": 0
   },
@@ -16130,6 +16488,9 @@
     "Key": "違法行為-いほうこうい",
     "Furi": "違[い]法[ほう]行[こう]為[い]",
     "Eng": "illegal action",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "36",
     "optSongLibFreq": 0
   },
@@ -16159,6 +16520,12 @@
     "Key": "遠足-えんそく",
     "Furi": "遠[えん]足[そく]",
     "Eng": "school excursion",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-intransitive",
+      "jlpt-n2"
+    ],
     "optIkomaKanji": "47",
     "optSongLibFreq": 0
   },
@@ -16167,7 +16534,9 @@
     "Furi": "遣[や]る",
     "Eng": "to do",
     "optTags": [
-      "verb-1"
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n1"
     ],
     "optSongLibFreq": 0
   },
@@ -16177,6 +16546,7 @@
     "Eng": "in the far distance",
     "optTags": [
       "adverb",
+      "phrase",
       "songLib"
     ],
     "optSongLibFreq": 1
@@ -16187,6 +16557,8 @@
     "Eng": "to choose/to select",
     "optTags": [
       "verb-1",
+      "verb-transitive",
+      "jlpt-n4",
       "songLib"
     ],
     "optIkomaKanji": "47",
@@ -16195,7 +16567,11 @@
   {
     "Key": "選手-せんしゅ",
     "Furi": "選[せん]手[しゅ]",
-    "Eng": "player",
+    "Eng": "player/athlete",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "10",
     "optSongLibFreq": 0
   },
@@ -16203,6 +16579,9 @@
     "Key": "避暑地-ひしょち",
     "Furi": "避[ひ]暑[しょ]地[ち]",
     "Eng": "summer resort",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "35",
     "optSongLibFreq": 0
   },
@@ -16223,6 +16602,7 @@
     "Furi": "部[へ]屋[や]",
     "Eng": "room/chamber",
     "optTags": [
+      "noun",
       "jlpt-n5"
     ],
     "optIkomaKanji": "22",
@@ -16232,6 +16612,10 @@
     "Key": "部長-ぶちょう",
     "Furi": "部[ぶ]長[ちょう]",
     "Eng": "department chief",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "16",
     "optSongLibFreq": 0
   },
@@ -16240,6 +16624,7 @@
     "Furi": "郵[ゆう]便[びん]局[きょく]",
     "Eng": "post office",
     "optTags": [
+      "noun",
       "jlpt-n5"
     ],
     "optIkomaKanji": "35",
@@ -16248,21 +16633,34 @@
   {
     "Key": "都-みやこ",
     "Furi": "都[みやこ]",
-    "Eng": "metropolis",
+    "Eng": "capital",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "26",
     "optSongLibFreq": 0
   },
   {
     "Key": "都会-とかい",
     "Furi": "都[と]会[かい]",
-    "Eng": "urban area",
+    "Eng": "city/urban area",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "26",
     "optSongLibFreq": 0
   },
   {
     "Key": "都合-つごう",
     "Furi": "都[つ]合[ごう]",
-    "Eng": "convenience",
+    "Eng": "circumstances/condition/convenience",
+    "optTags": [
+      "noun",
+      "adverb",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "26",
     "optSongLibFreq": 0
   },
@@ -16270,6 +16668,11 @@
     "Key": "配る-くばる",
     "Furi": "配[くば]る",
     "Eng": "to deliver/to distribute",
+    "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n2"
+    ],
     "optIkomaKanji": "17",
     "optSongLibFreq": 0
   },
@@ -16277,15 +16680,19 @@
     "Key": "酒屋-さかや",
     "Furi": "酒[さか]屋[や]",
     "Eng": "liquor store",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "50",
     "optSongLibFreq": 0
   },
   {
     "Key": "酸っぱい-すっぱい",
     "Furi": "酸[す]っぱい",
-    "Eng": "sour",
+    "Eng": "sour/acid",
     "optTags": [
-      "adj-い"
+      "adj-い",
+      "jlpt-n2"
     ],
     "optSongLibFreq": 0
   },
@@ -16326,7 +16733,10 @@
   {
     "Key": "野原-のはら",
     "Furi": "野[の]原[はら]",
-    "Eng": "fields",
+    "Eng": "field/plain/prairie",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "38",
     "optSongLibFreq": 0
   },
@@ -16334,6 +16744,9 @@
     "Key": "野球-やきゅう",
     "Furi": "野[や]球[きゅう]",
     "Eng": "baseball",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "47",
     "optSongLibFreq": 0
   },
@@ -16342,6 +16755,7 @@
     "Furi": "野[や]菜[さい]",
     "Eng": "vegetable",
     "optTags": [
+      "noun",
       "jlpt-n5"
     ],
     "optIkomaKanji": "49",
@@ -16363,6 +16777,10 @@
     "Key": "金魚-きんぎょ",
     "Furi": "金[きん]魚[ぎょ]",
     "Eng": "goldfish",
+    "optTags": [
+      "noun",
+      "jlpt-n2"
+    ],
     "optIkomaKanji": "10",
     "optSongLibFreq": 0
   },
@@ -16403,6 +16821,7 @@
     "Furi": "銀[ぎん]行[こう]",
     "Eng": "bank",
     "optTags": [
+      "noun",
       "jlpt-n5"
     ],
     "optIkomaKanji": "02",
@@ -16411,7 +16830,10 @@
   {
     "Key": "銭湯-せんとう",
     "Furi": "銭[せん]湯[とう]",
-    "Eng": "public bath",
+    "Eng": "public bath/bathhouse",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "26",
     "optSongLibFreq": 0
   },
@@ -16432,6 +16854,7 @@
     "Furi": "門[もん]",
     "Eng": "gate",
     "optTags": [
+      "noun",
       "jlpt-n5"
     ],
     "optIkomaKanji": "09",
@@ -16442,6 +16865,10 @@
     "Furi": "閉[と]じる",
     "Eng": "to close/to shut",
     "optTags": [
+      "verb-2",
+      "verb-transitive",
+      "verb-intransitive",
+      "jlpt-n3",
       "songLib"
     ],
     "optIkomaKanji": "33",
@@ -16453,6 +16880,7 @@
     "Eng": "to be closed",
     "optTags": [
       "verb-1",
+      "verb-intransitive",
       "jlpt-n5"
     ],
     "optIkomaKanji": "33",
@@ -16464,6 +16892,7 @@
     "Eng": "to close",
     "optTags": [
       "verb-2",
+      "verb-transitive",
       "jlpt-n5"
     ],
     "optIkomaKanji": "33",
@@ -16473,6 +16902,11 @@
     "Key": "閉店する-へいてんする",
     "Furi": "閉[へい]店[てん]する",
     "Eng": "to close shop",
+    "optTags": [
+      "verb-3",
+      "verb-transitive",
+      "verb-intransitive"
+    ],
     "optIkomaKanji": "33",
     "optSongLibFreq": 0
   },
@@ -16482,7 +16916,9 @@
     "Eng": "to open up/to bloom/to hold events (multiple directions)",
     "optTags": [
       "verb-1",
-      "verb-intransitive"
+      "verb-transitive",
+      "verb-intransitive",
+      "jlpt-n4"
     ],
     "optIkomaKanji": "13",
     "optSongLibFreq": 0
@@ -16493,6 +16929,7 @@
     "Eng": "to open by itself (single direction)",
     "optTags": [
       "verb-1",
+      "verb-transitive",
       "verb-intransitive",
       "jlpt-n5"
     ],
@@ -16623,7 +17060,7 @@
   {
     "Key": "降雪-こうせつ",
     "Furi": "降[こう]雪[せつ]",
-    "Eng": "snowing",
+    "Eng": "snowfall/snow",
     "optTags": [
       "noun",
       "verb-3"
@@ -16914,7 +17351,8 @@
     "Furi": "電[でん]話[わ]する",
     "Eng": "to phone",
     "optTags": [
-      "verb-3"
+      "verb-3",
+      "jlpt-n5"
     ],
     "optSongLibFreq": 0
   },
@@ -16923,6 +17361,7 @@
     "Furi": "電[でん]車[しゃ]",
     "Eng": "train (vehicle)",
     "optTags": [
+      "noun",
       "jlpt-n5"
     ],
     "optIkomaKanji": "02",
@@ -16966,14 +17405,22 @@
   {
     "Key": "青年-せいねん",
     "Furi": "青[せい]年[ねん]",
-    "Eng": "young person",
+    "Eng": "youth/young person",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "08",
     "optSongLibFreq": 0
   },
   {
     "Key": "青春-せいしゅん",
     "Furi": "青[せい]春[しゅん]",
-    "Eng": "youth",
+    "Eng": "youth/adolescent",
+    "optTags": [
+      "noun",
+      "jlpt-n1"
+    ],
     "optIkomaKanji": "11",
     "optSongLibFreq": 0
   },
@@ -16993,6 +17440,9 @@
     "Key": "静脈-じょうみゃく",
     "Furi": "静[じょう]脈[みゃく]",
     "Eng": "vein",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "44",
     "optSongLibFreq": 0
   },
@@ -17000,6 +17450,10 @@
     "Key": "非常-ひじょう",
     "Furi": "非[ひ]常[じょう]",
     "Eng": "emergency",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "30",
     "optSongLibFreq": 0
   },
@@ -17007,6 +17461,9 @@
     "Key": "非常口-ひじょうぐち",
     "Furi": "非[ひ]常[じょう]口[ぐち]",
     "Eng": "emergency exit",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "30",
     "optSongLibFreq": 0
   },
@@ -17014,15 +17471,21 @@
     "Key": "面接-めんせつ",
     "Furi": "面[めん]接[せつ]",
     "Eng": "interview",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-intransitive"
+    ],
     "optIkomaKanji": "26",
     "optSongLibFreq": 0
   },
   {
     "Key": "面白い-おもしろい",
     "Furi": "面[おも]白[しろ]い",
-    "Eng": "interesting",
+    "Eng": "interesting/fascinating",
     "optTags": [
-      "adj-い"
+      "adj-い",
+      "jlpt-n5"
     ],
     "optSongLibFreq": 0
   },
@@ -17061,6 +17524,9 @@
     "Furi": "音[おと]",
     "Eng": "sound/noise/note",
     "optTags": [
+      "noun",
+      "suffix",
+      "jlpt-n4",
       "songLib"
     ],
     "optIkomaKanji": "19",
@@ -17071,6 +17537,7 @@
     "Furi": "音[おん]楽[がく]",
     "Eng": "music",
     "optTags": [
+      "noun",
       "jlpt-n5",
       "songLib"
     ],
@@ -17081,6 +17548,9 @@
     "Key": "音楽家-おんがくか",
     "Furi": "音[おん]楽[がく]家[か]",
     "Eng": "musician",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "11",
     "optSongLibFreq": 0
   },
@@ -17089,7 +17559,8 @@
     "Furi": "頑張[がんば]る",
     "Eng": "to persevere",
     "optTags": [
-      "verb-1"
+      "verb-1",
+      "verb-intransitive"
     ],
     "optSongLibFreq": 0
   },
@@ -17098,6 +17569,7 @@
     "Furi": "頭[あたま]",
     "Eng": "head",
     "optTags": [
+      "noun",
       "jlpt-n5",
       "songLib"
     ],
@@ -17108,6 +17580,10 @@
     "Key": "頭痛-ずつう",
     "Furi": "頭[ず]痛[つう]",
     "Eng": "headache",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "28",
     "optSongLibFreq": 0
   },
@@ -17116,6 +17592,8 @@
     "Furi": "頼[たの]む",
     "Eng": "to request/to beg/to ask",
     "optTags": [
+      "verb-1",
+      "verb-transitive",
       "jlpt-n5"
     ],
     "optIkomaKanji": "38",
@@ -17124,7 +17602,13 @@
   {
     "Key": "頼る-たよる",
     "Furi": "頼[たよ]る",
-    "Eng": "to rely on",
+    "Eng": "to rely on/to depend on",
+    "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "verb-intransitive",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "38",
     "optSongLibFreq": 0
   },
@@ -17132,6 +17616,10 @@
     "Key": "題名-だいめい",
     "Furi": "題[だい]名[めい]",
     "Eng": "title/caption/heading",
+    "optTags": [
+      "noun",
+      "jlpt-n2"
+    ],
     "optIkomaKanji": "37",
     "optSongLibFreq": 0
   },
@@ -17140,6 +17628,7 @@
     "Furi": "顔[かお]",
     "Eng": "face",
     "optTags": [
+      "noun",
       "songLib"
     ],
     "optIkomaKanji": "15",
@@ -17149,6 +17638,10 @@
     "Key": "顔色-かおいろ",
     "Furi": "顔[かお]色[いろ]",
     "Eng": "complexion",
+    "optTags": [
+      "noun",
+      "songLib"
+    ],
     "optIkomaKanji": "27",
     "optSongLibFreq": 0
   },
@@ -17158,6 +17651,7 @@
     "Eng": "to desire/to wish/to hope",
     "optTags": [
       "verb-1",
+      "verb-transitive",
       "jlpt-n3",
       "songLib"
     ],
@@ -17166,7 +17660,12 @@
   {
     "Key": "願望-がんぼう",
     "Furi": "願[がん]望[ぼう]",
-    "Eng": "desire",
+    "Eng": "desire/wish/hope",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-transitive"
+    ],
     "optIkomaKanji": "26",
     "optSongLibFreq": 0
   },
@@ -17175,6 +17674,7 @@
     "Furi": "風[かぜ]",
     "Eng": "wind",
     "optTags": [
+      "noun",
       "jlpt-n5",
       "songLib"
     ],
@@ -17197,6 +17697,7 @@
     "Eng": "to launch/to hurl",
     "optTags": [
       "verb-1",
+      "verb-transitive",
       "jlpt-n3",
       "songLib"
     ],
@@ -17205,8 +17706,10 @@
   {
     "Key": "飛ぶ-とぶ",
     "Furi": "飛[と]ぶ",
-    "Eng": "to fly",
+    "Eng": "to fly/to soar",
     "optTags": [
+      "verb-1",
+      "verb-intransitive",
       "jlpt-n5",
       "songLib"
     ],
@@ -17216,8 +17719,9 @@
   {
     "Key": "飛行機-ひこうき",
     "Furi": "飛[ひ]行[こう]機[き]",
-    "Eng": "aeroplane/airplane",
+    "Eng": "aeroplane/airplane/plane",
     "optTags": [
+      "noun",
       "jlpt-n5",
       "songLib"
     ],
@@ -17230,6 +17734,7 @@
     "Eng": "to eat",
     "optTags": [
       "verb-2",
+      "verb-transitive",
       "jlpt-n5"
     ],
     "optIkomaKanji": "06",
@@ -17240,17 +17745,21 @@
     "Furi": "食[た]べ物[もの]",
     "Eng": "food",
     "optTags": [
+      "noun",
       "jlpt-n5"
     ],
     "optIkomaKanji": "07",
     "optSongLibFreq": 0
   },
   {
-    "Key": "食事する-しょくじする",
-    "Furi": "食[しょく]事[じ]する",
-    "Eng": "to have a meal",
+    "Key": "食事-しょくじ",
+    "Furi": "食[しょく]事[じ]",
+    "Eng": "meal/dinner",
     "optTags": [
-      "verb-3"
+      "noun",
+      "verb-3",
+      "verb-intransitive",
+      "jlpt-n3"
     ],
     "optSongLibFreq": 0
   },
@@ -17259,6 +17768,7 @@
     "Furi": "食[しょく]堂[どう]",
     "Eng": "dining room/canteen",
     "optTags": [
+      "noun",
       "jlpt-n5"
     ],
     "optIkomaKanji": "06",
@@ -17268,6 +17778,10 @@
     "Key": "食欲-しょくよく",
     "Furi": "食[しょく]欲[よく]",
     "Eng": "appetite",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "25",
     "optSongLibFreq": 0
   },
@@ -17275,14 +17789,19 @@
     "Key": "飯-めし",
     "Furi": "飯[めし]",
     "Eng": "cooked rice/meal",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "37",
     "optSongLibFreq": 0
   },
   {
     "Key": "飲み物-のみもの",
     "Furi": "飲[の]み物[もの]",
-    "Eng": "beverage",
+    "Eng": "drink/beverage",
     "optTags": [
+      "noun",
       "jlpt-n5"
     ],
     "optIkomaKanji": "06",
@@ -17294,6 +17813,7 @@
     "Eng": "to drink/to take medicine",
     "optTags": [
       "verb-1",
+      "verb-transitive",
       "jlpt-n5",
       "songLib"
     ],
@@ -17302,7 +17822,12 @@
   {
     "Key": "飲酒-いんしゅ",
     "Furi": "飲[いん]酒[しゅ]",
-    "Eng": "drinking",
+    "Eng": "drinking alcohol",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-intransitive"
+    ],
     "optIkomaKanji": "50",
     "optSongLibFreq": 0
   },
@@ -17310,6 +17835,9 @@
     "Key": "飲酒運転-いんしゅうんてん",
     "Furi": "飲[いん]酒[しゅ]運[うん]転[てん]",
     "Eng": "drink driving",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "06",
     "optSongLibFreq": 0
   },
@@ -17326,9 +17854,11 @@
   {
     "Key": "飼う-かう",
     "Furi": "飼[か]う",
-    "Eng": "to raise a pet",
+    "Eng": "to own/to raise/to rear (pets)",
     "optTags": [
-      "verb-1"
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n3"
     ],
     "optSongLibFreq": 0
   },
@@ -17338,6 +17868,8 @@
     "Eng": "to display/to decorate",
     "optTags": [
       "verb-1",
+      "verb-transitive",
+      "jlpt-n4",
       "songLib"
     ],
     "optSongLibFreq": 1
@@ -17346,13 +17878,21 @@
     "Key": "首-くび",
     "Furi": "首[くび]",
     "Eng": "neck",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "39",
     "optSongLibFreq": 0
   },
   {
     "Key": "首相-しゅしょう",
     "Furi": "首[しゅ]相[しょう]",
-    "Eng": "prime minister",
+    "Eng": "prime minister/chancellor",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "39",
     "optSongLibFreq": 0
   },
@@ -17360,6 +17900,9 @@
     "Key": "馬力-ばりき",
     "Furi": "馬[ば]力[りき]",
     "Eng": "horsepower",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "27",
     "optSongLibFreq": 0
   },
@@ -17377,8 +17920,9 @@
   {
     "Key": "駅-えき",
     "Furi": "駅[えき]",
-    "Eng": "station",
+    "Eng": "station (trains)",
     "optTags": [
+      "noun",
       "jlpt-n5"
     ],
     "optIkomaKanji": "24",
@@ -17387,7 +17931,10 @@
   {
     "Key": "駅員-えきいん",
     "Furi": "駅[えき]員[いん]",
-    "Eng": "station employee",
+    "Eng": "station employee (trains)",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "02",
     "optSongLibFreq": 0
   },
@@ -17581,6 +18128,16 @@
     "optTags": [
       "noun",
       "jlpt-n5"
+    ],
+    "optSongLibFreq": 0
+  },
+  {
+    "Key": "長所-ちょうしょ",
+    "Furi": "長[ちょう]所[しょ]",
+    "Eng": "strength/strong point/advantage",
+    "optTags": [
+      "noun",
+      "jlpt-n2"
     ],
     "optSongLibFreq": 0
   }

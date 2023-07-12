@@ -75,6 +75,21 @@
     "ArtistNameJpn": "結束バンド"
   },
   {
+    "SongID": "KOYORI-001",
+    "SongURL": "https://www.youtube.com/embed/UKVioegPPds",
+    "SongNameEng": "Hitorinbo Envy",
+    "SongNameJpn": "独りんぼエンヴィー",
+    "ArtistNameEng": "koyori",
+    "ArtistNameJpn": "電ポルP"
+  },
+  {
+    "SongID": "LISA-001",
+    "SongURL": "https://www.youtube.com/embed/TqyfmFaZlqw",
+    "SongNameEng": "Gurenge",
+    "SongNameJpn": "紅蓮華",
+    "ArtistNameEng": "LiSA"
+  },
+  {
     "SongID": "MASAKI-001",
     "SongURL": "https://www.youtube.com/embed/XSkpuDseenY",
     "SongNameEng": "Sayonara Elegy",
@@ -124,6 +139,13 @@
     "SongNameJpn": "花の塔",
     "ArtistNameEng": "Sayuri",
     "ArtistNameJpn": "さユり"
+  },
+  {
+    "SongID": "SICK-001",
+    "SongURL": "https://www.youtube.com/embed/Y45cVOrRZZs",
+    "SongNameEng": "Watashi Dake Yuurei",
+    "SongNameJpn": "ワタシダケユウレイ",
+    "ArtistNameEng": "SICK HACK"
   },
   {
     "SongID": "SNOOTY-001",
