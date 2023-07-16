@@ -1582,7 +1582,12 @@
   {
     "Key": "下車する-げしゃする",
     "Furi": "下[げ]車[しゃ]する",
-    "Eng": "to get off",
+    "Eng": "to alight/to get off",
+    "optTags": [
+      "verb-3",
+      "verb-intransitive",
+      "jlpt-n2"
+    ],
     "optIkomaKanji": "09",
     "optSongLibFreq": 0
   },
@@ -5071,7 +5076,7 @@
   {
     "Key": "味-あじ",
     "Furi": "味[あじ]",
-    "Eng": "flavour/taste",
+    "Eng": "flavor/flavour/taste",
     "optIkomaKanji": "27",
     "optSongLibFreq": 0
   },
@@ -8863,6 +8868,10 @@
     "Key": "授かる-さずかる",
     "Furi": "授[さず]かる",
     "Eng": "to be awarded (prize)/to be gifted (talent)",
+    "optTags": [
+      "verb-1",
+      "verb-transitive"
+    ],
     "optIkomaKanji": "30",
     "optSongLibFreq": 0
   },
@@ -9048,6 +9057,12 @@
     "Key": "放置-ほうち",
     "Furi": "放[ほう]置[ち]",
     "Eng": "leave/neglect",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-transitive",
+      "jlpt-n1"
+    ],
     "optIkomaKanji": "30",
     "optSongLibFreq": 0
   },

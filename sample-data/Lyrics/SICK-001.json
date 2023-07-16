@@ -1,124 +1,104 @@
 {
     "SongLyrics": [
       {
-        "JpnStr": "間違[まちが]い探[さが]しの夜[よ]更[ふ]かし",
-        "EngStr": "A night of searching for mistakes"
+        "JpnStr": "間違[まちが]い探[さが]しの夜[よ]更[ふ]かし あら楽[たの]しい",
+        "EngStr": "Up late playing spot the difference. Oh, how fun"
       },
       {
-        "JpnStr": "あら楽[たの]しい",
-        "EngStr": "Oh, how fun it is"
-      },
-      {
-        "JpnStr": "迷[まよ]い子[こ]が手[て]招[まね]く夢[ゆめ]の国[くに]へ",
-        "EngStr": "To the dreamland where the lost child beckons"
+        "JpnStr": "迷[まよ]い子[こ]が手[て]招[まね]く 夢[ゆめ]の国[くに]へ",
+        "EngStr": "A lost child beckons me to the land of dreams"
       },
       {
         "JpnStr": "アッチハソッチ?コッチハドッチ?",
-        "EngStr": "Over here? Or over there?"
+        "EngStr": "Over there? Or over here?"
       },
       {
-        "JpnStr": "電池[でんち]切[き]れ人生[じんせい]たちまち",
-        "EngStr": "Life runs out in an instant"
-      },
-      {
-        "JpnStr": "Let's パーティー",
-        "EngStr": "Let's party"
+        "JpnStr": "電池[でんち]切[き]れ人生[じんせい] たちまち Let's パーティー",
+        "EngStr": "My life's low on battery, but for now, Let's party"
       },
       {
         "JpnStr": "",
         "EngStr": ""
       },
       {
-        "JpnStr": "博愛[はくあい]主義[しゅぎ]の皆々様[みなみなさま]ご立派[ごりっぱ]なことです",
-        "EngStr": "Everyone with the philosophy of universal love, that is truly admirable"
+        "JpnStr": "博愛[はくあい]主義[しゅぎ]の皆々様[みなみなさま] ご立派[ごりっぱ]なことです",
+        "EngStr": "You're all a bunch of philanthropists, how very admirable"
       },
       {
         "JpnStr": "",
         "EngStr": ""
       },
       {
-        "JpnStr": "ぐるぐるぐる踊[おど]りましょう",
-        "EngStr": "Let's dance round and round"
+        "JpnStr": "ぐるぐるぐる 踊[おど]りましょう",
+        "EngStr": "Round and round and round. Let's dance"
       },
       {
-        "JpnStr": "べたべたべた蔓延[はびこ]るの",
-        "EngStr": "Stickiness is spreading"
+        "JpnStr": "べたべたべた 蔓延[はびこ]るの",
+        "EngStr": "Stickiness spreading throughout"
       },
       {
-        "JpnStr": "嘘[うそ]だらけ塗[ぬ]ったトースト",
-        "EngStr": "Toast covered in lies"
-      },
-      {
-        "JpnStr": "おひとついかが?",
-        "EngStr": "Would you like one?"
+        "JpnStr": "嘘[うそ]だらけ塗[ぬ]ったトースト おひとついかが?",
+        "EngStr": "Toast covered in lies. Would you like some?"
       },
       {
         "JpnStr": "ワタシダケユウレイ",
-        "EngStr": "Only I'm a ghost"
+        "EngStr": "I'm the only ghost here"
       },
       {
         "JpnStr": "",
         "EngStr": ""
       },
       {
-        "JpnStr": "掻[か]き鳴[な]らした音[おと]は心地[ここち]悪[わる]いね",
-        "EngStr": "The sound I strummed is unsettling"
+        "JpnStr": "掻[か]き鳴[な]らした音[おと]は 心地[ここち]悪[わる]いね",
+        "EngStr": "The sound you're strumming out feels bad, man"
       },
       {
-        "JpnStr": "搾[しぼ]り出[だ]せ頭[あたま]の中[なか]ぜんぶ",
-        "EngStr": "Squeeze out everything from inside my head"
-      },
-      {
-        "JpnStr": "",
-        "EngStr": ""
-      },
-      {
-        "JpnStr": "完全[かんぜん]主義[しゅぎ]の皆々様[みなみなさま]右脳[うのう]が死[し]んでます?",
-        "EngStr": "Everyone with the philosophy of perfectionism, has your right brain died?"
+        "JpnStr": "搾[しぼ]り出[だ]せ 頭[あたま]の中[なか]ぜんぶ",
+        "EngStr": "C'mon and squeeze out everything inside your head"
       },
       {
         "JpnStr": "",
         "EngStr": ""
       },
       {
-        "JpnStr": "ゆらゆらゆら遊[あそ]びましょう",
-        "EngStr": "Let's play swaying"
+        "JpnStr": "完全[かんぜん]主義[しゅぎ]の皆々様[みなみなさま] 右脳[うのう]が死[し]んでます?",
+        "EngStr": "Dear perfectionists, is the right side of your brain dead?"
       },
       {
-        "JpnStr": "どろどろどろ吐[は]き出[だ]すの",
-        "EngStr": "Spitting out a mess"
+        "JpnStr": "",
+        "EngStr": ""
       },
       {
-        "JpnStr": "錆[さび]だらけ塗[ぬ]ったトースト",
-        "EngStr": "Toast covered in rust"
+        "JpnStr": "ゆらゆらゆら 遊[あそ]びましょう",
+        "EngStr": "Sway, sway, sway. Let's play"
       },
       {
-        "JpnStr": "代[か]わりにいかが?",
-        "EngStr": "Would you like a replacement?"
+        "JpnStr": "どろどろどろ 吐[は]き出[だ]すの",
+        "EngStr": "Like sludge, let's spit it out"
+      },
+      {
+        "JpnStr": "錆[さび]だらけ塗[ぬ]ったトースト 代[か]わりにいかが?",
+        "EngStr": "Toast covered in rust. Would you like seconds?"
       },
       {
         "JpnStr": "ダレデスカユウレイ",
-        "EngStr": "Who are you, a ghost?"
+        "EngStr": "Who is the ghost now?"
       },
       {
         "JpnStr": "",
         "EngStr": ""
       },
       {
-        "JpnStr": "空[から]っぽの部屋[へや]で光[ひかり]は邪魔[じゃま]だね煙[けむり]の中[なか]でさえ",
-        "EngStr": "In an empty room, even in the smoke, light is a nuisance"
+        "JpnStr": "空[から]っぽの部屋[へや]で 光[ひかり]は邪魔[じゃま]だね 煙[けむり]の中[なか]でさえ",
+        "EngStr": "In an empty room, light is a nuisance, even in the smoke"
       },
       {
-        "JpnStr": "憂鬱[ゆううつ]は飲[の]み干[ほ]せ毒[どく]が抜[ぬ]けるまで",
-        "EngStr": "Drink up the melancholy until the poison is drained"
+        "JpnStr": "憂鬱[ゆううつ]は飲[の]み干[ほ]せ 毒[どく]が抜[ぬ]けるまで",
+        "EngStr": "Drink up the melancholy until the poison is gone"
       },
       {
-        "JpnStr": "",
-        "EngStr": ""
-      },
-      {
-        "JpnStr": "後[うし]ろの正面[まえ]誰[だれ]?",
-        "EngStr": "Who is in front of me?"
+        "JpnStr": "後[うし]ろの正面[まえ] 誰[だれ]?",
+        "EngStr": "Who's that behind me"
       },
       {
         "JpnStr": "わたしの顔[かお]が見[み]えた",
@@ -129,50 +109,36 @@
         "EngStr": ""
       },
       {
-        "JpnStr": "ぐるぐるぐる踊[おど]りましょう",
-        "EngStr": "Let's dance round and round"
+        "JpnStr": "ぐるぐるぐる 踊[おど]りましょう",
+        "EngStr": "Round and round and round. Let's dance"
       },
       {
-        "JpnStr": "べたべたべた蔓延[はびこ]るの",
-        "EngStr": "Stickiness is spreading"
+        "JpnStr": "べたべたべた 蔓延[はびこ]るの",
+        "EngStr": "Stickiness spreading throughout"
       },
       {
-        "JpnStr": "嘘[うそ]だらけ塗[ぬ]ったトースト",
-        "EngStr": "Toast covered in lies"
+        "JpnStr": "嘘[うそ]だらけ塗[ぬ]ったトースト 一緒[いっしょ]にいかが?",
+        "EngStr": "Toast covered in lies. How about together?"
       },
       {
-        "JpnStr": "一緒[いっしょ]にいかが?",
-       
-
- "EngStr": "How about together?"
+        "JpnStr": "ぐちゃぐちゃぐちゃ 笑[わら]いましょう",
+        "EngStr": "Sloppily, messily, let's laugh it off"
       },
       {
-        "JpnStr": "",
-        "EngStr": ""
+        "JpnStr": "ぞくぞくぞく 歪[ゆが]めましょう",
+        "EngStr": "Shuddering, creepily, let's get distorted"
       },
       {
-        "JpnStr": "ぐちゃぐちゃぐちゃ笑[わら]いましょう",
-        "EngStr": "Let's laugh all messy"
-      },
-      {
-        "JpnStr": "ぞくぞくぞく歪[ゆが]めましょう",
-        "EngStr": "Let's distort with thrill"
-      },
-      {
-        "JpnStr": "錆[さび]だらけ塗[ぬ]ったトースト",
-        "EngStr": "Toast covered in rust"
-      },
-      {
-        "JpnStr": "もうひとついかが?",
-        "EngStr": "Would you like one more?"
+        "JpnStr": "錆[さび]だらけ塗[ぬ]ったトースト もうひとついかが?",
+        "EngStr": "Toast covered in rust. Would you like one more?"
       },
       {
         "JpnStr": "ワタシダケユウレイ",
-        "EngStr": "Only I'm a ghost"
+        "EngStr": "I'm the only ghost here"
       },
       {
         "JpnStr": "アナタモユウレイ",
-        "EngStr": "Are you also a ghost?"
+        "EngStr": "Now you're a ghost too"
       }
     ],
     "ListVocab": [
