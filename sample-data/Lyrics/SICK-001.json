@@ -1,225 +1,221 @@
 {
-    "SongLyrics": [
-      {
-        "JpnStr": "間違[まちが]い探[さが]しの夜[よ]更[ふ]かし あら楽[たの]しい",
-        "EngStr": "Up late playing spot the difference. Oh, how fun"
-      },
-      {
-        "JpnStr": "迷[まよ]い子[こ]が手[て]招[まね]く 夢[ゆめ]の国[くに]へ",
-        "EngStr": "A lost child beckons me to the land of dreams"
-      },
-      {
-        "JpnStr": "アッチハソッチ?コッチハドッチ?",
-        "EngStr": "Over there? Or over here?"
-      },
-      {
-        "JpnStr": "電池[でんち]切[き]れ人生[じんせい] たちまち Let's パーティー",
-        "EngStr": "My life's low on battery, but for now, Let's party"
-      },
-      {
-        "JpnStr": "",
-        "EngStr": ""
-      },
-      {
-        "JpnStr": "博愛[はくあい]主義[しゅぎ]の皆々様[みなみなさま] ご立派[ごりっぱ]なことです",
-        "EngStr": "You're all a bunch of philanthropists, how very admirable"
-      },
-      {
-        "JpnStr": "",
-        "EngStr": ""
-      },
-      {
-        "JpnStr": "ぐるぐるぐる 踊[おど]りましょう",
-        "EngStr": "Round and round and round. Let's dance"
-      },
-      {
-        "JpnStr": "べたべたべた 蔓延[はびこ]るの",
-        "EngStr": "Stickiness spreading throughout"
-      },
-      {
-        "JpnStr": "嘘[うそ]だらけ塗[ぬ]ったトースト おひとついかが?",
-        "EngStr": "Toast covered in lies. Would you like some?"
-      },
-      {
-        "JpnStr": "ワタシダケユウレイ",
-        "EngStr": "I'm the only ghost here"
-      },
-      {
-        "JpnStr": "",
-        "EngStr": ""
-      },
-      {
-        "JpnStr": "掻[か]き鳴[な]らした音[おと]は 心地[ここち]悪[わる]いね",
-        "EngStr": "The sound you're strumming out feels bad, man"
-      },
-      {
-        "JpnStr": "搾[しぼ]り出[だ]せ 頭[あたま]の中[なか]ぜんぶ",
-        "EngStr": "C'mon and squeeze out everything inside your head"
-      },
-      {
-        "JpnStr": "",
-        "EngStr": ""
-      },
-      {
-        "JpnStr": "完全[かんぜん]主義[しゅぎ]の皆々様[みなみなさま] 右脳[うのう]が死[し]んでます?",
-        "EngStr": "Dear perfectionists, is the right side of your brain dead?"
-      },
-      {
-        "JpnStr": "",
-        "EngStr": ""
-      },
-      {
-        "JpnStr": "ゆらゆらゆら 遊[あそ]びましょう",
-        "EngStr": "Sway, sway, sway. Let's play"
-      },
-      {
-        "JpnStr": "どろどろどろ 吐[は]き出[だ]すの",
-        "EngStr": "Like sludge, let's spit it out"
-      },
-      {
-        "JpnStr": "錆[さび]だらけ塗[ぬ]ったトースト 代[か]わりにいかが?",
-        "EngStr": "Toast covered in rust. Would you like seconds?"
-      },
-      {
-        "JpnStr": "ダレデスカユウレイ",
-        "EngStr": "Who is the ghost now?"
-      },
-      {
-        "JpnStr": "",
-        "EngStr": ""
-      },
-      {
-        "JpnStr": "空[から]っぽの部屋[へや]で 光[ひかり]は邪魔[じゃま]だね 煙[けむり]の中[なか]でさえ",
-        "EngStr": "In an empty room, light is a nuisance, even in the smoke"
-      },
-      {
-        "JpnStr": "憂鬱[ゆううつ]は飲[の]み干[ほ]せ 毒[どく]が抜[ぬ]けるまで",
-        "EngStr": "Drink up the melancholy until the poison is gone"
-      },
-      {
-        "JpnStr": "後[うし]ろの正面[まえ] 誰[だれ]?",
-        "EngStr": "Who's that behind me"
-      },
-      {
-        "JpnStr": "わたしの顔[かお]が見[み]えた",
-        "EngStr": "I saw my own face"
-      },
-      {
-        "JpnStr": "",
-        "EngStr": ""
-      },
-      {
-        "JpnStr": "ぐるぐるぐる 踊[おど]りましょう",
-        "EngStr": "Round and round and round. Let's dance"
-      },
-      {
-        "JpnStr": "べたべたべた 蔓延[はびこ]るの",
-        "EngStr": "Stickiness spreading throughout"
-      },
-      {
-        "JpnStr": "嘘[うそ]だらけ塗[ぬ]ったトースト 一緒[いっしょ]にいかが?",
-        "EngStr": "Toast covered in lies. How about together?"
-      },
-      {
-        "JpnStr": "ぐちゃぐちゃぐちゃ 笑[わら]いましょう",
-        "EngStr": "Sloppily, messily, let's laugh it off"
-      },
-      {
-        "JpnStr": "ぞくぞくぞく 歪[ゆが]めましょう",
-        "EngStr": "Shuddering, creepily, let's get distorted"
-      },
-      {
-        "JpnStr": "錆[さび]だらけ塗[ぬ]ったトースト もうひとついかが?",
-        "EngStr": "Toast covered in rust. Would you like one more?"
-      },
-      {
-        "JpnStr": "ワタシダケユウレイ",
-        "EngStr": "I'm the only ghost here"
-      },
-      {
-        "JpnStr": "アナタモユウレイ",
-        "EngStr": "Now you're a ghost too"
-      }
-    ],
-    "ListVocab": [
-      "間違い-まちがい",
-      "探し-さがし",
-      "夜更かし-よふかし",
-      "あら-あら",
-      "楽しい-たのしい",
-      "迷い-まよい",
-      "子-こ",
-      "手招く-まねく",
-      "夢-ゆめ",
-      "国-くに",
-      "アッチ-あっち",
-      "ハソッチ-はそっち",
-      "コッチ-こっち",
-      "ハドッチ-はどっち",
-      "電池-でんち",
-      "切れ-きれ",
-      "人生-じんせい",
-      "たちまち-たちまち",
-      "Let's-Let's",
-      "パーティー-ぱーてぃー",
-      "博愛-はくあい",
-      "主義-しゅぎ",
-      "の-の",
-      "皆々様-みなみなさま",
-      "ご立派-ごりっぱ",
-      "な-な",
-      "こと-こと",
-      "ぐるぐる-ぐるぐる",
-      "踊り-おどり",
-      "べたべた-べたべた",
-      "蔓延る-はびこる",
-      "嘘-うそ",
-      "だらけ-だらけ",
-      "塗った-ぬった",
-      "トースト-とーすと",
-      "おひとつ-おひとつ",
-      "いかが-いかが",
-      "ワタシ-わたし",
-      "ダケ-だけ",
-      "ユウレイ-ゆうれい",
-      "掻き鳴らし-かきならし",
-      "音-おと",
-      "心地悪い-ここちわるい",
-      "ぜんぶ-ぜんぶ",
-      "完全-かんぜん",
-      "右脳-うのう",
-      "死んで-しんで",
-      "ます-ます",
-      "ゆらゆら-ゆらゆら",
-      "遊び-あそび",
-      "どろどろ-どろどろ",
-      "吐き出す-はきだす",
-      "錆-さび",
-      "代わり-かわり",
-      "いかが-いかが",
-      "アナタ-あなた",
-      "モ-も",
-      "空っぽ-からっぽ",
-      "部屋-へや",
-      "光-ひかり",
-      "邪魔-じゃま",
-      "ね-ね",
-      "煙-けむり",
-      "憂鬱-ゆううつ",
-      "飲み干せ-のみほせ",
-      "毒-どく",
-      "抜ける-ぬける",
-      "後ろ-うしろ",
-      "正面-まえ",
-      "誰-だれ",
-      "わたし-わたし",
-      "顔-かお",
-      "見えた-みえた",
-      "ぐちゃぐちゃ-ぐちゃぐちゃ",
-      "笑い-わらい",
-      "ぞくぞく-ぞくぞく",
-      "歪め-ゆがめ",
-      "もうひとつ-もうひとつ",
-      "アナタ-あなた"
-    ]
-  }
+  "SongLyrics": [
+    {
+      "JpnStr": "間違[まちが]い探[さが]しの夜[よ]更[ふ]かし あら楽[たの]しい",
+      "EngStr": "Up late playing spot the difference. Oh, how fun"
+    },
+    {
+      "JpnStr": "迷[まよ]い子[こ]が手[て]招[まね]く 夢[ゆめ]の国[くに]へ",
+      "EngStr": "A lost child beckons me to the land of dreams"
+    },
+    {
+      "JpnStr": "アッチハソッチ? コッチハドッチ?",
+      "EngStr": "Over there? Or over here?"
+    },
+    {
+      "JpnStr": "電池[でんち]切[き]れ人生[じんせい] たちまち Let's パーティー",
+      "EngStr": "My life's low on battery, but for now, Let's party"
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "博愛[はくあい]主義[しゅぎ]の皆々様[みなみなさま] ご立派[ごりっぱ]なことです",
+      "EngStr": "You're all a bunch of philanthropists, how very admirable"
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "ぐるぐるぐる 踊[おど]りましょう",
+      "EngStr": "Round and round and round. Let's dance"
+    },
+    {
+      "JpnStr": "べたべたべた 蔓延[はびこ]るの",
+      "EngStr": "Stickiness spreading throughout"
+    },
+    {
+      "JpnStr": "嘘[うそ]だらけ塗[ぬ]ったトースト おひとついかが?",
+      "EngStr": "Toast covered in lies. Would you like some?"
+    },
+    {
+      "JpnStr": "ワタシダケユウレイ",
+      "EngStr": "I'm the only ghost here"
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "掻[か]き鳴[な]らした音[おと]は 心地[ここち]悪[わる]いね",
+      "EngStr": "The sound you're strumming out feels bad, man"
+    },
+    {
+      "JpnStr": "搾[しぼ]り出[だ]せ 頭[あたま]の中[なか]ぜんぶ",
+      "EngStr": "C'mon and squeeze out everything inside your head"
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "完全[かんぜん]主義[しゅぎ]の皆々様[みなみなさま] 右脳[うのう]が死[し]んでます?",
+      "EngStr": "Dear perfectionists, is the right side of your brain dead?"
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "ゆらゆらゆら 遊[あそ]びましょう",
+      "EngStr": "Sway, sway, sway. Let's play"
+    },
+    {
+      "JpnStr": "どろどろどろ 吐[は]き出[だ]すの",
+      "EngStr": "Like sludge, let's spit it out"
+    },
+    {
+      "JpnStr": "錆[さび]だらけ塗[ぬ]ったトースト 代[か]わりにいかが?",
+      "EngStr": "Toast covered in rust. Would you like seconds?"
+    },
+    {
+      "JpnStr": "ダレデスカユウレイ",
+      "EngStr": "Who is the ghost now?"
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "空[から]っぽの部屋[へや]で 光[ひかり]は邪魔[じゃま]だね 煙[けむり]の中[なか]でさえ",
+      "EngStr": "In an empty room, light is a nuisance, even in the smoke"
+    },
+    {
+      "JpnStr": "憂鬱[ゆううつ]は飲[の]み干[ほ]せ 毒[どく]が抜[ぬ]けるまで",
+      "EngStr": "Drink up the melancholy until the poison is gone"
+    },
+    {
+      "JpnStr": "後[うし]ろの正面[まえ] 誰[だれ]?",
+      "EngStr": "Who's that behind me"
+    },
+    {
+      "JpnStr": "わたしの顔[かお]が見[み]えた",
+      "EngStr": "I saw my own face"
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "ぐるぐるぐる 踊[おど]りましょう",
+      "EngStr": "Round and round and round. Let's dance"
+    },
+    {
+      "JpnStr": "べたべたべた 蔓延[はびこ]るの",
+      "EngStr": "Stickiness spreading throughout"
+    },
+    {
+      "JpnStr": "嘘[うそ]だらけ塗[ぬ]ったトースト 一緒[いっしょ]にいかが?",
+      "EngStr": "Toast covered in lies. How about together?"
+    },
+    {
+      "JpnStr": "ぐちゃぐちゃぐちゃ 笑[わら]いましょう",
+      "EngStr": "Sloppily, messily, let's laugh it off"
+    },
+    {
+      "JpnStr": "ぞくぞくぞく 歪[ゆが]めましょう",
+      "EngStr": "Shuddering, creepily, let's get distorted"
+    },
+    {
+      "JpnStr": "錆[さび]だらけ塗[ぬ]ったトースト もうひとついかが?",
+      "EngStr": "Toast covered in rust. Would you like one more?"
+    },
+    {
+      "JpnStr": "ワタシダケユウレイ",
+      "EngStr": "I'm the only ghost here"
+    },
+    {
+      "JpnStr": "貴方[あなた]モユウレイ",
+      "EngStr": "Now you're a ghost too"
+    }
+  ],
+  "ListVocab": [
+    "間違い-まちがい",
+    "探し-さがし",
+    "夜更かし-よふかし",
+    "あら-あら",
+    "楽しい-たのしい",
+    "迷い-まよい",
+    "子-こ",
+    "手招く-まねく",
+    "夢-ゆめ",
+    "国-くに",
+    "アッチ-あっち",
+    "ハソッチ-はそっち",
+    "コッチ-こっち",
+    "ハドッチ-はどっち",
+    "電池-でんち",
+    "切れ-きれ",
+    "人生-じんせい",
+    "たちまち-たちまち",
+    "パーティー-ぱーてぃー",
+    "博愛-はくあい",
+    "主義-しゅぎ",
+    "の-の",
+    "皆々様-みなみなさま",
+    "ご立派-ごりっぱ",
+    "な-な",
+    "こと-こと",
+    "ぐるぐる-ぐるぐる",
+    "踊り-おどり",
+    "べたべた-べたべた",
+    "蔓延る-はびこる",
+    "嘘-うそ",
+    "だらけ-だらけ",
+    "塗った-ぬった",
+    "トースト-とーすと",
+    "おひとつ-おひとつ",
+    "いかが-いかが",
+    "ワタシ-わたし",
+    "ダケ-だけ",
+    "ユウレイ-ゆうれい",
+    "掻き鳴らし-かきならし",
+    "音-おと",
+    "心地悪い-ここちわるい",
+    "ぜんぶ-ぜんぶ",
+    "完全-かんぜん",
+    "右脳-うのう",
+    "死んで-しんで",
+    "ます-ます",
+    "ゆらゆら-ゆらゆら",
+    "遊び-あそび",
+    "どろどろ-どろどろ",
+    "吐き出す-はきだす",
+    "錆-さび",
+    "代わり-かわり",
+    "モ-も",
+    "空っぽ-からっぽ",
+    "部屋-へや",
+    "光-ひかり",
+    "邪魔-じゃま",
+    "ね-ね",
+    "煙-けむり",
+    "憂鬱-ゆううつ",
+    "飲み干せ-のみほせ",
+    "毒-どく",
+    "抜ける-ぬける",
+    "後ろ-うしろ",
+    "正面-まえ",
+    "誰-だれ",
+    "わたし-わたし",
+    "顔-かお",
+    "見えた-みえた",
+    "ぐちゃぐちゃ-ぐちゃぐちゃ",
+    "笑い-わらい",
+    "ぞくぞく-ぞくぞく",
+    "歪め-ゆがめ",
+    "もうひとつ-もうひとつ"
+  ]
+}
