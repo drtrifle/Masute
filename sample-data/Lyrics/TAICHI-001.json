@@ -9,7 +9,7 @@
         "EngStr": "Once you let go, it's your ticket to tomorrow"
       },
       {
-        "JpnStr": "この場所[ばしょ]から 始[はじ]まるから",
+        "JpnStr": "此[こ]の場所[ばしょ]から 始[はじ]まるから",
         "EngStr": "Because it starts from this place"
       },
       {
@@ -45,7 +45,7 @@
         "EngStr": "The more we walk side by side, the more we compare ourselves to others"
       },
       {
-        "JpnStr": "いつのまにか背伸[せの]びして 強[つよ]がる自分[じぶん]に気[き]づく",
+        "JpnStr": "何時[いつ]の間[ま]にか背伸[せの]びして 強[つよ]がる自[じ]分[ぶん]に気[き]づく",
         "EngStr": "Before I know it, I realize I'm getting taller and stronger"
       },
       {
@@ -61,7 +61,7 @@
         "EngStr": "Once I let go, my ticket to tomorrow"
       },
       {
-        "JpnStr": "この場所[ばしょ]から 始[はじ]まるから",
+        "JpnStr": "此[こ]の場所[ばしょ]から 始[はじ]まるから",
         "EngStr": "Because it starts from this place"
       },
       {
@@ -77,27 +77,27 @@
         "EngStr": "Bound by the past, dragged down by the shackles"
       },
       {
-        "JpnStr": "身動[みうご]きとれなくなってしまった",
+        "JpnStr": "身動[みうご]きとれなくなって仕[し]舞[ま]った",
         "EngStr": "I'm stuck in the past"
       },
       {
-        "JpnStr": "消[き]えて忘[わす]れてしまいたいなんて",
+        "JpnStr": "消[き]えて忘[わす]れて仕[し]舞[ま]いたいなんて",
         "EngStr": "I want to disappear and be forgotten"
       },
       {
-        "JpnStr": "被害者[ひがいしゃ]ぶって逃[に]げていただけ",
-        "EngStr": "I was just running away, playing the victim"
+        "JpnStr": "被害者[ひがいしゃ]ぶって逃[に]げていた丈[だけ]",
+        "EngStr": "I was just running away, just playing the victim"
       },
       {
         "JpnStr": "",
         "EngStr": ""
       },
       {
-        "JpnStr": "いつもより緩[ゆる]い風呂[ふろ]の中[なか]で自問自答[じもんじとう]",
+        "JpnStr": "何時[いつ]もより緩[ゆる]い風呂[ふろ]の中[なか]で自問自答[じもんじとう]",
         "EngStr": "Asking myself questions in a bath that's looser than usual"
       },
       {
-        "JpnStr": "悩[なや]んでいたことなんて ちっぽけなことだったんだ",
+        "JpnStr": "悩[なや]んでいた事[こと]なんて ちっぽけな事[こと]だったんだ",
         "EngStr": "What I was worrying about was just a small thing"
       },
       {
@@ -125,7 +125,7 @@
         "EngStr": ""
       },
       {
-        "JpnStr": "色[いろ]んなことを大袈裟[おおげさ]にして",
+        "JpnStr": "色[いろ]んな事[こと]を大袈裟[おおげさ]にして",
         "EngStr": "You exaggerate so many things"
       },
       {
@@ -133,7 +133,7 @@
         "EngStr": "You'll lose your kind heart and hurt yourself"
       },
       {
-        "JpnStr": "自分[じぶん]が一番[いちばん]可愛[かわい]くなって",
+        "JpnStr": "自[じ]分[ぶん]が一番[いちばん]可愛[かわい]くなって",
         "EngStr": "I've become the prettiest person I know"
       },
       {
@@ -165,7 +165,7 @@
         "EngStr": "Once I let go, the ticket to tomorrow"
       },
       {
-        "JpnStr": "この場所[ばしょ]から 始[はじ]まるから",
+        "JpnStr": "此[こ]の場所[ばしょ]から 始[はじ]まるから",
         "EngStr": "Because it starts from this place"
       },
       {
@@ -177,7 +177,7 @@
         "EngStr": ""
       },
       {
-        "JpnStr": "広[ひろ]がる世界[せかい]は 僕[ぼく]だけのものさ",
+        "JpnStr": "広[ひろ]がる世界[せかい]は 僕[ぼく]丈[だけ]のものさ",
         "EngStr": "The world that opens up is mine alone"
       },
       {
@@ -200,7 +200,7 @@
       "離した-はなした",
       "明日-あした",
       "チケット-ちけっと",
-      "この-この",
+      "此の-この",
       "場所-ばしょ",
       "から-から",
       "始まる-はじまる",
@@ -212,8 +212,9 @@
       "出て-でて",
       "目-め",
       "移る-うつる",
-      "サンセット-さんせっと",
-      "オレンジ色-おれんじいろ",
+      "サンセット-サンセット",
+      "オレンジ-オレンジ",
+      "色-いろ",
       "滲んで-にじんで",
       "見えて-みえて",
       "流す-ながす",
@@ -230,7 +231,7 @@
       "人-ひと",
       "比べて-くらべて",
       "ばかり-ばかり",
-      "いつのまにか-いつのまにか",
+      "何時の間にか-いつのまにか",
       "背伸びして-せのびして",
       "強がる-つよがる",
       "自分-じぶん",
@@ -241,22 +242,21 @@
       "引きずって-ひきずって",
       "身動き-みうごき",
       "とれなくなって-とれなくなって",
-      "しまった-しまった",
+      "仕舞った-しまった",
       "消えて-きえて",
       "忘れて-わすれて",
-      "しまいたい-しまいたい",
+      "仕舞う-しまう",
       "被害者-ひがいしゃ",
       "ぶって-ぶって",
       "逃げて-にげて",
-      "いただけ-いただけ",
-      "いつもより-いつもより",
+      "何時もより-いつもより",
       "緩い-ゆるい",
       "風呂-ふろ",
       "中-なか",
       "自問自答-じもんじとう",
       "悩んでいた-なやんでいた",
       "ちっぽけな-ちっぽけな",
-      "こと-こと",
+      "事-こと",
       "だったん-だったん",
       "挫けそう-くじけそう",
       "立ち止まって-たちどまって",
@@ -268,7 +268,6 @@
       "最初-さいしょ",
       "色んな-いろんな",
       "大袈裟-おおげさ",
-      "して-して",
       "優しい-やさしい",
       "なくし-なくし",
       "傷つけ-きずつけ",
@@ -286,7 +285,7 @@
       "広がる-ひろがる",
       "世界-せかい",
       "僕-ぼく",
-      "だけ-だけ",
+      "丈-だけ",
       "踏み出す-ふみだす",
       "力-ちから",
       "満たす-みたす",

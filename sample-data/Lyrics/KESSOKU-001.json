@@ -26,7 +26,7 @@
       },
       {
         "JpnStr": "めまいの螺[ら]旋[せん]だ 私[わたし]はどこにいる",
-        "EngStr": "I can't breathe, the pressure of information, the spiral of vertigo, where am I?"
+        "EngStr": "The spiral of vertigo, where am I?"
       },
       {
         "JpnStr": "こんなに こんなに 息[いき]の音[おと]がするのに",
@@ -137,7 +137,7 @@
         "EngStr": "I've heard so many sounds"
       },
       {
-        "JpnStr": "回[まわ]り続[つづ]けて 幾[いく]億[おく]年ねん",
+        "JpnStr": "回[まわ]り続[つづ]けて 幾[いく]億[おく]年[ねん]",
         "EngStr": "Spinning on and on for hundreds of millions of years"
       },
       {
@@ -267,6 +267,7 @@
       "聞く-きく",
       "回り-まわり",
       "続けて-つづけて",
+      "年-ねん",
       "一瞬-いっしゅん",
       "なんか-なんか",
       "何者か-なにものか"

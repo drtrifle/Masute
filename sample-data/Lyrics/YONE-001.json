@@ -1,15 +1,15 @@
 {
     "SongLyrics": [
       {
-        "JpnStr": "くだらねえ いつになりゃ終[お]わる?",
+        "JpnStr": "下[くだ]らねえ 何時[いつ]になりゃ終[お]わる?",
         "EngStr": "What a load of crap, when will this end?"
       },
       {
-        "JpnStr": "なんか死[し]にてえ気持[きも]ちで ブラブラブラ",
+        "JpnStr": "なんか死[し]にてえ気[き]持[も]ちで ブラブラブラ",
         "EngStr": "Feel like I'm dying inside, blah blah blah"
       },
       {
-        "JpnStr": "残念[ざんねん] 手前[てまえ]じゃ所在[しょざい]ねえ",
+        "JpnStr": "残[ざん]念[ねん] 手[て]前[まえ]じゃ所[しょ]在[ざい]ねえ",
         "EngStr": "Too bad, got nothing to do on my own"
       },
       {
@@ -29,7 +29,7 @@
         "EngStr": "Could you not? Spouting nonsense blah blah blah"
       },
       {
-        "JpnStr": "悪銭[あくせん] 抱[かか]えどこへ行[ゆ]く",
+        "JpnStr": "悪[あく]銭[せん] 抱[かか]えどこへ行[ゆ]く",
         "EngStr": "Where are you going with that dirty money?"
       },
       {
@@ -53,7 +53,7 @@
         "EngStr": "Hey, hey, please please help me"
       },
       {
-        "JpnStr": "そんなけったいなことばっか言[い]わんで容赦[ようしゃ]したってや",
+        "JpnStr": "そんなけったいな言[こと]葉[ば]っか言[い]わんで容赦[ようしゃ]したってや",
         "EngStr": "Won't you stop with the baffling talk and show some mercy?"
       },
       {
@@ -61,7 +61,7 @@
         "EngStr": "Ahh, the light's going out before the break of dawn"
       },
       {
-        "JpnStr": "ああ 面白[おもしろ]くなるところだったのに",
+        "JpnStr": "ああ 面[おも]白[しろ]くなるところだったのに",
         "EngStr": "Ahh, just as it was getting interesting"
       },
       {
@@ -69,7 +69,7 @@
         "EngStr": ""
       },
       {
-        "JpnStr": "だらしねえ 義理[ぎり]も糸瓜[へちま]もねえ",
+        "JpnStr": "だらしねえ 義[ぎ]理[り]も糸瓜[へちま]もねえ",
         "EngStr": "So unsightly, no honor or nothing"
       },
       {
@@ -89,7 +89,7 @@
         "EngStr": ""
       },
       {
-        "JpnStr": "つれえ いちびりのガキが",
+        "JpnStr": "つれえ いちびりの餓[が]鬼[き]が",
         "EngStr": "A pain in the ass, this prankster brat"
       },
       {
@@ -97,7 +97,7 @@
         "EngStr": "Made a selfish mess for the higher ups, Blah blah blah"
       },
       {
-        "JpnStr": "怨念[おんねん] これじゃ気[き]が済[す]まねえ",
+        "JpnStr": "怨[おん]念[ねん] これじゃ気[き]が済[す]まねえ",
         "EngStr": "Got a grudge, won't be satisfied like this"
       },
       {
@@ -121,7 +121,7 @@
         "EngStr": "I wanna see your face when you try and you fail and you cry and you wail"
       },
       {
-        "JpnStr": "どうせ俺[おれ]らの仲間入[なかまい]り",
+        "JpnStr": "どうせ俺[おれ]らの仲[なか]間[ま]入[い]り",
         "EngStr": "We're gonna be friends anyhow"
       },
       {
@@ -133,7 +133,7 @@
         "EngStr": "Hey, hey, please please help me"
       },
       {
-        "JpnStr": "そうだ過あやまつは人ひとの常つね なああんたはどうすんだ",
+        "JpnStr": "そうだ過[か]あやまつは人ひとの常[つね] なああんたはどうすんだ",
         "EngStr": "That's right, to make mistakes is human nature. Hey, what're you gonna do?"
       },
       {
@@ -141,15 +141,15 @@
         "EngStr": "Hey, hey, please please help me"
       },
       {
-        "JpnStr": "あんなええもん持もったらこうなるわ そりゃあんたのせいやんか",
+        "JpnStr": "あんなええもん持[も]ったらこうなるわ そりゃあんたのせいやんか",
         "EngStr": "Now that you've come to have something so good, isn't this your fault"
       },
       {
-        "JpnStr": "ああ どこへ行[ゆ]く 妻子つまこもいるんです",
+        "JpnStr": "ああ どこへ行[ゆ]く 妻[さい]子[し]つまこもいるんです",
         "EngStr": "Hey where ya going? You see I have a wife and kids"
       },
       {
-        "JpnStr": "ああ 香かおり立たつおしまいのフレグランス",
+        "JpnStr": "ああ 香[かお]り立[た]つお仕[し]舞[ま]いのフレグランス",
         "EngStr": "Ahh, the scent, the scent. The fragrance of death."
       },
       {
@@ -161,88 +161,78 @@
         "EngStr": "Ahh, the light's going out before the break of dawn"
       },
       {
-        "JpnStr": "ああ 面白[おもしろ]くなるところだったのに",
+        "JpnStr": "ああ 面[おも]白[しろ]くなるところだったのに",
         "EngStr": "Ahh, just as it was getting interesting"
       }
     ],
     "ListVocab": [
-      "くだらない-くだらない",
-      "いつ-いつ",
+      "下らない-くだらない",
+      "何時-いつ",
       "なる-なりゃ",
-      "おわる-おわる",
+      "終わる-おわる",
       "なんか-なんか",
-      "しに-しに",
-      "てえ-てえ",
-      "きもち-きもち",
+      "気持ち-きもち",
       "ブラブラ-ぶらぶら",
-      "ざんねん-ざんねん",
-      "てまえ-てまえ",
-      "じゃしょざい-じゃしょざい",
+      "残念-ざんねん",
+      "手前-てまえ",
+      "所在-しょざい",
       "テケレッツ-てけれっつ",
       "パー-ぱー",
       "うぜえ-うぜえ",
-      "じゃらくれる-じゃらくれた",
       "タコ-たこ",
       "やる-やらん",
       "よたふく-よたふき",
       "悪銭-あくせん",
-      "かかえる-かかえ",
+      "抱える-かかえる",
       "どこ-どこ",
       "ゆく-ゆく",
       "プリーズヘルプミー-ぷりーずへるぷみー",
       "ちっと-ちっと",
-      "こんがらがる-こんがらがって",
+      "こんがらがる-こんがらがる",
       "め-め",
-      "くらむ-くらん",
+      "眩む-くらむ",
       "ただ-ただ",
       "そんな-そんな",
       "けったい-けったい",
-      "こと-こと",
+      "言葉-ことば",
       "ばっか-ばっか",
-      "いわむ-いわん",
       "ようしゃする-ようしゃしたっ",
       "ああ-ああ",
       "ひくえる-ひがきえる",
       "よあけ-よあけ",
-      "おもしろい-おもしろく",
+      "面白い-おもしろい",
       "なる-なる",
       "だらし-だらし",
-      "ぎりも-ぎりも",
-      "へちま-へちま",
+      "義理-ぎり",
+      "糸瓜-へちま",
       "はんぱ-はんぱ",
       "ぬかしい-ぬかしい",
-      "しん-しぬ",
+      "死ぬ-しぬ",
       "まで-まで",
-      "さわる-さわら",
-      "そりゃ-そりゃ",
       "わたる-わたり",
       "ふね-ふね",
       "つれい-つれえ",
       "いちびり-いちびり",
-      "ガキ-がき",
+      "餓鬼-がき",
       "やる-やらかし",
-      "おかみ-おかみ",
-      "おんねん-おんねん",
+      "怨念-おんねん",
       "これ-これ",
-      "じゃ-じゃ",
-      "きがすむ-きがすまねえ",
+      "気が済む-きがすむ",
       "どうせ-どうせ",
-      "おれ-おれら",
+      "俺ら-おれら",
       "なかま-なかま",
-      "いり-いり",
-      "せめくの-せめくの",
+      "責め苦-せめく",
       "はて-はて",
       "のぞく-のぞける",
       "やつ-やつ",
       "とん-とん",
-      "すべる-すべって",
+      "滑る-すべる",
       "なく-ないて",
       "わめく-わめいた",
-      "かお-かお",
+      "香り-かおり",
       "みる-みたい",
       "つまこむ-つまこもいる",
-      "かおりたつ-かおりたつ",
-      "おしまい-おしまい",
+      "お仕舞い-おしまい",
       "フレグランス-ふれぐらんす"
     ]
   }

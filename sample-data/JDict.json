@@ -691,7 +691,7 @@
   {
     "Key": "そしたら-そしたら",
     "Furi": "そしたら",
-    "Eng": "",
+    "Eng": "then/in that case/if so",
     "optTags": [
       "conjunction",
       "songLib"
@@ -3000,9 +3000,23 @@
     "optSongLibFreq": 2
   },
   {
-    "Key": "何時-なんじ",
-    "Furi": "何[なん]時[じ]",
-    "Eng": "what time",
+    "Key": "何時 (代名詞)-いつ",
+    "Furi": "何時[いつ] (代名詞)",
+    "Eng": "when/at what time/how soon",
+    "optTags": [
+      "pronoun",
+      "jlpt-n5"
+    ],
+    "optIkomaKanji": "02",
+    "optSongLibFreq": 0
+  },
+  {
+    "Key": "何時 (名詞)-なんじ",
+    "Furi": "何[なん]時[じ] (名詞)",
+    "Eng": "what time/which hour",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "02",
     "optSongLibFreq": 0
   },
@@ -3786,6 +3800,7 @@
     "Eng": "that",
     "optTags": [
       "pronoun",
+      "jlpt-n5",
       "songLib"
     ],
     "optSongLibFreq": 1
@@ -7376,9 +7391,10 @@
   {
     "Key": "差す-さす",
     "Furi": "差[さ]す",
-    "Eng": "to stretch out hands/to raise an umbrella",
+    "Eng": "to stretch out (hands)/to raise (umbrella)",
     "optTags": [
       "verb-1",
+      "verb-transitive",
       "verb-intransitive",
       "jlpt-n5"
     ],
@@ -10961,14 +10977,21 @@
   {
     "Key": "歩道-ほどう",
     "Furi": "歩[ほ]道[どう]",
-    "Eng": "sidewalk",
+    "Eng": "sidewalk/pavement",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "12",
     "optSongLibFreq": 0
   },
   {
     "Key": "歩道橋-ほどうきょう",
     "Furi": "歩[ほ]道[どう]橋[きょう]",
-    "Eng": "overpass",
+    "Eng": "overpass/pedestrian bridge",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "29",
     "optSongLibFreq": 0
   },
@@ -10986,8 +11009,9 @@
   {
     "Key": "歯-は",
     "Furi": "歯[は]",
-    "Eng": "tooth",
+    "Eng": "tooth/teeth",
     "optTags": [
+      "noun",
       "jlpt-n5"
     ],
     "optIkomaKanji": "34",
@@ -10997,6 +11021,10 @@
     "Key": "歯医者-はいしゃ",
     "Furi": "歯[は]医[い]者[しゃ]",
     "Eng": "dentist",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "34",
     "optSongLibFreq": 0
   },
@@ -11004,14 +11032,20 @@
     "Key": "歯科-しか",
     "Furi": "歯[し]科[か]",
     "Eng": "dentistry",
+    "optTags": [
+      "noun",
+      "jlpt-n1"
+    ],
     "optIkomaKanji": "34",
     "optSongLibFreq": 0
   },
   {
     "Key": "死ぬ-しぬ",
     "Furi": "死[し]ぬ",
-    "Eng": "to die",
+    "Eng": "to die/to pass away",
     "optTags": [
+      "verb-1",
+      "verb-intransitive",
       "jlpt-n5"
     ],
     "optIkomaKanji": "39",
@@ -11021,14 +11055,20 @@
     "Key": "死者-ししゃ",
     "Furi": "死[し]者[しゃ]",
     "Eng": "the deceased",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "39",
     "optSongLibFreq": 0
   },
   {
     "Key": "残る-のこる",
     "Furi": "残[のこ]る",
-    "Eng": "to remain",
+    "Eng": "to remain/to be left",
     "optTags": [
+      "verb-1",
+      "verb-intransitive",
+      "jlpt-n4",
       "songLib"
     ],
     "optIkomaKanji": "40",
@@ -11037,7 +11077,12 @@
   {
     "Key": "残念-ざんねん",
     "Furi": "残[ざん]念[ねん]",
-    "Eng": "unlucky",
+    "Eng": "unlucky/unfortunate",
+    "optTags": [
+      "noun",
+      "adj-な",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "40",
     "optSongLibFreq": 0
   },
@@ -12103,7 +12148,7 @@
     "Furi": "煌[きら]めく",
     "Eng": "to glitter/to sparkle/to twinkle",
     "optTags": [
-      "verb-2",
+      "verb-1",
       "verb-intransitive",
       "songLib"
     ],
@@ -18404,5 +18449,396 @@
       "jlpt-n5"
     ],
     "optSongLibFreq": 0
+  },
+  {
+    "Key": "如何-いかが",
+    "Furi": "如何[いかが]",
+    "Eng": "how/in what way/how about",
+    "optTags": [
+      "adverb"
+    ]
+  },
+  {
+    "Key": "鬼ごっこ-おにごっこ",
+    "Furi": "鬼[おに]ごっこ",
+    "Eng": "tag",
+    "optTags": [
+      "adverb"
+    ]
+  },
+  {
+    "Key": "いちびり-いちびり",
+    "Furi": "いちびり",
+    "Eng": "prankster/joker",
+    "optTags": [
+      "noun"
+    ]
+  },
+  {
+    "Key": " いっそ-いっそ",
+    "Furi": "いっそ",
+    "Eng": "rather/sooner/preferably",
+    "optTags": [
+      "adverb",
+      "jlpt-n1"
+    ]
+  },
+  {
+    "Key": " 何時だって-いつだって",
+    "Furi": "何時[いつ]だって",
+    "Eng": "always/all the time",
+    "optTags": [
+      "phrase"
+    ]
+  },
+  {
+    "Key": "何時の間にか-いつのまにか",
+    "Furi": "何時[いつ]の間[ま]にか",
+    "Eng": "before one knows/unnoticed/unawares",
+    "optTags": [
+      "phrase"
+    ]
+  },
+  {
+    "Key": "何時もより-いつもより",
+    "Furi": "何時[いつ]もより",
+    "Eng": "more than usual",
+    "optTags": [
+      "adverb"
+    ]
+  },
+  {
+    "Key": "いよう-いよう",
+    "Furi": "いよう",
+    "Eng": "lets be/shall be",
+    "optTags": [
+      "phrase"
+    ]
+  },
+  {
+    "Key": "うぜえ-うぜえ",
+    "Furi": "うぜえ",
+    "Eng": "annoying/noisy",
+    "optTags": [
+      "phrase"
+    ]
+  },
+  {
+    "Key": "お仕舞い-おしまい",
+    "Furi": "お仕[し]舞[ま]い",
+    "Eng": "the end/closing/being done for",
+    "optTags": [
+      "noun"
+    ]
+  },
+  {
+    "Key": "俺ら-おれら",
+    "Furi": "俺[おれ]ら",
+    "Eng": "we/us",
+    "optTags": [
+      "pronoun"
+    ]
+  },
+  {
+    "Key": "怨念-おんねん",
+    "Furi": "怨[おん]念[ねん]",
+    "Eng": "grudge/hatred",
+    "optTags": [
+      "noun"
+    ]
+  },
+  {
+    "Key": "お気に入り-おきにいり",
+    "Furi": "お気[き]に入[い]り",
+    "Eng": "favorite/favourite",
+    "optTags": [
+      "noun"
+    ]
+  },
+  {
+    "Key": "お決まり-おきまり",
+    "Furi": "お決[き]まり",
+    "Eng": "standard/routine/stereotyped",
+    "optTags": [
+      "noun"
+    ]
+  },
+  {
+    "Key": "祭り-まつり",
+    "Furi": "祭[まつ]り",
+    "Eng": "festival/feast",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ]
+  },
+  {
+    "Key": "餓鬼-がき",
+    "Furi": "餓[が]鬼[き]",
+    "Eng": "brat/kid/little devil",
+    "optTags": [
+      "noun"
+    ]
+  },
+  {
+    "Key": "隠れんぼ-かくれんぼ",
+    "Furi": "隠[かく]れんぼ",
+    "Eng": "hide and seek",
+    "optTags": [
+      "noun"
+    ]
+  },
+  {
+    "Key": "我武者羅-がむしゃら",
+    "Furi": "我[が]武[む]者[しゃ]羅[ら]",
+    "Eng": "reckless/frantic/daredevil",
+    "optTags": [
+      "noun",
+      "adj-な"
+    ]
+  },
+  {
+    "Key": "カメラ-カメラ",
+    "Furi": "カメラ",
+    "Eng": "camera",
+    "optTags": [
+      "noun",
+      "jlpt-n5"
+    ]
+  },
+  {
+    "Key": "気が済む-きがすむ",
+    "Furi": "気[き]が済[す]む",
+    "Eng": "to be satisfied",
+    "optTags": [
+      "phrase",
+      "jlpt-n5"
+    ]
+  },
+  {
+    "Key": "キラキラ-キラキラ",
+    "Furi": "キラキラ",
+    "Eng": "glittering/sparkling/twinkling",
+    "optTags": [
+      "adverb",
+      "verb-3"
+    ]
+  },
+  {
+    "Key": "義理-きり",
+    "Furi": "義[き]理[り]",
+    "Eng": "duty/honor/honour",
+    "optTags": [
+      "noun",
+      "jlpt-n1"
+    ]
+  },
+  {
+    "Key": "下らない-くだらない",
+    "Furi": "下[くだ]らない",
+    "Eng": "useless/trival/insignificant",
+    "optTags": [
+      "adj-い",
+      "jlpt-n2"
+    ]
+  },
+  {
+    "Key": "ぐちゃぐちゃ-ぐちゃぐちゃ",
+    "Furi": "ぐちゃぐちゃ",
+    "Eng": "sloppy/untidy/pulpy/soppy",
+    "optTags": [
+      "adverb",
+      "adj-な",
+      "verb-3"
+    ]
+  },
+  {
+    "Key": "眩む-くらむ",
+    "Furi": "眩[くら]む",
+    "Eng": "to be lost in/to be dazzled by/to be disoriented",
+    "optTags": [
+      "verb-1",
+      "verb-intransitive"
+    ]
+  },
+  {
+    "Key": "ぐるぐる-ぐるぐる",
+    "Furi": "ぐるぐる",
+    "Eng": "round and round/in circles (turning)",
+    "optTags": [
+      "adverb"
+    ]
+  },
+  {
+    "Key": "けったい-けったい",
+    "Furi": "けったい",
+    "Eng": "odd/strange/queer/weird",
+    "optTags": [
+      "adj-な"
+    ]
+  },
+  {
+    "Key": "けんもほろろ-けんもほろろ",
+    "Furi": "けんもほろろ",
+    "Eng": "curt/blunt",
+    "optTags": [
+      "adj-な",
+      "noun"
+    ]
+  },
+  {
+    "Key": "此処-ここ",
+    "Furi": "此処[ここ]",
+    "Eng": "here/this place",
+    "optTags": [
+      "pronoun"
+    ]
+  },
+  {
+    "Key": "此方-こちら",
+    "Furi": "此方[こちら]",
+    "Eng": "here/this way/this direction",
+    "optTags": [
+      "pronoun",
+      "jlpt-n5"
+    ]
+  },
+  {
+    "Key": "こっち-こっち",
+    "Furi": "こっち",
+    "Eng": "here/this way/this direction",
+    "optTags": [
+      "pronoun",
+      "jlpt-n5"
+    ]
+  },
+  {
+    "Key": "お出で-おいで",
+    "Furi": "お出[い]で",
+    "Eng": "coming/going/being (somewhere)",
+    "optTags": [
+      "pronoun",
+      "jlpt-n5"
+    ]
+  },
+  {
+    "Key": "こんがらがる-こんがらがる",
+    "Furi": "こんがらがる",
+    "Eng": "to get mixed up/to become entangled/to become complicated",
+    "optTags": [
+      "verb-1",
+      "verb-intransitive"
+    ]
+  },
+  {
+    "Key": "こんな-こんな",
+    "Furi": "こんな",
+    "Eng": "this sort of/this kind of/like this",
+    "optTags": [
+      "preNounAdj",
+      "jlpt-n5"
+    ]
+  },
+  {
+    "Key": "ご立派-ごりっぱ",
+    "Furi": "ご立[りっ]派[ぱ]",
+    "Eng": "splendid/admirable",
+    "optTags": [
+      "preNounAdj",
+      "jlpt-n5"
+    ]
+  },
+  {
+    "Key": "最低-さいてい",
+    "Furi": "最[さい]低[てい]",
+    "Eng": "worst/least",
+    "optTags": [
+      "noun",
+      "adj-な",
+      "jlpt-n3"
+    ]
+  },
+  {
+    "Key": "さよなら-さよなら",
+    "Furi": "さよなら",
+    "Eng": "goodbye/farewell",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-intransitive"
+    ]
+  },
+  {
+    "Key": "サンセット-サンセット",
+    "Furi": "サンセット",
+    "Eng": "sunset",
+    "optTags": [
+      "noun"
+    ]
+  },
+  {
+    "Key": "一度しか-いちどしか",
+    "Furi": "一[いち]度[ど]しか",
+    "Eng": "only once"
+  },
+  {
+    "Key": "直に-じきに",
+    "Furi": "直[じき]に",
+    "Eng": "immediately/right away",
+    "optTags": [
+      "adverb"
+    ]
+  },
+  {
+    "Key": "とする-とする",
+    "Furi": "とする",
+    "Eng": "to try to/to decide to",
+    "optTags": [
+      "phrase",
+      "verb-3"
+    ]
+  },
+  {
+    "Key": "シャッター-シャッター",
+    "Furi": "シャッター",
+    "Eng": "shutter",
+    "optTags": [
+      "noun",
+      "jlpt-n2"
+    ]
+  },
+  {
+    "Key": "ストーリー-ストーリー",
+    "Furi": "ストーリー",
+    "Eng": "story/tale/legend",
+    "optTags": [
+      "noun"
+    ]
+  },
+  {
+    "Key": "そうやって-そうやって",
+    "Furi": "そうやって",
+    "Eng": "like that/that way/thus",
+    "optTags": [
+      "conjunction"
+    ]
+  },
+  {
+    "Key": "ぞくぞく-ぞくぞく",
+    "Furi": "ぞくぞく",
+    "Eng": "shuddering/shivering",
+    "optTags": [
+      "adverb",
+      "verb-3"
+    ]
+  },
+  {
+    "Key": "其処-そこ",
+    "Furi": "其処[そこ]",
+    "Eng": "there (near listener)",
+    "optTags": [
+      "pronoun",
+      "jlpt-n5"
+    ]
   }
 ]

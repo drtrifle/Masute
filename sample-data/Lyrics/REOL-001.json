@@ -1,7 +1,7 @@
 {
     "SongLyrics": [
       {
-        "JpnStr": "雨降[あめふ]りでも傘[かさ]はささないの",
+        "JpnStr": "雨降[あめふ]りでも傘[かさ]は差[さ]さないの",
         "EngStr": "Even when it's raining, I don't use an umbrella"
       },
       {
@@ -29,7 +29,7 @@
         "EngStr": "That one second when it appears in the puddle"
       },
       {
-        "JpnStr": "ただ一度[いちど]この目[め]で見[み]てみたいだけなの",
+        "JpnStr": "ただ一度[いちど]此[こ]の目[め]で見[み]てみたいだけなの",
         "EngStr": "I just want to see it once with my own eyes, that's all"
       },
       {
@@ -53,7 +53,7 @@
         "EngStr": "I just want to break away and run to tomorrow"
       },
       {
-        "JpnStr": "昨日[きのう]の彼[かれ]も朝焼[あさや]けもいないけど それでそれでいいの",
+        "JpnStr": "昨日[きのう]の彼[かれ]も朝焼[あさや]けもいないけど 其[そ]れで其[そ]れでいいの",
         "EngStr": "Since you're stuck in yesterday, if another sunrise never came, it's okay, it's okay with me"
       },
       {
@@ -61,7 +61,7 @@
         "EngStr": ""
       },
       {
-        "JpnStr": "ずっと続[つづ]いてく きっと進[すす]んでる",
+        "JpnStr": "ずっと続[つづ]いてく 屹度[きっと]進[すす]んでる",
         "EngStr": "I'll kust keep moving on, always going forward"
       },
       {
@@ -69,7 +69,7 @@
         "EngStr": "I will love you more and more! Everyday, with you"
       },
       {
-        "JpnStr": "いっそ七転[ななころ]んで 何回起[なんかいお]き上[あ]がって",
+        "JpnStr": "いっそ七[なな]転[ころ]んで 何[なん]回[かい]起[お]き上[あ]がって",
         "EngStr": "I may fall seven times, but I will keep on moving"
       },
       {
@@ -117,7 +117,7 @@
         "EngStr": ""
       },
       {
-        "JpnStr": "描[えが]いて 奏[かな]でて きらめく 願[ねが]いが 叶[かな]うよ!",
+        "JpnStr": "描[えが]いて 奏[かな]でて 煌[きら]めく 願[ねが]いが 叶[かな]うよ!",
         "EngStr": "Draw it out! Play it out! The sparkling wishes will come true!"
       },
       {
@@ -133,7 +133,7 @@
         "EngStr": "I want to run so fast that I can make it to space in just one jump"
       },
       {
-        "JpnStr": "浮[う]かべた星[ほし]も月[つき]にも会[あ]えないけど それでそれでいいの",
+        "JpnStr": "浮[う]かべた星[ほし]も月[つき]にも会[あ]えないけど 其[そ]れで其[そ]れでいいの",
         "EngStr": "Even if I cannot go reach the stars and moon high above, it's okay, it's okay with me"
       },
       {
@@ -141,7 +141,7 @@
         "EngStr": ""
       },
       {
-        "JpnStr": "ずっと続[つづ]いてく きっと進[すす]んでる",
+        "JpnStr": "ずっと続[つづ]いてく 屹度[きっと]進[すす]んでる",
         "EngStr": "I'll just keep moving on, always going forward"
       },
       {
@@ -149,7 +149,7 @@
         "EngStr": "More and more I love, these precious days with you!"
       },
       {
-        "JpnStr": "いっそうずくまって 何回泣[なんかいな]きじゃくって",
+        "JpnStr": "いっそ蹲[うずくま]って 何[なん]回[かい]泣[な]きじゃくって",
         "EngStr": "As I cower here, how many times must I cry"
       },
       {
@@ -185,7 +185,7 @@
         "EngStr": "I just want to break away and run to tomorrow"
       },
       {
-        "JpnStr": "昨日[きのう]の彼[かれ]も夕焼[ゆうや]けもいないけど それでそれでいいの",
+        "JpnStr": "昨日[きのう]の彼[かれ]も夕焼[ゆうや]けもいないけど 其[そ]れで其[そ]れでいいの",
         "EngStr": "Since you're stuck in yesterday, if another sunset never came, it's okay, it's okay with me"
       },
       {
@@ -193,7 +193,7 @@
         "EngStr": ""
       },
       {
-        "JpnStr": "ずっと続[つづ]いてく きっと進[すす]んでる",
+        "JpnStr": "ずっと続[つづ]いてく 屹度[きっと]進[すす]んでる",
         "EngStr": "I'll kust keep moving on, always going forward"
       },
       {
@@ -201,7 +201,7 @@
         "EngStr": "I will love you more and more, everyday with you!"
       },
       {
-        "JpnStr": "いっそ七転[ななころ]んで 何回起[なんかいお]き上[あ]がって",
+        "JpnStr": "いっそ七[なな]転[ころ]んで 何[なん]回[かい]起[お]き上[あ]がって",
         "EngStr": "I may fall seven times, but I will keep on moving"
       },
       {
@@ -220,7 +220,7 @@
     "ListVocab": [
       "雨降り-あめふり",
       "傘-かさ",
-      "ささない-ささない",
+      "差す-さす",
       "初めまして-はじめまして",
       "と-と",
       "猫-ねこ",
@@ -240,7 +240,7 @@
       "一秒間-いちびょうかん",
       "ただ-ただ",
       "一度-いちど",
-      "この-この",
+      "此の-この",
       "目-め",
       "見てみたい-みてみたい",
       "だけ-だけ",
@@ -260,10 +260,10 @@
       "朝焼け-あさやけ",
       "いない-いない",
       "けど-けど",
-      "それで-それで",
+      "其れで-それで",
       "ずっと-ずっと",
       "続いてく-つづいてく",
-      "きっと-きっと",
+      "屹度-きっと",
       "進んでる-すすんでる",
       "もっと-もっと",
       "愛してる-あいしてる",
@@ -298,7 +298,7 @@
       "なぞる-なぞる",
       "描いて-えがいて",
       "奏でて-かなでて",
-      "きらめく-きらめく",
+      "煌めく-きらめく",
       "願い-ねがい",
       "叶う-かなう",
       "高度-こうど",
@@ -308,7 +308,7 @@
       "星-ほし",
       "月-つき",
       "会えない-あえない",
-      "ずくまって-ずくまって",
+      "蹲る-うずくまる",
       "泣きじゃくって-なきじゃくって",
       "巡りあえてる-めぐりあえてる",
       "僕-ぼく",

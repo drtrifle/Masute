@@ -49,7 +49,7 @@
         "EngStr": "When you're tired of playing, we can watch the sky behind the bus stop."
       },
       {
-        "JpnStr": "じきに夏[なつ]が暮[く]れても",
+        "JpnStr": "直[じき]に夏[なつ]が暮[く]れても",
         "EngStr": "Soon summer will be over"
       },
       {
@@ -77,7 +77,7 @@
         "EngStr": "If I can't say it out loud, I'm alone."
       },
       {
-        "JpnStr": "それでいいからもう諦[あきら]めてる",
+        "JpnStr": "其[それ]でいいからもう諦[あきら]めてる",
         "EngStr": "That's all right. I've given up."
       },
       {
@@ -122,7 +122,7 @@
       },
       {
         "JpnStr": "絶[た]えず君[きみ]のいこふ 記憶[きおく]に夏野[なつの]の石[いし]一[ひと]つ",
-        "EngStr": "A stone in the summer field in my memory"
+        "EngStr": "Always in my memories, a single stone from the field of summer, where you used to go"
       },
       {
         "JpnStr": "",
@@ -193,7 +193,7 @@
         "EngStr": "We're one, even if we can't say it."
       },
       {
-        "JpnStr": "それでいいだろ、もう",
+        "JpnStr": "其[そ]れでいいだろ、もう",
         "EngStr": "That's it. That's it."
       },
       {
@@ -232,7 +232,7 @@
       "バス停裏-ばすていうら",
       "空-そら",
       "見る-みよう",
-      "じきに-じきに",
+      "直に-じきに",
       "暮れる-くれて",
       "覚える-おぼえてる",
       "追いつく-おいつけない",
@@ -241,7 +241,8 @@
       "口に出せない-くちにだせない",
       "僕-ぼく",
       "一人-ひとり",
-      "それでいい-それでいい",
+      "其で-それで",
+      "いい-いい",
       "諦める-あきらめてる",
       "夏日-なつび",
       "山桜桃梅-やまざくらももうめ",
@@ -255,7 +256,6 @@
       "口-くち",
       "噤む-つぐんだ",
       "絶えず-たえず",
-      "いこふ-いこふ",
       "夏野-なつの",
       "石-いし",
       "俯く-うつむいた",
