@@ -45,7 +45,7 @@
       "EngStr": "You don't understand"
     },
     {
-      "JpnStr": "きっと何[なに]もかも変[かわ]らないよ",
+      "JpnStr": "きっと何[なに]もかも変[か]わらないよ",
       "EngStr": "Surely, nothing will change"
     },
     {
@@ -57,11 +57,11 @@
       "EngStr": "Don't you understand?"
     },
     {
-      "JpnStr": "変[かわ]らないよずっと",
+      "JpnStr": "変[か]わらないよずっと",
       "EngStr": "It won't change, forever"
     },
     {
-      "JpnStr": "何[なに]もかも変[かわ]らないままの現実[げんじつ]は",
+      "JpnStr": "何[なに]もかも変[か]わらないままの現実[げんじつ]は",
       "EngStr": "The reality where nothing changes"
     },
     {
@@ -81,7 +81,7 @@
       "EngStr": "It's been quite a while"
     },
     {
-      "JpnStr": "出会[であ]ったあの頃[ころ]、あの子[こ]のことでさ",
+      "JpnStr": "出[で]会[あ]ったあの頃[ころ]、あの子[こ]のことでさ",
       "EngStr": "Back when I met that girl"
     },
     {
@@ -121,7 +121,7 @@
       "EngStr": "You don't understand"
     },
     {
-      "JpnStr": "きっと何[なに]もかも変[かわ]らないよ",
+      "JpnStr": "きっと何[なに]もかも変[か]わらないよ",
       "EngStr": "Surely, nothing will change"
     },
     {
@@ -133,11 +133,11 @@
       "EngStr": "Don't you understand?"
     },
     {
-      "JpnStr": "変[かわ]らないよずっと",
+      "JpnStr": "変[か]わらないよずっと",
       "EngStr": "It won't change, forever"
     },
     {
-      "JpnStr": "何[なに]もかも変[かわ]らないままの現実[げんじつ]は",
+      "JpnStr": "何[なに]もかも変[か]わらないままの現実[げんじつ]は",
       "EngStr": "The reality where nothing changes"
     },
     {
@@ -173,7 +173,7 @@
       "EngStr": "You don't understand"
     },
     {
-      "JpnStr": "きっと何[なに]もかも変[かわ]らないよ",
+      "JpnStr": "きっと何[なに]もかも変[か]わらないよ",
       "EngStr": "Surely, nothing will change"
     },
     {
@@ -185,11 +185,11 @@
       "EngStr": "Don't you understand?"
     },
     {
-      "JpnStr": "変[かわ]らないよずっと",
+      "JpnStr": "変[か]わらないよずっと",
       "EngStr": "It won't change, forever"
     },
     {
-      "JpnStr": "何[なに]もかも変[かわ]らないままの現実[げんじつ]は",
+      "JpnStr": "何[なに]もかも変[か]わらないままの現実[げんじつ]は",
       "EngStr": "The reality where nothing changes"
     },
     {
@@ -209,7 +209,7 @@
       "EngStr": "You don't understand"
     },
     {
-      "JpnStr": "きっと何[なに]もかも変[かわ]らないよ",
+      "JpnStr": "きっと何[なに]もかも変[か]わらないよ",
       "EngStr": "Surely, nothing will change"
     },
     {
@@ -225,11 +225,11 @@
       "EngStr": "I want to understand"
     },
     {
-      "JpnStr": "変[かわ]りたいよ",
+      "JpnStr": "変[か]わりたいよ",
       "EngStr": "I want to change"
     },
     {
-      "JpnStr": "今[いま]の何[なに]もかも変[かわ]りたい",
+      "JpnStr": "今[いま]の何[なに]もかも変[か]わりたい",
       "EngStr": "I want everything to change now"
     },
     {
@@ -246,46 +246,45 @@
     }
   ],
   "ListVocab": [
-    "随分-ずいぶん",
-    "前-まえ",
-    "出会う-であう",
-    "頃-ころ",
-    "子-こ",
-    "此の-この",
-    "事-こと",
-    "私-わたし",
-    "最低-さいてい",
-    "隙-すき",
-    "君-きみ",
-    "居-い",
-    "積-つも",
-    "もり-もり",
-    "だろう-だろう",
-    "時間-じかん",
-    "経-た",
-    "泣-な",
-    "理解者-りかいしゃ",
-    "言-い",
-    "分-わ",
-    "変-かわ",
     "ずっと-ずっと",
-    "現実-げんじつ",
-    "夜-よる",
-    "明-あか",
-    "顔-かお",
     "それでも-それでも",
-    "会-あ",
-    "話-はな",
-    "頭-あたま",
-    "中-なか",
-    "駆-か",
-    "巡-めぐ",
+    "だろう-だろう",
     "なが-なが",
-    "何-なに",
+    "もり-もり",
+    "中-なか",
+    "事-こと",
     "今-いま",
+    "何-なに",
     "僕-ぼく",
-    "達-たち",
+    "出る-でる",
+    "出会う-であう",
+    "分かる-わかる",
+    "前-まえ",
+    "君-きみ",
+    "変-かわ",
+    "夜-よる",
+    "子-こ",
+    "居る-いる",
+    "駆け巡る-かけめぐる",
+    "明-あか",
+    "時間-じかん",
+    "最低-さいてい",
+    "此の-この",
+    "泣-な",
+    "現実-げんじつ",
+    "理解者-りかいしゃ",
+    "私-わたし",
+    "積-つも",
+    "経-た",
     "街-まち",
-    "出-で"
+    "言-い",
+    "話-はな",
+    "達-たち",
+    "随分-ずいぶん",
+    "隙-すき",
+    "頃-ころ",
+    "頭-あたま",
+    "顔-かお",
+    "駆-か"
   ]
 }

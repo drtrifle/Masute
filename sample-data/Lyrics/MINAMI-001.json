@@ -1,372 +1,371 @@
 {
-    "credits":"Kelana @ MusicboxTrans.wordpress.com",
-    "songLyrics": [
-        {
-            "jpnStr": "未熟[みじゅく] 無[む]情[じょう] 然[さ]れど 美[うつく]しくあれ",
-            "engStr": "Inexperienced, heartless, even so, it's beautiful"
-        },
-        {
-            "jpnStr": "",
-            "engStr": ""
-        },
-        {
-            "jpnStr": "ノーディスティニー 相応[ふさわ]しく無[な]い",
-            "engStr": "No destiny, I'm unworthy"
-        },
-        {
-            "jpnStr": "こんなんじゃきっと物[もの]足[た]りない",
-            "engStr": "I'm sure it'll do the trick,"
-        },
-        {
-            "jpnStr": "くらい語[かた]っとけばうまくいく",
-            "engStr": "if I talk about it so much that it becomes not enough."
-        },
-        {
-            "jpnStr": "物[もの]、金[かね]、愛[あい]、言[こと],",
-            "engStr": "Things, money, love, words,"
-        },
-        {
-            "jpnStr": "もう自[じ]己[こ]顕[けん]示[じ]飽[あ]きた",
-            "engStr": "I'm already sick of being in the spotlight"
-        },
-        {
-            "jpnStr": "",
-            "engStr": ""
-        },
-        {
-            "jpnStr": "既[き]視[し]感[かん] 何[なに]がそんな不[ふ]満[まん]なんだ?",
-            "engStr": "Déjà vu, what are you so unsatisfied with?"
-        },
-        {
-            "jpnStr": "散[さん]々[ざん]ワガママ語[かた]っといて 此[こ]れ以[い]上[じょう]他[ほか]に何[なに]が居[い]る?",
-            "engStr": "You talk about such utterly selfish things, what more do you want?"
-        },
-        {
-            "jpnStr": "そんな所[ところ]も割[わり]と嫌[きら]いじゃ無[な]い",
-            "engStr": "I don't hate points like that"
-        },
-        {
-            "jpnStr": "",
-            "engStr": ""
-        },
-        {
-            "jpnStr": "もう「聞[き]き飽[あ]きたんだよ、そのセリフ。」",
-            "engStr": "Already “I'm sick of hearing those words.”"
-        },
-        {
-            "jpnStr": "中[ちゅう]途[と]半[はん]端[ぱ]だけは嫌[いや]",
-            "engStr": "I hate just half-assing it!"
-        },
-        {
-            "jpnStr": "",
-            "engStr": ""
-        },
-        {
-            "jpnStr": "もういい",
-            "engStr": "Enough!"
-        },
-        {
-            "jpnStr": "ああしてこうして言[い]ってたって",
-            "engStr": "Even if I say it like this or like that,"
-        },
-        {
-            "jpnStr": "愛[あい]して どうして? 言[い]われたって",
-            "engStr": "even if I say I love it or ask myself “Why?”,"
-        },
-        {
-            "jpnStr": "遊[あそ]びだけなら簡[かん]単[たん]で",
-            "engStr": "it's easy if it's just for fun,"
-        },
-        {
-            "jpnStr": "真[しん]剣[けん]交[こう]渉[しょう]無[む]茶[ちゃ]苦[く]茶[ちゃ]で",
-            "engStr": "but it's reckless when it's a serious negotiation."
-        },
-        {
-            "jpnStr": "思[おも]いもしない軽[おも]い言葉[ことば]",
-            "engStr": "Those heavy, thoughtless words,"
-        },
-        {
-            "jpnStr": "何[なん]度[ど]使[つか]い古[ふる]すのか?",
-            "engStr": "how many times will I wear them out?"
-        },
-        {
-            "jpnStr": "どうせ",
-            "engStr": "Anyway,"
-        },
-        {
-            "jpnStr": "期[き]待[たい]してたんだ出[で]来[き]レースでも",
-            "engStr": "the fixed race that I had high hopes for,"
-        },
-        {
-            "jpnStr": "引[いん]用[よう]だらけのフレーズも",
-            "engStr": "the phrases full of quotes,"
-        },
-        {
-            "jpnStr": "踵[かかと]持[も]ち上[あ]がる言[こと]葉[ば]タブーにして",
-            "engStr": "the words that put me on my tiptoes, make it all taboo."
-        },
-        {
-            "jpnStr": "空気[くうき]を読[よ]んだ雨[あめ]降[ふ]らないでよ",
-            "engStr": "I could sense it in the air, rain - please don't fall."
-        },
-        {
-            "jpnStr": "",
-            "engStr": ""
-        },
-        {
-            "jpnStr": "まどろっこしい話[はなし]は嫌[いや]",
-            "engStr": "I hate dull conversations."
-        },
-        {
-            "jpnStr": "必[ひつ]要[よう]最[さい]低[てい]限[げん]でいい 2文[も]字[じ]以内[いない]でどうぞ",
-            "engStr": "Just the bare minimum is fine, two words or less, please"
-        },
-        {
-            "jpnStr": "",
-            "engStr": ""
-        },
-        {
-            "jpnStr": "紅[くれない]の蝶[ちょう]は何[なん]のメールも送[おく]らない",
-            "engStr": "The crimson butterfly doesn't send a single text message."
-        },
-        {
-            "jpnStr": "脆[もろ]い扇[せん]子[す]広[ひろ]げる その方[ほう]が魅[み]力[りょく]的[てき]でしょう",
-            "engStr": "I open the fragile folding fan - I'm more attractive that way, right?"
-        },
-        {
-            "jpnStr": "",
-            "engStr": ""
-        },
-        {
-            "jpnStr": "迷[めい]で",
-            "engStr": "I'm lost!"
-        },
-        {
-            "jpnStr": "応[こた]えられないなら ほっといてくれ",
-            "engStr": "If you can't answer me, then back off."
-        },
-        {
-            "jpnStr": "迷[まよ]えるくらいなら 去[さ]っといてくれ",
-            "engStr": "If you're hesitant, then leave me alone."
-        },
-        {
-            "jpnStr": "肝心[かんじん]なとこは筒[つつ]抜[ぬ]けで",
-            "engStr": "The most crucial points go in one ear and out the other,"
-        },
-        {
-            "jpnStr": "安[あん]心[しん]だけはさせられるような",
-            "engStr": "just so you can have peace of mind."
-        },
-        {
-            "jpnStr": "甘[あま]いあめが降[ふ]れば",
-            "engStr": "When the sweet rain falls,"
-        },
-        {
-            "jpnStr": "傘[かさ]もさしたくなるだろう?",
-            "engStr": "will I wanna hold up my umbrella?"
-        },
-        {
-            "jpnStr": "このまま",
-            "engStr": "Like this,"
-        },
-        {
-            "jpnStr": "期[き]待[たい]したままでよかった 目[め]を瞑[つぶ]った",
-            "engStr": "happy to keep hoping, I closed my eyes,"
-        },
-        {
-            "jpnStr": "変[か]えたかった 大人[おとな]ぶった",
-            "engStr": "I wanted to change, I acted like an adult,"
-        },
-        {
-            "jpnStr": "無[な]くした 巻[ま]き戻[もど]せなかった",
-            "engStr": "I lost it, and it couldn't be rewound."
-        },
-        {
-            "jpnStr": "今[いま]雨[あめ]、止[や]まないで",
-            "engStr": "Now, rain, please don't stop."
-        },
-        {
-            "jpnStr": "",
-            "engStr": ""
-        },
-        {
-            "jpnStr": "コピー、ペースト、デリート その繰[く]り返[かえ]し",
-            "engStr": "Copy, paste, delete, repeat"
-        },
-        {
-            "jpnStr": "吸[す]って、吐[は]いた",
-            "engStr": "Breathe in, breathe out."
-        },
-        {
-            "jpnStr": "だから",
-            "engStr": "So…"
-        },
-        {
-            "jpnStr": "それでもいいからさ 此処[ここ]痛[いた]いよ",
-            "engStr": "that's fine, it hurts here!"
-        },
-        {
-            "jpnStr": "",
-            "engStr": ""
-        },
-        {
-            "jpnStr": "もういい",
-            "engStr": "Enough!"
-        },
-        {
-            "jpnStr": "ああしてこうして言[い]ってたって",
-            "engStr": "Even if I say it like this or like that,"
-        },
-        {
-            "jpnStr": "愛[あい]して どうして? 言[い]われたって",
-            "engStr": "even if I say I love it or ask myself “Why?”,"
-        },
-        {
-            "jpnStr": "遊[あそ]びだけなら簡[かん]単[たん]で",
-            "engStr": "it's easy if it's just for fun,"
-        },
-        {
-            "jpnStr": "真[しん]剣[けん]交[こう]渉[しょう]支離滅裂[しりめつれつ]で",
-            "engStr": "but it's illogical when it's a serious negotiation"
-        },
-        {
-            "jpnStr": "思[おも]いもしない重[おも]い真実[うそ]は",
-            "engStr": "Those heavy, thoughtless lies,"
-        },
-        {
-            "jpnStr": "タブーにしなくちゃな?",
-            "engStr": "should we make them taboo?"
-        },
-        {
-            "jpnStr": "きっと",
-            "engStr": "Surely,"
-        },
-        {
-            "jpnStr": "期[き]待[たい]してたんだ出[で]来[き]レースでも",
-            "engStr": "the fixed race that I had high hopes for,"
-        },
-        {
-            "jpnStr": "公式[こうしき]通[どお]りのフレーズも",
-            "engStr": "the formal phrases,"
-        },
-        {
-            "jpnStr": "踵[かかと]上[あ]がる癖[くせ]もう終[お]わりにして",
-            "engStr": "the habit of standing on my tiptoes, it's already over."
-        },
-        {
-            "jpnStr": "空気[くうき]を読[よ]んだ空[そら]晴[は]れないでよ",
-            "engStr": "I could sense it in the air - sky, please don't clear up."
-        },
-        {
-            "jpnStr": "",
-            "engStr": ""
-        },
-        {
-            "jpnStr": "今日[きょう]も、雨[あめ]。",
-            "engStr": "It's rainy again today."
-        },
-        {
-            "jpnStr": "傘[かさ]を閉[と]じて 濡[ぬ]れて帰[かえ]ろうよ",
-            "engStr": "I'll close my umbrella, get wet, and walk home."
-        }
+    "SongLyrics": [
+      {
+        "JpnStr": "未熟[みじゅく] 無[む]情[じょう] 然[さ]れど 美[うつく]しくあれ",
+        "EngStr": "Inexperienced, heartless, even so, it's beautiful"
+      },
+      {
+        "JpnStr": "",
+        "EngStr": ""
+      },
+      {
+        "JpnStr": "ノーディスティニー 相応[ふさわ]しく無[な]い",
+        "EngStr": "No destiny, I'm unworthy"
+      },
+      {
+        "JpnStr": "こんなんじゃきっと物[もの]足[た]りない",
+        "EngStr": "I'm sure it'll do the trick,"
+      },
+      {
+        "JpnStr": "くらい語[かた]っとけばうまくいく",
+        "EngStr": "if I talk about it so much that it becomes not enough."
+      },
+      {
+        "JpnStr": "物[もの]、金[かね]、愛[あい]、言[こと],",
+        "EngStr": "Things, money, love, words,"
+      },
+      {
+        "JpnStr": "もう自[じ]己[こ]顕[けん]示[じ]飽[あ]きた",
+        "EngStr": "I'm already sick of being in the spotlight"
+      },
+      {
+        "JpnStr": "",
+        "EngStr": ""
+      },
+      {
+        "JpnStr": "既[き]視[し]感[かん] 何[なに]がそんな不[ふ]満[まん]なんだ?",
+        "EngStr": "Déjà vu, what are you so unsatisfied with?"
+      },
+      {
+        "JpnStr": "散[さん]々[ざん]ワガママ語[かた]っといて 此[こ]れ以[い]上[じょう]他[ほか]に何[なに]が居[い]る?",
+        "EngStr": "You talk about such utterly selfish things, what more do you want?"
+      },
+      {
+        "JpnStr": "そんな所[ところ]も割[わり]と嫌[きら]いじゃ無[な]い",
+        "EngStr": "I don't hate points like that"
+      },
+      {
+        "JpnStr": "",
+        "EngStr": ""
+      },
+      {
+        "JpnStr": "もう「聞[き]き飽[あ]きたんだよ、そのセリフ。」",
+        "EngStr": "Already “I'm sick of hearing those words.”"
+      },
+      {
+        "JpnStr": "中[ちゅう]途[と]半[はん]端[ぱ]だけは嫌[いや]",
+        "EngStr": "I hate just half-assing it!"
+      },
+      {
+        "JpnStr": "",
+        "EngStr": ""
+      },
+      {
+        "JpnStr": "もういい",
+        "EngStr": "Enough!"
+      },
+      {
+        "JpnStr": "ああしてこうして言[い]ってたって",
+        "EngStr": "Even if I say it like this or like that,"
+      },
+      {
+        "JpnStr": "愛[あい]して どうして? 言[い]われたって",
+        "EngStr": "even if I say I love it or ask myself “Why?”,"
+      },
+      {
+        "JpnStr": "遊[あそ]びだけなら簡[かん]単[たん]で",
+        "EngStr": "it's easy if it's just for fun,"
+      },
+      {
+        "JpnStr": "真[しん]剣[けん]交[こう]渉[しょう]無[む]茶[ちゃ]苦[く]茶[ちゃ]で",
+        "EngStr": "but it's reckless when it's a serious negotiation."
+      },
+      {
+        "JpnStr": "思[おも]いもしない軽[おも]い言葉[ことば]",
+        "EngStr": "Those heavy, thoughtless words,"
+      },
+      {
+        "JpnStr": "何[なん]度[ど]使[つか]い古[ふる]すのか?",
+        "EngStr": "how many times will I wear them out?"
+      },
+      {
+        "JpnStr": "どうせ",
+        "EngStr": "Anyway,"
+      },
+      {
+        "JpnStr": "期[き]待[たい]してたんだ出[で]来[き]レースでも",
+        "EngStr": "the fixed race that I had high hopes for,"
+      },
+      {
+        "JpnStr": "引[いん]用[よう]だらけのフレーズも",
+        "EngStr": "the phrases full of quotes,"
+      },
+      {
+        "JpnStr": "踵[かかと]持[も]ち上[あ]がる言[こと]葉[ば]タブーにして",
+        "EngStr": "the words that put me on my tiptoes, make it all taboo."
+      },
+      {
+        "JpnStr": "空気[くうき]を読[よ]んだ雨[あめ]降[ふ]らないでよ",
+        "EngStr": "I could sense it in the air, rain - please don't fall."
+      },
+      {
+        "JpnStr": "",
+        "EngStr": ""
+      },
+      {
+        "JpnStr": "まどろっこしい話[はなし]は嫌[いや]",
+        "EngStr": "I hate dull conversations."
+      },
+      {
+        "JpnStr": "必[ひつ]要[よう]最[さい]低[てい]限[げん]でいい 2文[も]字[じ]以内[いない]でどうぞ",
+        "EngStr": "Just the bare minimum is fine, two words or less, please"
+      },
+      {
+        "JpnStr": "",
+        "EngStr": ""
+      },
+      {
+        "JpnStr": "紅[くれない]の蝶[ちょう]は何[なん]のメールも送[おく]らない",
+        "EngStr": "The crimson butterfly doesn't send a single text message."
+      },
+      {
+        "JpnStr": "脆[もろ]い扇[せん]子[す]広[ひろ]げる その方[ほう]が魅[み]力[りょく]的[てき]でしょう",
+        "EngStr": "I open the fragile folding fan - I'm more attractive that way, right?"
+      },
+      {
+        "JpnStr": "",
+        "EngStr": ""
+      },
+      {
+        "JpnStr": "迷[めい]で",
+        "EngStr": "I'm lost!"
+      },
+      {
+        "JpnStr": "応[こた]えられないなら ほっといてくれ",
+        "EngStr": "If you can't answer me, then back off."
+      },
+      {
+        "JpnStr": "迷[まよ]えるくらいなら 去[さ]っといてくれ",
+        "EngStr": "If you're hesitant, then leave me alone."
+      },
+      {
+        "JpnStr": "肝心[かんじん]なとこは筒[つつ]抜[ぬ]けで",
+        "EngStr": "The most crucial points go in one ear and out the other,"
+      },
+      {
+        "JpnStr": "安[あん]心[しん]だけはさせられるような",
+        "EngStr": "just so you can have peace of mind."
+      },
+      {
+        "JpnStr": "甘[あま]いあめが降[ふ]れば",
+        "EngStr": "When the sweet rain falls,"
+      },
+      {
+        "JpnStr": "傘[かさ]もさしたくなるだろう?",
+        "EngStr": "will I wanna hold up my umbrella?"
+      },
+      {
+        "JpnStr": "このまま",
+        "EngStr": "Like this,"
+      },
+      {
+        "JpnStr": "期[き]待[たい]したままでよかった 目[め]を瞑[つぶ]った",
+        "EngStr": "happy to keep hoping, I closed my eyes,"
+      },
+      {
+        "JpnStr": "変[か]えたかった 大人[おとな]ぶった",
+        "EngStr": "I wanted to change, I acted like an adult,"
+      },
+      {
+        "JpnStr": "無[な]くした 巻[ま]き戻[もど]せなかった",
+        "EngStr": "I lost it, and it couldn't be rewound."
+      },
+      {
+        "JpnStr": "今[いま]雨[あめ]、止[や]まないで",
+        "EngStr": "Now, rain, please don't stop."
+      },
+      {
+        "JpnStr": "",
+        "EngStr": ""
+      },
+      {
+        "JpnStr": "コピー、ペースト、デリート その繰[く]り返[かえ]し",
+        "EngStr": "Copy, paste, delete, repeat"
+      },
+      {
+        "JpnStr": "吸[す]って、吐[は]いた",
+        "EngStr": "Breathe in, breathe out."
+      },
+      {
+        "JpnStr": "だから",
+        "EngStr": "So…"
+      },
+      {
+        "JpnStr": "それでもいいからさ 此処[ここ]痛[いた]いよ",
+        "EngStr": "that's fine, it hurts here!"
+      },
+      {
+        "JpnStr": "",
+        "EngStr": ""
+      },
+      {
+        "JpnStr": "もういい",
+        "EngStr": "Enough!"
+      },
+      {
+        "JpnStr": "ああしてこうして言[い]ってたって",
+        "EngStr": "Even if I say it like this or like that,"
+      },
+      {
+        "JpnStr": "愛[あい]して どうして? 言[い]われたって",
+        "EngStr": "even if I say I love it or ask myself “Why?”,"
+      },
+      {
+        "JpnStr": "遊[あそ]びだけなら簡[かん]単[たん]で",
+        "EngStr": "it's easy if it's just for fun,"
+      },
+      {
+        "JpnStr": "真[しん]剣[けん]交[こう]渉[しょう]支離滅裂[しりめつれつ]で",
+        "EngStr": "but it's illogical when it's a serious negotiation"
+      },
+      {
+        "JpnStr": "思[おも]いもしない重[おも]い真実[うそ]は",
+        "EngStr": "Those heavy, thoughtless lies,"
+      },
+      {
+        "JpnStr": "タブーにしなくちゃな?",
+        "EngStr": "should we make them taboo?"
+      },
+      {
+        "JpnStr": "きっと",
+        "EngStr": "Surely,"
+      },
+      {
+        "JpnStr": "期[き]待[たい]してたんだ出[で]来[き]レースでも",
+        "EngStr": "the fixed race that I had high hopes for,"
+      },
+      {
+        "JpnStr": "公式[こうしき]通[どお]りのフレーズも",
+        "EngStr": "the formal phrases,"
+      },
+      {
+        "JpnStr": "踵[かかと]上[あ]がる癖[くせ]もう終[お]わりにして",
+        "EngStr": "the habit of standing on my tiptoes, it's already over."
+      },
+      {
+        "JpnStr": "空気[くうき]を読[よ]んだ空[そら]晴[は]れないでよ",
+        "EngStr": "I could sense it in the air - sky, please don't clear up."
+      },
+      {
+        "JpnStr": "",
+        "EngStr": ""
+      },
+      {
+        "JpnStr": "今日[きょう]も、雨[あめ]。",
+        "EngStr": "It's rainy again today."
+      },
+      {
+        "JpnStr": "傘[かさ]を閉[と]じて 濡[ぬ]れて帰[かえ]ろうよ",
+        "EngStr": "I'll close my umbrella, get wet, and walk home."
+      }
     ],
     "ListVocab": [
-        "未熟-みじゅく",
-        "無情-むじょう",
-        "然れど-されど",
-        "美しい-うつくしい",
-        "相応しい-ふさわしい",
-        "無い-ない",
-        "物足りない-ものたりない",
-        "語る-かたる",
-        "物-もの",
-        "金-かね",
-        "愛-あい",
-        "言-こと",
-        "自己顕示-じこけんじ",
-        "飽きる-あきる",
-        "既視感-きしかん",
-        "何-なに",
-        "そんな-そんな",
-        "不満-ふまん",
-        "散々-さんざん",
-        "此れ-これ",
-        "以上-いじょう",
-        "他-た",
-        "居る-いる",
-        "所-ところ",
-        "嫌い-きらい",
-        "じゃ無い-じゃない",
-        "聞き飽きる-ききあきる",
-        "中途半端-ちゅうとはんぱ",
-        "嫌-いや",
-        "もういい-もういい",
-        "言う-いう",
-        "どうして-どうして",
-        "遊び-あそび",
-        "簡単-かんたん",
-        "真剣-しんけん",
-        "交渉-こうしょう",
-        "無茶苦茶-むちゃくちゃ",
-        "思い-おもい",
-        "軽い-かるい",
-        "言葉-ことば",
-        "何度-なんど",
-        "使い古す-つかいふるす",
-        "どうせ-どうせ",
-        "期待-きたい",
-        "出来レース-できレース",
-        "フレーズ-フレーズ",
-        "引用-いんよう",
-        "踵-かかと",
-        "持ち上がる-もちあがる",
-        "空気-こうき",
-        "読む-よむ",
-        "雨降る-あめふる",
-        "まどろっこしい-まどろっこしい",
-        "必要最低限-ひつようさいていげん",
-        "文字-もじ",
-        "以内-いない",
-        "紅-くれない",
-        "蝶-ちょう",
-        "メール-メール",
-        "送る-おくる",
-        "脆い-もろい",
-        "扇子-せんす",
-        "広げる-ひろげる",
-        "魅力的-みりょくてき",
-        "迷-まよう",
-        "応える-こたえる",
-        "ほっとく-ほっとく",
-        "迷える-まよえる",
-        "去る-さる",
-        "肝心-かんじん",
-        "筒抜け-つつぬけ",
-        "安心-あんしん",
-        "甘い-あまい",
-        "降る-ふる",
-        "傘-かさ",
-        "さす-さす",
-        "このまま-このまま",
-        "目を瞑る-めをつぶる",
-        "変える-かえる",
-        "大人ぶる-おとなぶる",
-        "無くす-なくす",
-        "巻き戻す-まきもどす",
-        "今雨-いまあめ",
-        "止む-やむ",
-        "コピー-こーぴー",
-        "ペースト-ぺーすと",
-        "デリート-でりーと",
-        "繰り返す-くりかえす",
-        "吸う-すう",
-        "吐く-はく",
-        "それでも-それでも",
-        "いい-いい",
-        "此処-ここ",
-        "痛い-いたい",
-        "閉じる-とじる",
-        "濡れる-ぬれる",
-        "帰る-かえる"
+      "いい-いい",
+      "このまま-このまま",
+      "コピー-こーぴー",
+      "さす-さす",
+      "じゃ無い-じゃない",
+      "それでも-それでも",
+      "そんな-そんな",
+      "デリート-でりーと",
+      "どうして-どうして",
+      "どうせ-どうせ",
+      "フレーズ-フレーズ",
+      "ペースト-ぺーすと",
+      "ほっとく-ほっとく",
+      "まどろっこしい-まどろっこしい",
+      "メール-メール",
+      "もういい-もういい",
+      "不満-ふまん",
+      "中途半端-ちゅうとはんぱ",
+      "交渉-こうしょう",
+      "今雨-いまあめ",
+      "他-た",
+      "以上-いじょう",
+      "以内-いない",
+      "何-なに",
+      "何度-なんど",
+      "使い古す-つかいふるす",
+      "傘-かさ",
+      "出来レース-できレース",
+      "去る-さる",
+      "吐く-はく",
+      "吸う-すう",
+      "変える-かえる",
+      "大人ぶる-おとなぶる",
+      "嫌-いや",
+      "嫌い-きらい",
+      "安心-あんしん",
+      "居る-いる",
+      "巻き戻す-まきもどす",
+      "帰る-かえる",
+      "広げる-ひろげる",
+      "引用-いんよう",
+      "必要最低限-ひつようさいていげん",
+      "応える-こたえる",
+      "思い-おもい",
+      "愛-あい",
+      "所-ところ",
+      "扇子-せんす",
+      "持ち上がる-もちあがる",
+      "散々-さんざん",
+      "文字-もじ",
+      "既視感-きしかん",
+      "期待-きたい",
+      "未熟-みじゅく",
+      "止む-やむ",
+      "此れ-これ",
+      "此処-ここ",
+      "濡れる-ぬれる",
+      "無い-ない",
+      "無くす-なくす",
+      "無情-むじょう",
+      "無茶苦茶-むちゃくちゃ",
+      "然れど-されど",
+      "物-もの",
+      "物足りない-ものたりない",
+      "甘い-あまい",
+      "痛い-いたい",
+      "目を瞑る-めをつぶる",
+      "相応しい-ふさわしい",
+      "真剣-しんけん",
+      "空気-こうき",
+      "筒抜け-つつぬけ",
+      "簡単-かんたん",
+      "紅-くれない",
+      "繰り返す-くりかえす",
+      "美しい-うつくしい",
+      "聞き飽きる-ききあきる",
+      "肝心-かんじん",
+      "脆い-もろい",
+      "自己顕示-じこけんじ",
+      "蝶-ちょう",
+      "言-こと",
+      "言う-いう",
+      "言葉-ことば",
+      "語る-かたる",
+      "読む-よむ",
+      "踵-かかと",
+      "軽い-かるい",
+      "迷-まよう",
+      "迷える-まよえる",
+      "送る-おくる",
+      "遊び-あそび",
+      "金-かね",
+      "閉じる-とじる",
+      "降る-ふる",
+      "雨降る-あめふる",
+      "飽きる-あきる",
+      "魅力的-みりょくてき"
     ]
-}
+  }
