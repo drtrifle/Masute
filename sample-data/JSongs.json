@@ -59,6 +59,12 @@
     "ArtistNameEng": "KANA-BOON"
   },
   {
+    "SongID": "KANARIA-001",
+    "SongURL": "https://www.youtube.com/embed/cm-l2h6GB8Q",
+    "SongNameEng": "KING",
+    "ArtistNameEng": "Kanaria"
+  },
+  {
     "SongID": "KENTA-001",
     "SongURL": "https://www.youtube.com/embed/-zQWavER7to",
     "SongNameEng": "Voice of the Sea",

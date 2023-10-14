@@ -29,11 +29,11 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "ぐるぐるぐる 踊[おど]りましょう",
+      "JpnStr": "ぐる，ぐる，ぐる 踊[おど]りましょう",
       "EngStr": "Round and round and round. Let's dance"
     },
     {
-      "JpnStr": "べたべたべた 蔓延[はびこ]るの",
+      "JpnStr": "べた，べた，べた 蔓延[はびこ]るの",
       "EngStr": "Stickiness spreading throughout"
     },
     {
@@ -41,7 +41,7 @@
       "EngStr": "Toast covered in lies. How about one?"
     },
     {
-      "JpnStr": "ワタシダケユウレイ",
+      "JpnStr": "私[わたし]丈[だけ]幽[ゆう]霊[れい]",
       "EngStr": "I'm the only ghost here"
     },
     {
@@ -69,11 +69,11 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "ゆらゆらゆら 遊[あそ]びましょう",
+      "JpnStr": "ゆら，ゆら，ゆら 遊[あそ]びましょう",
       "EngStr": "Sway, sway, sway. Let's play"
     },
     {
-      "JpnStr": "どろどろどろ 吐[は]き出[だ]すの",
+      "JpnStr": "どろ，どろ，どろ 吐[は]き出[だ]すの",
       "EngStr": "Like sludge, let's spit it out"
     },
     {
@@ -81,7 +81,7 @@
       "EngStr": "Toast covered in rust. How about seconds?"
     },
     {
-      "JpnStr": "ダレデスカユウレイ",
+      "JpnStr": "誰[だれ]ですか幽[ゆう]霊[れい]",
       "EngStr": "Who is the ghost now?"
     },
     {
@@ -101,7 +101,7 @@
       "EngStr": "Who's that behind me"
     },
     {
-      "JpnStr": "わたしの顔[かお]が見[み]えた",
+      "JpnStr": "私[わたし]の顔[かお]が見[み]えた",
       "EngStr": "I saw my own face"
     },
     {
@@ -109,11 +109,11 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "ぐるぐるぐる 踊[おど]りましょう",
+      "JpnStr": "ぐる，ぐる，ぐる 踊[おど]りましょう",
       "EngStr": "Round and round and round. Let's dance"
     },
     {
-      "JpnStr": "べたべたべた 蔓延[はびこ]るの",
+      "JpnStr": "べた，べた，べた 蔓延[はびこ]るの",
       "EngStr": "Stickiness spreading throughout"
     },
     {
@@ -121,11 +121,11 @@
       "EngStr": "Toast covered in lies. How about together?"
     },
     {
-      "JpnStr": "ぐちゃぐちゃぐちゃ 笑[わら]いましょう",
+      "JpnStr": "ぐちゃ，ぐちゃ，ぐちゃ 笑[わら]いましょう",
       "EngStr": "Sloppily, messily, let's laugh it off"
     },
     {
-      "JpnStr": "ぞくぞくぞく 歪[ゆが]めましょう",
+      "JpnStr": "ぞく，ぞく，ぞく 歪[ゆが]めましょう",
       "EngStr": "Shuddering, creepily, let's get distorted"
     },
     {
@@ -133,11 +133,11 @@
       "EngStr": "Toast covered in rust. How about one more?"
     },
     {
-      "JpnStr": "ワタシダケユウレイ",
+      "JpnStr": "私[わたし]丈[だけ]幽[ゆう]霊[れい]",
       "EngStr": "I'm the only ghost here"
     },
     {
-      "JpnStr": "貴方[あなた]モユウレイ",
+      "JpnStr": "貴方[あなた]も幽[ゆう]霊[れい]",
       "EngStr": "Now you're a ghost too"
     }
   ],
@@ -150,7 +150,6 @@
     "ご立派-ごりっぱ",
     "ぞくぞく-ぞくぞく",
     "ソッチ-そっち",
-    "ダケ-だけ",
     "たちまち-たちまち",
     "だらけ-だらけ",
     "トースト-とーすと",
@@ -162,13 +161,10 @@
     "パーティー-ぱーてぃー",
     "べたべた-べたべた",
     "ます-ます",
-    "モ-も",
     "もう一つ-もうひとつ",
-    "ユウレイ-ゆうれい",
     "ゆらゆら-ゆらゆら",
-    "わたし-わたし",
-    "ワタシ-わたし",
     "一つ-ひとつ",
+    "丈-だけ",
     "主義-しゅぎ",
     "人生-じんせい",
     "代わり-かわり",
@@ -186,6 +182,7 @@
     "如何-いかが",
     "子-こ",
     "完全-かんぜん",
+    "幽霊-ゆうれい",
     "後ろ-うしろ",
     "心地-ここち",
     "悪い-わるい",
@@ -193,8 +190,8 @@
     "手-て",
     "抜ける-ぬける",
     "招く-まねく",
-    "探し-さがし",
-    "掻き鳴らし-かきならし",
+    "探す-さがす",
+    "掻き鳴らす-かきならす",
     "楽しい-たのしい",
     "正面-まえ",
     "歪め-ゆがめ",
@@ -202,6 +199,7 @@
     "毒-どく",
     "煙-けむり",
     "皆々様-みなみなさま",
+    "私-わたし",
     "空っぽ-からっぽ",
     "笑い-わらい",
     "蔓延る-はびこる",
