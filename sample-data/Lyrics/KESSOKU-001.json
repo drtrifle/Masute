@@ -25,7 +25,7 @@
       "EngStr": "I can't breathe, the pressure of information"
     },
     {
-      "JpnStr": "めまいの螺[ら]旋[せん]だ 私[わたし]はどこにいる",
+      "JpnStr": "目[め]眩[まい]の螺[ら]旋[せん]だ 私[わたし]はどこにいる",
       "EngStr": "The spiral of vertigo, where am I?"
     },
     {
@@ -49,7 +49,7 @@
       "EngStr": "I screamed, unable to make a sound like a scribble"
     },
     {
-      "JpnStr": "「ありのまま」なんて 誰[だれ]に見[み]せるんだ",
+      "JpnStr": "「有[あ]りのまま」なんて 誰[だれ]に見[み]せるんだ",
       "EngStr": "Who am I to show the world 'as it is'"
     },
     {
@@ -57,7 +57,7 @@
       "EngStr": "I'm an idiot, all I do is sing"
     },
     {
-      "JpnStr": "ぶちまけちゃおうか 星[ほし]に",
+      "JpnStr": "打[ぶ]ち撒[ま]けちゃおうか 星[ほし]に",
       "EngStr": "I'll just throw it all out to the stars"
     },
     {
@@ -65,7 +65,7 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "エリクサーに張[は]り替[か]える作[さ]業[ぎょう]もなんとなくなんだ",
+      "JpnStr": "エリクサーに張[は]り替[か]える作[さ]業[ぎょう]も何[なん]となくなんだ",
       "EngStr": "I'm kind of in the process of replacing it with an elixir"
     },
     {
@@ -77,7 +77,7 @@
       "EngStr": "A body with a radius of 300 mm is frantically chirping"
     },
     {
-      "JpnStr": "音[おん]楽[がく]にとっちゃ ココが地[ち]球[きゅう]だな",
+      "JpnStr": "音[おん]楽[がく]にとっちゃ ここが地[ち]球[きゅう]だな",
       "EngStr": "For music, this is the earth"
     },
     {
@@ -89,7 +89,7 @@
       "EngStr": "I'll grab some air and punch the sky"
     },
     {
-      "JpnStr": "なんにも起[お]きない 私[わたし]は無[む]力[りょく]さ",
+      "JpnStr": "何[なん]にも起[お]きない 私[わたし]は無[む]力[りょく]さ",
       "EngStr": "Nothing happens. I'm nothing"
     },
     {
@@ -113,7 +113,7 @@
       "EngStr": "You'll make my lame shadow darker"
     },
     {
-      "JpnStr": "なんでこんな熱[あつ]くなっちゃってんだ 止[と]まんない",
+      "JpnStr": "何[なん]でこんな熱[あつ]くなっちゃってんだ 止[と]まんない",
       "EngStr": "Why am I getting so hot? I can't stop"
     },
     {
@@ -121,7 +121,7 @@
       "EngStr": "Stupid me, I just sing"
     },
     {
-      "JpnStr": "うるさいんだって 心[しん]臓[ぞう]",
+      "JpnStr": "煩[うるさ]いんだって 心[しん]臓[ぞう]",
       "EngStr": "My heart is so loud"
     },
     {
@@ -133,7 +133,7 @@
       "EngStr": "Blue planet, all alone"
     },
     {
-      "JpnStr": "いっぱいの音[おと]を聞[き]いてきた",
+      "JpnStr": "一[いっ]杯[ぱい]の音[おと]を聞[き]いてきた",
       "EngStr": "I've heard so many sounds"
     },
     {
@@ -169,7 +169,7 @@
       "EngStr": "I screamed when I couldn't make out the scribbled sound"
     },
     {
-      "JpnStr": "なんかになりたい なりたい 何[なに]者[もの]かでいい",
+      "JpnStr": "なんかに成[な]りたい 成[な]りたい 何[なに]者[もの]かでいい",
       "EngStr": "I want to be something, I want to be something, I want to be something"
     },
     {
@@ -177,7 +177,7 @@
       "EngStr": "I'm an idiot, all I do is sing"
     },
     {
-      "JpnStr": "ぶちまけちゃおうか 星[ほし]に",
+      "JpnStr": "打[ぶ]ち撒[ま]けちゃおうか 星[ほし]に",
       "EngStr": "I'll just throw it all out to the stars"
     }
   ],
@@ -230,6 +230,7 @@
     "情報-じょうほう",
     "惑星-わくせい",
     "成る-なる",
+    "打ち撒ける-ぶちまける",
     "星-ほし",
     "春-はる",
     "有りのまま-ありのまま",

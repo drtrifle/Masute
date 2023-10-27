@@ -1,7 +1,7 @@
 {
   "SongLyrics": [
     {
-      "JpnStr": "間違[まちが]い探[さが]しの夜[よ]更[ふ]かし あら楽[たの]しい",
+      "JpnStr": "間[まち]違[が]い探[さが]しの夜[よ]更[ふ]かし あら楽[たの]しい",
       "EngStr": "Up late playing spot the difference. Oh, how fun"
     },
     {
@@ -21,7 +21,7 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "博愛[はくあい]主義[しゅぎ]の皆々様[みなみなさま] ご立[りっ]派[ぱ]なことです",
+      "JpnStr": "博[はく]愛[あい]主[しゅ]義[ぎ]の皆[みな]々[みな]様[さま] ご立[りっ]派[ぱ]なことです",
       "EngStr": "You're all a bunch of philanthropists, how very admirable"
     },
     {
@@ -61,7 +61,7 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "完全[かんぜん]主義[しゅぎ]の皆々様[みなみなさま] 右脳[うのう]が死[し]んでます?",
+      "JpnStr": "完[かん]全[ぜん]主[しゅ]義[ぎ]の皆[みな]々[みな]様[さま] 右[う]脳[のう]が死[し]んでます?",
       "EngStr": "Dear perfectionists, is the right side of your brain dead?"
     },
     {
@@ -117,7 +117,7 @@
       "EngStr": "Stickiness spreading throughout"
     },
     {
-      "JpnStr": "嘘[うそ]だらけ塗[ぬ]ったトースト 一緒[いっしょ]に如何[いかが]?",
+      "JpnStr": "嘘[うそ]だらけ塗[ぬ]ったトースト 一[いっ]緒[しょ]に如何[いかが]?",
       "EngStr": "Toast covered in lies. How about together?"
     },
     {
@@ -215,6 +215,6 @@
     "電池-でんち",
     "音-おと",
     "顔-かお",
-    "飲み干せ-のみほせ"
+    "飲み干す-のみほす"
   ]
 }

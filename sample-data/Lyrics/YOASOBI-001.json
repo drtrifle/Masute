@@ -85,7 +85,7 @@
       "EngStr": "I want to think of a dazzling tomorrow as much as possible"
     },
     {
-      "JpnStr": "明[あけ]ない夜[よる]に落[お]ちてゆく前[まえ]に",
+      "JpnStr": "明[あ]けない夜[よる]に落[お]ちてゆく前[まえ]に",
       "EngStr": "Before falling into the dark night,"
     },
     {
@@ -217,7 +217,7 @@
       "EngStr": "You, reflected in my eyes, are beautiful,"
     },
     {
-      "JpnStr": "明[あけ]ない夜[よる]に溢[こぼ]れた涙[なみだ]も",
+      "JpnStr": "明[あ]けない夜[よる]に溢[こぼ]れた涙[なみだ]も",
       "EngStr": "Even the tears overflowing in the dark night"
     },
     {
@@ -343,11 +343,11 @@
     "日-ひ",
     "日々-ひび",
     "昇る-のぼる",
-    "明ない-あかない",
+    "明けない-あけない",
     "映る-うつる",
     "時-とき",
     "晴れる-はれる",
-    "本当は-ほんとうは",
+    "本当-ほんとう",
     "染付いた-そめついた",
     "此れから-これから",
     "沈む-しずむ",
@@ -398,7 +398,7 @@
     "霧-きり",
     "顔-かお",
     "風-かぜ",
-    "駆け出していく-かけだしていく",
+    "駆け出す-かけだす",
     "騒がしい-さわがしい",
     "鳴る-なる"
   ]

@@ -65,7 +65,7 @@
       "EngStr": "The reality where nothing changes"
     },
     {
-      "JpnStr": "「夜[よる]を明[あか]したい」なんて顔[かお]しても",
+      "JpnStr": "「夜[よる]を明[あ]かしたい」なんて顔[かお]しても",
       "EngStr": "Even if you try to put on a face that says 'I want to brighten up the night'"
     },
     {
@@ -141,7 +141,7 @@
       "EngStr": "The reality where nothing changes"
     },
     {
-      "JpnStr": "「夜[よる]を明[あか]したい」なんて顔[かお]しても",
+      "JpnStr": "「夜[よる]を明[あ]かしたい」なんて顔[かお]しても",
       "EngStr": "Even if you try to put on a face that says 'I want to brighten up the night'"
     },
     {
@@ -193,7 +193,7 @@
       "EngStr": "The reality where nothing changes"
     },
     {
-      "JpnStr": "「夜[よる]を明[あか]したい」なんて顔[かお]しても",
+      "JpnStr": "「夜[よる]を明[あ]かしたい」なんて顔[かお]しても",
       "EngStr": "Even if you try to put on a face that says 'I want to brighten up the night'"
     },
     {
@@ -265,7 +265,7 @@
     "夜-よる",
     "子-こ",
     "居る-いる",
-    "明-あか",
+    "明かす-あかす",
     "時間-じかん",
     "最低-さいてい",
     "此の-この",
@@ -284,7 +284,6 @@
     "頃-ころ",
     "頭-あたま",
     "顔-かお",
-    "駆-か",
     "駆け巡る-かけめぐる"
   ]
 }

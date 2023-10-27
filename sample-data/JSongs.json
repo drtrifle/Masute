@@ -174,7 +174,15 @@
     "SongNameEng": "Odoriko",
     "SongNameJpn": "踊り子",
     "ArtistNameEng": "Vaundy",
-    "ArtistNameJpn": ""
+    "ArtistNameJpn": "バウンディ"
+  },
+  {
+    "SongID": "VAUNDY-002",
+    "SongURL": "https://www.youtube.com/embed/6h6AQbdTkaE",
+    "SongNameEng": "Mabataki",
+    "SongNameJpn": "",
+    "ArtistNameEng": "Vaundy",
+    "ArtistNameJpn": "バウンディ"
   },
   {
     "SongID": "WURTS-001",
