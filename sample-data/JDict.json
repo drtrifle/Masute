@@ -1120,8 +1120,8 @@
     "optSongLibFreq": 1
   },
   {
-    "Key": "とり肉-とりにく",
-    "Furi": "とり肉[にく]",
+    "Key": "鶏肉-とりにく",
+    "Furi": "鶏[とり]肉[にく]",
     "Eng": "chicken meat/poultry",
     "optTags": [
       "noun",
@@ -1604,8 +1604,8 @@
     "optIkomaKanji": "01"
   },
   {
-    "Key": "一月-ひとつき",
-    "Furi": "一[ひとつ]月[き]",
+    "Key": "一ヶ月-いっかげつ",
+    "Furi": "一ヶ[いっか]月[げつ]",
     "Eng": "one month",
     "optTags": [
       "noun",
@@ -4390,7 +4390,7 @@
   {
     "Key": "冬-ふゆ",
     "Furi": "冬[ふゆ]",
-    "Eng": "pork",
+    "Eng": "winter​",
     "optTags": [
       "noun",
       "adverb",
@@ -10823,16 +10823,16 @@
     ]
   },
   {
-    "Key": "方-かた",
+    "Key": "方 (人)-かた",
     "Furi": "方[かた]",
-    "Eng": "direction/way/side",
+    "Eng": "person/method",
     "optTags": [
       "noun",
       "jlpt-n5"
     ]
   },
   {
-    "Key": "方-ほう",
+    "Key": "方 (方向)-ほう",
     "Furi": "方[ほう]",
     "Eng": "direction/way/side",
     "optTags": [
@@ -19720,5 +19720,33 @@
       "songLib"
     ],
     "optSongLibFreq": 1
+  },
+  {
+    "Key": "度-たび",
+    "Furi": "度[たび]",
+    "Eng": "time/times/degree",
+    "optTags": [
+      "noun",
+      "suffix",
+      "counter",
+      "jlpt-n3"
+    ]
+  },
+  {
+    "Key": "意志-いし",
+    "Furi": "意[い]志[し]",
+    "Eng": "will/volition/intention/intent/determination",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ]
+  },
+  {
+    "Key": "そうだろう-そうだろう",
+    "Furi": "そうだろう",
+    "Eng": "thats right/I agree/isnt it",
+    "optTags": [
+      "phrase"
+    ]
   }
 ]

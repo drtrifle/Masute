@@ -81,6 +81,14 @@
     "ArtistNameJpn": "結束バンド"
   },
   {
+    "SongID": "KESSOKU-002",
+    "SongURL": "https://www.youtube.com/embed/5RSHNMkKGLs",
+    "SongNameEng": "Distortion",
+    "SongNameJpn": "ディストーション",
+    "ArtistNameEng": "Kessoku band",
+    "ArtistNameJpn": "結束バンド"
+  },
+  {
     "SongID": "KOYORI-001",
     "SongURL": "https://www.youtube.com/embed/UKVioegPPds",
     "SongNameEng": "Hitorinbo Envy",
@@ -152,6 +160,13 @@
     "SongNameEng": "Watashi Dake Yuurei",
     "SongNameJpn": "ワタシダケユウレイ",
     "ArtistNameEng": "SICK HACK"
+  },
+  {
+    "SongID": "SILENT-001",
+    "SongURL": "https://www.youtube.com/embed/6cD3PvdCpW4",
+    "SongNameEng": "Familia",
+    "SongNameJpn": "フアミリア",
+    "ArtistNameEng": "SILENT_SIREN"
   },
   {
     "SongID": "SNOOTY-001",
