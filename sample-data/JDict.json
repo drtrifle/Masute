@@ -906,6 +906,16 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "そうだろう-そうだろう",
+    "Furi": "そうだろう",
+    "Eng": "thats right/I agree/isnt it",
+    "optTags": [
+      "phrase",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "そうやって-そうやって",
     "Furi": "そうやって",
     "Eng": "like that/that way/thus",
@@ -1118,15 +1128,6 @@
       "songLib"
     ],
     "optSongLibFreq": 1
-  },
-  {
-    "Key": "鶏肉-とりにく",
-    "Furi": "鶏[とり]肉[にく]",
-    "Eng": "chicken meat/poultry",
-    "optTags": [
-      "noun",
-      "jlpt-n5"
-    ]
   },
   {
     "Key": "どれ位-どれくらい",
@@ -1348,7 +1349,7 @@
       "adverb",
       "songLib"
     ],
-    "optSongLibFreq": 3
+    "optSongLibFreq": 4
   },
   {
     "Key": "もういい-もういい",
@@ -1433,6 +1434,15 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "一ヶ月-いっかげつ",
+    "Furi": "一ヶ[いっか]月[げつ]",
+    "Eng": "one month",
+    "optTags": [
+      "noun",
+      "jlpt-n5"
+    ]
+  },
+  {
     "Key": "一つ-ひとつ",
     "Furi": "一[ひと]つ",
     "Eng": "one",
@@ -1462,7 +1472,7 @@
       "songLib"
     ],
     "optIkomaKanji": "01",
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "一人きり-ひとりきり",
@@ -1545,7 +1555,7 @@
     "optSongLibFreq": 1
   },
   {
-    "Key": "一日 (日)-いちにち",
+    "Key": "一日-いちにち",
     "Furi": "一[いち]日[にち] (日)",
     "Eng": "one day/all day",
     "optTags": [
@@ -1553,17 +1563,19 @@
       "adverb",
       "jlpt-n5"
     ],
-    "optIkomaKanji": "01"
+    "optIkomaKanji": "01",
+    "optStrContext": "day (日)"
   },
   {
-    "Key": "一日 (月)-ついたち",
+    "Key": "一日-ついたち",
     "Furi": "一日[ついたち] (月)",
     "Eng": "first day of the month",
     "optTags": [
       "noun",
       "jlpt-n5"
     ],
-    "optIkomaKanji": "01"
+    "optIkomaKanji": "01",
+    "optStrContext": "month (月)"
   },
   {
     "Key": "一日中-いちにちじゅう",
@@ -1604,21 +1616,23 @@
     "optIkomaKanji": "01"
   },
   {
-    "Key": "一ヶ月-いっかげつ",
-    "Furi": "一ヶ[いっか]月[げつ]",
-    "Eng": "one month",
-    "optTags": [
-      "noun",
-      "jlpt-n5"
-    ]
-  },
-  {
     "Key": "一杯-いっぱい",
     "Furi": "一[いっ]杯[ぱい]",
     "Eng": "one cup/one glass",
     "optTags": [
       "noun",
       "jlpt-n4",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
+    "Key": "一歩-いっぽ",
+    "Furi": "一[いっ]歩[ぽ]",
+    "Eng": "one step/level/stage/small degree",
+    "optTags": [
+      "noun",
+      "adverb",
       "songLib"
     ],
     "optSongLibFreq": 1
@@ -2692,7 +2706,7 @@
       "adverb",
       "songLib"
     ],
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "今夜-こんや",
@@ -2705,7 +2719,7 @@
       "songLib"
     ],
     "optIkomaKanji": "07",
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "今年-ことし",
@@ -3056,7 +3070,7 @@
       "verb-intransitive",
       "songLib"
     ],
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "伝え-つたえ",
@@ -3314,7 +3328,7 @@
       "jlpt-n3",
       "songLib"
     ],
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "何もかも-なにもかも",
@@ -3396,11 +3410,11 @@
       "phrase",
       "songLib"
     ],
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
-    "Key": "何時 (代名詞)-いつ",
-    "Furi": "何時[いつ] (代名詞)",
+    "Key": "何時-いつ",
+    "Furi": "何時[いつ]",
     "Eng": "when/at what time/how soon",
     "optTags": [
       "pronoun",
@@ -3408,16 +3422,18 @@
       "songLib"
     ],
     "optIkomaKanji": "02",
+    "optStrContext": "pronoun (代名詞)",
     "optSongLibFreq": 2
   },
   {
-    "Key": "何時 (名詞)-なんじ",
-    "Furi": "何[なん]時[じ] (名詞)",
+    "Key": "何時-なんじ",
+    "Furi": "何[なん]時[じ]",
     "Eng": "what time/which hour",
     "optTags": [
       "noun"
     ],
-    "optIkomaKanji": "02"
+    "optIkomaKanji": "02",
+    "optStrContext": "noun (名詞)"
   },
   {
     "Key": "何時か-いつか",
@@ -3468,7 +3484,7 @@
       "jlpt-n5",
       "songLib"
     ],
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "何時もより-いつもより",
@@ -4390,7 +4406,7 @@
   {
     "Key": "冬-ふゆ",
     "Furi": "冬[ふゆ]",
-    "Eng": "winter​",
+    "Eng": "winter",
     "optTags": [
       "noun",
       "adverb",
@@ -5478,7 +5494,7 @@
       "jlpt-n1",
       "songLib"
     ],
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "受験-じゅけん",
@@ -5715,9 +5731,11 @@
     "Eng": "same",
     "optTags": [
       "noun",
-      "jlpt-n5"
+      "jlpt-n5",
+      "songLib"
     ],
-    "optIkomaKanji": "35"
+    "optIkomaKanji": "35",
+    "optSongLibFreq": 1
   },
   {
     "Key": "同じよう-おなじよう",
@@ -5873,7 +5891,7 @@
       "jlpt-n4",
       "songLib"
     ],
-    "optSongLibFreq": 17
+    "optSongLibFreq": 18
   },
   {
     "Key": "否めない-いなめない",
@@ -6627,7 +6645,7 @@
       "adj-い",
       "songLib"
     ],
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "変わらぬ-かわらぬ",
@@ -6867,7 +6885,7 @@
       "songLib"
     ],
     "optIkomaKanji": "07",
-    "optSongLibFreq": 9
+    "optSongLibFreq": 10
   },
   {
     "Key": "夜更かし-よふかし",
@@ -7239,7 +7257,7 @@
       "jlpt-n3",
       "songLib"
     ],
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "奥さん-おくさん",
@@ -7383,7 +7401,7 @@
       "songLib"
     ],
     "optIkomaKanji": "21",
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "始め-はじめ",
@@ -7496,7 +7514,7 @@
       "jlpt-n1",
       "songLib"
     ],
-    "optSongLibFreq": 2
+    "optSongLibFreq": 4
   },
   {
     "Key": "学ぶ-まなぶ",
@@ -7693,23 +7711,25 @@
     "optIkomaKanji": "28"
   },
   {
-    "Key": "家 (environment)-うち",
-    "Furi": "家[うち] (environment)",
-    "Eng": "home",
-    "optTags": [
-      "noun"
-    ],
-    "optIkomaKanji": "11"
-  },
-  {
-    "Key": "家 (physical)-いえ",
-    "Furi": "家[いえ] (physical)",
+    "Key": "家-いえ",
+    "Furi": "家[いえ]",
     "Eng": "house/residence",
     "optTags": [
       "noun",
       "jlpt-n5"
     ],
-    "optIkomaKanji": "11"
+    "optIkomaKanji": "11",
+    "optStrContext": "physical (物理的)"
+  },
+  {
+    "Key": "家-うち",
+    "Furi": "家[うち]",
+    "Eng": "home",
+    "optTags": [
+      "noun"
+    ],
+    "optIkomaKanji": "11",
+    "optStrContext": "environment (環境)"
   },
   {
     "Key": "家具-かぐ",
@@ -8368,7 +8388,17 @@
     "optIkomaKanji": "26"
   },
   {
-    "Key": "年 (助数詞)-ねん",
+    "Key": "年-とし",
+    "Furi": "年[とし]",
+    "Eng": "year/age",
+    "optTags": [
+      "noun",
+      "jlpt-n5"
+    ],
+    "optStrContext": "noun (名詞)"
+  },
+  {
+    "Key": "年-ねん",
     "Furi": "年[ねん]",
     "Eng": "year",
     "optTags": [
@@ -8376,16 +8406,8 @@
       "counter",
       "songLib"
     ],
+    "optStrContext": "counter (助数詞)",
     "optSongLibFreq": 1
-  },
-  {
-    "Key": "年-とし",
-    "Furi": "年[とし]",
-    "Eng": "year",
-    "optTags": [
-      "noun",
-      "jlpt-n5"
-    ]
   },
   {
     "Key": "幸-さち",
@@ -8508,6 +8530,19 @@
     "Furi": "店[てん]頭[とう]",
     "Eng": "shopfront",
     "optIkomaKanji": "43"
+  },
+  {
+    "Key": "度-たび",
+    "Furi": "度[たび]",
+    "Eng": "time/times/degree",
+    "optTags": [
+      "noun",
+      "suffix",
+      "counter",
+      "jlpt-n3",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "座る-すわる",
@@ -8822,7 +8857,7 @@
       "noun",
       "songLib"
     ],
-    "optSongLibFreq": 5
+    "optSongLibFreq": 6
   },
   {
     "Key": "彷徨う-さまよう",
@@ -9009,7 +9044,7 @@
       "songLib"
     ],
     "optIkomaKanji": "17",
-    "optSongLibFreq": 13
+    "optSongLibFreq": 14
   },
   {
     "Key": "心-しん",
@@ -9107,7 +9142,7 @@
       "songLib"
     ],
     "optIkomaKanji": "39",
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "必要-ひつよう",
@@ -9215,7 +9250,7 @@
       "noun",
       "songLib"
     ],
-    "optSongLibFreq": 5
+    "optSongLibFreq": 6
   },
   {
     "Key": "思い付く-おもいつく",
@@ -9597,6 +9632,17 @@
     "optSongLibFreq": 2
   },
   {
+    "Key": "意志-いし",
+    "Furi": "意[い]志[し]",
+    "Eng": "will/volition/intention/intent/determination",
+    "optTags": [
+      "noun",
+      "jlpt-n3",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "意思-いし",
     "Furi": "意[い]思[し]",
     "Eng": "intention/wish/purpose/mind",
@@ -9625,7 +9671,7 @@
       "jlpt-n3",
       "songLib"
     ],
-    "optSongLibFreq": 8
+    "optSongLibFreq": 9
   },
   {
     "Key": "愛しい-いとしい",
@@ -9801,7 +9847,7 @@
       "songLib"
     ],
     "optIkomaKanji": "38",
-    "optSongLibFreq": 7
+    "optSongLibFreq": 8
   },
   {
     "Key": "成功する-せいこうする",
@@ -10264,7 +10310,7 @@
       "noun",
       "songLib"
     ],
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "挑む-いどむ",
@@ -10471,7 +10517,7 @@
       "verb-transitive",
       "songLib"
     ],
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "描く-えがく",
@@ -10823,16 +10869,17 @@
     ]
   },
   {
-    "Key": "方 (人)-かた",
+    "Key": "方-かた",
     "Furi": "方[かた]",
     "Eng": "person/method",
     "optTags": [
       "noun",
       "jlpt-n5"
-    ]
+    ],
+    "optStrContext": "person (人)"
   },
   {
-    "Key": "方 (方向)-ほう",
+    "Key": "方-ほう",
     "Furi": "方[ほう]",
     "Eng": "direction/way/side",
     "optTags": [
@@ -10840,7 +10887,8 @@
       "jlpt-n3",
       "songLib"
     ],
-    "optSongLibFreq": 2
+    "optStrContext": "direction (方向)",
+    "optSongLibFreq": 3
   },
   {
     "Key": "方向-ほうこう",
@@ -10924,7 +10972,7 @@
       "jlpt-n1",
       "songLib"
     ],
-    "optSongLibFreq": 7
+    "optSongLibFreq": 8
   },
   {
     "Key": "日光-にっこう",
@@ -11071,7 +11119,7 @@
       "songLib"
     ],
     "optIkomaKanji": "31",
-    "optSongLibFreq": 6
+    "optSongLibFreq": 7
   },
   {
     "Key": "星座-せいざ",
@@ -11655,7 +11703,7 @@
       "jlpt-n3",
       "songLib"
     ],
-    "optSongLibFreq": 3
+    "optSongLibFreq": 4
   },
   {
     "Key": "期待する-きたいする",
@@ -12169,9 +12217,11 @@
     "Furi": "次[つぎ]",
     "Eng": "next",
     "optTags": [
-      "jlpt-n5"
+      "jlpt-n5",
+      "songLib"
     ],
-    "optIkomaKanji": "39"
+    "optIkomaKanji": "39",
+    "optSongLibFreq": 1
   },
   {
     "Key": "次ぐ-つぐ",
@@ -12237,7 +12287,7 @@
       "songLib"
     ],
     "optIkomaKanji": "13",
-    "optSongLibFreq": 5
+    "optSongLibFreq": 6
   },
   {
     "Key": "止める-とめる",
@@ -13233,6 +13283,17 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "滴-しずく",
+    "Furi": "滴[しずく]",
+    "Eng": "drop/drip",
+    "optTags": [
+      "noun",
+      "jlpt-n1",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "漢字-かんじ",
     "Furi": "漢[かん]字[じ]",
     "Eng": "kanji",
@@ -13986,13 +14047,13 @@
   {
     "Key": "町-まち",
     "Furi": "町[まち]",
-    "Eng": "town",
+    "Eng": "town/block",
     "optTags": [
       "jlpt-n5",
       "songLib"
     ],
     "optIkomaKanji": "07",
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "町並み-まちなみ",
@@ -14730,10 +14791,11 @@
     "optIkomaKanji": "36"
   },
   {
-    "Key": "私 (formal)-わたくし",
-    "Furi": "私[わたくし] (formal)",
+    "Key": "私-わたくし",
+    "Furi": "私[わたくし]",
     "Eng": "I (formal)",
-    "optIkomaKanji": "49"
+    "optIkomaKanji": "49",
+    "optStrContext": "formal"
   },
   {
     "Key": "私-わたし",
@@ -14745,7 +14807,7 @@
       "songLib"
     ],
     "optIkomaKanji": "49",
-    "optSongLibFreq": 10
+    "optSongLibFreq": 11
   },
   {
     "Key": "私立-しりつ",
@@ -14917,7 +14979,7 @@
       "jlpt-n3",
       "songLib"
     ],
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "笑い声-わらいごえ",
@@ -15137,7 +15199,7 @@
       "songLib"
     ],
     "optIkomaKanji": "24",
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "終日-しゅうじつ",
@@ -15186,9 +15248,11 @@
     "Eng": "experience",
     "optTags": [
       "noun",
-      "jlpt-n3"
+      "jlpt-n3",
+      "songLib"
     ],
-    "optIkomaKanji": "42"
+    "optIkomaKanji": "42",
+    "optSongLibFreq": 1
   },
   {
     "Key": "結う-ゆう",
@@ -16286,7 +16350,7 @@
       "verb-2",
       "songLib"
     ],
-    "optSongLibFreq": 5
+    "optSongLibFreq": 9
   },
   {
     "Key": "見せる-みせる",
@@ -16441,20 +16505,22 @@
     "optSongLibFreq": 1
   },
   {
-    "Key": "角 (animal)-つの",
-    "Furi": "角[つの] (animal)",
-    "Eng": "horn/antler",
-    "optIkomaKanji": "32"
-  },
-  {
-    "Key": "角 (street/sharpness)-かど",
-    "Furi": "角[かど] (street/sharpness)",
+    "Key": "角-かど",
+    "Furi": "角[かど]",
     "Eng": "corner/edge",
     "optTags": [
       "noun",
       "jlpt-n5"
     ],
-    "optIkomaKanji": "32"
+    "optIkomaKanji": "32",
+    "optStrContext": "street/sharpness (道/切れ味)"
+  },
+  {
+    "Key": "角-つの",
+    "Furi": "角[つの]",
+    "Eng": "horn/antler",
+    "optIkomaKanji": "32",
+    "optStrContext": "animal (動物)"
   },
   {
     "Key": "解ける-ほどける",
@@ -16529,7 +16595,7 @@
       "jlpt-n5",
       "songLib"
     ],
-    "optSongLibFreq": 7
+    "optSongLibFreq": 8
   },
   {
     "Key": "言語-げんご",
@@ -16565,7 +16631,7 @@
       "jlpt-n3",
       "songLib"
     ],
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "設定-せってい",
@@ -16748,7 +16814,7 @@
       "jlpt-n5",
       "songLib"
     ],
-    "optSongLibFreq": 4
+    "optSongLibFreq": 5
   },
   {
     "Key": "誰も彼も-だれもかれも",
@@ -17007,7 +17073,7 @@
       "songLib"
     ],
     "optIkomaKanji": "29",
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "走者-そうしゃ",
@@ -17226,8 +17292,8 @@
     "optIkomaKanji": "38"
   },
   {
-    "Key": "辛い (味覚)-からい",
-    "Furi": "辛[から]い (味覚)",
+    "Key": "辛い-からい",
+    "Furi": "辛[から]い",
     "Eng": "spicy (taste)",
     "optTags": [
       "adj-い",
@@ -17235,10 +17301,11 @@
       "songLib"
     ],
     "optIkomaKanji": "26",
+    "optStrContext": "taste (味覚)",
     "optSongLibFreq": 1
   },
   {
-    "Key": "辛い (経験)-つらい",
+    "Key": "辛い-つらい",
     "Furi": "辛[つら]い (経験)",
     "Eng": "difficult (experience)",
     "optTags": [
@@ -17246,7 +17313,8 @@
       "songLib"
     ],
     "optIkomaKanji": "26",
-    "optSongLibFreq": 1
+    "optStrContext": "experience (経験)",
+    "optSongLibFreq": 2
   },
   {
     "Key": "辛抱-しんぼう",
@@ -17429,7 +17497,7 @@
       "jlpt-n2",
       "songLib"
     ],
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "退く-しりぞく",
@@ -17686,7 +17754,7 @@
       "songLib"
     ],
     "optIkomaKanji": "41",
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "進める-すすめる",
@@ -18263,7 +18331,7 @@
       "songLib"
     ],
     "optIkomaKanji": "33",
-    "optSongLibFreq": 3
+    "optSongLibFreq": 4
   },
   {
     "Key": "閉まる-しまる",
@@ -18299,8 +18367,21 @@
     "optIkomaKanji": "33"
   },
   {
-    "Key": "開く (multiple directions)-ひらく",
-    "Furi": "開[ひら]く (multiple directions)",
+    "Key": "開く-あく",
+    "Furi": "開[あ]く",
+    "Eng": "to open by itself (single direction)",
+    "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "verb-intransitive",
+      "jlpt-n5"
+    ],
+    "optIkomaKanji": "13",
+    "optStrContext": "single directions"
+  },
+  {
+    "Key": "開く-ひらく",
+    "Furi": "開[ひら]く",
     "Eng": "to open up/to bloom/to hold events (multiple directions)",
     "optTags": [
       "verb-1",
@@ -18310,19 +18391,8 @@
       "songLib"
     ],
     "optIkomaKanji": "13",
+    "optStrContext": "multiple directions",
     "optSongLibFreq": 2
-  },
-  {
-    "Key": "開く (single direction)-あく",
-    "Furi": "開[あ]く (single direction)",
-    "Eng": "to open by itself (single direction)",
-    "optTags": [
-      "verb-1",
-      "verb-transitive",
-      "verb-intransitive",
-      "jlpt-n5"
-    ],
-    "optIkomaKanji": "13"
   },
   {
     "Key": "開ける-あける",
@@ -18631,6 +18701,26 @@
     "optIkomaKanji": "13"
   },
   {
+    "Key": "雨粒-あまつぶ",
+    "Furi": "雨[あま]粒[つぶ]",
+    "Eng": "raindrop",
+    "optTags": [
+      "noun",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
+    "Key": "雨降り-あめふり",
+    "Furi": "雨[あめ]降[ふ]り",
+    "Eng": "wet/rainy/rainy weather/rainfall",
+    "optTags": [
+      "noun",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "雪-ゆき",
     "Furi": "雪[ゆき]",
     "Eng": "snow",
@@ -18689,7 +18779,7 @@
       "jlpt-n2",
       "songLib"
     ],
-    "optSongLibFreq": 3
+    "optSongLibFreq": 4
   },
   {
     "Key": "電気-でんき",
@@ -18709,6 +18799,17 @@
       "noun"
     ],
     "optIkomaKanji": "39"
+  },
+  {
+    "Key": "電池-でんち",
+    "Furi": "電[でん]池[ち]",
+    "Eng": "battery/cell",
+    "optTags": [
+      "noun",
+      "jlpt-n2",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "電話-でんわ",
@@ -18741,6 +18842,18 @@
     "optIkomaKanji": "02"
   },
   {
+    "Key": "震える-ふるえる",
+    "Furi": "震[ふる]える",
+    "Eng": "to shiver/to shake/to quake",
+    "optTags": [
+      "verb-2",
+      "verb-intransitive",
+      "jlpt-n3",
+      "songLib"
+    ],
+    "optSongLibFreq": 2
+  },
+  {
     "Key": "震わせる-ふるわせる",
     "Furi": "震[ふる]わせる",
     "Eng": "to quiver/to shake/to tremble",
@@ -18748,6 +18861,17 @@
       "verb-2",
       "verb-transitive",
       "jlpt-n1",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
+    "Key": "霧-きり",
+    "Furi": "霧[きり]",
+    "Eng": "fog/mist/spray",
+    "optTags": [
+      "noun",
+      "jlpt-n3",
       "songLib"
     ],
     "optSongLibFreq": 1
@@ -18808,6 +18932,17 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "静める-しずめる",
+    "Furi": "静[しず]める",
+    "Eng": "to quieten/to quell/to soothe",
+    "optTags": [
+      "verb-2",
+      "verb-transitive",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "静脈-じょうみゃく",
     "Furi": "静[じょう]脈[みゃく]",
     "Eng": "vein",
@@ -18858,6 +18993,16 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "面白味-おもしろみ",
+    "Furi": "面[おも]白[しろ]味[み]",
+    "Eng": "interest/appeal/attraction/fun",
+    "optTags": [
+      "noun",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "靴-くつ",
     "Furi": "靴[くつ]",
     "Eng": "shoes/boots",
@@ -18896,7 +19041,7 @@
       "songLib"
     ],
     "optIkomaKanji": "19",
-    "optSongLibFreq": 3
+    "optSongLibFreq": 4
   },
   {
     "Key": "音楽-おんがく",
@@ -19150,9 +19295,11 @@
     "optTags": [
       "verb-2",
       "verb-transitive",
-      "jlpt-n5"
+      "jlpt-n5",
+      "songLib"
     ],
-    "optIkomaKanji": "06"
+    "optIkomaKanji": "06",
+    "optSongLibFreq": 1
   },
   {
     "Key": "食べ物-たべもの",
@@ -19417,6 +19564,18 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "駆け引き-かけひき",
+    "Furi": "駆[か]け引[ひ]き",
+    "Eng": "bargaining/haggling/tactics/strategy",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-intransitive",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "駆け抜ける-かけぬける",
     "Furi": "駆[か]け抜[ぬ]ける",
     "Eng": "to run through/to sweep through/to run past/to overtake",
@@ -19631,6 +19790,15 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "鶏肉-とりにく",
+    "Furi": "鶏[とり]肉[にく]",
+    "Eng": "chicken meat/poultry",
+    "optTags": [
+      "noun",
+      "jlpt-n5"
+    ]
+  },
+  {
     "Key": "麻-あさ",
     "Furi": "麻[あさ]",
     "Eng": "hemp/cannabis",
@@ -19720,33 +19888,5 @@
       "songLib"
     ],
     "optSongLibFreq": 1
-  },
-  {
-    "Key": "度-たび",
-    "Furi": "度[たび]",
-    "Eng": "time/times/degree",
-    "optTags": [
-      "noun",
-      "suffix",
-      "counter",
-      "jlpt-n3"
-    ]
-  },
-  {
-    "Key": "意志-いし",
-    "Furi": "意[い]志[し]",
-    "Eng": "will/volition/intention/intent/determination",
-    "optTags": [
-      "noun",
-      "jlpt-n3"
-    ]
-  },
-  {
-    "Key": "そうだろう-そうだろう",
-    "Furi": "そうだろう",
-    "Eng": "thats right/I agree/isnt it",
-    "optTags": [
-      "phrase"
-    ]
   }
 ]
