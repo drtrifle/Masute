@@ -81,7 +81,7 @@
       "EngStr": "In the noisy days, when you can't smile"
     },
     {
-      "JpnStr": "思[おも]い付[つ]く限[かぎり]眩[まぶ]しい明日[あす]を",
+      "JpnStr": "思[おも]い付[つ]く限[かぎ]り眩[まぶ]しい明日[あす]を",
       "EngStr": "I want to think of a dazzling tomorrow as much as possible"
     },
     {
@@ -93,7 +93,7 @@
       "EngStr": "Take my hand, look"
     },
     {
-      "JpnStr": "忘[わす]れてしまいたくて閉[とじ]込[こめ]た日[ひ]々[び]も",
+      "JpnStr": "忘[わす]れてしまいたくて閉[と]じ込[こ]めた日[ひ]々[び]も",
       "EngStr": "Even the days I wanted to forget and locked away"
     },
     {
@@ -245,7 +245,7 @@
       "EngStr": "The stained mist clears"
     },
     {
-      "JpnStr": "忘[わす]れてしまいたくて閉[とじ]込[こめ]た日[ひ]々[び]に",
+      "JpnStr": "忘[わす]れてしまいたくて閉[と]じ込[こ]めた日[ひ]々[び]に",
       "EngStr": "I take the hand you extended to me"
     },
     {
@@ -368,6 +368,7 @@
     "疲れた-つかれた",
     "疲れたんだ-つかれたんだ",
     "目-め",
+    "眩しい-まぶしい",
     "空-そら",
     "空気-くうき",
     "笑えない-わらえない",
@@ -391,9 +392,9 @@
     "越しに-ごしに",
     "重なる-かさなる",
     "釣られて-つられて",
-    "閉込た-とじこめた",
-    "限眩しい-げんまぶしい",
-    "離さないで-はなさないで",
+    "閉じ込める-とじこめる",
+    "限り-かぎり",
+    "離す-はなす",
     "零れる-こぼれる",
     "霧-きり",
     "顔-かお",

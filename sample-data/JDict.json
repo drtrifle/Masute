@@ -7422,7 +7422,7 @@
       "songLib"
     ],
     "optIkomaKanji": "21",
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "姿-すがた",
@@ -14517,7 +14517,7 @@
       "jlpt-n2",
       "songLib"
     ],
-    "optSongLibFreq": 3
+    "optSongLibFreq": 4
   },
   {
     "Key": "眩む-くらむ",
@@ -17220,6 +17220,17 @@
     "optSongLibFreq": 2
   },
   {
+    "Key": "軈て-やがて",
+    "Furi": "軈[やが]て",
+    "Eng": "before long/soon/shortly/almost/nearly/finally",
+    "optTags": [
+      "adverb",
+      "jlpt-n3",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "車-くるま",
     "Furi": "車[くるま]",
     "Eng": "car",
@@ -17237,6 +17248,16 @@
       "noun"
     ],
     "optIkomaKanji": "23"
+  },
+  {
+    "Key": "軌跡-きせき",
+    "Furi": "軌[き]跡[せき]",
+    "Eng": "tire track/path one has taken",
+    "optTags": [
+      "noun",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "転ぶ-ころぶ",
@@ -17269,6 +17290,18 @@
     "optIkomaKanji": "43"
   },
   {
+    "Key": "輝い-かがやい",
+    "Furi": "輝[かがや]い",
+    "Eng": "to shine/to sparkle/to light up/to glow",
+    "optTags": [
+      "verb-2",
+      "verb-intransitive",
+      "jlpt-n3",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "輝く-かがやく",
     "Furi": "輝[かがや]く",
     "Eng": "to shine/to sparkle/to twinkle",
@@ -17290,6 +17323,16 @@
       "jlpt-n3"
     ],
     "optIkomaKanji": "38"
+  },
+  {
+    "Key": "轟音-ごうおん",
+    "Furi": "轟[ごう]音[おん]",
+    "Eng": "thunderous roar/roaring sound",
+    "optTags": [
+      "noun",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "辛い-からい",
@@ -17389,9 +17432,11 @@
     "optTags": [
       "verb-2",
       "verb-transitive",
-      "jlpt-n1"
+      "jlpt-n1",
+      "songLib"
     ],
-    "optIkomaKanji": "32"
+    "optIkomaKanji": "32",
+    "optSongLibFreq": 1
   },
   {
     "Key": "辿る-たどる",
@@ -17467,13 +17512,15 @@
   {
     "Key": "返す-かえす",
     "Furi": "返[かえ]す",
-    "Eng": "to return (something)",
+    "Eng": "to return something/to overturn/to pay back/to reply",
     "optTags": [
       "verb-2",
       "verb-transitive",
-      "jlpt-n5"
+      "jlpt-n5",
+      "songLib"
     ],
-    "optIkomaKanji": "32"
+    "optIkomaKanji": "32",
+    "optSongLibFreq": 1
   },
   {
     "Key": "返事-へんじ",
@@ -17488,6 +17535,27 @@
     "optIkomaKanji": "32"
   },
   {
+    "Key": "迷い-まよい",
+    "Furi": "迷[よう]い",
+    "Eng": "hesitation/doubt/illusion/delusion",
+    "optTags": [
+      "noun",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
+    "Key": "迷う-まよう",
+    "Furi": "迷[よう]う",
+    "Eng": "to lose ones way/to get lost/to waver/to hesitate/to lose control",
+    "optTags": [
+      "verb-1",
+      "verb-intransitive",
+      "songLib"
+    ],
+    "optSongLibFreq": 2
+  },
+  {
     "Key": "追いかける-おいかける",
     "Furi": "追[お]いかける",
     "Eng": "to chase/to run after/to pursue",
@@ -17498,6 +17566,30 @@
       "songLib"
     ],
     "optSongLibFreq": 2
+  },
+  {
+    "Key": "追いつく-おいつく",
+    "Furi": "追[お]いつく",
+    "Eng": "to catch up/to draw level/ to pull even/to be compensated",
+    "optTags": [
+      "verb-1",
+      "verb-intransitive",
+      "jlpt-n3",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
+    "Key": "追い越す-おいこす",
+    "Furi": "追[お]い越[こ]す",
+    "Eng": "to pass/to overtake/to surpass/to outstrip",
+    "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n2",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "退く-しりぞく",
@@ -17573,9 +17665,11 @@
     "optTags": [
       "verb-2",
       "verb-intransitive",
-      "jlpt-n4"
+      "jlpt-n4",
+      "songLib"
     ],
-    "optIkomaKanji": "34"
+    "optIkomaKanji": "34",
+    "optSongLibFreq": 1
   },
   {
     "Key": "逃亡-とうほう",
@@ -17590,6 +17684,29 @@
     "optIkomaKanji": "34"
   },
   {
+    "Key": "透ける-すける",
+    "Furi": "透[す]ける",
+    "Eng": "to be transparent/to show through",
+    "optTags": [
+      "verb-2",
+      "verb-intransitive",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
+    "Key": "透明-とうめい",
+    "Furi": "透[とう]明[めい]",
+    "Eng": "transparent/clear",
+    "optTags": [
+      "adj-な",
+      "noun",
+      "jlpt-n2",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "途中-とちゅう",
     "Furi": "途[と]中[ちゅう]",
     "Eng": "on the way/en route",
@@ -17599,6 +17716,16 @@
       "jlpt-n4"
     ],
     "optIkomaKanji": "46"
+  },
+  {
+    "Key": "途方-とほう",
+    "Furi": "途[と]方[ほう]",
+    "Eng": "way/destination/reason",
+    "optTags": [
+      "noun",
+      "songLib"
+    ],
+    "optSongLibFreq": 2
   },
   {
     "Key": "通う-かよう",
@@ -17648,6 +17775,18 @@
     "optIkomaKanji": "50"
   },
   {
+    "Key": "通用-つうよう",
+    "Furi": "通[つう]用[よう]",
+    "Eng": "circulation/validity/to be accepted/to be valid/going in and out/entrance and exit",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "jlpt-n2",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "通過する-つうかする",
     "Furi": "通[つう]過[か]する",
     "Eng": "to pass",
@@ -17667,6 +17806,17 @@
       "jlpt-n5"
     ],
     "optIkomaKanji": "26"
+  },
+  {
+    "Key": "速度-そくど",
+    "Furi": "速[そく]度[ど]",
+    "Eng": "speed/velocity/pace/rate",
+    "optTags": [
+      "noun",
+      "jlpt-n3",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "連なる-つらなる",
@@ -17707,7 +17857,7 @@
       "verb-transitive",
       "songLib"
     ],
-    "optSongLibFreq": 3
+    "optSongLibFreq": 4
   },
   {
     "Key": "連絡する-れんらくする",
@@ -17770,6 +17920,14 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "進んで-すすんで",
+    "Furi": "進[すす]んで",
+    "Eng": "voluntarily/willingly/of one's own free will",
+    "optTags": [
+      "adverb"
+    ]
+  },
+  {
     "Key": "進学する-しんがくする",
     "Furi": "進[しん]学[がく]する",
     "Eng": "to go on a higher school",
@@ -17780,6 +17938,16 @@
       "jlpt-n3"
     ],
     "optIkomaKanji": "41"
+  },
+  {
+    "Key": "逸材-いつざい",
+    "Furi": "逸[いつ]材[ざい]",
+    "Eng": "outstanding talent/person of exceptional talent/gifted person",
+    "optTags": [
+      "noun",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "遅い-おそい",
@@ -17814,16 +17982,28 @@
     "optIkomaKanji": "36"
   },
   {
+    "Key": "遊び-あそび",
+    "Furi": "遊[あそ]び",
+    "Eng": "play/playing/game/pleasure/amusement/pastime",
+    "optTags": [
+      "noun",
+      "jlpt-n4",
+      "songLib"
+    ],
+    "optSongLibFreq": 3
+  },
+  {
     "Key": "遊ぶ-あそぶ",
     "Furi": "遊[あそ]ぶ",
-    "Eng": "to play",
+    "Eng": "to play/to enjoy oneself/to mess about",
     "optTags": [
       "verb-1",
+      "verb-intransitive",
       "jlpt-n5",
       "songLib"
     ],
     "optIkomaKanji": "47",
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "遊園地-ゆうえんち",
@@ -17902,7 +18082,7 @@
   {
     "Key": "過ぎる-すぎる",
     "Furi": "過[す]ぎる",
-    "Eng": "to pass through/to pass by",
+    "Eng": "to pass through/to pass by/to go beyond/to elapse/to have expired",
     "optTags": [
       "verb-2",
       "verb-intransitive",
@@ -17924,6 +18104,18 @@
     "optSongLibFreq": 2
   },
   {
+    "Key": "過去-かこ",
+    "Furi": "過[か]去[こ]",
+    "Eng": "the past/bygone days/previous life",
+    "optTags": [
+      "noun",
+      "adverb",
+      "jlpt-n3",
+      "songLib"
+    ],
+    "optSongLibFreq": 2
+  },
+  {
     "Key": "道-みち",
     "Furi": "道[みち]",
     "Eng": "road/street",
@@ -17934,6 +18126,16 @@
     ],
     "optIkomaKanji": "23",
     "optSongLibFreq": 4
+  },
+  {
+    "Key": "達-たち",
+    "Furi": "達[たち]",
+    "Eng": "pluralizing suffix",
+    "optTags": [
+      "suffix",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "違う-ちがう",
@@ -17986,6 +18188,16 @@
       "songLib"
     ],
     "optSongLibFreq": 4
+  },
+  {
+    "Key": "遠巻き-とおまき",
+    "Furi": "遠[とお]巻[ま]き",
+    "Eng": "surrounding at a distance",
+    "optTags": [
+      "noun",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "遠足-えんそく",
@@ -18148,6 +18360,18 @@
     "optIkomaKanji": "50"
   },
   {
+    "Key": "酔う-よう",
+    "Furi": "酔[よ]う",
+    "Eng": "to get drunk/to become intoxicated/to feel sick/to be elated",
+    "optTags": [
+      "verb-1",
+      "verb-intransitive",
+      "jlpt-n3",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "酸っぱい-すっぱい",
     "Furi": "酸[す]っぱい",
     "Eng": "sour/acid",
@@ -18167,16 +18391,26 @@
     "optIkomaKanji": "29"
   },
   {
+    "Key": "重なり-かさなり",
+    "Furi": "重[かさ]なり",
+    "Eng": "overlapping/piling/stacking",
+    "optTags": [
+      "noun",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "重なる-かさなる",
     "Furi": "重[かさ]なる",
-    "Eng": "to be piled up/to lie on top of one another",
+    "Eng": "to overlap/to accumulate/to be piled up/to lie on top of one another",
     "optTags": [
-      "verb-2",
+      "verb-1",
       "verb-intransitive",
       "jlpt-n2",
       "songLib"
     ],
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "重力-じゅうりょく",
@@ -18185,6 +18419,16 @@
     "optTags": [
       "noun",
       "jlpt-n2",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
+    "Key": "重罪-じゅうざい",
+    "Furi": "重[じゅう]罪[ざい]",
+    "Eng": "felony/serious crime",
+    "optTags": [
+      "noun",
       "songLib"
     ],
     "optSongLibFreq": 1
@@ -18218,6 +18462,16 @@
     "optIkomaKanji": "49"
   },
   {
+    "Key": "金-かね",
+    "Furi": "金[かね]",
+    "Eng": "money/metal",
+    "optTags": [
+      "jlpt-n3",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "金曜日-きんようび",
     "Furi": "金[きん]曜[よう]日[び]",
     "Eng": "friday",
@@ -18248,6 +18502,15 @@
       "songLib"
     ],
     "optSongLibFreq": 1
+  },
+  {
+    "Key": "釣られる-つられる",
+    "Furi": "釣[つ]られる",
+    "Eng": "to be lured/to be enticed/to be drawn in/to be caught up in",
+    "optTags": [
+      "verb-2",
+      "verb-intransitive"
+    ]
   },
   {
     "Key": "鉄-てつ",
@@ -18287,6 +18550,40 @@
       "noun"
     ],
     "optIkomaKanji": "26"
+  },
+  {
+    "Key": "錆-さび",
+    "Furi": "錆[さび]",
+    "Eng": "rust",
+    "optTags": [
+      "noun",
+      "jlpt-n2",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
+    "Key": "錆びる-さびる",
+    "Furi": "錆[さ]びる",
+    "Eng": "to rust/to become rusty",
+    "optTags": [
+      "verb-2",
+      "verb-intransitive",
+      "jlpt-n2",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
+    "Key": "鍵-かぎ",
+    "Furi": "鍵[かぎ]",
+    "Eng": "key/lock/clue",
+    "optTags": [
+      "noun",
+      "jlpt-n5",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "長い-ながい",
@@ -18332,6 +18629,17 @@
     ],
     "optIkomaKanji": "33",
     "optSongLibFreq": 4
+  },
+  {
+    "Key": "閉じ込める-とじこめる",
+    "Furi": "閉[と]じ込[こ]める",
+    "Eng": "to lock up/to shut up/to imprison",
+    "optTags": [
+      "verb-2",
+      "verb-transitive",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "閉まる-しまる",
@@ -18452,6 +18760,17 @@
     "optIkomaKanji": "10"
   },
   {
+    "Key": "間違い-まちがい",
+    "Furi": "間[ま]違[ちが]い",
+    "Eng": "mistake/error/blunder/accident/mishap",
+    "optTags": [
+      "noun",
+      "jlpt-n3",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "間違える-まちがえる",
     "Furi": "間[ま]違[ちが]える",
     "Eng": "to make a mistake",
@@ -18481,6 +18800,17 @@
     "optTags": [
       "noun",
       "jlpt-n1",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
+    "Key": "降らせる-ふらせる",
+    "Furi": "降[ふ]らせる",
+    "Eng": "to send rain/to shed",
+    "optTags": [
+      "verb-2",
+      "verb-transitive",
       "songLib"
     ],
     "optSongLibFreq": 1
@@ -18520,6 +18850,26 @@
     "optIkomaKanji": "49"
   },
   {
+    "Key": "限り-かぎり",
+    "Furi": "陽[かぎ]り",
+    "Eng": "limit/extent/scope",
+    "optTags": [
+      "noun",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
+    "Key": "陽-ひ",
+    "Furi": "陽-ひ",
+    "Eng": "sun/sunshine/sunlight",
+    "optTags": [
+      "noun",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "階-かい",
     "Furi": "階[かい]",
     "Eng": "floor/storey",
@@ -18539,6 +18889,40 @@
       "jlpt-n5"
     ],
     "optIkomaKanji": "46"
+  },
+  {
+    "Key": "随分-ずいぶん",
+    "Furi": "随[ずい]分[ぶん]",
+    "Eng": "very/extremely/surprisingly/terrible/horrid/remarkable/extraordinary",
+    "optTags": [
+      "noun",
+      "adverb",
+      "adj-な",
+      "jlpt-n3",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
+    "Key": "隙-すき",
+    "Furi": "隙[すき]",
+    "Eng": "gap/space/break/interlude/interval",
+    "optTags": [
+      "noun",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
+    "Key": "隙間-すきま",
+    "Furi": "隙[すき]間[ま]",
+    "Eng": "crevice/crack/gap/interval/break",
+    "optTags": [
+      "noun",
+      "jlpt-n2",
+      "songLib"
+    ],
+    "optSongLibFreq": 2
   },
   {
     "Key": "隠す-かくす",
@@ -18627,15 +19011,27 @@
     "optIkomaKanji": "40"
   },
   {
+    "Key": "雑音-ざつおん",
+    "Furi": "雑[ざつ]音[おん]",
+    "Eng": "noise/static/interference/gossip",
+    "optTags": [
+      "noun",
+      "jlpt-n2",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "離す-はなす",
     "Furi": "離[はな]す",
-    "Eng": "to part/to divide/to separate",
+    "Eng": "to part/to divide/to separate/to keep apart",
     "optTags": [
       "verb-1",
       "verb-transitive",
+      "jlpt-n3",
       "songLib"
     ],
-    "optSongLibFreq": 3
+    "optSongLibFreq": 6
   },
   {
     "Key": "離れ-はなれ",
@@ -18668,6 +19064,19 @@
       "jlpt-n5"
     ],
     "optIkomaKanji": "40"
+  },
+  {
+    "Key": "難儀-なんぎ",
+    "Furi": "難[なん]儀[ぎ]",
+    "Eng": "troublesome/difficult/suffering/hardship",
+    "optTags": [
+      "noun",
+      "adj-な",
+      "verb-3",
+      "verb-intransitive",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "難問-なんもん",
@@ -18812,6 +19221,17 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "電源-でんげん",
+    "Furi": "電[でん]源[げん]",
+    "Eng": "source of electricity/electrical power/power button",
+    "optTags": [
+      "noun",
+      "jlpt-n1",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "電話-でんわ",
     "Furi": "電[でん]話[わ]",
     "Eng": "telephone",
@@ -18863,7 +19283,7 @@
       "jlpt-n1",
       "songLib"
     ],
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "霧-きり",
@@ -19065,6 +19485,17 @@
     "optIkomaKanji": "11"
   },
   {
+    "Key": "音色-ねいろ",
+    "Furi": "音[ね]色[いろ]",
+    "Eng": "tone color/tone quality/timbre",
+    "optTags": [
+      "noun",
+      "jlpt-n1",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "頃-ころ",
     "Furi": "頃[ころ]",
     "Eng": "around/about/approximate (time)",
@@ -19095,7 +19526,7 @@
       "jlpt-n3",
       "songLib"
     ],
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "頭-あたま",
@@ -19217,7 +19648,7 @@
       "songLib"
     ],
     "optIkomaKanji": "31",
-    "optSongLibFreq": 6
+    "optSongLibFreq": 7
   },
   {
     "Key": "風呂-ふろ",
@@ -19372,6 +19803,18 @@
       "jlpt-n5"
     ],
     "optIkomaKanji": "06"
+  },
+  {
+    "Key": "飲み込む-のみこむ",
+    "Furi": "飲[の]み込[こ]む",
+    "Eng": "to swallow/to gulp down/to understand/to grasp",
+    "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n1",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "飲む-のむ",
@@ -19616,6 +20059,17 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "騒音-そうおん",
+    "Furi": "騒[そう]音[おん]",
+    "Eng": "noise/din",
+    "optTags": [
+      "noun",
+      "jlpt-n3",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "骨-ほね",
     "Furi": "骨[ほね]",
     "Eng": "bone/frame/outline",
@@ -19778,6 +20232,29 @@
     "optSongLibFreq": 3
   },
   {
+    "Key": "鳴らす-ならす",
+    "Furi": "鳴[な]らす",
+    "Eng": "to ring/to sound/to chime/to beat",
+    "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n2",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
+    "Key": "鳴り響く-なりひびく",
+    "Furi": "鳴[な]り響[ひび]く",
+    "Eng": "to reverberate/to resound/to echo",
+    "optTags": [
+      "verb-1",
+      "verb-intransitive",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "鳴る-なる",
     "Furi": "鳴[な]る",
     "Eng": "to sound/to ring/to echo",
@@ -19867,6 +20344,18 @@
       "jlpt-n3"
     ],
     "optIkomaKanji": "08"
+  },
+  {
+    "Key": "鼓動-こどう",
+    "Furi": "鼓[こ]動[どう]",
+    "Eng": "beat/palpitation/pulsation/throbbing",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-intransitive",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "鼻-はな",
