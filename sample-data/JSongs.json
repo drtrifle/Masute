@@ -15,6 +15,13 @@
     "ArtistNameEng": "Asian Kung-Fu Generation"
   },
   {
+    "SongID": "ASIAN-002",
+    "SongURL": "https://www.youtube.com/embed/rDTFSD9K9dA",
+    "SongNameEng": "Rock'n Roll, Morning Light Falls on You",
+    "SongNameJpn": "転がる岩、君に朝が降る",
+    "ArtistNameEng": "Asian Kung-Fu Generation"
+  },
+  {
     "SongID": "AYA-001",
     "SongURL": "https://www.youtube.com/embed/5QNaSMiZ_-o",
     "SongNameEng": "God knows...",
@@ -74,7 +81,7 @@
   },
   {
     "SongID": "KESSOKU-001",
-    "SongURL": "https://www.youtube.com/embed/SDk1RA4g8CA",
+    "SongURL": "https://www.youtube.com/embed/B7BxrAAXl94",
     "SongNameEng": "Guitar, Loneliness and Blue Planet",
     "SongNameJpn": "ギターと孤独と蒼い惑星",
     "ArtistNameEng": "Kessoku band",

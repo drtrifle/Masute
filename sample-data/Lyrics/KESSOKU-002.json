@@ -17,6 +17,10 @@
         "EngStr": "The snare's rhythm gets heavy,"
       },
       {
+        "JpnStr": "",
+        "EngStr": ""
+      },
+      {
         "JpnStr": "確[たしか]かな鼓動[こどう]に成[な]る",
         "EngStr": "Becoming a firm heartbeat."
       },
@@ -35,6 +39,10 @@
       {
         "JpnStr": "期待[きたい]してしまう そんな夜[よる]",
         "EngStr": "I end up hoping for such a night."
+      },
+      {
+        "JpnStr": "",
+        "EngStr": ""
       },
       {
         "JpnStr": "Distortion it's Motion",
@@ -65,6 +73,10 @@
         "EngStr": "Even if it's just the edge."
       },
       {
+        "JpnStr": "",
+        "EngStr": ""
+      },
+      {
         "JpnStr": "投[な]げつけられた言葉[ことば]が",
         "EngStr": "The words that were thrown at me,"
       },
@@ -83,6 +95,10 @@
       {
         "JpnStr": "必死[ひっし]で走[はし]って また夜[よる]を待[ま]つんだ",
         "EngStr": "I run desperately, waiting for the night again."
+      },
+      {
+        "JpnStr": "",
+        "EngStr": ""
       },
       {
         "JpnStr": "Distortion it's Motion",
@@ -109,6 +125,10 @@
         "EngStr": "My own sound."
       },
       {
+        "JpnStr": "",
+        "EngStr": ""
+      },
+      {
         "JpnStr": "ギターの弦[げん]が揺[ゆ]れるたび",
         "EngStr": "Every time the guitar strings vibrate,"
       },
@@ -119,6 +139,10 @@
       {
         "JpnStr": "指先[ゆびさき]が硬[かた]く成[な]るたび 此[こ]の意志[いし]も硬[かた]く成[な]るの",
         "EngStr": "Every time my fingertips harden, this determination becomes firm."
+      },
+      {
+        "JpnStr": "",
+        "EngStr": ""
       },
       {
         "JpnStr": "ディストーションの音色[ねいろ]",
@@ -135,6 +159,10 @@
       {
         "JpnStr": "今夜[こんや]も",
         "EngStr": "Tonight as well."
+      },
+      {
+        "JpnStr": "",
+        "EngStr": ""
       },
       {
         "JpnStr": "Distortion it's Motion",
@@ -163,6 +191,10 @@
       {
         "JpnStr": "君[きみ]の方[ほう]へと",
         "EngStr": "Toward you."
+      },
+      {
+        "JpnStr": "",
+        "EngStr": ""
       },
       {
         "JpnStr": "次[つぎ]の音[おと]にエスコート",
@@ -237,7 +269,7 @@
       "影-かげ",
       "心-こころ",
       "必死-ひっし",
-      "忘れられる-わすれられる",
+      "忘れる-わすれる",
       "怖くない-こわくない",
       "意志-いし",
       "憂い-うれい",
@@ -271,7 +303,7 @@
       "誰か-だれか",
       "走り出す-はしだす",
       "走る-はしる",
-      "踏みつけられた-ふみつけられた",
+      "踏みつける-ふみつける",
       "轟音-ごうおん",
       "追いかける-おいかける",
       "追い越す-おいこす",

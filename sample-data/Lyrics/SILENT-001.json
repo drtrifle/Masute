@@ -1,160 +1,228 @@
 {
-    "SongLyrics": [
-      {
-        "JpnStr": "導[みちび]かれて 思[おも]いのまま",
-        "EngStr": "Guided as we wished,"
-      },
-      {
-        "JpnStr": "交[まじ]わって 重なり 繰[く]り返[かえ]す",
-        "EngStr": "Meeting, overlapping, and repeating."
-      },
-      {
-        "JpnStr": "導[みちび]きあって たどり着[つ]いた この場所[ばしょ]に",
-        "EngStr": "Guided, we arrived at this place,"
-      },
-      {
-        "JpnStr": "いつでも 帰[かえ]れる 場所[ばしょ]がある",
-        "EngStr": "A place we can always return to."
-      },
-      {
-        "JpnStr": "愛[あい] 愛[あい] 愛[あい] FAMILIA",
-        "EngStr": "Love, love, love, FAMILIA,"
-      },
-      {
-        "JpnStr": "愛[あい] 愛[あい] 信[しん]じてる",
-        "EngStr": "Love, love, I believe."
-      },
-      {
-        "JpnStr": "出口[でぐち]のない 暗闇[くらやみ]の中[なか]",
-        "EngStr": "In the endless darkness,"
-      },
-      {
-        "JpnStr": "孤独[こどく]彷徨[ほうこう]っても",
-        "EngStr": "Even if we wander in loneliness,"
-      },
-      {
-        "JpnStr": "どれ程[いくつも]遠[とお]く 感[かん]じたとしても",
-        "EngStr": "No matter how far it feels,"
-      },
-      {
-        "JpnStr": "変[か]わらない記憶[きおく]を",
-        "EngStr": "Our unchanging memories,"
-      },
-      {
-        "JpnStr": "いくつもの",
-        "EngStr": "Many visible"
-      },
-      {
-        "JpnStr": "目[め]に見[み]える奇跡[きせき]を",
-        "EngStr": "Miracles we've witnessed,"
-      },
-      {
-        "JpnStr": "共[とも]に生[い]きた軌跡[きせき]を",
-        "EngStr": "The path we've walked together,"
-      },
-      {
-        "JpnStr": "今[いま]も胸[むね]に刻[きざ]んで進[すす]む",
-        "EngStr": "Is still etched in our hearts as we move forward,"
-      },
-      {
-        "JpnStr": "繋[つな]いだ手[て]を",
-        "EngStr": "Our joined hands,"
-      },
-      {
-        "JpnStr": "信[しん]じて離[はな]さない",
-        "EngStr": "We won't let go while believing."
-      },
-      {
-        "JpnStr": "さえぎる様[よう]な風[かぜ]が吹[ふ]いても",
-        "EngStr": "Even if a blocking wind blows,"
-      },
-      {
-        "JpnStr": "奪[うば]わせない 私[わたし]たちはもう何[なに]も 失[うしな]わない",
-        "EngStr": "We won't let it steal anything more; we won't lose anything."
-      },
-      {
-        "JpnStr": "満[み]たされていて 偽[いつわ]りのない",
-        "EngStr": "Being satisfied, in a genuine"
-      },
-      {
-        "JpnStr": "愛[あい]の中[なか]で 感[かん]じて 寄[よ]り添[そ]って",
-        "EngStr": "Love, we feel it, we embrace it,"
-      },
-      {
-        "JpnStr": "満[み]たされあって たどり着[つ]いた この場所[ばしょ]に",
-        "EngStr": "Being fulfilled, we reached this place,"
-      },
-      {
-        "JpnStr": "導[みちび]かれて 思[おも]いのまま",
-        "EngStr": "Guided as we wished,"
-      },
-      {
-        "JpnStr": "交[まじ]わって 重なり 繰[く]り返[かえ]す",
-        "EngStr": "Meeting, overlapping, and repeating."
-      },
-      {
-        "JpnStr": "導[みちび]きあって たどり着[つ]いた この場所[ばしょ]に",
-        "EngStr": "Guided, we arrived at this place,"
-      },
-      {
-        "JpnStr": "いつでも 帰[かえ]れる 場所[ばしょ]がある",
-        "EngStr": "A place we can always return to."
-      },
-      {
-        "JpnStr": "愛[あい] 愛[あい] 愛[あい] FAMILIA",
-        "EngStr": "Love, love, love, FAMILIA,"
-      },
-      {
-        "JpnStr": "愛[あい] 愛[あい] 信[しん]じてる",
-        "EngStr": "Love, love, I believe."
-      }
-    ],
-    "ListVocab": [
-      "いくつもの-いくつもの",
-      "いつでも-いつでも",
-      "さえぎる-ような",
-      "たどり着いた-たどりついた",
-      "どれ程遠く-いくつもとおく",
-      "交わって-まじわって",
-      "今も-いまも",
-      "何も-なにも",
-      "信じて-しんじて",
-      "信じてる-しんじてる",
-      "偽りのない-いつわりのない",
-      "共に-ともに",
-      "出口のない-でぐちのない",
-      "刻んで-きざんで",
-      "場所に-ばしょに",
-      "変わらない-かわらない",
-      "失わない-うしなわない",
-      "奇跡-きせき",
-      "奪わせない-うばわせない",
-      "孤独-こどく",
-      "寄り添って-よりそって",
-      "導-みちび",
-      "導きあって-みちびきあって",
-      "帰れる-かえれる",
-      "彷徨っても-ほうこうっても",
-      "思い-おもい",
-      "愛-あい",
-      "愛の中で-あいのなかで",
-      "感じたとしても-かんじたとしても",
-      "感じて-かんじて",
-      "手を-てを",
-      "暗闇の中-くらやみのなか",
-      "満たされあって-みたされあって",
-      "満たされていて-みたされていて",
-      "生きた-いきた",
-      "目に見える-めにみえる",
-      "私たち-わたしたち",
-      "繋いだ-つないだ",
-      "繰り返す-くりかえす",
-      "胸に-むねに",
-      "記憶-きおく",
-      "軌跡-きせき",
-      "進む-すすむ",
-      "重なり-かさなり",
-      "離す-はなす",
-      "風-かぜ"
-    ]
-  }
+  "SongLyrics": [
+    {
+      "JpnStr": "導[みちび]かれて 思[おも]いのまま",
+      "EngStr": "Guided as we wished,"
+    },
+    {
+      "JpnStr": "交[まじ]わって 重[かさ]なり 繰[く]り返[かえ]す",
+      "EngStr": "Meeting, overlapping, and repeating."
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "導[みちび]きあって たどり着[つ]いた この場所[ばしょ]に",
+      "EngStr": "Guided, we arrived at this place,"
+    },
+    {
+      "JpnStr": "何時[いつ]でも 帰[かえ]れる 場所[ばしょ]がある",
+      "EngStr": "A place we can always return to."
+    },
+    {
+      "JpnStr": "愛[あい] 愛[あい] 愛[あい] FAMILIA",
+      "EngStr": "Love, love, love, FAMILIA,"
+    },
+    {
+      "JpnStr": "愛[あい] 愛[あい] 信[しん]じてる",
+      "EngStr": "Love, love, I believe."
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "出口[でぐち]のない 暗闇[くらやみ]の中[なか]",
+      "EngStr": "In the endless darkness,"
+    },
+    {
+      "JpnStr": "孤独[こどく]彷徨[ほうこう]っても",
+      "EngStr": "Even if we wander in loneliness,"
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "どれ程[いくつも]遠[とお]く 感[かん]じたとしても",
+      "EngStr": "No matter how far it feels,"
+    },
+    {
+      "JpnStr": "変[か]わらない記憶[きおく]を",
+      "EngStr": "Our unchanging memories,"
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "幾[いく]つもの",
+      "EngStr": "Many visible"
+    },
+    {
+      "JpnStr": "目[め]に見[み]える奇跡[きせき]を",
+      "EngStr": "Miracles we've witnessed,"
+    },
+    {
+      "JpnStr": "共[とも]に生[い]きた軌跡[きせき]を",
+      "EngStr": "The path we've walked together,"
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "今[いま]も胸[むね]に刻[きざ]んで進[すす]む",
+      "EngStr": "Is still etched in our hearts as we move forward,"
+    },
+    {
+      "JpnStr": "繋[つな]いだ手[て]を",
+      "EngStr": "Our joined hands,"
+    },
+    {
+      "JpnStr": "信[しん]じて離[はな]さない",
+      "EngStr": "We won't let go while believing."
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "導[みちび]かれて 思[おも]いのまま",
+      "EngStr": "Guided, as I wish"
+    },
+    {
+      "JpnStr": "交[まじ]わって 重[かさ]なり 繰[く]り返[かえ]す",
+      "EngStr": "We intersect, overlap, and repeat"
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "導[みちび]きあって たどり着[つ]いた この場所[ばしょ]に",
+      "EngStr": "Guided, we reached this place"
+    },
+    {
+      "JpnStr": "何時[いつ]でも 帰[かえ]れる 場所[ばしょ]がある",
+      "EngStr": "A place where I can always return"
+    },
+    {
+      "JpnStr": "愛[あい] 愛[あい] 愛[あい] FAMILIA",
+      "EngStr": "Love, love, love, FAMILIA"
+    },
+    {
+      "JpnStr": "愛[あい] 愛[あい] 流[なが]れてる",
+      "EngStr": "Love, love, flows"
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "さえぎる様[よう]な風[かぜ]が吹[ふ]いても",
+      "EngStr": "Even if a blocking wind blows,"
+    },
+    {
+      "JpnStr": "奪[うば]わせない 私[わたし]たちはもう何[なに]も 失[うしな]わない",
+      "EngStr": "We won't let it steal anything more; we won't lose anything."
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "満[み]たされていて 偽[いつわ]りのない",
+      "EngStr": "Being satisfied, in a genuine"
+    },
+    {
+      "JpnStr": "愛[あい]の中[なか]で 感[かん]じて 寄[よ]り添[そ]って",
+      "EngStr": "Love, we feel it, we embrace it,"
+    },
+    {
+      "JpnStr": "満[み]たされあって たどり着[つ]いた この場所[ばしょ]に",
+      "EngStr": "Being fulfilled, we reached this place,"
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "導[みちび]かれて 思[おも]いのまま",
+      "EngStr": "Guided as we wished,"
+    },
+    {
+      "JpnStr": "交[まじ]わって 重[かさ]なり 繰[く]り返[かえ]す",
+      "EngStr": "Meeting, overlapping, and repeating."
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "導[みちび]きあって たどり着[つ]いた この場所[ばしょ]に",
+      "EngStr": "Guided, we arrived at this place,"
+    },
+    {
+      "JpnStr": "何時[いつ]でも 帰[かえ]れる 場所[ばしょ]がある",
+      "EngStr": "A place we can always return to."
+    },
+    {
+      "JpnStr": "愛[あい] 愛[あい] 愛[あい] FAMILIA",
+      "EngStr": "Love, love, love, FAMILIA,"
+    },
+    {
+      "JpnStr": "愛[あい] 愛[あい] 信[しん]じてる",
+      "EngStr": "Love, love, I believe."
+    }
+  ],
+  "ListVocab": [
+    "さえぎる-ような",
+    "たどり着いた-たどりついた",
+    "どれ程遠く-いくつもとおく",
+    "交わって-まじわって",
+    "今も-いまも",
+    "何も-なにも",
+    "何時でも-いつでも",
+    "信じて-しんじて",
+    "信じてる-しんじてる",
+    "偽りのない-いつわりのない",
+    "共に-ともに",
+    "出口のない-でぐちのない",
+    "刻んで-きざんで",
+    "場所に-ばしょに",
+    "変わらない-かわらない",
+    "失わない-うしなわない",
+    "奇跡-きせき",
+    "奪わせない-うばわせない",
+    "孤独-こどく",
+    "寄り添って-よりそって",
+    "導-みちび",
+    "導きあって-みちびきあって",
+    "帰れる-かえれる",
+    "幾[いく]つも-いくつも",
+    "彷徨っても-ほうこうっても",
+    "思い-おもい",
+    "愛-あい",
+    "愛の中で-あいのなかで",
+    "感じたとしても-かんじたとしても",
+    "感じて-かんじて",
+    "手-て",
+    "暗闇の中-くらやみのなか",
+    "満たされあって-みたされあって",
+    "満たされていて-みたされていて",
+    "生きた-いきた",
+    "目に見える-めにみえる",
+    "私たち-わたしたち",
+    "繋いだ-つないだ",
+    "繰り返す-くりかえす",
+    "胸に-むねに",
+    "記憶-きおく",
+    "軌跡-きせき",
+    "進む-すすむ",
+    "重なり-かさなり",
+    "離す-はなす",
+    "風-かぜ"
+  ]
+}
