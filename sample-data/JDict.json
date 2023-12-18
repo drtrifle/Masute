@@ -16552,13 +16552,17 @@
       "songLib"
     ],
     "optIkomaKanji": "28",
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "覚める-さめる",
     "Furi": "覚[さ]める",
     "Eng": "to wake",
-    "optIkomaKanji": "28"
+    "optTags": [
+      "songLib"
+    ],
+    "optIkomaKanji": "28",
+    "optSongLibFreq": 2
   },
   {
     "Key": "覚悟-かくご",
@@ -16670,7 +16674,7 @@
       "jlpt-n3",
       "songLib"
     ],
-    "optSongLibFreq": 3
+    "optSongLibFreq": 4
   },
   {
     "Key": "言い聞かせる-いいきかせる",
@@ -16693,7 +16697,7 @@
       "songLib"
     ],
     "optIkomaKanji": "21",
-    "optSongLibFreq": 2
+    "optSongLibFreq": 4
   },
   {
     "Key": "言える-いえる",
@@ -16821,7 +16825,7 @@
       "songLib"
     ],
     "optIkomaKanji": "19",
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "話し合う-はなしあう",
@@ -16840,7 +16844,7 @@
       "songLib"
     ],
     "optIkomaKanji": "19",
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "話せる-はなせる",
@@ -16905,7 +16909,7 @@
       "songLib"
     ],
     "optIkomaKanji": "06",
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "読書-どくしょ",
@@ -17255,7 +17259,7 @@
       "jlpt-n3",
       "songLib"
     ],
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "趣味-しゅみ",
@@ -17522,7 +17526,7 @@
       "jlpt-n3",
       "songLib"
     ],
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "輸入する-ゆにゅうする",

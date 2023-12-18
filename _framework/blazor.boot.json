@@ -8,7 +8,7 @@
   "resources": {
     "assembly": {
       "DnetIndexedDb.dll": "sha256-Q7whEyXn1N2yyznvxll7xLHKDdD3Ukh6rrJf23yusOU=",
-      "Masute.dll": "sha256-BHk4UaBo1fwwoLAwNVdPAbuJO\/rq\/IOdTE5gLVoiOMU=",
+      "Masute.dll": "sha256-3g+MA7d+O+OGmfG5h\/JDLxWeSUMgqFpCPMugh+gclHk=",
       "Microsoft.AspNetCore.Components.dll": "sha256-j30fo16qdvqJoLQhzHfvZ\/072RmN448rljlhMMUE2E8=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-RlUr8YDv2QUz4+zMpFcHKwmbPYx98oFyIHr2P9Wtwxk=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-sluHhxBaxkTr7CV0acuIXAXq+xJWY2GoMxsDGnIbuOI=",
@@ -24,7 +24,7 @@
       "Microsoft.Extensions.Primitives.dll": "sha256-eXvGx2jcjpTPEJoAHBsW\/VuMPbNyyU+AsuhPmkzSSRY=",
       "Microsoft.JSInterop.dll": "sha256-+UJXO\/RzNpNfQ\/Pt78vPC2XVX6z4Ux0LyD4Iil6TvVI=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-3+dHa65PgCYOsUMlsJSDYPxt294+nWZxeMbopoWb+fA=",
-      "MudBlazor.dll": "sha256-GG5xn460pjI5VN2loBIgkxlAjxtKlyEN5FWYuHzt7cI=",
+      "MudBlazor.dll": "sha256-TxogeGqACdpkFBkl1FTK6ssszlyfEs6lzjyiriwlyzk=",
       "System.Collections.Concurrent.dll": "sha256-tMDqzgdsyhbzywqz00rnsR7+8\/OaryUne+j\/FNWLKwM=",
       "System.Collections.dll": "sha256-RdOM0u5tHth6dtmcU6EIiWvFVBNl+XbUO00XSxI7FKo=",
       "System.ComponentModel.Annotations.dll": "sha256-vdsxdJC5qfIZ9UKsKCYjhcgn\/m3oVZgCDdjjL7PRnaw=",
@@ -40,7 +40,7 @@
       "System.Net.Http.Json.dll": "sha256-wMwpwqN\/4NoGNubv9OAPyQ5wHGDqBfVwyXU2GnrGxqw=",
       "System.Net.Primitives.dll": "sha256-XhaOHBnuuBTlmq9Ql4BNsyJMofu2PGm1jfMsb5SzJFE=",
       "System.ObjectModel.dll": "sha256-dAaWMHEtmaz8Q797PauILa2uJQqZZpns5\/17jqPX7Nk=",
-      "System.Private.CoreLib.dll": "sha256-ZppQgCsRafHXBW9Gak99NZZRWOWcqaAAKBiBZVGnvpQ=",
+      "System.Private.CoreLib.dll": "sha256-Gg5UgJiqo37i22irFZqvCbXzEBgYeqvZHLFjKZmw3po=",
       "System.Private.Uri.dll": "sha256-ewKK4+T4SRvm6V6Xx+8+dgVgWXQuj0X4yXhMxavzogc=",
       "System.Runtime.dll": "sha256-hQqynTp\/Ah3ez5aMYrizJz7uQ76mFDeg7GBMoE2WGgE=",
       "System.Runtime.InteropServices.JavaScript.dll": "sha256-uH6IeFCD\/OWpwoXd9mpGXXbB\/kJm5a08gHSRU\/K0LIU=",
