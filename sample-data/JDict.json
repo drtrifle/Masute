@@ -5240,7 +5240,12 @@
   {
     "Key": "半ば-なかば",
     "Furi": "半[なか]ば",
-    "Eng": "the middle",
+    "Eng": "middle/halfway/midway",
+    "optTags": [
+      "noun",
+      "suffix",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "03"
   },
   {
@@ -16284,6 +16289,27 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "蔓延る-はびこる",
+    "Furi": "蔓[は]延[びこ]る",
+    "Eng": "to become overgrown/to grow thick/to spread/to thrive",
+    "optTags": [
+      "verb-1",
+      "verb-intransitive",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
+    "Key": "薄-うす",
+    "Furi": "薄[うす]",
+    "Eng": "light",
+    "optTags": [
+      "prefix",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "薄い-うすい",
     "Furi": "薄[うす]い",
     "Eng": "thin/pale/weak",
@@ -16316,12 +16342,33 @@
     "optIkomaKanji": "33"
   },
   {
+    "Key": "藍色-あいいろ",
+    "Furi": "藍[あい]色[いろ]",
+    "Eng": "indigo blue",
+    "optTags": [
+      "noun",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "虚しい-むなしい",
     "Furi": "虚[むな]しい",
     "Eng": "empty/void/vacant",
     "optTags": [
       "adj-い",
       "jlpt-n1",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
+    "Key": "虹-にじ",
+    "Furi": "虹[にじ]",
+    "Eng": "rainbow",
+    "optTags": [
+      "noun",
+      "jlpt-n2",
       "songLib"
     ],
     "optSongLibFreq": 1
@@ -16337,11 +16384,54 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "蜂蜜-はちみつ",
+    "Furi": "蜂[はち]蜜[みつ]",
+    "Eng": "honey",
+    "optTags": [
+      "noun",
+      "jlpt-n1",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
+    "Key": "蝉時雨-せみしぐれ",
+    "Furi": "蝉[せみ]時雨[しぐれ]",
+    "Eng": "outburst of cicadas singing/chorus of cicadas",
+    "optTags": [
+      "noun",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
+    "Key": "蝶-ちょう",
+    "Furi": "蝶[ちょう]",
+    "Eng": "butterfly",
+    "optTags": [
+      "noun",
+      "jlpt-n1",
+      "songLib"
+    ],
+    "optSongLibFreq": 2
+  },
+  {
     "Key": "螺旋-らせん",
     "Furi": "螺[ら]旋[せん]",
     "Eng": "spiral/helix",
     "optTags": [
       "noun",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
+    "Key": "血-ち",
+    "Furi": "血[ち]",
+    "Eng": "blood/ancestry/lineage",
+    "optTags": [
+      "noun",
+      "jlpt-n4",
       "songLib"
     ],
     "optSongLibFreq": 1
@@ -16386,6 +16476,26 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "行こう-いこう",
+    "Furi": "行[い]こう",
+    "Eng": "lets go",
+    "optTags": [
+      "phrase",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
+    "Key": "術-すべ",
+    "Furi": "術[すべ]",
+    "Eng": "way/method/means",
+    "optTags": [
+      "noun",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "表-おもて",
     "Furi": "表[おもて]",
     "Eng": "surface",
@@ -16398,6 +16508,16 @@
     "optTags": [
       "verb-1"
     ]
+  },
+  {
+    "Key": "被害者-ひがいしゃ",
+    "Furi": "被[ひ]害[がい]者[しゃ]",
+    "Eng": "victim/injured party/sufferer",
+    "optTags": [
+      "noun",
+      "songLib"
+    ],
+    "optSongLibFreq": 2
   },
   {
     "Key": "裸-はだか",
@@ -16423,6 +16543,18 @@
     "optIkomaKanji": "40"
   },
   {
+    "Key": "襲う-おそう",
+    "Furi": "襲[おそ]う",
+    "Eng": "to attack/to assail/to strike/to succeed",
+    "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n1",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "西-にし",
     "Furi": "西[にし]",
     "Eng": "west",
@@ -16439,15 +16571,27 @@
     "optIkomaKanji": "31"
   },
   {
+    "Key": "要らん-いらん",
+    "Furi": "要[い]らん",
+    "Eng": "I dont need it/I dont want it",
+    "optTags": [
+      "phrase",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "要る-いる",
     "Furi": "要[い]る",
     "Eng": "to need/to require",
     "optTags": [
       "verb-1",
       "verb-intransitive",
-      "jlpt-n5"
+      "jlpt-n5",
+      "songLib"
     ],
-    "optIkomaKanji": "39"
+    "optIkomaKanji": "39",
+    "optSongLibFreq": 1
   },
   {
     "Key": "見-み",
@@ -16467,7 +16611,18 @@
       "verb-2",
       "songLib"
     ],
-    "optSongLibFreq": 9
+    "optSongLibFreq": 10
+  },
+  {
+    "Key": "見せつける-みせつける",
+    "Furi": "見[み]せつける",
+    "Eng": "to make a display of/to show off/to flaunt",
+    "optTags": [
+      "verb-2",
+      "verb-transitive",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "見せる-みせる",
@@ -16491,7 +16646,18 @@
       "jlpt-n4",
       "songLib"
     ],
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
+  },
+  {
+    "Key": "見つめる-みつめる",
+    "Furi": "見[み]つめる",
+    "Eng": "to stare/to gaze/to look hard/to watch intently",
+    "optTags": [
+      "verb-2",
+      "verb-transitive",
+      "songLib"
+    ],
+    "optSongLibFreq": 3
   },
   {
     "Key": "見る-みる",
@@ -16504,7 +16670,7 @@
       "songLib"
     ],
     "optIkomaKanji": "06",
-    "optSongLibFreq": 5
+    "optSongLibFreq": 7
   },
   {
     "Key": "見学する-けんがくする",
@@ -16526,6 +16692,16 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "見栄え-みばえ",
+    "Furi": "見[み]栄[ば]え",
+    "Eng": "looking nice/being attractive",
+    "optTags": [
+      "noun",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "規則-きそく",
     "Furi": "規[き]則[そく]",
     "Eng": "rule",
@@ -16540,6 +16716,18 @@
       "songLib"
     ],
     "optSongLibFreq": 1
+  },
+  {
+    "Key": "覗く-のぞく",
+    "Furi": "覗く[のぞ]く",
+    "Eng": "to peep/to peek/to look down into",
+    "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n2",
+      "songLib"
+    ],
+    "optSongLibFreq": 2
   },
   {
     "Key": "覚える-おぼえる",
