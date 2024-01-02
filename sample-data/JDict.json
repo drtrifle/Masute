@@ -2612,7 +2612,17 @@
       "suffix",
       "songLib"
     ],
+    "optStrContext": "suffix (接尾辞)",
     "optSongLibFreq": 1
+  },
+  {
+    "Key": "人-にん",
+    "Furi": "人[にん]",
+    "Eng": "counter for people",
+    "optTags": [
+      "counter"
+    ],
+    "optStrContext": "counter (助数詞)"
   },
   {
     "Key": "人-ひと",
@@ -2623,6 +2633,7 @@
       "jlpt-n5",
       "songLib"
     ],
+    "optStrContext": "noun (名詞)",
     "optSongLibFreq": 4
   },
   {
@@ -2869,6 +2880,7 @@
       "noun",
       "songLib"
     ],
+    "optStrContext": "on'yomi (音読み)",
     "optSongLibFreq": 1
   },
   {
@@ -2880,6 +2892,7 @@
       "jlpt-n5",
       "songLib"
     ],
+    "optStrContext": "kun'yomi (訓読み)",
     "optSongLibFreq": 1
   },
   {
@@ -3258,6 +3271,7 @@
       "songLib"
     ],
     "optIkomaKanji": "02",
+    "optStrContext": "often used on its own",
     "optSongLibFreq": 11
   },
   {
@@ -3267,7 +3281,8 @@
     "optTags": [
       "pronoun",
       "jlpt-n5"
-    ]
+    ],
+    "optStrContext": "often used as a compound word"
   },
   {
     "Key": "何か-なにか",
@@ -3522,9 +3537,10 @@
   {
     "Key": "作る-つくる",
     "Furi": "作[つく]る",
-    "Eng": "to make/to produce",
+    "Eng": "to make/to produce/to prepare/to brew",
     "optTags": [
       "verb-1",
+      "verb-transitive",
       "jlpt-n5"
     ],
     "optIkomaKanji": "16"
@@ -3532,7 +3548,11 @@
   {
     "Key": "作家-さっか",
     "Furi": "作[さっ]家[か]",
-    "Eng": "author/writer",
+    "Eng": "author/writer/novelist",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "16"
   },
   {
@@ -3540,6 +3560,9 @@
     "Furi": "作[さく]文[ぶん]",
     "Eng": "short essay/composition",
     "optTags": [
+      "noun",
+      "verb-3",
+      "verb-intransitive",
       "jlpt-n5"
     ],
     "optIkomaKanji": "16"
@@ -3583,6 +3606,7 @@
     "Eng": "to use",
     "optTags": [
       "verb-1",
+      "verb-transitive",
       "jlpt-n5",
       "songLib"
     ],
@@ -3592,37 +3616,62 @@
   {
     "Key": "使用中-しようちゅう",
     "Furi": "使[し]用[よう]中[ちゅう]",
-    "Eng": "in use/engaged",
+    "Eng": "in use/occupied/engaged",
+    "optTags": [
+      "phrase"
+    ],
     "optIkomaKanji": "16"
   },
   {
     "Key": "例-れい",
     "Furi": "例[れい]",
-    "Eng": "example",
+    "Eng": "example/instance/illustration",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "50"
   },
   {
     "Key": "例えば-たとえば",
     "Furi": "例[たと]えば",
     "Eng": "for example",
+    "optTags": [
+      "adverb",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "50"
   },
   {
     "Key": "依頼-いらい",
     "Furi": "依[い]頼[らい]",
-    "Eng": "request",
+    "Eng": "request/commission",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-transitive",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "38"
   },
   {
     "Key": "価値-かち",
     "Furi": "価[か]値[ち]",
-    "Eng": "worth/value",
+    "Eng": "worth/value/merit",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "46"
   },
   {
     "Key": "便り-たより",
     "Furi": "便[たよ]り",
-    "Eng": "news/tidings/letter",
+    "Eng": "news/tidings/information/letter",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "35"
   },
   {
@@ -3638,7 +3687,11 @@
   {
     "Key": "係-かかり",
     "Furi": "係[かかり]",
-    "Eng": "a person in charge",
+    "Eng": "person in charge/official/clerk",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "46"
   },
   {
@@ -4318,22 +4371,13 @@
   {
     "Key": "其れ丈-それだけ",
     "Furi": "其[そ]れ丈[だけ]",
-    "Eng": "that much/as much/to that extent",
+    "Eng": "that much/as much/to that extent/only that",
     "optTags": [
       "adverb",
       "noun",
       "songLib"
     ],
     "optSongLibFreq": 1
-  },
-  {
-    "Key": "其れ丈-それ丈",
-    "Furi": "其[そ]れ丈[だけ]",
-    "Eng": "that much/as much/to that extent/only that",
-    "optTags": [
-      "adverb",
-      "noun"
-    ]
   },
   {
     "Key": "其処-そこ",
@@ -4875,6 +4919,7 @@
       "jlpt-n1",
       "songLib"
     ],
+    "optStrContext": "on'yomi (音読み)",
     "optSongLibFreq": 1
   },
   {
@@ -4886,6 +4931,7 @@
       "jlpt-n5",
       "songLib"
     ],
+    "optStrContext": "kun'yomi (訓読み)",
     "optSongLibFreq": 3
   },
   {
@@ -5590,7 +5636,7 @@
   {
     "Key": "受験-じゅけん",
     "Furi": "受[じゅ]験[けん]",
-    "Eng": "to take an exam",
+    "Eng": "taking an exam/taking an test",
     "optTags": [
       "noun",
       "verb-3",
@@ -8078,7 +8124,7 @@
   {
     "Key": "少々-しょうしょう",
     "Furi": "少[しょう]々[しょう]",
-    "Eng": "a little",
+    "Eng": "just a minute/small quantity",
     "optIkomaKanji": "12"
   },
   {
@@ -8095,7 +8141,7 @@
   {
     "Key": "少ない-すくない",
     "Furi": "少[すく]ない",
-    "Eng": "a little/a few",
+    "Eng": "few/a little/scarce/insufficient",
     "optTags": [
       "adj-い",
       "jlpt-n5",
@@ -8932,6 +8978,7 @@
       "noun",
       "songLib"
     ],
+    "optStrContext": "often used as a compound word",
     "optSongLibFreq": 1
   },
   {
@@ -8944,6 +8991,7 @@
       "songLib"
     ],
     "optIkomaKanji": "29",
+    "optStrContext": "often used on its own",
     "optSongLibFreq": 1
   },
   {
@@ -9145,13 +9193,14 @@
   {
     "Key": "心-こころ",
     "Furi": "心[こころ]",
-    "Eng": "heart",
+    "Eng": "heart/mind/spirit",
     "optTags": [
       "noun",
       "jlpt-n4",
       "songLib"
     ],
     "optIkomaKanji": "17",
+    "optStrContext": "often used on its own",
     "optSongLibFreq": 15
   },
   {
@@ -9162,6 +9211,7 @@
       "noun",
       "songLib"
     ],
+    "optStrContext": "often used as a compound word",
     "optSongLibFreq": 1
   },
   {
@@ -12679,7 +12729,8 @@
       "noun",
       "adverb",
       "jlpt-n5"
-    ]
+    ],
+    "optStrContext": "年[とし]"
   },
   {
     "Key": "毎年-まいねん",
@@ -12689,7 +12740,8 @@
       "noun",
       "adverb",
       "jlpt-n5"
-    ]
+    ],
+    "optStrContext": "年[ねん]"
   },
   {
     "Key": "毎日-まいにち",
@@ -12723,7 +12775,8 @@
       "noun",
       "adverb",
       "jlpt-n5"
-    ]
+    ],
+    "optStrContext": "written form"
   },
   {
     "Key": "毎月-まいつき",
@@ -12733,7 +12786,8 @@
       "noun",
       "adverb",
       "jlpt-n5"
-    ]
+    ],
+    "optStrContext": "spoken form"
   },
   {
     "Key": "毎朝-まいあさ",
@@ -14929,6 +14983,7 @@
       "songLib"
     ],
     "optIkomaKanji": "49",
+    "optStrContext": "slightly formal",
     "optSongLibFreq": 11
   },
   {
@@ -16159,7 +16214,7 @@
   {
     "Key": "若干-じゃっかん",
     "Furi": "若干[じゃっかん]",
-    "Eng": "a little",
+    "Eng": "some/few/a number of/a little",
     "optIkomaKanji": "47"
   },
   {
@@ -16719,7 +16774,7 @@
   },
   {
     "Key": "覗く-のぞく",
-    "Furi": "覗く[のぞ]く",
+    "Furi": "覗[のぞ]く",
     "Eng": "to peep/to peek/to look down into",
     "optTags": [
       "verb-1",
@@ -17492,7 +17547,7 @@
     "optIkomaKanji": "15"
   },
   {
-    "Key": "足並-あしなみ",
+    "Key": "足並み-あしなみ",
     "Furi": "足[あし]並[な]み",
     "Eng": "pace/step",
     "optTags": [
@@ -17939,7 +17994,7 @@
   },
   {
     "Key": "迷い-まよい",
-    "Furi": "迷[よう]い",
+    "Furi": "迷[まよ]い",
     "Eng": "hesitation/doubt/illusion/delusion",
     "optTags": [
       "noun",
@@ -17949,7 +18004,7 @@
   },
   {
     "Key": "迷う-まよう",
-    "Furi": "迷[よう]う",
+    "Furi": "迷[まよ]う",
     "Eng": "to lose ones way/to get lost/to waver/to hesitate/to lose control",
     "optTags": [
       "verb-1",
@@ -19260,7 +19315,7 @@
   },
   {
     "Key": "限り-かぎり",
-    "Furi": "陽[かぎ]り",
+    "Furi": "限[かぎ]り",
     "Eng": "limit/extent/scope",
     "optTags": [
       "noun",
@@ -19270,7 +19325,7 @@
   },
   {
     "Key": "陽-ひ",
-    "Furi": "陽-ひ",
+    "Furi": "陽[ひ]",
     "Eng": "sun/sunshine/sunlight",
     "optTags": [
       "noun",
