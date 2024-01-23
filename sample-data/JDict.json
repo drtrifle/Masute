@@ -2172,7 +2172,7 @@
       "songLib"
     ],
     "optIkomaKanji": "09",
-    "optSongLibFreq": 7
+    "optSongLibFreq": 8
   },
   {
     "Key": "中古車-ちゅうこしゃ",
@@ -2302,7 +2302,7 @@
       "songLib"
     ],
     "optIkomaKanji": "49",
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "乗馬-じょうば",
@@ -2421,7 +2421,7 @@
       "songLib"
     ],
     "optIkomaKanji": "21",
-    "optSongLibFreq": 8
+    "optSongLibFreq": 9
   },
   {
     "Key": "事務所-じむしょ",
@@ -2959,7 +2959,7 @@
       "noun",
       "songLib"
     ],
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "以内-いない",
@@ -3026,6 +3026,16 @@
       "noun"
     ],
     "optIkomaKanji": "02"
+  },
+  {
+    "Key": "会いに行く-あいにいく",
+    "Furi": "会[あ]いに行[い]く",
+    "Eng": "to go meet",
+    "optTags": [
+      "phrase",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "会う-あう",
@@ -3272,7 +3282,7 @@
     ],
     "optIkomaKanji": "02",
     "optStrContext": "often used on its own",
-    "optSongLibFreq": 11
+    "optSongLibFreq": 12
   },
   {
     "Key": "何-なん",
@@ -3680,9 +3690,11 @@
     "Eng": "convenient",
     "optTags": [
       "adj-な",
-      "jlpt-n5"
+      "jlpt-n5",
+      "songLib"
     ],
-    "optIkomaKanji": "35"
+    "optIkomaKanji": "35",
+    "optSongLibFreq": 1
   },
   {
     "Key": "係-かかり",
@@ -5731,7 +5743,7 @@
       "jlpt-n3",
       "songLib"
     ],
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "可哀想-かわいそう",
@@ -6040,7 +6052,7 @@
       "jlpt-n4",
       "songLib"
     ],
-    "optSongLibFreq": 19
+    "optSongLibFreq": 20
   },
   {
     "Key": "否めない-いなめない",
@@ -6664,6 +6676,16 @@
     "optIkomaKanji": "44"
   },
   {
+    "Key": "増し-まし",
+    "Furi": "増[ま]し",
+    "Eng": "better/preferable/more/increase/extra",
+    "optTags": [
+      "noun",
+      "suffix",
+      "adj-な"
+    ]
+  },
+  {
     "Key": "増す-ます",
     "Furi": "増[ま]す",
     "Eng": "to increase/to grow",
@@ -7077,7 +7099,7 @@
       "songLib"
     ],
     "optIkomaKanji": "28",
-    "optSongLibFreq": 5
+    "optSongLibFreq": 6
   },
   {
     "Key": "夢中-むちゅう",
@@ -8165,7 +8187,7 @@
   {
     "Key": "届く-とどく",
     "Furi": "届[とど]く",
-    "Eng": "to be delivered",
+    "Eng": "to reach/to be delivered/to arrive",
     "optTags": [
       "verb-1",
       "verb-intransitive",
@@ -8173,7 +8195,7 @@
       "songLib"
     ],
     "optIkomaKanji": "48",
-    "optSongLibFreq": 5
+    "optSongLibFreq": 6
   },
   {
     "Key": "届ける-とどける",
@@ -9344,7 +9366,7 @@
       "songLib"
     ],
     "optIkomaKanji": "30",
-    "optSongLibFreq": 8
+    "optSongLibFreq": 9
   },
   {
     "Key": "忘年会-ぼうねんかい",
@@ -9766,7 +9788,7 @@
       "noun",
       "songLib"
     ],
-    "optSongLibFreq": 3
+    "optSongLibFreq": 4
   },
   {
     "Key": "想像力-そうぞうりょく",
@@ -9839,7 +9861,7 @@
       "adj-い",
       "songLib"
     ],
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "愛してる-あいしてる",
@@ -10015,7 +10037,7 @@
       "songLib"
     ],
     "optIkomaKanji": "38",
-    "optSongLibFreq": 8
+    "optSongLibFreq": 9
   },
   {
     "Key": "成功する-せいこうする",
@@ -11056,7 +11078,7 @@
       "songLib"
     ],
     "optStrContext": "direction (方向)",
-    "optSongLibFreq": 3
+    "optSongLibFreq": 4
   },
   {
     "Key": "方向-ほうこう",
@@ -11268,7 +11290,7 @@
       "jlpt-n5",
       "songLib"
     ],
-    "optSongLibFreq": 5
+    "optSongLibFreq": 6
   },
   {
     "Key": "易しい-やさしい",
@@ -11484,7 +11506,7 @@
       "songLib"
     ],
     "optIkomaKanji": "03",
-    "optSongLibFreq": 4
+    "optSongLibFreq": 5
   },
   {
     "Key": "時間を掛ける-じかんをかける",
@@ -11875,7 +11897,7 @@
       "jlpt-n3",
       "songLib"
     ],
-    "optSongLibFreq": 4
+    "optSongLibFreq": 5
   },
   {
     "Key": "期待する-きたいする",
@@ -13721,7 +13743,7 @@
       "verb-intransitive",
       "songLib"
     ],
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "煙に巻く-けむにまく",
@@ -15055,7 +15077,7 @@
       "songLib"
     ],
     "optIkomaKanji": "31",
-    "optSongLibFreq": 8
+    "optSongLibFreq": 9
   },
   {
     "Key": "空を覆う-そらをおおう",
@@ -15862,7 +15884,7 @@
       "songLib"
     ],
     "optIkomaKanji": "06",
-    "optSongLibFreq": 3
+    "optSongLibFreq": 4
   },
   {
     "Key": "聞こえてる-きこえてる",
@@ -16468,7 +16490,7 @@
       "jlpt-n1",
       "songLib"
     ],
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "螺旋-らせん",
@@ -16961,7 +16983,7 @@
       "jlpt-n5",
       "songLib"
     ],
-    "optSongLibFreq": 8
+    "optSongLibFreq": 9
   },
   {
     "Key": "言語-げんご",
@@ -17263,7 +17285,7 @@
       "songLib"
     ],
     "optIkomaKanji": "26",
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "財布-さいふ",
@@ -20112,7 +20134,7 @@
       "songLib"
     ],
     "optIkomaKanji": "31",
-    "optSongLibFreq": 7
+    "optSongLibFreq": 8
   },
   {
     "Key": "風呂-ふろ",
@@ -20169,7 +20191,7 @@
       "songLib"
     ],
     "optIkomaKanji": "46",
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "飛行機-ひこうき",

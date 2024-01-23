@@ -96,6 +96,14 @@
     "ArtistNameJpn": "結束バンド"
   },
   {
+    "SongID": "KOJI-001",
+    "SongURL": "https://www.youtube.com/embed/MuhkUzGAeHA",
+    "SongNameEng": "Butter-Fly",
+    "SongNameJpn": "",
+    "ArtistNameEng": "Koji Wada",
+    "ArtistNameJpn": "和田 光司"
+  },
+  {
     "SongID": "KOYORI-001",
     "SongURL": "https://www.youtube.com/embed/UKVioegPPds",
     "SongNameEng": "Hitorinbo Envy",
@@ -215,7 +223,7 @@
   {
     "SongID": "YOASOBI-001",
     "SongURL": "https://www.youtube.com/embed/by4SYYWlhEs",
-    "SongNameEng": " Into The Night",
+    "SongNameEng": "Into The Night",
     "SongNameJpn": "夜に駆ける",
     "ArtistNameEng": "YOASOBI",
     "ArtistNameJpn": ""
