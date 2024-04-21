@@ -65,7 +65,7 @@
       "EngStr": "Seem like they'll lose, but"
     },
     {
-      "JpnStr": "Stay[しがち]な",
+      "JpnStr": "Stay仕[し]勝[が]ちな",
       "EngStr": "Tending to stay"
     },
     {
@@ -153,7 +153,7 @@
       "EngStr": "Isn't that bad"
     },
     {
-      "JpnStr": "Stay[しそう]な",
+      "JpnStr": "Stay思[し]想[そう]な",
       "EngStr": "Seems to stay"
     },
     {
@@ -193,7 +193,7 @@
       "EngStr": "Seem like they'll lose, but"
     },
     {
-      "JpnStr": "Stay[しがち]な",
+      "JpnStr": "Stay仕[し]勝[が]ちな",
       "EngStr": "Tending to stay"
     },
     {
@@ -229,7 +229,7 @@
       "EngStr": "Isn't that bad"
     },
     {
-      "JpnStr": "Stay[しそう]な",
+      "JpnStr": "Stay思[し]想[そう]な",
       "EngStr": "Seems to stay"
     },
     {
@@ -300,6 +300,8 @@
     "響く-ひびく",
     "頼りない-たよりない",
     "風-かぜ",
-    "飛ぶ-とぶ"
+    "飛ぶ-とぶ",
+    "仕勝ち-しがち",
+    "思想-しそう"
   ]
 }

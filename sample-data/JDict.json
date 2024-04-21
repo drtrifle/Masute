@@ -1640,7 +1640,7 @@
   {
     "Key": "一番-いちばん",
     "Furi": "一[いち]番[ばん]",
-    "Eng": "the most",
+    "Eng": "number one/first/best/most",
     "optTags": [
       "noun",
       "adverb",
@@ -4593,20 +4593,9 @@
     "optSongLibFreq": 3
   },
   {
-    "Key": "出会-であい",
-    "Furi": "出[で]会[あい]",
-    "Eng": "meeting/rendezvous/encounter",
-    "optTags": [
-      "noun",
-      "jlpt-n3",
-      "songLib"
-    ],
-    "optSongLibFreq": 1
-  },
-  {
     "Key": "出会い-であい",
     "Furi": "出[で]会[あ]い",
-    "Eng": "meeting/encounter",
+    "Eng": "meeting/encounter/rendezvous",
     "optTags": [
       "noun",
       "jlpt-n3",
@@ -5648,7 +5637,7 @@
   {
     "Key": "受験-じゅけん",
     "Furi": "受[じゅ]験[けん]",
-    "Eng": "taking an exam/taking an test",
+    "Eng": "taking an exam/taking a test",
     "optTags": [
       "noun",
       "verb-3",
@@ -13364,7 +13353,7 @@
   {
     "Key": "渡す-わたす",
     "Furi": "渡[わた]す",
-    "Eng": "to traverse",
+    "Eng": "to ferry across/to traverse/to transfer",
     "optTags": [
       "num",
       "jlpt-n5"
@@ -15887,17 +15876,6 @@
     "optSongLibFreq": 4
   },
   {
-    "Key": "聞こえてる-きこえてる",
-    "Furi": "聞[き]こえてる",
-    "Eng": "to be heard",
-    "optTags": [
-      "verb-2",
-      "jlpt-n4",
-      "songLib"
-    ],
-    "optSongLibFreq": 1
-  },
-  {
     "Key": "聞こえる-きこえる",
     "Furi": "聞[き]こえる",
     "Eng": "to be heard",
@@ -17756,6 +17734,7 @@
     "Key": "軽い-かるい",
     "Furi": "軽[かる]い",
     "Eng": "light",
+    "optStrContext": "weight",
     "optTags": [
       "adj-い",
       "jlpt-n5",
@@ -18826,7 +18805,7 @@
   {
     "Key": "配る-くばる",
     "Furi": "配[くば]る",
-    "Eng": "to deliver/to distribute",
+    "Eng": "to deliver/to distribute/to hand out",
     "optTags": [
       "verb-1",
       "verb-transitive",
@@ -18868,6 +18847,7 @@
     "Key": "重い-おもい",
     "Furi": "重[おも]い",
     "Eng": "heavy",
+    "optStrContext": "weight",
     "optTags": [
       "adj-い",
       "jlpt-n5"
@@ -19163,7 +19143,7 @@
   {
     "Key": "開く-あく",
     "Furi": "開[あ]く",
-    "Eng": "to open by itself (single direction)",
+    "Eng": "to open by itself",
     "optTags": [
       "verb-1",
       "verb-transitive",
@@ -19171,12 +19151,12 @@
       "jlpt-n5"
     ],
     "optIkomaKanji": "13",
-    "optStrContext": "single directions"
+    "optStrContext": "single direction"
   },
   {
     "Key": "開く-ひらく",
     "Furi": "開[ひら]く",
-    "Eng": "to open up/to bloom/to hold events (multiple directions)",
+    "Eng": "to open up/to bloom/to hold events",
     "optTags": [
       "verb-1",
       "verb-transitive",
@@ -20863,5 +20843,42 @@
       "songLib"
     ],
     "optSongLibFreq": 1
+  },
+  {
+    "Key": "冗談-じょうだん",
+    "Furi": "冗[じょう]談[だん]",
+    "Eng": "joke/jest",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ]
+  },
+  {
+    "Key": "誘う-さそう",
+    "Furi": "誘[さそ]う",
+    "Eng": "to invite/to tempt/to induce",
+    "optTags": [
+      "verb-1",
+      "jlpt-n3"
+    ]
+  },
+  {
+    "Key": "助ける-たすける",
+    "Furi": "誘[さそ]う",
+    "Eng": "to save/to rescue/to help/to facilitate",
+    "optStrContext" : "for serious matters",
+    "optTags": [
+      "verb-2",
+      "jlpt-n3"
+    ]
+  },
+  {
+    "Key": "間もなく-まもなく",
+    "Furi": "間[ま]もなく",
+    "Eng": "soon/shortly/before long",
+    "optTags": [
+      "adverb",
+      "jlpt-n2"
+    ]
   }
 ]
