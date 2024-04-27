@@ -8,6 +8,14 @@
     "ArtistNameJpn": "あいみょん"
   },
   {
+    "SongID": "ANRI-001",
+    "SongURL": "https://www.youtube.com/embed/H9R1Hl6sJeE",
+    "SongNameEng": "I can't stop the loneliness",
+    "SongNameJpn": "悲しみがとまらない",
+    "ArtistNameEng": "Anri",
+    "ArtistNameJpn": "杏里"
+  },
+  {
     "SongID": "ASIAN-001",
     "SongURL": "https://www.youtube.com/embed/nJ6A6GC_ki4",
     "SongNameEng": "Haruka Kanata",

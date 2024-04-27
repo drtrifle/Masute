@@ -51,9 +51,11 @@
     "Furi": "あの人[ひと]",
     "Eng": "that person (casual)",
     "optTags": [
-      "noun"
+      "noun",
+      "songLib"
     ],
-    "optIkomaKanji": "02"
+    "optIkomaKanji": "02",
+    "optSongLibFreq": 1
   },
   {
     "Key": "あの子-あのこ",
@@ -468,7 +470,7 @@
       "noun",
       "songLib"
     ],
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "ギュっと-ギュっと",
@@ -1106,7 +1108,7 @@
       "adverb",
       "songLib"
     ],
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "どうせ-どうせ",
@@ -1309,7 +1311,7 @@
       "adj-な",
       "songLib"
     ],
-    "optSongLibFreq": 4
+    "optSongLibFreq": 5
   },
   {
     "Key": "みたいな-みたいな",
@@ -2476,7 +2478,7 @@
       "songLib"
     ],
     "optIkomaKanji": "01",
-    "optSongLibFreq": 4
+    "optSongLibFreq": 5
   },
   {
     "Key": "二倍-にばい",
@@ -2719,7 +2721,7 @@
       "adverb",
       "songLib"
     ],
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "今夜-こんや",
@@ -3048,7 +3050,7 @@
       "songLib"
     ],
     "optIkomaKanji": "02",
-    "optSongLibFreq": 5
+    "optSongLibFreq": 6
   },
   {
     "Key": "会社-かいしゃ",
@@ -4434,6 +4436,15 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "冗談-じょうだん",
+    "Furi": "冗[じょう]談[だん]",
+    "Eng": "joke/jest",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ]
+  },
+  {
     "Key": "写す-うつす",
     "Furi": "写[うつ]す",
     "Eng": "to copy/to duplicate",
@@ -4601,7 +4612,7 @@
       "jlpt-n3",
       "songLib"
     ],
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "出会う-であう",
@@ -4861,7 +4872,11 @@
     "Key": "別れる-わかれる",
     "Furi": "別[わか]れる",
     "Eng": "to part",
-    "optIkomaKanji": "43"
+    "optTags": [
+      "songLib"
+    ],
+    "optIkomaKanji": "43",
+    "optSongLibFreq": 1
   },
   {
     "Key": "利口-りこう",
@@ -5000,6 +5015,18 @@
     "Furi": "加[くわ]える",
     "Eng": "to add",
     "optIkomaKanji": "38"
+  },
+  {
+    "Key": "助ける-たすける",
+    "Furi": "助[たす]ける",
+    "Eng": "to save/to rescue/to help/to facilitate",
+    "optTags": [
+      "verb-2",
+      "jlpt-n3",
+      "songLib"
+    ],
+    "optStrContext": "for serious matters",
+    "optSongLibFreq": 1
   },
   {
     "Key": "労働者-ろうどうしゃ",
@@ -6268,7 +6295,7 @@
       "jlpt-n3",
       "songLib"
     ],
-    "optSongLibFreq": 4
+    "optSongLibFreq": 5
   },
   {
     "Key": "噛み付く-かみつく",
@@ -7448,7 +7475,7 @@
       "jlpt-n3",
       "songLib"
     ],
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "女-おんな",
@@ -9058,7 +9085,7 @@
       "songLib"
     ],
     "optIkomaKanji": "28",
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "彼の-あの",
@@ -9081,7 +9108,7 @@
       "songLib"
     ],
     "optIkomaKanji": "28",
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "待ち合わせ場所-まちあわせばしょ",
@@ -9554,7 +9581,7 @@
       "jlpt-n3",
       "songLib"
     ],
-    "optSongLibFreq": 5
+    "optSongLibFreq": 6
   },
   {
     "Key": "恋する-こいする",
@@ -9574,9 +9601,11 @@
     "Eng": "lover/sweetheart",
     "optTags": [
       "noun",
-      "jlpt-n3"
+      "jlpt-n3",
+      "songLib"
     ],
-    "optIkomaKanji": "48"
+    "optIkomaKanji": "48",
+    "optSongLibFreq": 1
   },
   {
     "Key": "恋愛-れんあい",
@@ -9713,7 +9742,7 @@
       "noun",
       "songLib"
     ],
-    "optSongLibFreq": 3
+    "optSongLibFreq": 4
   },
   {
     "Key": "悲鳴-ひめい",
@@ -9840,7 +9869,7 @@
       "jlpt-n3",
       "songLib"
     ],
-    "optSongLibFreq": 9
+    "optSongLibFreq": 10
   },
   {
     "Key": "愛しい-いとしい",
@@ -9892,7 +9921,7 @@
       "jlpt-n3",
       "songLib"
     ],
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "感傷-かんしょう",
@@ -10328,7 +10357,7 @@
       "verb-transitive",
       "songLib"
     ],
-    "optSongLibFreq": 3
+    "optSongLibFreq": 4
   },
   {
     "Key": "押す-おす",
@@ -12470,7 +12499,7 @@
       "songLib"
     ],
     "optIkomaKanji": "13",
-    "optSongLibFreq": 6
+    "optSongLibFreq": 7
   },
   {
     "Key": "止める-とめる",
@@ -12860,7 +12889,7 @@
       "jlpt-n3",
       "songLib"
     ],
-    "optSongLibFreq": 4
+    "optSongLibFreq": 5
   },
   {
     "Key": "気をつける-きをつける",
@@ -14995,7 +15024,7 @@
     ],
     "optIkomaKanji": "49",
     "optStrContext": "slightly formal",
-    "optSongLibFreq": 11
+    "optSongLibFreq": 12
   },
   {
     "Key": "私立-しりつ",
@@ -15187,7 +15216,7 @@
       "songLib"
     ],
     "optIkomaKanji": "43",
-    "optSongLibFreq": 6
+    "optSongLibFreq": 7
   },
   {
     "Key": "笑える-わらえる",
@@ -17116,6 +17145,17 @@
     "optIkomaKanji": "02"
   },
   {
+    "Key": "誘う-さそう",
+    "Furi": "誘[さそ]う",
+    "Eng": "to invite/to tempt/to induce",
+    "optTags": [
+      "verb-1",
+      "jlpt-n3",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "語る-かたる",
     "Furi": "語[かた]る",
     "Eng": "to tell/to narrate",
@@ -17180,7 +17220,7 @@
       "jlpt-n5",
       "songLib"
     ],
-    "optSongLibFreq": 5
+    "optSongLibFreq": 6
   },
   {
     "Key": "誰も彼も-だれもかれも",
@@ -17302,7 +17342,7 @@
       "jlpt-n5",
       "songLib"
     ],
-    "optSongLibFreq": 8
+    "optSongLibFreq": 9
   },
   {
     "Key": "買い物-かいもの",
@@ -17734,12 +17774,12 @@
     "Key": "軽い-かるい",
     "Furi": "軽[かる]い",
     "Eng": "light",
-    "optStrContext": "weight",
     "optTags": [
       "adj-い",
       "jlpt-n5",
       "songLib"
     ],
+    "optStrContext": "weight",
     "optSongLibFreq": 1
   },
   {
@@ -17979,7 +18019,7 @@
       "songLib"
     ],
     "optIkomaKanji": "32",
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "返事-へんじ",
@@ -18847,12 +18887,12 @@
     "Key": "重い-おもい",
     "Furi": "重[おも]い",
     "Eng": "heavy",
-    "optStrContext": "weight",
     "optTags": [
       "adj-い",
       "jlpt-n5"
     ],
-    "optIkomaKanji": "29"
+    "optIkomaKanji": "29",
+    "optStrContext": "weight"
   },
   {
     "Key": "重なり-かさなり",
@@ -19224,6 +19264,15 @@
       "jlpt-n4"
     ],
     "optIkomaKanji": "10"
+  },
+  {
+    "Key": "間もなく-まもなく",
+    "Furi": "間[ま]もなく",
+    "Eng": "soon/shortly/before long",
+    "optTags": [
+      "adverb",
+      "jlpt-n2"
+    ]
   },
   {
     "Key": "間違い-まちがい",
@@ -19704,9 +19753,11 @@
     "optTags": [
       "noun",
       "verb-3",
-      "jlpt-n5"
+      "jlpt-n5",
+      "songLib"
     ],
-    "optIkomaKanji": "19"
+    "optIkomaKanji": "19",
+    "optSongLibFreq": 1
   },
   {
     "Key": "電話する-でんわする",
@@ -20843,42 +20894,5 @@
       "songLib"
     ],
     "optSongLibFreq": 1
-  },
-  {
-    "Key": "冗談-じょうだん",
-    "Furi": "冗[じょう]談[だん]",
-    "Eng": "joke/jest",
-    "optTags": [
-      "noun",
-      "jlpt-n3"
-    ]
-  },
-  {
-    "Key": "誘う-さそう",
-    "Furi": "誘[さそ]う",
-    "Eng": "to invite/to tempt/to induce",
-    "optTags": [
-      "verb-1",
-      "jlpt-n3"
-    ]
-  },
-  {
-    "Key": "助ける-たすける",
-    "Furi": "誘[さそ]う",
-    "Eng": "to save/to rescue/to help/to facilitate",
-    "optStrContext" : "for serious matters",
-    "optTags": [
-      "verb-2",
-      "jlpt-n3"
-    ]
-  },
-  {
-    "Key": "間もなく-まもなく",
-    "Furi": "間[ま]もなく",
-    "Eng": "soon/shortly/before long",
-    "optTags": [
-      "adverb",
-      "jlpt-n2"
-    ]
   }
 ]
