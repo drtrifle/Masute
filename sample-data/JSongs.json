@@ -199,6 +199,13 @@
     "ArtistNameEng": "snooty"
   },
   {
+    "SongID": "SNOOTY-002",
+    "SongURL": "https://www.youtube.com/embed/LfwVHLZ4mtA",
+    "SongNameEng": "Blank",
+    "SongNameJpn": "空白",
+    "ArtistNameEng": "snooty"
+  },
+  {
     "SongID": "TAICHI-001",
     "SongURL": "https://www.youtube.com/embed/oTH0s0iRA0g",
     "SongNameEng": "Reset",

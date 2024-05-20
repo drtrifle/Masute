@@ -1017,7 +1017,7 @@
       "conjunction",
       "songLib"
     ],
-    "optSongLibFreq": 4
+    "optSongLibFreq": 5
   },
   {
     "Key": "ダサい-ダサい",
@@ -2768,7 +2768,7 @@
       "jlpt-n5",
       "songLib"
     ],
-    "optSongLibFreq": 9
+    "optSongLibFreq": 10
   },
   {
     "Key": "今晩-こんばん",
@@ -3906,7 +3906,7 @@
       "noun",
       "songLib"
     ],
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "傷つく-きずつく",
@@ -3958,7 +3958,7 @@
       "jlpt-n4",
       "songLib"
     ],
-    "optSongLibFreq": 15
+    "optSongLibFreq": 16
   },
   {
     "Key": "僕たち-ぼくたち",
@@ -4222,7 +4222,7 @@
       "songLib"
     ],
     "optIkomaKanji": "25",
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "八-はち",
@@ -5062,7 +5062,7 @@
       "songLib"
     ],
     "optIkomaKanji": "23",
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "動機-どうき",
@@ -5289,9 +5289,11 @@
     "Furi": "午[ご]前[ぜん]",
     "Eng": "am (time)",
     "optTags": [
-      "jlpt-n5"
+      "jlpt-n5",
+      "songLib"
     ],
-    "optIkomaKanji": "05"
+    "optIkomaKanji": "05",
+    "optSongLibFreq": 1
   },
   {
     "Key": "午後-ごご",
@@ -6284,7 +6286,7 @@
       "jlpt-n1",
       "songLib"
     ],
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "嘘-うそ",
@@ -6745,7 +6747,7 @@
       "verb-intransitive",
       "songLib"
     ],
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "声-こえ",
@@ -8198,7 +8200,7 @@
       "jlpt-n5",
       "songLib"
     ],
-    "optSongLibFreq": 7
+    "optSongLibFreq": 8
   },
   {
     "Key": "届く-とどく",
@@ -9128,9 +9130,11 @@
       "verb-1",
       "verb-transitive",
       "verb-intransitive",
-      "jlpt-n5"
+      "jlpt-n5",
+      "songLib"
     ],
-    "optIkomaKanji": "37"
+    "optIkomaKanji": "37",
+    "optSongLibFreq": 1
   },
   {
     "Key": "律儀-りちぎ",
@@ -9239,7 +9243,7 @@
     ],
     "optIkomaKanji": "17",
     "optStrContext": "often used on its own",
-    "optSongLibFreq": 15
+    "optSongLibFreq": 16
   },
   {
     "Key": "心-しん",
@@ -9436,7 +9440,7 @@
       "jlpt-n4",
       "songLib"
     ],
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "思い-おもい",
@@ -9505,7 +9509,7 @@
       "songLib"
     ],
     "optIkomaKanji": "16",
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "思わせる-おもわせる",
@@ -9662,7 +9666,7 @@
       "noun",
       "songLib"
     ],
-    "optSongLibFreq": 3
+    "optSongLibFreq": 4
   },
   {
     "Key": "息急き-いきせき",
@@ -11524,7 +11528,7 @@
       "songLib"
     ],
     "optIkomaKanji": "03",
-    "optSongLibFreq": 5
+    "optSongLibFreq": 6
   },
   {
     "Key": "時間を掛ける-じかんをかける",
@@ -11877,7 +11881,7 @@
       "jlpt-n5",
       "songLib"
     ],
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "朝ご飯-あさごはん",
@@ -12217,7 +12221,7 @@
       "jlpt-n2",
       "songLib"
     ],
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "枷-かせ",
@@ -12325,7 +12329,11 @@
     "Key": "楽-らく",
     "Furi": "楽[らく]",
     "Eng": "comfort/ease/relief",
-    "optIkomaKanji": "19"
+    "optTags": [
+      "songLib"
+    ],
+    "optIkomaKanji": "19",
+    "optSongLibFreq": 1
   },
   {
     "Key": "楽しい-たのしい",
@@ -12338,6 +12346,16 @@
     ],
     "optIkomaKanji": "19",
     "optSongLibFreq": 1
+  },
+  {
+    "Key": "楽しみ-たのしみ",
+    "Furi": "楽[たの]しみ",
+    "Eng": "enjoyment/pleasure/anticipation/looking forward",
+    "optTags": [
+      "noun",
+      "adj-な",
+      "jlpt-n4"
+    ]
   },
   {
     "Key": "様な-ような",
@@ -12499,7 +12517,7 @@
       "songLib"
     ],
     "optIkomaKanji": "13",
-    "optSongLibFreq": 7
+    "optSongLibFreq": 8
   },
   {
     "Key": "止める-とめる",
@@ -12687,7 +12705,7 @@
       "songLib"
     ],
     "optIkomaKanji": "39",
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "死者-ししゃ",
@@ -13229,7 +13247,7 @@
       "jlpt-n3",
       "songLib"
     ],
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "浴びる-あびる",
@@ -14602,7 +14620,7 @@
       "songLib"
     ],
     "optIkomaKanji": "15",
-    "optSongLibFreq": 7
+    "optSongLibFreq": 8
   },
   {
     "Key": "目の前-めのまえ",
@@ -15114,6 +15132,14 @@
     "optIkomaKanji": "31"
   },
   {
+    "Key": "空白-くうはく",
+    "Furi": "空[くう]白[はく]",
+    "Eng": "blank/void/gap/vacuum",
+    "optTags": [
+      "noun"
+    ]
+  },
+  {
     "Key": "突き破る-つきやぶる",
     "Furi": "突[つ]き破[やぶ]る",
     "Eng": "to break through/to penetrate/to pierce",
@@ -15216,7 +15242,7 @@
       "songLib"
     ],
     "optIkomaKanji": "43",
-    "optSongLibFreq": 7
+    "optSongLibFreq": 8
   },
   {
     "Key": "笑える-わらえる",
@@ -15285,7 +15311,7 @@
       "songLib"
     ],
     "optIkomaKanji": "27",
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "米-こめ",
@@ -16518,7 +16544,7 @@
       "jlpt-n4",
       "songLib"
     ],
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "行う-おこなう",
@@ -16990,7 +17016,7 @@
       "jlpt-n5",
       "songLib"
     ],
-    "optSongLibFreq": 9
+    "optSongLibFreq": 10
   },
   {
     "Key": "言語-げんご",
@@ -17463,7 +17489,7 @@
       "songLib"
     ],
     "optIkomaKanji": "08",
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "赤飯-せきはん",
@@ -18789,7 +18815,7 @@
       "songLib"
     ],
     "optIkomaKanji": "22",
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "部長-ぶちょう",
@@ -19134,7 +19160,7 @@
       "songLib"
     ],
     "optIkomaKanji": "33",
-    "optSongLibFreq": 4
+    "optSongLibFreq": 5
   },
   {
     "Key": "閉じ込める-とじこめる",
@@ -19215,9 +19241,11 @@
     "optTags": [
       "verb-2",
       "verb-transitive",
-      "jlpt-n5"
+      "jlpt-n5",
+      "songLib"
     ],
-    "optIkomaKanji": "13"
+    "optIkomaKanji": "13",
+    "optSongLibFreq": 1
   },
   {
     "Key": "開始する-かいしする",
