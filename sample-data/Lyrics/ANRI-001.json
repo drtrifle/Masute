@@ -89,7 +89,7 @@
       "EngStr": "You laugh, saying it's a misunderstanding"
     },
     {
-      "JpnStr": "だけどキスは嘘[うそ]のにおい",
+      "JpnStr": "だけどキスは嘘[うそ]の匂[にお]い",
       "EngStr": "But the kiss smells like a lie"
     },
     {
@@ -105,7 +105,7 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "恋[こい]はちいさな",
+      "JpnStr": "恋[こい]は小[ちい]さな",
       "EngStr": "Love is a small"
     },
     {
@@ -113,7 +113,7 @@
       "EngStr": "Like a storm"
     },
     {
-      "JpnStr": "友[とも]だちも 恋人[こいびと]も",
+      "JpnStr": "友[とも]達[だち]も 恋人[こいびと]も",
       "EngStr": "Both friends and lovers"
     },
     {
@@ -202,9 +202,11 @@
     "会う-あう",
     "別れる-わかれる",
     "助ける-たすける",
-    "友だち-ともだち",
+    "匂い-におい",
+    "友達-ともだち",
     "嘘-うそ",
     "奪う-うばう",
+    "小さい-ちいさい",
     "彼-かれ",
     "彼女-かのじょ",
     "恋-こい",
