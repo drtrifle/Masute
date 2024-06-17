@@ -13638,7 +13638,7 @@
       "songLib"
     ],
     "optIkomaKanji": "34",
-    "optSongLibFreq": 7
+    "optSongLibFreq": 8
   },
   {
     "Key": "無きゃ-なきゃ",
@@ -15246,7 +15246,7 @@
       "songLib"
     ],
     "optIkomaKanji": "43",
-    "optSongLibFreq": 9
+    "optSongLibFreq": 10
   },
   {
     "Key": "笑える-わらえる",
@@ -15570,6 +15570,16 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "結末-けつまつ",
+    "Furi": "結末[けつまつ]",
+    "Eng": "conclusion/end",
+    "optTags": [
+      "noun",
+      "songLib"
+    ],
+    "optSongLibFreq": 2
+  },
+  {
     "Key": "結果-けっか",
     "Furi": "結[けっ]果[か]",
     "Eng": "result",
@@ -15589,31 +15599,57 @@
     ]
   },
   {
+    "Key": "絡まって-からまって",
+    "Furi": "絡[から]まって",
+    "Eng": "entangled",
+    "optTags": [
+      "verb-1",
+      "verb-intransitive"
+    ]
+  },
+  {
     "Key": "絡まる-からまる",
     "Furi": "絡[から]まる",
-    "Eng": "to tangle",
+    "Eng": "to be entwined/to be involved",
     "optTags": [
+      "verb-1",
+      "verb-intransitive",
       "songLib"
     ],
     "optIkomaKanji": "44",
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "絡む-からむ",
     "Furi": "絡[から]む",
     "Eng": "to twist",
+    "optTags": [
+      "verb-1",
+      "verb-intransitive",
+      "jlpt-n1"
+    ],
     "optIkomaKanji": "44"
   },
   {
     "Key": "給料-きゅうりょう",
     "Furi": "給[きゅう]料[りょう]",
-    "Eng": "salary/wages",
+    "Eng": "salary/wages/pay",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "28"
   },
   {
     "Key": "給食-きゅうしょく",
     "Furi": "給[きゅう]食[しょく]",
     "Eng": "school meal",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-intransitive",
+      "jlpt-n1"
+    ],
     "optIkomaKanji": "28"
   },
   {
@@ -15628,30 +15664,69 @@
   {
     "Key": "絵画-かいが",
     "Furi": "絵[かい]画[が]",
-    "Eng": "picture",
+    "Eng": "painting/picture",
     "optTags": [
+      "noun",
+      "jlpt-n3",
       "songLib"
     ],
     "optIkomaKanji": "49",
     "optSongLibFreq": 1
   },
   {
+    "Key": "絶えず-たえず",
+    "Furi": "絶[た]えず",
+    "Eng": "constantly/always",
+    "optTags": [
+      "adverb",
+      "jlpt-n2",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "絶える-たえる",
     "Furi": "絶[た]える",
-    "Eng": "to cease",
+    "Eng": "to cease/to be stopped",
+    "optTags": [
+      "verb-2",
+      "verb-intransitive",
+      "jlpt-n1"
+    ],
     "optIkomaKanji": "39"
   },
   {
     "Key": "絶つ-たつ",
     "Furi": "絶[た]つ",
     "Eng": "to cut off/to sever/to suppress",
+    "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n1"
+    ],
     "optIkomaKanji": "39"
   },
   {
     "Key": "絶対に-ぜったいに",
     "Furi": "絶[ぜっ]対[たい]に",
-    "Eng": "definitely",
+    "Eng": "absolutely/definitely/unconditionally",
+    "optTags": [
+      "adverb"
+    ],
     "optIkomaKanji": "39"
+  },
+  {
+    "Key": "絶望-ぜつぼう",
+    "Furi": "絶[ぜつ]望[ぼう]",
+    "Eng": "despair/hopelessness",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-intransitive",
+      "jlpt-n1",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "続き-つづき",
@@ -15667,8 +15742,15 @@
   {
     "Key": "続く-つづく",
     "Furi": "続[つづ]く",
-    "Eng": "to be continued",
-    "optIkomaKanji": "32"
+    "Eng": "to continue/to last/to go on",
+    "optTags": [
+      "verb-1",
+      "verb-intransitive",
+      "jlpt-n4",
+      "songLib"
+    ],
+    "optIkomaKanji": "32",
+    "optSongLibFreq": 1
   },
   {
     "Key": "続けて-つづけて",
@@ -15686,6 +15768,8 @@
     "Eng": "to continue",
     "optTags": [
       "verb-2",
+      "verb-transitive",
+      "jlpt-n4",
       "songLib"
     ],
     "optIkomaKanji": "32",
@@ -15697,6 +15781,7 @@
     "Eng": "pretty/lovely/beautiful/fair",
     "optTags": [
       "adj-な",
+      "jlpt-n5",
       "songLib"
     ],
     "optSongLibFreq": 4
@@ -15731,9 +15816,25 @@
     ]
   },
   {
+    "Key": "緩い-ゆるい",
+    "Furi": "緩[ゆる]い",
+    "Eng": "loose/lenient",
+    "optTags": [
+      "adj-い",
+      "jlpt-n2",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "練る-ねる",
     "Furi": "練[ね]る",
     "Eng": "to knead/to polish (a plan)",
+    "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n1"
+    ],
     "optIkomaKanji": "32"
   },
   {
@@ -15769,6 +15870,17 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "縺れる-まつれる",
+    "Furi": "縺[まつ]れる",
+    "Eng": "to tangle/to get tangled",
+    "optTags": [
+      "verb-1",
+      "verb-intransitive",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "繋ぎ-つなぎ",
     "Furi": "繋[つな]ぎ",
     "Eng": "link/connection",
@@ -15784,17 +15896,54 @@
     "Eng": "to tie/to connect",
     "optTags": [
       "verb-1",
+      "verb-transitive",
+      "jlpt-n3",
+      "songLib"
+    ],
+    "optSongLibFreq": 6
+  },
+  {
+    "Key": "繰り返す-くりかえす",
+    "Furi": "繰[く]り返[かえ]す",
+    "Eng": "to repeat/to do over again",
+    "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n3",
       "songLib"
     ],
     "optSongLibFreq": 3
+  },
+  {
+    "Key": "纏う-まとう",
+    "Furi": "纏[まと]う",
+    "Eng": "to put on/to wear/to wrap",
+    "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "纏める-まとめる",
     "Furi": "纏[まと]める",
     "Eng": "to put together",
     "optTags": [
-      "verb-2"
+      "verb-2",
+      "verb-transitive",
+      "jlpt-n2"
     ]
+  },
+  {
+    "Key": "罠-わな",
+    "Furi": "罠[わな]",
+    "Eng": "trap/snare",
+    "optTags": [
+      "noun",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "置く-おく",
@@ -15807,13 +15956,25 @@
       "songLib"
     ],
     "optIkomaKanji": "30",
+    "optSongLibFreq": 2
+  },
+  {
+    "Key": "罵倒-ばとう",
+    "Furi": "罵[ば]倒[とう]",
+    "Eng": "abuse/verbal attack",
+    "optTags": [
+      "noun",
+      "songLib"
+    ],
     "optSongLibFreq": 1
   },
   {
     "Key": "美しい-うつくしい",
     "Furi": "美[うつく]しい",
-    "Eng": "Beautiful",
+    "Eng": "beautiful/pretty",
     "optTags": [
+      "adj-い",
+      "jlpt-n4",
       "songLib"
     ],
     "optIkomaKanji": "44",
@@ -15833,6 +15994,10 @@
     "Key": "美人-びじん",
     "Furi": "美[び]人[じん]",
     "Eng": "beauty",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "44"
   },
   {
@@ -15840,14 +16005,29 @@
     "Furi": "美味[おい]しい",
     "Eng": "delicious/tasty",
     "optTags": [
-      "adj-い"
+      "adj-い",
+      "jlpt-n5"
     ]
   },
   {
     "Key": "美術-びじゅつ",
     "Furi": "美[び]術[じゅつ]",
-    "Eng": "art",
+    "Eng": "art/fine arts",
+    "optTags": [
+      "noun",
+      "jlpt-n1"
+    ],
     "optIkomaKanji": "30"
+  },
+  {
+    "Key": "群衆-ぐんしゅう",
+    "Furi": "群[ぐん]衆[しゅう]",
+    "Eng": "crowd/horde/mob",
+    "optTags": [
+      "noun",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "羨む-うらやむ",
@@ -15858,16 +16038,18 @@
       "verb-transitive",
       "songLib"
     ],
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
-    "Key": "義理-きり",
-    "Furi": "義[き]理[り]",
-    "Eng": "duty/honor/honour",
+    "Key": "義理-ぎり",
+    "Furi": "義[ぎ]理[り]",
+    "Eng": "duty/obligation/honor",
     "optTags": [
       "noun",
-      "jlpt-n1"
-    ]
+      "jlpt-n1",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "習う-ならう",
@@ -15884,7 +16066,22 @@
     "Key": "習慣-しゅうかん",
     "Furi": "習[しゅう]慣[かん]",
     "Eng": "custom/habit/pratice",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "38"
+  },
+  {
+    "Key": "翼-つばさ",
+    "Furi": "翼[つばさ]",
+    "Eng": "wing",
+    "optTags": [
+      "noun",
+      "jlpt-n3",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "考える-かんがえる",
@@ -15893,14 +16090,20 @@
     "optTags": [
       "verb-2",
       "verb-transitive",
-      "jlpt-n4"
+      "jlpt-n4",
+      "songLib"
     ],
-    "optIkomaKanji": "25"
+    "optIkomaKanji": "25",
+    "optSongLibFreq": 1
   },
   {
     "Key": "考古学-こうこがく",
     "Furi": "考[こう]古[こ]学[がく]",
     "Eng": "archaelogy/archeology",
+    "optTags": [
+      "noun",
+      "jlpt-n1"
+    ],
     "optIkomaKanji": "25"
   },
   {
@@ -15919,7 +16122,22 @@
     "Key": "耳鼻科-じびか",
     "Furi": "耳[じ]鼻[び]科[か]",
     "Eng": "ear,nose and throat clinic",
+    "optTags": [
+      "noun",
+      "jlpt-n1"
+    ],
     "optIkomaKanji": "15"
+  },
+  {
+    "Key": "聞き飽きる-ききあきる",
+    "Furi": "聞[き]き飽[あ]きる",
+    "Eng": "to get tired of hearing",
+    "optTags": [
+      "verb-2",
+      "verb-transitive",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "聞く-きく",
@@ -15940,6 +16158,8 @@
     "Eng": "to be heard",
     "optTags": [
       "verb-2",
+      "verb-intransitive",
+      "jlpt-n4",
       "songLib"
     ],
     "optSongLibFreq": 2
@@ -15950,6 +16170,7 @@
     "Eng": "to rise/to tower/to soar",
     "optTags": [
       "verb-2",
+      "verb-intransitive",
       "jlpt-n1",
       "songLib"
     ],
@@ -15972,6 +16193,17 @@
     "optTags": [
       "noun",
       "jlpt-n3",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
+    "Key": "肝心-かんじん",
+    "Furi": "肝[かん]心[じん]",
+    "Eng": "essential/important/crucial",
+    "optTags": [
+      "adj-な",
+      "jlpt-n1",
       "songLib"
     ],
     "optSongLibFreq": 1
@@ -16001,8 +16233,11 @@
   {
     "Key": "育つ-そだつ",
     "Furi": "育[そだ]つ",
-    "Eng": "to grow",
+    "Eng": "to be raised/to be brought up/to grow up",
     "optTags": [
+      "verb-1",
+      "verb-intransitive",
+      "jlpt-n3",
       "songLib"
     ],
     "optIkomaKanji": "48",
@@ -16011,7 +16246,12 @@
   {
     "Key": "育てる-そだてる",
     "Furi": "育[そだ]てる",
-    "Eng": "to raise/to bring up",
+    "Eng": "to raise/to rear/to bring up",
+    "optTags": [
+      "verb-2",
+      "verb-transitive",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "48"
   },
   {
@@ -16037,6 +16277,18 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "背伸び-せのび",
+    "Furi": "背伸[せの]び",
+    "Eng": "stretching oneself/overreaching oneself",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-intransitive",
+      "songLib"
+    ],
+    "optSongLibFreq": 2
+  },
+  {
     "Key": "背広-せびろ",
     "Furi": "背広[せびろ]",
     "Eng": "business suit",
@@ -16054,7 +16306,18 @@
       "jlpt-n3",
       "songLib"
     ],
-    "optSongLibFreq": 4
+    "optSongLibFreq": 5
+  },
+  {
+    "Key": "脆い-もろい",
+    "Furi": "脆[もろ]い",
+    "Eng": "weak/fragile/brittle",
+    "optTags": [
+      "adj-い",
+      "jlpt-n1",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "脱ぐ-ぬぐ",
@@ -16069,11 +16332,25 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "腐る-くさる",
+    "Furi": "腐[くさ]る",
+    "Eng": "to rot/to decay/to spoil",
+    "optTags": [
+      "verb-1",
+      "verb-intransitive",
+      "jlpt-n3",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "腫れる-はれる",
     "Furi": "腫[は]れる",
     "Eng": "to swell (from inflammation)",
     "optTags": [
-      "verb-2"
+      "verb-2",
+      "verb-transitive",
+      "jlpt-n1"
     ]
   },
   {
@@ -16088,9 +16365,22 @@
     "optSongLibFreq": 4
   },
   {
+    "Key": "自分らしさ-じぶんらしさ",
+    "Furi": "自[じ]分[ぶん]らしさ",
+    "Eng": "self-identity/individuality/personality",
+    "optTags": [
+      "noun",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "自動販売機-じどうはんばいき",
     "Furi": "自[じ]動[どう]販[はん]売[ばい]機[き]",
     "Eng": "vending machine",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "17"
   },
   {
@@ -16104,19 +16394,58 @@
     "optIkomaKanji": "23"
   },
   {
+    "Key": "自問自答-じもんじとう",
+    "Furi": "自[じ]問[もん]自[じ]答[とう]",
+    "Eng": "asking and answering oneself/answering one's own question",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "自宅-じたく",
     "Furi": "自[じ]宅[たく]",
-    "Eng": "ones home/ones house",
+    "Eng": "one's home/one's house",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "50"
+  },
+  {
+    "Key": "自己顕示-じこけんじ",
+    "Furi": "自[じ]己[こ]顕[けん]示[じ]",
+    "Eng": "self-assertion",
+    "optTags": [
+      "noun",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "自由-じゆう",
     "Furi": "自[じ]由[ゆう]",
-    "Eng": "freedom",
+    "Eng": "freedom/liberty",
     "optTags": [
+      "adj-な",
+      "noun",
+      "jlpt-n4",
       "songLib"
     ],
     "optIkomaKanji": "48",
+    "optSongLibFreq": 1
+  },
+  {
+    "Key": "自身-じしん",
+    "Furi": "自[じ]身[しん]",
+    "Eng": "oneself",
+    "optTags": [
+      "noun",
+      "suffix",
+      "jlpt-n3",
+      "songLib"
+    ],
     "optSongLibFreq": 1
   },
   {
@@ -16950,6 +17279,17 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "見過ごす-みすごす",
+    "Furi": "見[み]過[す]ごす",
+    "Eng": "to overlook/to let pass/to let go by",
+    "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "規則-きそく",
     "Furi": "規[き]則[そく]",
     "Eng": "rule",
@@ -17383,6 +17723,18 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "誤魔化す-ごまかす",
+    "Furi": "誤[ご]魔[ま]化[か]す",
+    "Eng": "to deceive/to cheat",
+    "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n1",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "説く-とく",
     "Furi": "説[と]く",
     "Eng": "to preach",
@@ -17518,6 +17870,16 @@
     "Furi": "議[ぎ]論[ろん]",
     "Eng": "discussion/dispute",
     "optIkomaKanji": "46"
+  },
+  {
+    "Key": "譲れない-ゆずれない",
+    "Furi": "譲[ゆず]れない",
+    "Eng": "non-negotiable",
+    "optTags": [
+      "adj-い",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "豚肉-ぶたにく",
@@ -17674,6 +18036,17 @@
     "optIkomaKanji": "48"
   },
   {
+    "Key": "賢い-かしこい",
+    "Furi": "賢[かしこ]い",
+    "Eng": "wise/smart",
+    "optTags": [
+      "adj-い",
+      "jlpt-n3",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "質問-しつもん",
     "Furi": "質[しつ]問[もん]",
     "Eng": "question/inquiry/enquiry",
@@ -17687,6 +18060,18 @@
     "Furi": "質[しつ]問[もん]をする",
     "Eng": "to ask a question",
     "optIkomaKanji": "17"
+  },
+  {
+    "Key": "賭ける-かける",
+    "Furi": "賭[か]ける",
+    "Eng": "to bet/to wager",
+    "optTags": [
+      "verb-2",
+      "verb-transitive",
+      "jlpt-n1",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "贈る-おくる",
@@ -17817,6 +18202,16 @@
     "optSongLibFreq": 3
   },
   {
+    "Key": "越し-ごし",
+    "Furi": "越[ご]し",
+    "Eng": "across/over",
+    "optTags": [
+      "suffix",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "趣味-しゅみ",
     "Furi": "趣[しゅ]味[み]",
     "Eng": "hobby",
@@ -17901,6 +18296,17 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "踊り出す-おどりだす",
+    "Furi": "踊[おど]り出[だ]す",
+    "Eng": "to begin to dance/to break into a dance",
+    "optTags": [
+      "verb-1",
+      "verb-intransitive",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "踊る-おどる",
     "Furi": "踊[おど]る",
     "Eng": "to dance",
@@ -17909,6 +18315,17 @@
       "songLib"
     ],
     "optSongLibFreq": 2
+  },
+  {
+    "Key": "踏みつける-ふみつける",
+    "Furi": "踏[ふ]みつける",
+    "Eng": "to trample on/to stomp/to ignore",
+    "optTags": [
+      "verb-2",
+      "verb-transitive",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "踏み出す-ふみだす",
@@ -17950,6 +18367,18 @@
     "optTags": [
       "verb-1",
       "verb-intransitive",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
+    "Key": "蹴る-ける",
+    "Furi": "蹴[け]る",
+    "Eng": "to kick/to refuse",
+    "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n2",
       "songLib"
     ],
     "optSongLibFreq": 1
@@ -18025,6 +18454,18 @@
     "Eng": "tire track/path one has taken",
     "optTags": [
       "noun",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
+    "Key": "転がる-ころがる",
+    "Furi": "転[ころ]がる",
+    "Eng": "to roll/to tumble",
+    "optTags": [
+      "verb-1",
+      "verb-intransitive",
+      "jlpt-n2",
       "songLib"
     ],
     "optSongLibFreq": 1
@@ -19010,6 +19451,18 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "適当-てきとう",
+    "Furi": "適[てき]当[とう]",
+    "Eng": "suitable/appropriate",
+    "optTags": [
+      "noun",
+      "adj-な",
+      "jlpt-n4",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "選ぶ-えらぶ",
     "Furi": "選[えら]ぶ",
     "Eng": "to choose/to select",
@@ -19031,6 +19484,18 @@
       "jlpt-n3"
     ],
     "optIkomaKanji": "10"
+  },
+  {
+    "Key": "避ける-さける",
+    "Furi": "避[さ]ける",
+    "Eng": "to avoid/to evade",
+    "optTags": [
+      "verb-2",
+      "verb-transitive",
+      "jlpt-n3",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "避暑地-ひしょち",
@@ -19560,6 +20025,18 @@
       "songLib"
     ],
     "optSongLibFreq": 2
+  },
+  {
+    "Key": "間違う-まちがう",
+    "Furi": "間違[まちが]う",
+    "Eng": "to make a mistake/to be incorrect",
+    "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n1",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "間違える-まちがえる",
@@ -20184,6 +20661,17 @@
     "optIkomaKanji": "30"
   },
   {
+    "Key": "面倒くさい-めんどうくさい",
+    "Furi": "面倒[めんどう]くさい",
+    "Eng": "bothersome/troublesome",
+    "optTags": [
+      "adj-い",
+      "jlpt-n2",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "面接-めんせつ",
     "Furi": "面[めん]接[せつ]",
     "Eng": "interview",
@@ -20289,6 +20777,18 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "響く-ひびく",
+    "Furi": "響[ひび]く",
+    "Eng": "to resound/to echo",
+    "optTags": [
+      "verb-1",
+      "verb-intransitive",
+      "jlpt-n2",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "頃-ころ",
     "Furi": "頃[ころ]",
     "Eng": "around/about/approximate (time)",
@@ -20353,6 +20853,16 @@
       "jlpt-n5"
     ],
     "optIkomaKanji": "38"
+  },
+  {
+    "Key": "頼りない-たよりない",
+    "Furi": "頼[たよ]りない",
+    "Eng": "unreliable/undependable",
+    "optTags": [
+      "adj-い",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "頼る-たよる",
@@ -21057,7 +21567,7 @@
       "jlpt-n4",
       "songLib"
     ],
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "鶏肉-とりにく",

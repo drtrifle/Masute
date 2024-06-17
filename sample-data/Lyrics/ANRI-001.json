@@ -1,7 +1,7 @@
 {
   "SongLyrics": [
     {
-      "JpnStr": "I Can't Stop The Loneliness",
+      "JpnStr": "I can't stop the loneliness",
       "EngStr": ""
     },
     {
@@ -13,7 +13,7 @@
       "EngStr": "The sadness won't stop"
     },
     {
-      "JpnStr": "I Can't Stop The Loneliness",
+      "JpnStr": "I can't stop the loneliness",
       "EngStr": ""
     },
     {
@@ -69,7 +69,7 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "I Can't Stop The Loneliness",
+      "JpnStr": "I can't stop the loneliness",
       "EngStr": ""
     },
     {
@@ -85,7 +85,7 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "誤解[ごかい]だよって 貴方[あなた]は笑[わら]う",
+      "JpnStr": "誤[ご]解[かい]だよって 貴方[あなた]は笑[わら]う",
       "EngStr": "You laugh, saying it's a misunderstanding"
     },
     {
@@ -97,7 +97,7 @@
       "EngStr": "Being held, I realized"
     },
     {
-      "JpnStr": "愛[あい]がここにないことを",
+      "JpnStr": "愛[あい]がここに無[な]いことを",
       "EngStr": "That there's no love here"
     },
     {
@@ -109,7 +109,7 @@
       "EngStr": "Love is a small"
     },
     {
-      "JpnStr": "アラシみたいに",
+      "JpnStr": "嵐[あらし]みたいに",
       "EngStr": "Like a storm"
     },
     {
@@ -125,7 +125,7 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "I Can't Stop The Loneliness",
+      "JpnStr": "I can't stop the loneliness",
       "EngStr": ""
     },
     {
@@ -141,7 +141,7 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "I Can't Stop The Loneliness",
+      "JpnStr": "I can't stop the loneliness",
       "EngStr": ""
     },
     {
@@ -157,7 +157,7 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "I Can't Stop The Loneliness",
+      "JpnStr": "I can't stop the loneliness",
       "EngStr": ""
     },
     {
@@ -173,7 +173,7 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "I Can't Stop The Loneliness",
+      "JpnStr": "I can't stop the loneliness",
       "EngStr": ""
     },
     {
@@ -188,7 +188,6 @@
   "ListVocab": [
     "あの人-あのひと",
     "あの日-あのひ",
-    "アラシ-アラシ",
     "カフェテラス-カフェテラス",
     "キス-キス",
     "こらえ切れず-こらえきれず",
@@ -207,6 +206,7 @@
     "嘘-うそ",
     "奪う-うばう",
     "小さい-ちいさい",
+    "嵐-あらし",
     "彼-かれ",
     "彼女-かのじょ",
     "恋-こい",
@@ -219,6 +219,7 @@
     "昼下り-ひるさがり",
     "止まる-とまる",
     "気づく-きづく",
+    "無い-ない",
     "私-わたし",
     "笑う-わらう",
     "誤解-ごかい",
@@ -226,6 +227,6 @@
     "貴方-あなた",
     "返す-かえす",
     "電話-でんわ",
-    "鳴った-なった"
+    "鳴る-なる"
   ]
 }
