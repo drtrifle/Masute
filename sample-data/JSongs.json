@@ -1,5 +1,12 @@
 [
   {
+    "SongID": "ADO-001",
+    "SongURL": "https://www.youtube.com/embed/Qp3b-RXtz4w",
+    "SongNameEng": "Usseewa",
+    "SongNameJpn": "うっせぇわ",
+    "ArtistNameEng": "Ado"
+  },
+  {
     "SongID": "AIMYON-001",
     "SongURL": "https://www.youtube.com/embed/yOAwvRmVIyo",
     "SongNameEng": "Naked Heart",
@@ -107,6 +114,30 @@
     "SongURL": "https://www.youtube.com/embed/5RSHNMkKGLs",
     "SongNameEng": "Distortion",
     "SongNameJpn": "ディストーション",
+    "ArtistNameEng": "Kessoku band",
+    "ArtistNameJpn": "結束バンド"
+  },
+  {
+    "SongID": "KESSOKU-003",
+    "SongURL": "https://www.youtube.com/embed/gX9m-rCtSqc",
+    "SongNameEng": "Don't Forget",
+    "SongNameJpn": "忘れてやらない",
+    "ArtistNameEng": "Kessoku band",
+    "ArtistNameJpn": "結束バンド"
+  },
+  {
+    "SongID": "KESSOKU-004",
+    "SongURL": "https://www.youtube.com/embed/L2i0i9gWE00",
+    "SongNameEng": "That Band",
+    "SongNameJpn": "あのバンド",
+    "ArtistNameEng": "Kessoku band",
+    "ArtistNameJpn": "結束バンド"
+  },
+  {
+    "SongID": "KESSOKU-005",
+    "SongURL": "https://www.youtube.com/embed/BVvcQ4ge8Ow",
+    "SongNameEng": "What is Wrong With",
+    "SongNameJpn": "何が悪い",
     "ArtistNameEng": "Kessoku band",
     "ArtistNameJpn": "結束バンド"
   },
