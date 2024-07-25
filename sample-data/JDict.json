@@ -1084,6 +1084,16 @@
     "optSongLibFreq": 5
   },
   {
+    "Key": "たっぷり-たっぷり",
+    "Furi": "たっぷり",
+    "Eng": "plentifully/amply/a lot",
+    "optTags": [
+      "adverb",
+      "adj-な",
+      "jlpt-n3"
+    ]
+  },
+  {
     "Key": "だろう-だろう",
     "Furi": "だろう",
     "Eng": "seems/I guess/right?",
@@ -3893,6 +3903,17 @@
     "optIkomaKanji": "46"
   },
   {
+    "Key": "保管-ほかん",
+    "Furi": "保[ほ]管[かん]",
+    "Eng": "deposit/storage",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-transitive",
+      "jlpt-n1"
+    ]
+  },
+  {
     "Key": "保証-ほしょう",
     "Furi": "保[ほ]証[しょう]",
     "Eng": "guarantee",
@@ -4410,7 +4431,7 @@
       "songLib"
     ],
     "optIkomaKanji": "25",
-    "optSongLibFreq": 3
+    "optSongLibFreq": 4
   },
   {
     "Key": "八-はち",
@@ -9252,6 +9273,16 @@
     "optIkomaKanji": "35"
   },
   {
+    "Key": "当日-とうじつ",
+    "Furi": "当[とう]日[じつ]",
+    "Eng": "same day/that very day",
+    "optTags": [
+      "noun",
+      "adverb",
+      "jlpt-n2"
+    ]
+  },
+  {
     "Key": "形-かた",
     "Furi": "形[かた]",
     "Eng": "shape/form/style",
@@ -11141,6 +11172,15 @@
     "optIkomaKanji": "30"
   },
   {
+    "Key": "政府-せいふ",
+    "Furi": "政[せい]府[ふ]",
+    "Eng": "government/administration/ministry",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ]
+  },
+  {
     "Key": "政治-せいじ",
     "Furi": "政[せい]治[じ]",
     "Eng": "politics",
@@ -12472,6 +12512,14 @@
     ]
   },
   {
+    "Key": "果肉-かにく",
+    "Furi": "果[か]肉[にく]",
+    "Eng": "fruit flesh",
+    "optTags": [
+      "noun"
+    ]
+  },
+  {
     "Key": "枯れる-かれる",
     "Furi": "枯[か]れる",
     "Eng": "to wither",
@@ -13525,6 +13573,15 @@
     "optIkomaKanji": "25"
   },
   {
+    "Key": "浴衣-ゆかた",
+    "Furi": "浴衣[ゆかた]",
+    "Eng": "yukata",
+    "optTags": [
+      "noun",
+      "jlpt-n2"
+    ]
+  },
+  {
     "Key": "海-うみ",
     "Furi": "海[うみ]",
     "Eng": "sea/ocean",
@@ -13718,6 +13775,19 @@
       "songLib"
     ],
     "optSongLibFreq": 2
+  },
+  {
+    "Key": "準備-じゅんび",
+    "Furi": "準[じゅん]備[び]",
+    "Eng": "preparation/arrangements/setup",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-transitive",
+      "jlpt-n3",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "溢れる-あふれる",
@@ -14731,6 +14801,17 @@
     "optSongLibFreq": 2
   },
   {
+    "Key": "発売-はつばい",
+    "Furi": "発[はつ]売[ばい]",
+    "Eng": "sale/offering for sale",
+    "optTags": [
+      "verb-3",
+      "verb-transitive",
+      "noun",
+      "jlpt-n2"
+    ]
+  },
+  {
     "Key": "発明-はつめい",
     "Furi": "発[はつ]明[めい]",
     "Eng": "invention",
@@ -14968,6 +15049,17 @@
     "Furi": "相[そう]談[だん]する",
     "Eng": "to counsel/to consult/to discuss",
     "optIkomaKanji": "42"
+  },
+  {
+    "Key": "真っ直ぐ-まっすぐ",
+    "Furi": "真[ま]っ直[す]ぐ",
+    "Eng": "straight ahead/direct",
+    "optTags": [
+      "adj-な",
+      "adverb",
+      "noun",
+      "jlpt-n5"
+    ]
   },
   {
     "Key": "真っ赤-まっか",
@@ -16047,6 +16139,17 @@
       "jlpt-n3"
     ],
     "optIkomaKanji": "28"
+  },
+  {
+    "Key": "給水-きゅうすい",
+    "Furi": "給[きゅう]水[すい]",
+    "Eng": "water supply/water refill",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-transitive",
+      "verb-intransitive"
+    ]
   },
   {
     "Key": "給食-きゅうしょく",
