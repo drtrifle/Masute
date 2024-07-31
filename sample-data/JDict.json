@@ -331,7 +331,8 @@
       "noun",
       "jlpt-n5"
     ],
-    "optIkomaKanji": "07"
+    "optIkomaKanji": "07",
+    "optKanshudoFreq": 1
   },
   {
     "Key": "お気に入り-おきにいり",
@@ -370,7 +371,8 @@
       "noun",
       "jlpt-n5"
     ],
-    "optIkomaKanji": "07"
+    "optIkomaKanji": "07",
+    "optKanshudoFreq": 1
   },
   {
     "Key": "お皿-おさら",
@@ -485,6 +487,7 @@
       "particle",
       "songLib"
     ],
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 5
   },
   {
@@ -1104,6 +1107,16 @@
     "optSongLibFreq": 7
   },
   {
+    "Key": "ちょっと-ちょっと",
+    "Furi": "ちょっと",
+    "Eng": "just a minute/short time/just a little",
+    "optTags": [
+      "adverb",
+      "jlpt-n5"
+    ],
+    "optKanshudoFreq": 1
+  },
+  {
     "Key": "ついて行く-ついていく",
     "Furi": "ついて行[い]く",
     "Eng": "to follow/to accompany",
@@ -1496,6 +1509,7 @@
       "jlpt-n5",
       "songLib"
     ],
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 2
   },
   {
@@ -1510,13 +1524,14 @@
   {
     "Key": "一人-ひとり",
     "Furi": "一[ひと]人[り]",
-    "Eng": "one person",
+    "Eng": "one person/alone",
     "optTags": [
       "noun",
       "jlpt-n5",
       "songLib"
     ],
     "optIkomaKanji": "01",
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 5
   },
   {
@@ -1867,6 +1882,7 @@
       "jlpt-n5",
       "songLib"
     ],
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 1
   },
   {
@@ -2179,7 +2195,8 @@
       "noun",
       "jlpt-n5"
     ],
-    "optIkomaKanji": "25"
+    "optIkomaKanji": "25",
+    "optKanshudoFreq": 1
   },
   {
     "Key": "並-なみ",
@@ -2460,6 +2477,7 @@
       "jlpt-n4",
       "songLib"
     ],
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 1
   },
   {
@@ -2531,7 +2549,8 @@
     "optTags": [
       "num",
       "jlpt-n5"
-    ]
+    ],
+    "optKanshudoFreq": 1
   },
   {
     "Key": "二つ-ふたつ",
@@ -2542,18 +2561,20 @@
       "jlpt-n5",
       "songLib"
     ],
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 1
   },
   {
     "Key": "二人-ふたり",
     "Furi": "二[ふた]人[り]",
-    "Eng": "two people",
+    "Eng": "two people/pair",
     "optTags": [
       "noun",
       "jlpt-n5",
       "songLib"
     ],
     "optIkomaKanji": "01",
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 5
   },
   {
@@ -2608,7 +2629,8 @@
     "optTags": [
       "num",
       "jlpt-n5"
-    ]
+    ],
+    "optKanshudoFreq": 1
   },
   {
     "Key": "五つ-いつつ",
@@ -2617,7 +2639,8 @@
     "optTags": [
       "num",
       "jlpt-n5"
-    ]
+    ],
+    "optKanshudoFreq": 1
   },
   {
     "Key": "五日-いつか",
@@ -2931,7 +2954,8 @@
       "verb-intransitive",
       "jlpt-n5"
     ],
-    "optIkomaKanji": "21"
+    "optIkomaKanji": "21",
+    "optKanshudoFreq": 1
   },
   {
     "Key": "仕勝ち-しがち",
@@ -3211,7 +3235,8 @@
       "noun",
       "jlpt-n5"
     ],
-    "optIkomaKanji": "02"
+    "optIkomaKanji": "02",
+    "optKanshudoFreq": 1
   },
   {
     "Key": "会話-かいわ",
@@ -3446,6 +3471,7 @@
     ],
     "optIkomaKanji": "02",
     "optStrContext": "often used on its own",
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 12
   },
   {
@@ -3569,8 +3595,10 @@
     "Eng": "where",
     "optTags": [
       "pronoun",
+      "jlpt-n5",
       "songLib"
     ],
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 4
   },
   {
@@ -3624,6 +3652,7 @@
     ],
     "optIkomaKanji": "02",
     "optStrContext": "pronoun (代名詞)",
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 2
   },
   {
@@ -3730,6 +3759,17 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "余り-あまり",
+    "Furi": "余[あま]り",
+    "Eng": "remainder/rest/balance",
+    "optTags": [
+      "adj-な",
+      "adverb",
+      "jlpt-n5"
+    ],
+    "optKanshudoFreq": 1
+  },
+  {
     "Key": "余計-よけい",
     "Furi": "余計[よけい]",
     "Eng": "extra/excessive/unnecessary",
@@ -3749,7 +3789,8 @@
       "verb-transitive",
       "jlpt-n5"
     ],
-    "optIkomaKanji": "16"
+    "optIkomaKanji": "16",
+    "optKanshudoFreq": 1
   },
   {
     "Key": "作家-さっか",
@@ -3846,7 +3887,8 @@
       "adverb",
       "jlpt-n4"
     ],
-    "optIkomaKanji": "50"
+    "optIkomaKanji": "50",
+    "optKanshudoFreq": 1
   },
   {
     "Key": "依頼-いらい",
@@ -4264,10 +4306,12 @@
     "Furi": "元[げん]気[き]",
     "Eng": "fine/healthy/energetic",
     "optTags": [
+      "noun",
       "adj-な",
       "jlpt-n5"
     ],
-    "optIkomaKanji": "12"
+    "optIkomaKanji": "12",
+    "optKanshudoFreq": 1
   },
   {
     "Key": "兄-あに",
@@ -4431,6 +4475,7 @@
       "songLib"
     ],
     "optIkomaKanji": "25",
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 4
   },
   {
@@ -4508,7 +4553,8 @@
     "optTags": [
       "num",
       "jlpt-n5"
-    ]
+    ],
+    "optKanshudoFreq": 1
   },
   {
     "Key": "六つ-むっつ",
@@ -4797,12 +4843,13 @@
       "jlpt-n5",
       "songLib"
     ],
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 5
   },
   {
     "Key": "出る-でる",
     "Furi": "出[で]る",
-    "Eng": "to leave",
+    "Eng": "to leave/to exit/to depart",
     "optTags": [
       "verb-2",
       "verb-intransitive",
@@ -4810,6 +4857,7 @@
       "songLib"
     ],
     "optIkomaKanji": "13",
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 3
   },
   {
@@ -5530,11 +5578,13 @@
   {
     "Key": "午後-ごご",
     "Furi": "午[ご]後[ご]",
-    "Eng": "pm (time)",
+    "Eng": "afternoon/pm (time)",
     "optTags": [
+      "noun",
       "jlpt-n5"
     ],
-    "optIkomaKanji": "05"
+    "optIkomaKanji": "05",
+    "optKanshudoFreq": 1
   },
   {
     "Key": "半-はん",
@@ -5561,9 +5611,11 @@
     "Furi": "半[はん]分[ぶん]",
     "Eng": "half",
     "optTags": [
+      "noun",
       "jlpt-n5"
     ],
-    "optIkomaKanji": "03"
+    "optIkomaKanji": "03",
+    "optKanshudoFreq": 1
   },
   {
     "Key": "半年-はんとし",
@@ -5741,6 +5793,18 @@
       "jlpt-n3"
     ],
     "optIkomaKanji": "38"
+  },
+  {
+    "Key": "又-また",
+    "Furi": "又[また]",
+    "Eng": "again/and/also/still",
+    "optTags": [
+      "adverb",
+      "prefix",
+      "conjunction",
+      "jlpt-n5"
+    ],
+    "optKanshudoFreq": 1
   },
   {
     "Key": "友達-ともだち",
@@ -5927,6 +5991,7 @@
       "songLib"
     ],
     "optIkomaKanji": "15",
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 3
   },
   {
@@ -6202,13 +6267,14 @@
   {
     "Key": "名前-なまえ",
     "Furi": "名[な]前[まえ]",
-    "Eng": "name",
+    "Eng": "name/full name",
     "optTags": [
       "noun",
       "jlpt-n5",
       "songLib"
     ],
     "optIkomaKanji": "02",
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 1
   },
   {
@@ -6405,12 +6471,14 @@
   {
     "Key": "呼ぶ-よぶ",
     "Furi": "呼[よ]ぶ",
-    "Eng": "to call",
+    "Eng": "to call/to invoke",
     "optTags": [
       "verb-1",
+      "verb-transitive",
       "jlpt-n5"
     ],
-    "optIkomaKanji": "38"
+    "optIkomaKanji": "38",
+    "optKanshudoFreq": 1
   },
   {
     "Key": "呼吸する-こきゅうする",
@@ -6612,7 +6680,8 @@
     "optTags": [
       "num",
       "jlpt-n5"
-    ]
+    ],
+    "optKanshudoFreq": 1
   },
   {
     "Key": "四つ-よっつ",
@@ -6723,12 +6792,14 @@
   {
     "Key": "国-くに",
     "Furi": "国[くに]",
-    "Eng": "country",
+    "Eng": "country/state",
     "optTags": [
+      "noun",
       "jlpt-n5",
       "songLib"
     ],
     "optIkomaKanji": "04",
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 1
   },
   {
@@ -6814,9 +6885,11 @@
     "Furi": "地[ち]図[ず]",
     "Eng": "map",
     "optTags": [
+      "noun",
       "jlpt-n5"
     ],
-    "optIkomaKanji": "23"
+    "optIkomaKanji": "23",
+    "optKanshudoFreq": 1
   },
   {
     "Key": "地球-ちきゅう",
@@ -6888,6 +6961,7 @@
       "jlpt-n4",
       "songLib"
     ],
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 2
   },
   {
@@ -7024,9 +7098,11 @@
     "Eng": "to sell",
     "optTags": [
       "verb-1",
+      "verb-transitive",
       "jlpt-n5"
     ],
-    "optIkomaKanji": "17"
+    "optIkomaKanji": "17",
+    "optKanshudoFreq": 1
   },
   {
     "Key": "売れる-うれる",
@@ -7225,7 +7301,8 @@
       "noun",
       "jlpt-n5"
     ],
-    "optIkomaKanji": "10"
+    "optIkomaKanji": "10",
+    "optKanshudoFreq": 1
   },
   {
     "Key": "外す-はずす",
@@ -7259,7 +7336,8 @@
       "noun",
       "jlpt-n5"
     ],
-    "optIkomaKanji": "04"
+    "optIkomaKanji": "04",
+    "optKanshudoFreq": 1
   },
   {
     "Key": "外国人-がいこくじん",
@@ -7268,7 +7346,8 @@
     "optTags": [
       "noun",
       "jlpt-n5"
-    ]
+    ],
+    "optKanshudoFreq": 1
   },
   {
     "Key": "外方-そっぽ",
@@ -7404,12 +7483,13 @@
   {
     "Key": "大きい-おおきい",
     "Furi": "大[おお]きい",
-    "Eng": "big/large",
+    "Eng": "big/large/great",
     "optTags": [
       "adj-い",
       "jlpt-n5"
     ],
-    "optIkomaKanji": "02"
+    "optIkomaKanji": "02",
+    "optKanshudoFreq": 1
   },
   {
     "Key": "大きく-おおきく",
@@ -7462,6 +7542,7 @@
       "jlpt-n5",
       "songLib"
     ],
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 4
   },
   {
@@ -7530,7 +7611,8 @@
       "noun",
       "jlpt-n5"
     ],
-    "optIkomaKanji": "02"
+    "optIkomaKanji": "02",
+    "optKanshudoFreq": 1
   },
   {
     "Key": "大工-だいく",
@@ -7581,6 +7663,7 @@
       "songLib"
     ],
     "optIkomaKanji": "12",
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 1
   },
   {
@@ -7753,7 +7836,8 @@
     "optTags": [
       "noun",
       "jlpt-n5"
-    ]
+    ],
+    "optKanshudoFreq": 1
   },
   {
     "Key": "女性-じょせい",
@@ -7973,9 +8057,11 @@
     "Furi": "学校[がっこう]",
     "Eng": "school",
     "optTags": [
+      "noun",
       "jlpt-n5"
     ],
-    "optIkomaKanji": "02"
+    "optIkomaKanji": "02",
+    "optKanshudoFreq": 1
   },
   {
     "Key": "学生-がくせい",
@@ -8030,9 +8116,13 @@
     "Furi": "安[あん]全[ぜん]",
     "Eng": "safety",
     "optTags": [
+      "adj-な",
+      "noun",
+      "jlpt-n4",
       "songLib"
     ],
     "optIkomaKanji": "08",
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 1
   },
   {
@@ -8415,7 +8505,12 @@
     "Key": "小学校-しょうがっこう",
     "Furi": "小[しょう]学校[がっこう]",
     "Eng": "primary school/elementary school",
-    "optIkomaKanji": "08"
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ],
+    "optIkomaKanji": "08",
+    "optKanshudoFreq": 1
   },
   {
     "Key": "小鳥-ことり",
@@ -8434,10 +8529,12 @@
     "Furi": "少[すこ]し",
     "Eng": "a little/a bit/a few/some",
     "optTags": [
+      "noun",
       "adverb",
       "jlpt-n5",
       "songLib"
     ],
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 2
   },
   {
@@ -8450,6 +8547,7 @@
       "songLib"
     ],
     "optIkomaKanji": "12",
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 1
   },
   {
@@ -8512,13 +8610,14 @@
   {
     "Key": "山-やま",
     "Furi": "山[やま]",
-    "Eng": "mountain",
+    "Eng": "mountain/hill",
     "optTags": [
       "noun",
       "jlpt-n5",
       "songLib"
     ],
     "optIkomaKanji": "08",
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 1
   },
   {
@@ -8615,6 +8714,7 @@
       "songLib"
     ],
     "optIkomaKanji": "13",
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 1
   },
   {
@@ -8636,7 +8736,8 @@
       "noun",
       "jlpt-n4"
     ],
-    "optIkomaKanji": "37"
+    "optIkomaKanji": "37",
+    "optKanshudoFreq": 1
   },
   {
     "Key": "左-ひだり",
@@ -8645,7 +8746,8 @@
     "optTags": [
       "noun",
       "jlpt-n5"
-    ]
+    ],
+    "optKanshudoFreq": 1
   },
   {
     "Key": "左利き-ひだりきき",
@@ -8929,12 +9031,13 @@
   {
     "Key": "広い-ひろい",
     "Furi": "広[ひろ]い",
-    "Eng": "wide/spacious",
+    "Eng": "wide/spacious/vast",
     "optTags": [
       "adj-い",
       "jlpt-n5"
     ],
-    "optIkomaKanji": "13"
+    "optIkomaKanji": "13",
+    "optKanshudoFreq": 1
   },
   {
     "Key": "広がる-ひろがる",
@@ -9460,6 +9563,7 @@
       "songLib"
     ],
     "optIkomaKanji": "05",
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 1
   },
   {
@@ -9792,6 +9896,7 @@
       "songLib"
     ],
     "optIkomaKanji": "16",
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 3
   },
   {
@@ -11302,7 +11407,12 @@
     "Key": "文化-ぶんか",
     "Furi": "文[ぶん]化[か]",
     "Eng": "culture",
-    "optIkomaKanji": "41"
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ],
+    "optIkomaKanji": "41",
+    "optKanshudoFreq": 1
   },
   {
     "Key": "文字-もじ",
@@ -11822,10 +11932,12 @@
     "Furi": "時[じ]間[かん]",
     "Eng": "time",
     "optTags": [
+      "noun",
       "jlpt-n5",
       "songLib"
     ],
     "optIkomaKanji": "03",
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 6
   },
   {
@@ -12091,7 +12203,12 @@
     "Key": "最近-さいきん",
     "Furi": "最[さい]近[きん]",
     "Eng": "recently",
-    "optIkomaKanji": "32"
+    "optTags": [
+      "preNounAdj",
+      "jlpt-n4"
+    ],
+    "optIkomaKanji": "32",
+    "optKanshudoFreq": 1
   },
   {
     "Key": "月-つき",
@@ -12228,11 +12345,13 @@
   {
     "Key": "木-き",
     "Furi": "木[き]",
-    "Eng": "tree",
+    "Eng": "tree/wood",
     "optTags": [
+      "noun",
       "jlpt-n5"
     ],
-    "optIkomaKanji": "04"
+    "optIkomaKanji": "04",
+    "optKanshudoFreq": 1
   },
   {
     "Key": "木の葉-このは",
@@ -12790,10 +12909,12 @@
     "Furi": "歌[うた]",
     "Eng": "song",
     "optTags": [
+      "noun",
       "jlpt-n5",
       "songLib"
     ],
     "optIkomaKanji": "19",
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 3
   },
   {
@@ -12875,6 +12996,7 @@
       "jlpt-n5",
       "songLib"
     ],
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 5
   },
   {
@@ -13085,7 +13207,12 @@
     "Key": "母-はは",
     "Furi": "母[はは]",
     "Eng": "mother (mine)",
-    "optIkomaKanji": "07"
+    "optTags": [
+      "noun",
+      "jlpt-n5"
+    ],
+    "optIkomaKanji": "07",
+    "optKanshudoFreq": 1
   },
   {
     "Key": "毎年-まいとし",
@@ -13116,7 +13243,8 @@
     "optTags": [
       "jlpt-n5"
     ],
-    "optIkomaKanji": "02"
+    "optIkomaKanji": "02",
+    "optKanshudoFreq": 1
   },
   {
     "Key": "毎日習慣-まいにちしゅうかん",
@@ -13183,6 +13311,7 @@
       "jlpt-n4",
       "songLib"
     ],
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 2
   },
   {
@@ -14401,6 +14530,16 @@
     ]
   },
   {
+    "Key": "玩具-おもちゃ",
+    "Furi": "玩具[おもちゃ]",
+    "Eng": "toy/plaything",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ],
+    "optKanshudoFreq": 1
+  },
+  {
     "Key": "現実-げんじつ",
     "Furi": "現[げん]実[じつ]",
     "Eng": "reality/actuality",
@@ -14611,7 +14750,8 @@
     "optTags": [
       "noun",
       "jlpt-n5"
-    ]
+    ],
+    "optKanshudoFreq": 1
   },
   {
     "Key": "男性-だんせい",
@@ -14713,6 +14853,16 @@
       "jlpt-n5"
     ],
     "optIkomaKanji": "33"
+  },
+  {
+    "Key": "番組-ばんぐみ",
+    "Furi": "番[ばん]組[ぐみ]",
+    "Eng": "program/programme",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ],
+    "optKanshudoFreq": 1
   },
   {
     "Key": "疲れる-つかれる",
@@ -14893,7 +15043,8 @@
       "adj-い",
       "jlpt-n5"
     ],
-    "optIkomaKanji": "08"
+    "optIkomaKanji": "08",
+    "optKanshudoFreq": 1
   },
   {
     "Key": "白馬-はくば",
@@ -14921,7 +15072,8 @@
       "num",
       "jlpt-n5"
     ],
-    "optIkomaKanji": "03"
+    "optIkomaKanji": "03",
+    "optKanshudoFreq": 1
   },
   {
     "Key": "百万円-ひゃくまんえん",
@@ -14948,9 +15100,11 @@
     "Eng": "everyone",
     "optTags": [
       "noun",
+      "adverb",
       "jlpt-n5"
     ],
-    "optIkomaKanji": "36"
+    "optIkomaKanji": "36",
+    "optKanshudoFreq": 1
   },
   {
     "Key": "皆無-かいむ",
@@ -15277,10 +15431,11 @@
     "optIkomaKanji": "29"
   },
   {
-    "Key": "研究する-けんきゅうする",
-    "Furi": "研[けん]究[きゅう]する",
-    "Eng": "to research",
+    "Key": "研究-けんきゅう",
+    "Furi": "研[けん]究[きゅう]",
+    "Eng": "study/research/investigation",
     "optTags": [
+      "noun",
       "verb-3"
     ],
     "optIkomaKanji": "29"
@@ -15341,10 +15496,30 @@
     ]
   },
   {
+    "Key": "社会-しゃかい",
+    "Furi": "社[しゃ]会[かい]",
+    "Eng": "society/public/community/the world",
+    "optTags": [
+      "noun",
+      "jlpt-n5"
+    ],
+    "optKanshudoFreq": 1
+  },
+  {
     "Key": "社員-しゃいん",
     "Furi": "社[しゃ]員[いん]",
     "Eng": "employee",
     "optIkomaKanji": "02"
+  },
+  {
+    "Key": "社長-しゃちょう",
+    "Furi": "社[しゃ]長[ちょう]",
+    "Eng": "company president/manager/director",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ],
+    "optKanshudoFreq": 1
   },
   {
     "Key": "祖先-そせん",
@@ -16628,6 +16803,7 @@
       "songLib"
     ],
     "optIkomaKanji": "25",
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 1
   },
   {
@@ -16696,6 +16872,7 @@
       "jlpt-n4",
       "songLib"
     ],
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 3
   },
   {
@@ -16896,6 +17073,7 @@
       "jlpt-n5",
       "songLib"
     ],
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 4
   },
   {
@@ -16968,6 +17146,7 @@
       "songLib"
     ],
     "optIkomaKanji": "48",
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 1
   },
   {
@@ -17709,8 +17888,11 @@
     "Eng": "to be seen",
     "optTags": [
       "verb-2",
+      "verb-intransitive",
+      "jlpt-n4",
       "songLib"
     ],
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 11
   },
   {
@@ -17734,7 +17916,19 @@
       "jlpt-n5",
       "songLib"
     ],
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 2
+  },
+  {
+    "Key": "見つかる-みつかる",
+    "Furi": "見[み]つかる",
+    "Eng": "to be found/to be discovered",
+    "optTags": [
+      "verb-1",
+      "verb-intransitive",
+      "jlpt-n4"
+    ],
+    "optKanshudoFreq": 1
   },
   {
     "Key": "見つける-みつける",
@@ -18021,6 +18215,7 @@
       "songLib"
     ],
     "optIkomaKanji": "21",
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 5
   },
   {
@@ -18036,12 +18231,13 @@
   {
     "Key": "言葉-ことば",
     "Furi": "言[こと]葉[ば]",
-    "Eng": "language/dialect",
+    "Eng": "language/dialect/word",
     "optTags": [
       "noun",
       "jlpt-n5",
       "songLib"
     ],
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 13
   },
   {
@@ -18391,7 +18587,8 @@
     "optTags": [
       "noun",
       "jlpt-n5"
-    ]
+    ],
+    "optKanshudoFreq": 1
   },
   {
     "Key": "警察犬-けいさつけん",
@@ -18657,10 +18854,12 @@
     "Eng": "to run",
     "optTags": [
       "verb-1",
+      "verb-intransitive",
       "jlpt-n5",
       "songLib"
     ],
     "optIkomaKanji": "29",
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 3
   },
   {
@@ -19232,7 +19431,8 @@
     "optTags": [
       "adj-い",
       "jlpt-n5"
-    ]
+    ],
+    "optKanshudoFreq": 1
   },
   {
     "Key": "近く-ちかく",
@@ -19391,9 +19591,11 @@
     "optTags": [
       "verb-1",
       "verb-transitive",
+      "jlpt-n4",
       "songLib"
     ],
     "optIkomaKanji": "20",
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 1
   },
   {
@@ -19784,7 +19986,8 @@
       "verb-transitive",
       "jlpt-n4"
     ],
-    "optIkomaKanji": "27"
+    "optIkomaKanji": "27",
+    "optKanshudoFreq": 1
   },
   {
     "Key": "運動する-うんどうする",
@@ -20015,6 +20218,7 @@
       "songLib"
     ],
     "optIkomaKanji": "47",
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 2
   },
   {
@@ -20787,7 +20991,8 @@
       "verb-transitive",
       "jlpt-n4"
     ],
-    "optIkomaKanji": "29"
+    "optIkomaKanji": "29",
+    "optKanshudoFreq": 1
   },
   {
     "Key": "集中する-しゅうちゅうする",
@@ -20946,7 +21151,8 @@
     "optTags": [
       "noun",
       "jlpt-n5"
-    ]
+    ],
+    "optKanshudoFreq": 1
   },
   {
     "Key": "雪祭り-ゆきまつり",
@@ -21044,7 +21250,7 @@
   {
     "Key": "電話-でんわ",
     "Furi": "電[でん]話[わ]",
-    "Eng": "telephone",
+    "Eng": "telephone/phone",
     "optTags": [
       "noun",
       "verb-3",
@@ -21052,6 +21258,7 @@
       "songLib"
     ],
     "optIkomaKanji": "19",
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 1
   },
   {
@@ -21286,6 +21493,7 @@
       "songLib"
     ],
     "optIkomaKanji": "19",
+    "optKanshudoFreq": 1,
     "optSongLibFreq": 5
   },
   {
