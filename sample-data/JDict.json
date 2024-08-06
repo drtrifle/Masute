@@ -1159,12 +1159,12 @@
   {
     "Key": "どうして-どうして",
     "Furi": "どうして",
-    "Eng": "why",
+    "Eng": "why/for what reason",
     "optTags": [
       "adverb",
       "songLib"
     ],
-    "optSongLibFreq": 3
+    "optSongLibFreq": 4
   },
   {
     "Key": "どうせ-どうせ",
@@ -1177,6 +1177,14 @@
     "optSongLibFreq": 3
   },
   {
+    "Key": "どうやって-どうやって",
+    "Furi": "どうやって",
+    "Eng": "how/in what way/by what means",
+    "optTags": [
+      "phrase"
+    ]
+  },
+  {
     "Key": "とする-とする",
     "Furi": "とする",
     "Eng": "to try to/to decide to",
@@ -1186,6 +1194,14 @@
       "songLib"
     ],
     "optSongLibFreq": 1
+  },
+  {
+    "Key": "どれだけ-どれだけ",
+    "Furi": "どれだけ",
+    "Eng": "how much/how many/to what extent",
+    "optTags": [
+      "phrase"
+    ]
   },
   {
     "Key": "どれ位-どれくらい",
@@ -1532,7 +1548,7 @@
     ],
     "optIkomaKanji": "01",
     "optKanshudoFreq": 1,
-    "optSongLibFreq": 5
+    "optSongLibFreq": 6
   },
   {
     "Key": "一人きり-ひとりきり",
@@ -2051,8 +2067,10 @@
     "Eng": "bad at",
     "optTags": [
       "adj-な",
-      "jlpt-n5"
-    ]
+      "jlpt-n5",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "下車する-げしゃする",
@@ -3976,7 +3994,7 @@
       "songLib"
     ],
     "optIkomaKanji": "36",
-    "optSongLibFreq": 6
+    "optSongLibFreq": 7
   },
   {
     "Key": "信号-しんごう",
@@ -4168,7 +4186,7 @@
       "verb-intransitive",
       "songLib"
     ],
-    "optSongLibFreq": 3
+    "optSongLibFreq": 4
   },
   {
     "Key": "傷付ける-きずつける",
@@ -4308,10 +4326,12 @@
     "optTags": [
       "noun",
       "adj-な",
-      "jlpt-n5"
+      "jlpt-n5",
+      "songLib"
     ],
     "optIkomaKanji": "12",
-    "optKanshudoFreq": 1
+    "optKanshudoFreq": 1,
+    "optSongLibFreq": 1
   },
   {
     "Key": "兄-あに",
@@ -5461,7 +5481,7 @@
       "jlpt-n3",
       "songLib"
     ],
-    "optSongLibFreq": 6
+    "optSongLibFreq": 7
   },
   {
     "Key": "化ける-ばける",
@@ -6609,7 +6629,7 @@
       "jlpt-n3",
       "songLib"
     ],
-    "optSongLibFreq": 5
+    "optSongLibFreq": 6
   },
   {
     "Key": "噛み付く-かみつく",
@@ -6900,7 +6920,7 @@
       "jlpt-n3",
       "songLib"
     ],
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "地震-じしん",
@@ -7078,7 +7098,7 @@
       "songLib"
     ],
     "optIkomaKanji": "47",
-    "optSongLibFreq": 5
+    "optSongLibFreq": 6
   },
   {
     "Key": "声優-せいゆう",
@@ -7198,7 +7218,7 @@
       "songLib"
     ],
     "optIkomaKanji": "44",
-    "optSongLibFreq": 7
+    "optSongLibFreq": 8
   },
   {
     "Key": "夏-なつ",
@@ -7444,7 +7464,7 @@
       "songLib"
     ],
     "optIkomaKanji": "28",
-    "optSongLibFreq": 7
+    "optSongLibFreq": 8
   },
   {
     "Key": "夢中-むちゅう",
@@ -7820,8 +7840,10 @@
     "Eng": "female/woman",
     "optTags": [
       "noun",
-      "jlpt-n5"
-    ]
+      "jlpt-n5",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "女の人-おんなのひと",
@@ -7855,7 +7877,7 @@
       "songLib"
     ],
     "optIkomaKanji": "45",
-    "optSongLibFreq": 4
+    "optSongLibFreq": 5
   },
   {
     "Key": "好む-このむ",
@@ -8011,8 +8033,10 @@
     "Eng": "child",
     "optTags": [
       "noun",
-      "jlpt-n5"
-    ]
+      "jlpt-n5",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "字引-じびき",
@@ -8965,7 +8989,7 @@
       "songLib"
     ],
     "optStrContext": "counter (助数詞)",
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "幸-さち",
@@ -9322,7 +9346,7 @@
       "songLib"
     ],
     "optIkomaKanji": "20",
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "強がる-つよがる",
@@ -9412,7 +9436,7 @@
   {
     "Key": "彩る-いろどる",
     "Furi": "彩[いろど]る",
-    "Eng": "to color/to paint",
+    "Eng": "to colour/to paint",
     "optTags": [
       "verb-1",
       "verb-transitive",
@@ -9520,7 +9544,7 @@
       "songLib"
     ],
     "optIkomaKanji": "37",
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "律儀-りちぎ",
@@ -9859,7 +9883,7 @@
       "noun",
       "songLib"
     ],
-    "optSongLibFreq": 5
+    "optSongLibFreq": 6
   },
   {
     "Key": "思い出す-おもいだす",
@@ -10447,7 +10471,7 @@
       "songLib"
     ],
     "optIkomaKanji": "38",
-    "optSongLibFreq": 9
+    "optSongLibFreq": 10
   },
   {
     "Key": "成功する-せいこうする",
@@ -11914,7 +11938,7 @@
       "jlpt-n4",
       "songLib"
     ],
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "時計-とけい",
@@ -12310,7 +12334,7 @@
   {
     "Key": "朝焼け-あさやけ",
     "Furi": "朝[あさ]焼[や]け",
-    "Eng": "morning glow/sunrise colors/sunrise colours",
+    "Eng": "morning glow/sunrise colours",
     "optTags": [
       "noun",
       "songLib"
@@ -12436,7 +12460,7 @@
       "jlpt-n5",
       "songLib"
     ],
-    "optSongLibFreq": 4
+    "optSongLibFreq": 5
   },
   {
     "Key": "本当に-ほんとうに",
@@ -13691,9 +13715,11 @@
     "Furi": "浴[あ]びる",
     "Eng": "to bathe",
     "optTags": [
-      "verb-2"
+      "verb-2",
+      "songLib"
     ],
-    "optIkomaKanji": "25"
+    "optIkomaKanji": "25",
+    "optSongLibFreq": 1
   },
   {
     "Key": "浴室-よくしつ",
@@ -13783,7 +13809,7 @@
       "jlpt-n3",
       "songLib"
     ],
-    "optSongLibFreq": 4
+    "optSongLibFreq": 5
   },
   {
     "Key": "涼しい-すずしい",
@@ -14734,8 +14760,10 @@
     "Eng": "man/male",
     "optTags": [
       "noun",
-      "jlpt-n5"
-    ]
+      "jlpt-n5",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "男の人-おとこのひと",
@@ -15268,7 +15296,7 @@
       "jlpt-n2",
       "songLib"
     ],
-    "optSongLibFreq": 4
+    "optSongLibFreq": 5
   },
   {
     "Key": "眩む-くらむ",
@@ -15891,7 +15919,7 @@
       "songLib"
     ],
     "optIkomaKanji": "43",
-    "optSongLibFreq": 3
+    "optSongLibFreq": 4
   },
   {
     "Key": "筒抜け-つつぬけ",
@@ -17275,9 +17303,50 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "明らか-あきらか",
+    "Furi": "明[あき]らか",
+    "Eng": "clear/obvious/bright",
+    "optTags": [
+      "adj-な",
+      "jlpt-n3"
+    ]
+  },
+  {
+    "Key": "発見-はっけん",
+    "Furi": "発[はっ]見[けん]",
+    "Eng": "discovery/detection/finding",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-transitive",
+      "jlpt-n3"
+    ]
+  },
+  {
+    "Key": "絶滅-ぜつめつ",
+    "Furi": "絶[ぜつ]滅[めつ]",
+    "Eng": "extinction/extermination",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "jlpt-n3"
+    ]
+  },
+  {
+    "Key": "担当-たんとう",
+    "Furi": "担[たん]当[とう]",
+    "Eng": "being in charge/being responsible for",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-transitive",
+      "jlpt-n3"
+    ]
+  },
+  {
     "Key": "色-いろ",
     "Furi": "色[いろ]",
-    "Eng": "color",
+    "Eng": "colour",
     "optTags": [
       "noun",
       "jlpt-n5",
@@ -17301,7 +17370,7 @@
   {
     "Key": "色づく-いろづく",
     "Furi": "色[いろ]づく",
-    "Eng": "to change color",
+    "Eng": "to change colour",
     "optTags": [
       "verb-1",
       "songLib"
@@ -17917,7 +17986,7 @@
       "songLib"
     ],
     "optKanshudoFreq": 1,
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "見つかる-みつかる",
@@ -18216,7 +18285,7 @@
     ],
     "optIkomaKanji": "21",
     "optKanshudoFreq": 1,
-    "optSongLibFreq": 5
+    "optSongLibFreq": 6
   },
   {
     "Key": "言える-いえる",
@@ -18244,24 +18313,46 @@
     "Key": "言語-げんご",
     "Furi": "言[げん]語[ご]",
     "Eng": "language",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "21"
   },
   {
     "Key": "計る-はかる",
     "Furi": "計[はか]る",
     "Eng": "to measure",
+    "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "10"
   },
   {
     "Key": "計画-けいかく",
     "Furi": "計[けい]画[かく]",
     "Eng": "plan/project",
-    "optIkomaKanji": "14"
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-transitive",
+      "jlpt-n3",
+      "songLib"
+    ],
+    "optIkomaKanji": "14",
+    "optSongLibFreq": 1
   },
   {
     "Key": "記す-しるす",
     "Furi": "記[しる]す",
-    "Eng": "to write",
+    "Eng": "to write down/to inscribe",
+    "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n1"
+    ],
     "optIkomaKanji": "49"
   },
   {
@@ -18292,6 +18383,9 @@
     "Furi": "許[ゆる]す",
     "Eng": "to permit/to allow/to approve",
     "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n3",
       "songLib"
     ],
     "optIkomaKanji": "36",
@@ -18301,6 +18395,12 @@
     "Key": "許可-きょか",
     "Furi": "許[きょ]可[か]",
     "Eng": "permission/approval/authorization",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-transitive",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "36"
   },
   {
@@ -18308,31 +18408,55 @@
     "Furi": "診[み]る",
     "Eng": "to examine (medically)",
     "optTags": [
-      "verb-2"
+      "verb-2",
+      "verb-transitive",
+      "jlpt-n2"
     ]
   },
   {
     "Key": "試す-ためす",
     "Furi": "試[ため]す",
     "Eng": "to try/to test (qualities of something)",
+    "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "25"
   },
   {
     "Key": "試みる-こころみる",
     "Furi": "試[こころ]みる",
     "Eng": "to try/to attempt (to do something)",
+    "optTags": [
+      "verb-2",
+      "verb-transitive",
+      "jlpt-n1"
+    ],
     "optIkomaKanji": "25"
   },
   {
     "Key": "試合-しあい",
     "Furi": "試合[しあい]",
-    "Eng": "game",
+    "Eng": "game/match",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-intransitive",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "25"
   },
   {
     "Key": "試験-しけん",
     "Furi": "試[し]験[けん]",
     "Eng": "test/exam/examination",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-transitive",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "25"
   },
   {
@@ -18363,6 +18487,11 @@
     "Key": "話し合う-はなしあう",
     "Furi": "話[はな]し合[あ]う",
     "Eng": "to discuss",
+    "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "26"
   },
   {
@@ -18384,6 +18513,7 @@
     "Eng": "to be able to speak/to be able to talk",
     "optTags": [
       "verb-2",
+      "verb-intransitive",
       "songLib"
     ],
     "optSongLibFreq": 1
@@ -18391,7 +18521,11 @@
   {
     "Key": "詳細-しょうさい",
     "Furi": "詳[しょう]細[さい]",
-    "Eng": "detail",
+    "Eng": "details/particulars",
+    "optTags": [
+      "noun",
+      "jlpt-n1"
+    ],
     "optIkomaKanji": "45"
   },
   {
@@ -18422,6 +18556,7 @@
     "Eng": "to invite/to tempt/to induce",
     "optTags": [
       "verb-1",
+      "verb-transitive",
       "jlpt-n3",
       "songLib"
     ],
@@ -18433,6 +18568,7 @@
     "Eng": "to tell/to narrate",
     "optTags": [
       "verb-1",
+      "verb-transitive",
       "jlpt-n3",
       "songLib"
     ],
@@ -18467,15 +18603,22 @@
   {
     "Key": "説く-とく",
     "Furi": "説[と]く",
-    "Eng": "to preach",
+    "Eng": "to preach/to advocate",
+    "optTags": [
+      "verb-1",
+      "jlpt-n1"
+    ],
     "optIkomaKanji": "41"
   },
   {
-    "Key": "説明する-せつめいする",
-    "Furi": "説[せつ]明[めい]する",
-    "Eng": "to explain",
+    "Key": "説明-せつめい",
+    "Furi": "説[せつ]明[めい]",
+    "Eng": "explanation/exposition/description",
     "optTags": [
-      "verb-3"
+      "noun",
+      "verb-3",
+      "verb-transitive",
+      "jlpt-n4"
     ],
     "optIkomaKanji": "16"
   },
@@ -18496,6 +18639,12 @@
     "Key": "読書-どくしょ",
     "Furi": "読[どく]書[しょ]",
     "Eng": "reading",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-intransitive",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "06"
   },
   {
@@ -18547,14 +18696,20 @@
     "Furi": "調[しら]べる",
     "Eng": "to investigate",
     "optTags": [
-      "verb-2"
+      "verb-2",
+      "verb-transitive",
+      "jlpt-n4"
     ],
     "optIkomaKanji": "50"
   },
   {
     "Key": "調子-ちょうし",
     "Furi": "調[ちょう]子[し]",
-    "Eng": "condition",
+    "Eng": "tune/condition/mood/trend",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "50"
   },
   {
@@ -18594,12 +18749,21 @@
     "Key": "警察犬-けいさつけん",
     "Furi": "警[けい]察[さつ]犬[けん]",
     "Eng": "police dog",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "10"
   },
   {
     "Key": "議論-ぎろん",
     "Furi": "議[ぎ]論[ろん]",
     "Eng": "discussion/dispute",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-transitive",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "46"
   },
   {
@@ -18625,6 +18789,11 @@
     "Key": "負う-おう",
     "Furi": "負[お]う",
     "Eng": "to bear",
+    "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n1"
+    ],
     "optIkomaKanji": "26"
   },
   {
@@ -18633,6 +18802,8 @@
     "Eng": "to lose/to yield",
     "optTags": [
       "verb-2",
+      "verb-intransitive",
+      "jlpt-n4",
       "songLib"
     ],
     "optIkomaKanji": "26",
@@ -18653,6 +18824,7 @@
     "Eng": "to blame/to condemn",
     "optTags": [
       "verb-1",
+      "verb-transitive",
       "jlpt-n3",
       "songLib"
     ],
@@ -18673,7 +18845,9 @@
     "Furi": "貰[もら]う",
     "Eng": "to receive",
     "optTags": [
-      "verb-1"
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n3"
     ]
   },
   {
@@ -20009,7 +20183,7 @@
       "jlpt-n1",
       "songLib"
     ],
-    "optSongLibFreq": 3
+    "optSongLibFreq": 4
   },
   {
     "Key": "運転する-うんてんする",
@@ -20088,7 +20262,7 @@
       "songLib"
     ],
     "optIkomaKanji": "23",
-    "optSongLibFreq": 4
+    "optSongLibFreq": 5
   },
   {
     "Key": "達-たち",
@@ -21358,7 +21532,7 @@
       "songLib"
     ],
     "optIkomaKanji": "11",
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "静か-しずか",
@@ -21520,7 +21694,7 @@
   {
     "Key": "音色-ねいろ",
     "Furi": "音[ね]色[いろ]",
-    "Eng": "tone color/tone quality/timbre",
+    "Eng": "tone colour/tone quality/timbre",
     "optTags": [
       "noun",
       "jlpt-n1",
@@ -21538,7 +21712,7 @@
       "jlpt-n2",
       "songLib"
     ],
-    "optSongLibFreq": 4
+    "optSongLibFreq": 5
   },
   {
     "Key": "頃-ころ",
@@ -22023,7 +22197,7 @@
       "jlpt-n1",
       "songLib"
     ],
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "駄目-だめ",
