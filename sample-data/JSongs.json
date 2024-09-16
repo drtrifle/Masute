@@ -142,6 +142,14 @@
     "ArtistNameJpn": "結束バンド"
   },
   {
+    "SongID": "KESSOKU-006",
+    "SongURL": "https://www.youtube.com/embed/wSTbdqo-j74",
+    "SongNameEng": "If I could be a constellation",
+    "SongNameJpn": "星座になれたら",
+    "ArtistNameEng": "Kessoku band",
+    "ArtistNameJpn": "結束バンド"
+  },
+  {
     "SongID": "KIRYU-001",
     "SongURL": "https://www.youtube.com/embed/g3jCAyPai2Y",
     "SongNameEng": "Baka Mitai",
@@ -214,6 +222,13 @@
     "SongNameJpn": "上を向いて歩こう",
     "ArtistNameEng": "Kyu Sakamoto",
     "ArtistNameJpn": "坂本 九"
+  },
+  {
+    "SongID": "SAUCY-001",
+    "SongURL": "https://www.youtube.com/embed/IVbY5edMfCA",
+    "SongNameEng": "Cinderella Boy",
+    "SongNameJpn": "シンデレラボーイ",
+    "ArtistNameEng": "Saucy Dog"
   },
   {
     "SongID": "SAYURI-001",
@@ -296,6 +311,13 @@
     "SongNameJpn": "夜に駆ける",
     "ArtistNameEng": "YOASOBI",
     "ArtistNameJpn": ""
+  },
+  {
+    "SongID": "YOASOBI-002",
+    "SongURL": "https://www.youtube.com/embed/ZRtdQ81jPUQ",
+    "SongNameEng": "Idol",
+    "SongNameJpn": "アイドル",
+    "ArtistNameEng": "Yoasobi"
   },
   {
     "SongID": "YONE-001",
