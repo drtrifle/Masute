@@ -47,6 +47,7 @@
     margin-bottom: .5rem;
 }
 /* /Pages/Lessons/LessonSong.razor.rz.scp.css */
+/* Default Font Sizes (Mobile)*/
 .font-small[b-0lq6o3rvj3] {
     font-size: 14px;
 }
@@ -57,6 +58,22 @@
 
 .font-large[b-0lq6o3rvj3] {
     font-size: 20px;
+}
+
+/* Font Sizes (PC)*/
+@media only screen 
+and (min-width : 768px) {
+    .font-small[b-0lq6o3rvj3] {
+        font-size: 20px; 
+    }
+
+    .font-medium[b-0lq6o3rvj3] {
+        font-size: 23px;
+    }
+
+    .font-large[b-0lq6o3rvj3] {
+        font-size: 26px;
+    }
 }
 
 .ruby[b-0lq6o3rvj3]{

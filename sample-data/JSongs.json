@@ -37,6 +37,14 @@
     "ArtistNameEng": "Asian Kung-Fu Generation"
   },
   {
+    "SongID": "AWESOME-001",
+    "SongURL": "https://www.youtube.com/embed/zkZARKFuzNQ",
+    "SongNameEng": "Wasurena",
+    "SongNameJpn": "勿忘",
+    "ArtistNameEng": "Awesome City Club",
+    "ArtistNameJpn": "オーサムシティクラブ"
+  },
+  {
     "SongID": "AYA-001",
     "SongURL": "https://www.youtube.com/embed/5QNaSMiZ_-o",
     "SongNameEng": "God knows...",
@@ -65,6 +73,13 @@
     "SongNameJpn": "きらり",
     "ArtistNameEng": "Fujii Kaze",
     "ArtistNameJpn": "藤井 風"
+  },
+  {
+    "SongID": "GREEEEN-001",
+    "SongURL": "https://www.youtube.com/embed/tO5KPGgwb-I",
+    "SongNameEng": "Kiseki",
+    "SongNameJpn": "きせき",
+    "ArtistNameEng": "GReeeeN"
   },
   {
     "SongID": "HIGE-001",
@@ -309,15 +324,14 @@
     "SongURL": "https://www.youtube.com/embed/by4SYYWlhEs",
     "SongNameEng": "Into The Night",
     "SongNameJpn": "夜に駆ける",
-    "ArtistNameEng": "YOASOBI",
-    "ArtistNameJpn": ""
+    "ArtistNameEng": "YOASOBI"
   },
   {
     "SongID": "YOASOBI-002",
     "SongURL": "https://www.youtube.com/embed/ZRtdQ81jPUQ",
     "SongNameEng": "Idol",
     "SongNameJpn": "アイドル",
-    "ArtistNameEng": "Yoasobi"
+    "ArtistNameEng": "YOASOBI"
   },
   {
     "SongID": "YONE-001",

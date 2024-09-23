@@ -13,7 +13,7 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "いつからか正解[せいかい]を選[えら]ぶのが楽[らく]になって",
+      "JpnStr": "何時[いつ]からか正解[せいかい]を選[えら]ぶのが楽[らく]になって",
       "EngStr": "At some point, choosing the right answer became easy"
     },
     {
@@ -81,7 +81,7 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "分[わ]からないことが多[おお]すぎる世界[せかい]じゃ",
+      "JpnStr": "分[わ]からない事[こと]が多[おお]すぎる世界[せかい]じゃ",
       "EngStr": "In a world with too many things I don't understand"
     },
     {
@@ -93,7 +93,7 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "いつからか失敗[しっぱい]を避[さ]けるのにむきになって",
+      "JpnStr": "何時[いつ]からか失敗[しっぱい]を避[さ]けるのにむきになって",
       "EngStr": "At some point, I became obsessed with avoiding failure"
     },
     {
@@ -169,7 +169,7 @@
       "EngStr": "A light that illuminates any darkness"
     },
     {
-      "JpnStr": "あなたがいること",
+      "JpnStr": "貴方[あなた]がいること",
       "EngStr": "Because you are here"
     },
     {
@@ -181,7 +181,7 @@
       "EngStr": "It's okay to fall and get muddy"
     },
     {
-      "JpnStr": "やめらんない (I get it now x2)",
+      "JpnStr": "止[や]めらんない (I get it now x2)",
       "EngStr": "I can't stop (I get it now x2)"
     },
     {
@@ -197,7 +197,7 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "いつもただ瞬間[しゅんかん]に賭[か]けてたい",
+      "JpnStr": "何時[いつ]もただ瞬間[しゅんかん]に賭[か]けてたい",
       "EngStr": "I always want to bet on the moment"
     },
     {
@@ -222,7 +222,6 @@
     }
   ],
   "ListVocab": [
-    "あなた-あなた",
     "グルグル-ぐるぐる",
     "ストーリー-すとーりー",
     "どうしようもない-どうしようもない",
@@ -235,8 +234,11 @@
     "一人-ひとり",
     "上手く-うまく",
     "世界-せかい",
+    "事-こと",
     "仕方ない-しかたない",
     "何度も-なんども",
+    "何時から-いつから",
+    "何時も-いつも",
     "信じる-しんじる",
     "傷つく-きずつく",
     "全力-ぜんりょく",
@@ -260,6 +262,7 @@
     "楽-らく",
     "欲しい-ほしい",
     "止まる-とまる",
+    "止める-やめる",
     "正解-せいかい",
     "気づく-きづく",
     "決める-きめる",
@@ -282,6 +285,7 @@
     "誤魔化す-ごまかす",
     "諦める-あきらめる",
     "譲れない-ゆずれない",
+    "貴方-あなた",
     "賢い-かしこい",
     "賭ける-かける",
     "踊り出す-おどりだす",
