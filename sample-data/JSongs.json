@@ -59,6 +59,13 @@
     "ArtistNameEng": "back number"
   },
   {
+    "SongID": "BACK-002",
+    "SongURL": "https://www.youtube.com/embed/iqEr3P78fz8",
+    "SongNameEng": "Suiheisen",
+    "SongNameJpn": "水平線",
+    "ArtistNameEng": "back number"
+  },
+  {
     "SongID": "FRED-001",
     "SongURL": "https://www.youtube.com/embed/vn7vfza-6fQ",
     "SongNameEng": "Kanashii Ureshii",
@@ -100,6 +107,13 @@
     "SongURL": "https://www.youtube.com/embed/dlFA0Zq1k2A",
     "SongNameEng": "Silhouette",
     "SongNameJpn": "シルエット",
+    "ArtistNameEng": "KANA-BOON"
+  },
+  {
+    "SongID": "KANA-002",
+    "SongURL": "https://www.youtube.com/embed/cj3Q_bh_UTQ",
+    "SongNameEng": "Asking for the Moon",
+    "SongNameJpn": "ないものねだり",
     "ArtistNameEng": "KANA-BOON"
   },
   {
@@ -196,6 +210,14 @@
     "ArtistNameEng": "LiSA"
   },
   {
+    "SongID": "MARIYA-001",
+    "SongURL": "https://www.youtube.com/embed/T_lC2O1oIew",
+    "SongNameEng": "Plastic Love",
+    "SongNameJpn": "プラスティック",
+    "ArtistNameEng": "Mariya Takeuchi",
+    "ArtistNameJpn": "竹内まりや"  
+  },
+  {
     "SongID": "MASAKI-001",
     "SongURL": "https://www.youtube.com/embed/XSkpuDseenY",
     "SongNameEng": "Sayonara Elegy",
@@ -209,6 +231,14 @@
     "SongNameEng": "Lion",
     "SongNameJpn": "ライオン",
     "ArtistNameEng": "May'n"
+  },
+  {
+    "SongID": "MIKI-001",
+    "SongURL": "https://www.youtube.com/embed/PSaTSjByLX0",
+    "SongNameEng": "Stay With Me",
+    "SongNameJpn": "真夜中のドア",
+    "ArtistNameEng": "Miki Matsubara",
+    "ArtistNameJpn": "松原 みき"
   },
   {
     "SongID": "MINAMI-001",
@@ -229,6 +259,13 @@
     "SongURL": "https://www.youtube.com/embed/9eyyhtOrKPI",
     "SongNameEng": "drop pop candy",
     "ArtistNameEng": "REOL"
+  },
+  {
+    "SongID": "RYOKU-001",
+    "SongURL": "https://www.youtube.com/embed/9DwDwCRr63c",
+    "SongNameEng": "Mela!",
+    "ArtistNameEng": "Ryokuoushoku Shakai",
+    "ArtistNameJpn": "緑黄色社会"
   },
   {
     "SongID": "SAKA-001",

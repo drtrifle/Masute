@@ -1,7 +1,7 @@
 {
   "SongLyrics": [
     {
-      "JpnStr": "あのバンドの歌[うた]がわたしには",
+      "JpnStr": "あのバンドの歌[うた]が私[わたし]には",
       "EngStr": "That band's song to me"
     },
     {
@@ -9,7 +9,7 @@
       "EngStr": "Sounds like a high-pitched laughing voice"
     },
     {
-      "JpnStr": "あのバンドの歌[うた]がわたしには",
+      "JpnStr": "あのバンドの歌[うた]が私[わたし]には",
       "EngStr": "That band's song to me"
     },
     {
@@ -49,7 +49,7 @@
       "EngStr": "I don't want to hear anything else"
     },
     {
-      "JpnStr": "わたしが放[はな]つ音[おと]以外[いがい]",
+      "JpnStr": "私[わたし]が放[はな]つ音[おと]以外[いがい]",
       "EngStr": "Other than the sound I make"
     },
     {
@@ -69,7 +69,7 @@
       "EngStr": "That band's song is a cast for someone"
     },
     {
-      "JpnStr": "わたし(だけが)間違[まちが]いばかりみたい",
+      "JpnStr": "私[わたし](だけが)間違[まちが]いばかりみたい",
       "EngStr": "It seems I'm the only one making mistakes"
     },
     {
@@ -93,7 +93,7 @@
       "EngStr": "I don't want to hear anything else"
     },
     {
-      "JpnStr": "わたしが放[はな]つ音[おと]以外[いがい]",
+      "JpnStr": "私[わたし]が放[はな]つ音[おと]以外[いがい]",
       "EngStr": "Other than the sound I make"
     },
     {
@@ -125,7 +125,7 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "手[て]を叩[たた]く わたしだけの音[おと]",
+      "JpnStr": "手[て]を叩[たた]く 私[わたし]だけの音[おと]",
       "EngStr": "Clapping my hands, only my sound"
     },
     {
@@ -149,7 +149,7 @@
       "EngStr": "I don't want to hear anything else"
     },
     {
-      "JpnStr": "わたしが放[はな]つ音[おと]以外[いがい]",
+      "JpnStr": "私[わたし]が放[はな]つ音[おと]以外[いがい]",
       "EngStr": "Other than the sound I make"
     }
   ],
@@ -158,7 +158,6 @@
     "つんざく-つんざく",
     "バンド-ばんど",
     "ベル-べる",
-    "わたし-わたし",
     "不協和音-ふきょうわおん",
     "乗客-じょうきゃく",
     "以外-いがい",
@@ -190,6 +189,7 @@
     "目を閉じる-めをとじる",
     "目を開ける-めをあける",
     "確かに-たしかに",
+    "私-わたし",
     "称号-しょうごう",
     "笑い声-わらいごえ",
     "耳塞ぐ-みみふさぐ",

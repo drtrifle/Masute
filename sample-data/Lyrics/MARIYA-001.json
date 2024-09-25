@@ -1,0 +1,151 @@
+{
+  "SongLyrics": [
+    {
+      "JpnStr": "突然[とつぜん]のキスや 熱[あつ]いまなざしで",
+      "EngStr": "A sudden kiss and a passionate gaze"
+    },
+    {
+      "JpnStr": "恋[こい]のプログラムを 狂[くる]わせないでね",
+      "EngStr": "Don't let the love program go crazy"
+    },
+    {
+      "JpnStr": "出逢[であ]いと別[わか]れ 上手[じょうず]に打[う]ち込[こ]んで",
+      "EngStr": "Skillfully inputting encounters and farewells"
+    },
+    {
+      "JpnStr": "時間[じかん]がくれば終[お]わる Don't hurry!",
+      "EngStr": "It will end when the time comes, don't hurry!"
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "愛[あい]に傷[きず]ついた あの日[ひ]からずっと",
+      "EngStr": "Ever since the day I was hurt by love"
+    },
+    {
+      "JpnStr": "昼[ひる]と夜[よる]が逆[ぎゃく]の 暮[く]らしを続[つづ]けて",
+      "EngStr": "I continued a life where day and night were reversed"
+    },
+    {
+      "JpnStr": "はやりのDiscoで 踊[おど]り明[あ]かすうちに",
+      "EngStr": "While dancing the night away at trendy discos"
+    },
+    {
+      "JpnStr": "おぼえた魔術[まじゅつ]なのよ I'm sorry!",
+      "EngStr": "I learned the magic, I'm sorry!"
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "私[わたし]のことを決[けっ]して 本気[ほんき]で愛[あい]さないで",
+      "EngStr": "Never love me seriously"
+    },
+    {
+      "JpnStr": "恋[こい]なんてただのゲーム 楽[たの]しめばそれでいいの",
+      "EngStr": "Love is just a game, as long as you enjoy it, it's fine"
+    },
+    {
+      "JpnStr": "閉[と]ざした心[こころ]を飾[かざ]る 派手[はで]なドレスも靴[くつ]も",
+      "EngStr": "The flashy dress and shoes decorate my closed heart"
+    },
+    {
+      "JpnStr": "孤独[こどく]な友[とも]だち",
+      "EngStr": "Lonely friends"
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "私[わたし]を誘[さそ]う人[ひと]は 皮肉[ひにく]なものねいつも",
+      "EngStr": "The people who invite me are always ironic"
+    },
+    {
+      "JpnStr": "彼[かれ]に似[に]てるわなぜか 思[おも]い出[で]と重[かさ]なり合[あ]う",
+      "EngStr": "They resemble him, somehow overlapping with my memories"
+    },
+    {
+      "JpnStr": "グラスを落[お]として急[きゅう]に 涙[なみだ]ぐんでも",
+      "EngStr": "Suddenly dropping my glass, tears welling up"
+    },
+    {
+      "JpnStr": "わけは尋[たず]ねないでね",
+      "EngStr": "Don't ask me the reason"
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "夜更[よふ]けの高速[こうそく]で 眠[ねむ]りにつくころ",
+      "EngStr": "As I fall asleep on the late-night highway"
+    },
+    {
+      "JpnStr": "ハロゲンライトだけ 妖[あや]しく輝[かがや]く",
+      "EngStr": "Only the halogen lights glow mysteriously"
+    },
+    {
+      "JpnStr": "氷[こおり]の様[よう]に冷[つめ]たい女[おんな]だと",
+      "EngStr": "They say I'm as cold as ice"
+    },
+    {
+      "JpnStr": "ささやく声[こえ]がしても Don't worry!",
+      "EngStr": "Even if I hear whispers, 'Don't worry!'"
+    },
+    {
+      "JpnStr": "I'm just playing games",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "I know that's plastic love",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "Dance to the plastic beat",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "Another morning comes",
+      "EngStr": ""
+    }
+  ],
+  "ListVocab": [
+    "ささやく-ささやく",
+    "上手-じょうず",
+    "傷つく-きずつく",
+    "冷たい-つめたい",
+    "出逢い-であい",
+    "別れ-わかれ",
+    "夜-よる",
+    "夜更け-よふけ",
+    "孤独-こどく",
+    "尋ねる-たずねる",
+    "心-こころ",
+    "恋-こい",
+    "愛-あい",
+    "昼-ひる",
+    "時間-じかん",
+    "暮らし-くらし",
+    "本気-ほんき",
+    "様に-ように",
+    "氷-こおり",
+    "派手-はで",
+    "涙-なみだ",
+    "熱い-あつい",
+    "狂う-くるう",
+    "皮肉-ひにく",
+    "私-わたし",
+    "突然-とつぜん",
+    "終わる-おわる",
+    "輝く-かがやく",
+    "逆-ぎゃく",
+    "閉ざす-とざす",
+    "飾る-かざる",
+    "高速-こうそく",
+    "魔術-まじゅつ"
+  ]
+}
