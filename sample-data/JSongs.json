@@ -15,12 +15,21 @@
     "ArtistNameJpn": "あいみょん"
   },
   {
+    "SongID": "AIMYON-002",
+    "SongURL": "https://www.youtube.com/embed/9qRCARM_LfE",
+    "SongNameEng": "Ai wo tsutaetaidatoka",
+    "SongNameJpn": "愛を伝えたいだとか",
+    "ArtistNameEng": "Aimyon",
+    "ArtistNameJpn": "あいみょん"
+  },
+  {
     "SongID": "ANRI-001",
     "SongURL": "https://www.youtube.com/embed/H9R1Hl6sJeE",
     "SongNameEng": "I can't stop the loneliness",
     "SongNameJpn": "悲しみがとまらない",
     "ArtistNameEng": "Anri",
-    "ArtistNameJpn": "杏里"
+    "ArtistNameJpn": "杏里",
+    "Tags": ["citypop"]
   },
   {
     "SongID": "ASIAN-001",
@@ -82,6 +91,13 @@
     "ArtistNameJpn": "藤井 風"
   },
   {
+    "SongID": "FUJII-002",
+    "SongURL": "https://www.youtube.com/embed/yP7K2lXr6GA",
+    "SongNameEng": "damn",
+    "ArtistNameEng": "Fujii Kaze",
+    "ArtistNameJpn": "藤井 風"
+  },
+  {
     "SongID": "GREEEEN-001",
     "SongURL": "https://www.youtube.com/embed/tO5KPGgwb-I",
     "SongNameEng": "Kiseki",
@@ -120,7 +136,8 @@
     "SongID": "KANARIA-001",
     "SongURL": "https://www.youtube.com/embed/cm-l2h6GB8Q",
     "SongNameEng": "KING",
-    "ArtistNameEng": "Kanaria"
+    "ArtistNameEng": "Kanaria",
+    "Tags": ["vocaloid"]
   },
   {
     "SongID": "KENTA-001",
@@ -136,7 +153,8 @@
     "SongNameEng": "Guitar, Loneliness and Blue Planet",
     "SongNameJpn": "ギターと孤独と蒼い惑星",
     "ArtistNameEng": "Kessoku band",
-    "ArtistNameJpn": "結束バンド"
+    "ArtistNameJpn": "結束バンド",
+    "Tags": ["anime"]
   },
   {
     "SongID": "KESSOKU-002",
@@ -144,7 +162,8 @@
     "SongNameEng": "Distortion",
     "SongNameJpn": "ディストーション",
     "ArtistNameEng": "Kessoku band",
-    "ArtistNameJpn": "結束バンド"
+    "ArtistNameJpn": "結束バンド",
+    "Tags": ["anime"]
   },
   {
     "SongID": "KESSOKU-003",
@@ -152,7 +171,8 @@
     "SongNameEng": "Don't Forget",
     "SongNameJpn": "忘れてやらない",
     "ArtistNameEng": "Kessoku band",
-    "ArtistNameJpn": "結束バンド"
+    "ArtistNameJpn": "結束バンド",
+    "Tags": ["anime"]
   },
   {
     "SongID": "KESSOKU-004",
@@ -160,7 +180,8 @@
     "SongNameEng": "That Band",
     "SongNameJpn": "あのバンド",
     "ArtistNameEng": "Kessoku band",
-    "ArtistNameJpn": "結束バンド"
+    "ArtistNameJpn": "結束バンド",
+    "Tags": ["anime"]
   },
   {
     "SongID": "KESSOKU-005",
@@ -168,7 +189,8 @@
     "SongNameEng": "What is Wrong With",
     "SongNameJpn": "何が悪い",
     "ArtistNameEng": "Kessoku band",
-    "ArtistNameJpn": "結束バンド"
+    "ArtistNameJpn": "結束バンド",
+    "Tags": ["anime"]
   },
   {
     "SongID": "KESSOKU-006",
@@ -176,7 +198,8 @@
     "SongNameEng": "If I could be a constellation",
     "SongNameJpn": "星座になれたら",
     "ArtistNameEng": "Kessoku band",
-    "ArtistNameJpn": "結束バンド"
+    "ArtistNameJpn": "結束バンド",
+    "Tags": ["anime"]
   },
   {
     "SongID": "KIRYU-001",
@@ -200,7 +223,8 @@
     "SongNameEng": "Hitorinbo Envy",
     "SongNameJpn": "独りんぼエンヴィー",
     "ArtistNameEng": "koyori",
-    "ArtistNameJpn": "電ポルP"
+    "ArtistNameJpn": "電ポルP",
+    "Tags": ["vocaloid"]
   },
   {
     "SongID": "LISA-001",
@@ -215,7 +239,8 @@
     "SongNameEng": "Plastic Love",
     "SongNameJpn": "プラスティック",
     "ArtistNameEng": "Mariya Takeuchi",
-    "ArtistNameJpn": "竹内まりや"  
+    "ArtistNameJpn": "竹内まりや",
+    "Tags": ["citypop"]
   },
   {
     "SongID": "MASAKI-001",
@@ -238,7 +263,8 @@
     "SongNameEng": "Stay With Me",
     "SongNameJpn": "真夜中のドア",
     "ArtistNameEng": "Miki Matsubara",
-    "ArtistNameJpn": "松原 みき"
+    "ArtistNameJpn": "松原 みき",
+    "Tags": ["citypop"]
   },
   {
     "SongID": "MINAMI-001",
@@ -296,14 +322,16 @@
     "SongNameEng": "Shikairo Days",
     "SongNameJpn": "シカ色デイズ",
     "ArtistNameEng": "Deer Club",
-    "ArtistNameJpn": "シカ部"
+    "ArtistNameJpn": "シカ部",
+    "Tags": ["anime"]
   },
   {
     "SongID": "SICK-001",
     "SongURL": "https://www.youtube.com/embed/Y45cVOrRZZs",
     "SongNameEng": "Watashi Dake Yuurei",
     "SongNameJpn": "ワタシダケユウレイ",
-    "ArtistNameEng": "SICK HACK"
+    "ArtistNameEng": "SICK HACK",
+    "Tags": ["anime"]
   },
   {
     "SongID": "SILENT-001",
@@ -347,6 +375,14 @@
     "SongURL": "https://www.youtube.com/embed/6h6AQbdTkaE",
     "SongNameEng": "Mabataki",
     "SongNameJpn": "",
+    "ArtistNameEng": "Vaundy",
+    "ArtistNameJpn": "バウンディ"
+  },
+  {
+    "SongID": "VAUNDY-003",
+    "SongURL": "https://www.youtube.com/embed/Gbz2C2gQREI",
+    "SongNameEng": "Fukakouryoku",
+    "SongNameJpn": "不可幸力",
     "ArtistNameEng": "Vaundy",
     "ArtistNameJpn": "バウンディ"
   },
