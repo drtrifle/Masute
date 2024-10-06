@@ -10,15 +10,14 @@
     "SongID": "AIMYON-001",
     "SongURL": "https://www.youtube.com/embed/yOAwvRmVIyo",
     "SongNameEng": "Naked Heart",
-    "SongNameJpn": "裸の心",
+    "SongNameJpn": "裸[はだか]の心[こころ]",
     "ArtistNameEng": "Aimyon",
     "ArtistNameJpn": "あいみょん"
   },
   {
     "SongID": "AIMYON-002",
     "SongURL": "https://www.youtube.com/embed/9qRCARM_LfE",
-    "SongNameEng": "Ai wo tsutaetaidatoka",
-    "SongNameJpn": "愛を伝えたいだとか",
+    "SongNameJpn": "愛[あい]を伝[つた]えたいだとか",
     "ArtistNameEng": "Aimyon",
     "ArtistNameJpn": "あいみょん"
   },
@@ -26,30 +25,30 @@
     "SongID": "ANRI-001",
     "SongURL": "https://www.youtube.com/embed/H9R1Hl6sJeE",
     "SongNameEng": "I can't stop the loneliness",
-    "SongNameJpn": "悲しみがとまらない",
+    "SongNameJpn": "悲[かな]しみがとまらない",
     "ArtistNameEng": "Anri",
-    "ArtistNameJpn": "杏里",
+    "ArtistNameJpn": "杏[あん]里[り]",
     "Tags": ["citypop"]
   },
   {
     "SongID": "ASIAN-001",
     "SongURL": "https://www.youtube.com/embed/nJ6A6GC_ki4",
     "SongNameEng": "Haruka Kanata",
-    "SongNameJpn": "遙か彼方",
+    "SongNameJpn": "遙[はる]か彼[か]方[なた]",
     "ArtistNameEng": "Asian Kung-Fu Generation"
   },
   {
     "SongID": "ASIAN-002",
     "SongURL": "https://www.youtube.com/embed/rDTFSD9K9dA",
     "SongNameEng": "Rock'n Roll, Morning Light Falls on You",
-    "SongNameJpn": "転がる岩、君に朝が降る",
+    "SongNameJpn": "転[ころ]がる岩[いわ]、君[きみ]に朝[あさ]が降[ふ]る",
     "ArtistNameEng": "Asian Kung-Fu Generation"
   },
   {
     "SongID": "AWESOME-001",
     "SongURL": "https://www.youtube.com/embed/zkZARKFuzNQ",
     "SongNameEng": "Wasurena",
-    "SongNameJpn": "勿忘",
+    "SongNameJpn": "勿忘[わすれな]",
     "ArtistNameEng": "Awesome City Club",
     "ArtistNameJpn": "オーサムシティクラブ"
   },
@@ -58,20 +57,26 @@
     "SongURL": "https://www.youtube.com/embed/5QNaSMiZ_-o",
     "SongNameEng": "God knows...",
     "ArtistNameEng": "Aya Hirano",
-    "ArtistNameJpn": "平野綾"
+    "ArtistNameJpn": "平野[ひらの] 綾[あや]"
   },
   {
     "SongID": "BACK-001",
     "SongURL": "https://www.youtube.com/embed/EMYa07zHC9w",
     "SongNameEng": "Yellow",
-    "SongNameJpn": "黄色",
+    "SongNameJpn": "黄[き]色[いろ]",
     "ArtistNameEng": "back number"
   },
   {
     "SongID": "BACK-002",
     "SongURL": "https://www.youtube.com/embed/iqEr3P78fz8",
     "SongNameEng": "Suiheisen",
-    "SongNameJpn": "水平線",
+    "SongNameJpn": "水[すい]平[へい]線[せん]",
+    "ArtistNameEng": "back number"
+  },
+  {
+    "SongID": "BACK-003",
+    "SongURL": "https://www.youtube.com/embed/SII-S-zCg-c",
+    "SongNameJpn": "高[たか]嶺[ね]の花[はな]子[こ]さん",
     "ArtistNameEng": "back number"
   },
   {
@@ -88,14 +93,14 @@
     "SongNameEng": "Kirari",
     "SongNameJpn": "きらり",
     "ArtistNameEng": "Fujii Kaze",
-    "ArtistNameJpn": "藤井 風"
+    "ArtistNameJpn": "藤井[ふじい] 風[かぜ]"
   },
   {
     "SongID": "FUJII-002",
     "SongURL": "https://www.youtube.com/embed/yP7K2lXr6GA",
     "SongNameEng": "damn",
     "ArtistNameEng": "Fujii Kaze",
-    "ArtistNameJpn": "藤井 風"
+    "ArtistNameJpn": "藤井[ふじい] 風[かぜ]"
   },
   {
     "SongID": "GREEEEN-001",
@@ -109,14 +114,14 @@
     "SongURL": "https://www.youtube.com/embed/TQ8WlA2GXbk",
     "SongNameEng": "Pretender",
     "ArtistNameEng": "Official Hige Dandism",
-    "ArtistNameJpn": "Official髭男dism"
+    "ArtistNameJpn": "Official髭男[ひげ]dism"
   },
   {
     "SongID": "HITSUJI-001",
     "SongURL": "https://www.youtube.com/embed/Vm3tf65-8d4",
     "SongNameEng": "More than words",
     "ArtistNameEng": "Hitsujibungaku",
-    "ArtistNameJpn": "羊文学"
+    "ArtistNameJpn": "羊文学[ひつじぶんがく]"
   },
   {
     "SongID": "KANA-001",
@@ -143,17 +148,17 @@
     "SongID": "KENTA-001",
     "SongURL": "https://www.youtube.com/embed/-zQWavER7to",
     "SongNameEng": "Voice of the Sea",
-    "SongNameJpn": "海の声",
+    "SongNameJpn": "海[うみ]の声[こえ]",
     "ArtistNameEng": "Kenta Kiritani",
-    "ArtistNameJpn": "桐谷 健太"
+    "ArtistNameJpn": "桐谷[きりたに] 健太[けんた]"
   },
   {
     "SongID": "KESSOKU-001",
     "SongURL": "https://www.youtube.com/embed/B7BxrAAXl94",
     "SongNameEng": "Guitar, Loneliness and Blue Planet",
-    "SongNameJpn": "ギターと孤独と蒼い惑星",
+    "SongNameJpn": "ギターと孤[こ]独[どく]と蒼[あお]い惑[わく]星[せい]",
     "ArtistNameEng": "Kessoku band",
-    "ArtistNameJpn": "結束バンド",
+    "ArtistNameJpn": "結[けっ]束[そく]バンド",
     "Tags": ["anime"]
   },
   {
@@ -162,16 +167,16 @@
     "SongNameEng": "Distortion",
     "SongNameJpn": "ディストーション",
     "ArtistNameEng": "Kessoku band",
-    "ArtistNameJpn": "結束バンド",
+    "ArtistNameJpn": "結[けっ]束[そく]バンド",
     "Tags": ["anime"]
   },
   {
     "SongID": "KESSOKU-003",
     "SongURL": "https://www.youtube.com/embed/gX9m-rCtSqc",
     "SongNameEng": "Don't Forget",
-    "SongNameJpn": "忘れてやらない",
+    "SongNameJpn": "忘[わす]れてやらない",
     "ArtistNameEng": "Kessoku band",
-    "ArtistNameJpn": "結束バンド",
+    "ArtistNameJpn": "結[けっ]束[そく]バンド",
     "Tags": ["anime"]
   },
   {
@@ -180,34 +185,34 @@
     "SongNameEng": "That Band",
     "SongNameJpn": "あのバンド",
     "ArtistNameEng": "Kessoku band",
-    "ArtistNameJpn": "結束バンド",
+    "ArtistNameJpn": "結[けっ]束[そく]バンド",
     "Tags": ["anime"]
   },
   {
     "SongID": "KESSOKU-005",
     "SongURL": "https://www.youtube.com/embed/BVvcQ4ge8Ow",
     "SongNameEng": "What is Wrong With",
-    "SongNameJpn": "何が悪い",
+    "SongNameJpn": "何[なに]が悪[わる]い",
     "ArtistNameEng": "Kessoku band",
-    "ArtistNameJpn": "結束バンド",
+    "ArtistNameJpn": "結[けっ]束[そく]バンド",
     "Tags": ["anime"]
   },
   {
     "SongID": "KESSOKU-006",
     "SongURL": "https://www.youtube.com/embed/wSTbdqo-j74",
     "SongNameEng": "If I could be a constellation",
-    "SongNameJpn": "星座になれたら",
+    "SongNameJpn": "星[せい]座[ざ]になれたら",
     "ArtistNameEng": "Kessoku band",
-    "ArtistNameJpn": "結束バンド",
+    "ArtistNameJpn": "結[けっ]束[そく]バンド",
     "Tags": ["anime"]
   },
   {
     "SongID": "KIRYU-001",
     "SongURL": "https://www.youtube.com/embed/g3jCAyPai2Y",
     "SongNameEng": "Baka Mitai",
-    "SongNameJpn": "馬鹿みたい",
+    "SongNameJpn": "馬[ば]鹿[か]みたい",
     "ArtistNameEng": "Kazuma Kiryu",
-    "ArtistNameJpn": "桐生 一馬"
+    "ArtistNameJpn": "桐生[きりゅ] 一馬[かずま]"
   },
   {
     "SongID": "KOJI-001",
@@ -215,22 +220,22 @@
     "SongNameEng": "Butter-Fly",
     "SongNameJpn": "",
     "ArtistNameEng": "Koji Wada",
-    "ArtistNameJpn": "和田 光司"
+    "ArtistNameJpn": "和田[わだ] 光司[こじ]"
   },
   {
     "SongID": "KOYORI-001",
     "SongURL": "https://www.youtube.com/embed/UKVioegPPds",
     "SongNameEng": "Hitorinbo Envy",
-    "SongNameJpn": "独りんぼエンヴィー",
+    "SongNameJpn": "独[ひと]りんぼエンヴィー",
     "ArtistNameEng": "koyori",
-    "ArtistNameJpn": "電ポルP",
+    "ArtistNameJpn": "電[でん]ポルP",
     "Tags": ["vocaloid"]
   },
   {
     "SongID": "LISA-001",
     "SongURL": "https://www.youtube.com/embed/TqyfmFaZlqw",
     "SongNameEng": "Gurenge",
-    "SongNameJpn": "紅蓮華",
+    "SongNameJpn": "紅蓮華[ぐれんげ]",
     "ArtistNameEng": "LiSA"
   },
   {
@@ -239,7 +244,7 @@
     "SongNameEng": "Plastic Love",
     "SongNameJpn": "プラスティック",
     "ArtistNameEng": "Mariya Takeuchi",
-    "ArtistNameJpn": "竹内まりや",
+    "ArtistNameJpn": "竹内[たけうち]まりや",
     "Tags": ["citypop"]
   },
   {
@@ -248,7 +253,7 @@
     "SongNameEng": "Sayonara Elegy",
     "SongNameJpn": "さよならエレジー",
     "ArtistNameEng": "Masaki Suda",
-    "ArtistNameJpn": "菅田将暉"
+    "ArtistNameJpn": "菅田将暉[すだまさき]"
   },
   {
     "SongID": "MAYN-001",
@@ -263,7 +268,7 @@
     "SongNameEng": "Stay With Me",
     "SongNameJpn": "真夜中のドア",
     "ArtistNameEng": "Miki Matsubara",
-    "ArtistNameJpn": "松原 みき",
+    "ArtistNameJpn": "松原[まつばら] みき",
     "Tags": ["citypop"]
   },
   {
@@ -272,7 +277,7 @@
     "SongNameEng": "Crying for Rain",
     "SongNameJpn": "カワキヲアメク",
     "ArtistNameEng": "Minami",
-    "ArtistNameJpn": "美波"
+    "ArtistNameJpn": "美波[みなみ]"
   },
   {
     "SongID": "PEGG-001",
@@ -281,25 +286,41 @@
     "ArtistNameEng": "the peggies"
   },
   {
+    "SongID": "REIFU-001",
+    "SongURL": "https://www.youtube.com/embed/xdY-nijUawg",
+    "SongNameEng": "Tsuki Akari",
+    "SongNameJpn": "ツキアカリ",
+    "ArtistNameEng": "Rie fu",
+    "ArtistNameJpn": "リエ フゥ"
+  },
+  {
     "SongID": "REOL-001",
     "SongURL": "https://www.youtube.com/embed/9eyyhtOrKPI",
     "SongNameEng": "drop pop candy",
     "ArtistNameEng": "REOL"
   },
   {
+    "SongID": "ROKU-001",
+    "SongURL": "https://www.youtube.com/embed/5GUaMOpfmr8",
+    "SongNameEng": "One Voice",
+    "SongNameJpn": "ただ声[こえ]一[ひと]つ",
+    "ArtistNameEng": "Rokudenashi",
+    "ArtistNameJpn": "ロクデナシ"
+  },
+  {
     "SongID": "RYOKU-001",
     "SongURL": "https://www.youtube.com/embed/9DwDwCRr63c",
     "SongNameEng": "Mela!",
     "ArtistNameEng": "Ryokuoushoku Shakai",
-    "ArtistNameJpn": "緑黄色社会"
+    "ArtistNameJpn": "緑[りょく]黄[おう]色[しょく]社[しゃ]会[かい]"
   },
   {
     "SongID": "SAKA-001",
     "SongURL": "https://www.youtube.com/embed/T_WuE_AV6kg",
     "SongNameEng": "I Look Up as I Walk / Sukiyaki",
-    "SongNameJpn": "上を向いて歩こう",
+    "SongNameJpn": "上[うえ]を向[む]いて歩[あ]こう",
     "ArtistNameEng": "Kyu Sakamoto",
-    "ArtistNameJpn": "坂本 九"
+    "ArtistNameJpn": "坂本[さかもと] 九[きゅ]"
   },
   {
     "SongID": "SAUCY-001",
@@ -312,7 +333,7 @@
     "SongID": "SAYURI-001",
     "SongURL": "https://www.youtube.com/embed/Rwzy6Qt8gq8",
     "SongNameEng": "Tower of Flower",
-    "SongNameJpn": "花の塔",
+    "SongNameJpn": "花[はな]の塔[とう]",
     "ArtistNameEng": "Sayuri",
     "ArtistNameJpn": "さユり"
   },
@@ -320,9 +341,9 @@
     "SongID": "SHIKA-001",
     "SongURL": "https://www.youtube.com/embed/fxPcJTU-A8U",
     "SongNameEng": "Shikairo Days",
-    "SongNameJpn": "シカ色デイズ",
+    "SongNameJpn": "シカ色[いろ]デイズ",
     "ArtistNameEng": "Deer Club",
-    "ArtistNameJpn": "シカ部",
+    "ArtistNameJpn": "シカ部[ぶ]",
     "Tags": ["anime"]
   },
   {
@@ -344,14 +365,14 @@
     "SongID": "SNOOTY-001",
     "SongURL": "https://www.youtube.com/embed/l2TqsetcqeU",
     "SongNameEng": "Ai",
-    "SongNameJpn": "哀",
+    "SongNameJpn": "哀[あい]",
     "ArtistNameEng": "snooty"
   },
   {
     "SongID": "SNOOTY-002",
     "SongURL": "https://www.youtube.com/embed/LfwVHLZ4mtA",
     "SongNameEng": "Blank",
-    "SongNameJpn": "空白",
+    "SongNameJpn": "空[くう]白[はく]",
     "ArtistNameEng": "snooty"
   },
   {
@@ -360,13 +381,13 @@
     "SongNameEng": "Reset",
     "SongNameJpn": "リセット",
     "ArtistNameEng": "Taichi Mukai",
-    "ArtistNameJpn": "向井太一"
+    "ArtistNameJpn": "向井太一[むかいたいち]"
   },
   {
     "SongID": "VAUNDY-001",
     "SongURL": "https://www.youtube.com/embed/7HgJIAUtICU",
     "SongNameEng": "Odoriko",
-    "SongNameJpn": "踊り子",
+    "SongNameJpn": "踊[おど]り子[こ]",
     "ArtistNameEng": "Vaundy",
     "ArtistNameJpn": "バウンディ"
   },
@@ -382,21 +403,21 @@
     "SongID": "VAUNDY-003",
     "SongURL": "https://www.youtube.com/embed/Gbz2C2gQREI",
     "SongNameEng": "Fukakouryoku",
-    "SongNameJpn": "不可幸力",
+    "SongNameJpn": "不[ふ]可[か]幸[こう]力[りょく]",
     "ArtistNameEng": "Vaundy",
     "ArtistNameJpn": "バウンディ"
   },
   {
     "SongID": "WURTS-001",
     "SongURL": "https://www.youtube.com/embed/ayDVB4IAZWA",
-    "SongNameJpn": "分かってないよ",
+    "SongNameJpn": "分[わ]かってないよ",
     "ArtistNameJpn": "WurtS"
   },
   {
     "SongID": "YOASOBI-001",
     "SongURL": "https://www.youtube.com/embed/by4SYYWlhEs",
     "SongNameEng": "Into The Night",
-    "SongNameJpn": "夜に駆ける",
+    "SongNameJpn": "夜[よる]に駆[か]ける",
     "ArtistNameEng": "YOASOBI"
   },
   {
@@ -410,15 +431,15 @@
     "SongID": "YONE-001",
     "SongURL": "https://www.youtube.com/embed/L_pRTyuZ9fk",
     "SongNameEng": "Shinigami",
-    "SongNameJpn": "死神",
+    "SongNameJpn": "死[しに]神[がみ]",
     "ArtistNameEng": "Kenshi Yonezu",
-    "ArtistNameJpn": "米津玄師"
+    "ArtistNameJpn": "米津玄師[よねづけんし]"
   },
   {
     "SongID": "YORU-001",
     "SongURL": "https://www.youtube.com/embed/WwnZeQiI6hQ",
     "SongNameEng": "The Old Man and the Sea",
-    "SongNameJpn": "老人と海",
+    "SongNameJpn": "老[ろう]人[じん]と海[うみ]",
     "ArtistNameEng": "Yorushika",
     "ArtistNameJpn": "ヨルシカ"
   },
@@ -426,7 +447,7 @@
     "SongID": "YORU-002",
     "SongURL": "https://www.youtube.com/embed/-VKIqrvVOpo",
     "SongNameEng": "Just a Sunny Day for You",
-    "SongNameJpn": "ただ君に晴れ",
+    "SongNameJpn": "ただ君[きみ]に晴[は]れ",
     "ArtistNameEng": "Yorushika",
     "ArtistNameJpn": "ヨルシカ"
   },
@@ -436,13 +457,13 @@
     "SongNameEng": "Shutter",
     "SongNameJpn": "シャッター",
     "ArtistNameEng": "Yuuri",
-    "ArtistNameJpn": "優里"
+    "ArtistNameJpn": "優里[ゆうり]"
   },
   {
     "SongID": "YUZU-001",
     "SongURL": "https://www.youtube.com/embed/dgKocTADT0I",
     "SongNameEng": "Sakuragicho",
-    "SongNameJpn": "桜木町",
+    "SongNameJpn": "桜[さくら]木[ぎ]町[ちょ]",
     "ArtistNameEng": "Yuzu",
     "ArtistNameJpn": "ゆず"
   }
