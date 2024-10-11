@@ -35,14 +35,23 @@
     "SongURL": "https://www.youtube.com/embed/nJ6A6GC_ki4",
     "SongNameEng": "Haruka Kanata",
     "SongNameJpn": "遙[はる]か彼[か]方[なた]",
-    "ArtistNameEng": "Asian Kung-Fu Generation"
+    "ArtistNameEng": "Asian Kung-Fu Generation",
+    "Tags": ["rock"]
   },
   {
     "SongID": "ASIAN-002",
     "SongURL": "https://www.youtube.com/embed/rDTFSD9K9dA",
     "SongNameEng": "Rock'n Roll, Morning Light Falls on You",
     "SongNameJpn": "転[ころ]がる岩[いわ]、君[きみ]に朝[あさ]が降[ふ]る",
-    "ArtistNameEng": "Asian Kung-Fu Generation"
+    "ArtistNameEng": "Asian Kung-Fu Generation",
+    "Tags": ["rock"]
+  },
+  {
+    "SongID": "ASIAN-003",
+    "SongURL": "https://www.youtube.com/embed/Jj5vpv65Sc0",
+    "SongNameEng": "Re:Re:",
+    "ArtistNameEng": "Asian Kung-Fu Generation",
+    "Tags": ["rock"]
   },
   {
     "SongID": "AWESOME-001",
@@ -120,6 +129,20 @@
     "SongID": "HITSUJI-001",
     "SongURL": "https://www.youtube.com/embed/Vm3tf65-8d4",
     "SongNameEng": "More than words",
+    "ArtistNameEng": "Hitsujibungaku",
+    "ArtistNameJpn": "羊文学[ひつじぶんがく]"
+  },
+  {
+    "SongID": "HITSUJI-002",
+    "SongURL": "https://www.youtube.com/embed/qknDI1k39Ic",
+    "SongNameJpn": "光るとき",
+    "ArtistNameEng": "Hitsujibungaku",
+    "ArtistNameJpn": "羊文学[ひつじぶんがく]"
+  },
+  {
+    "SongID": "HITSUJI-003",
+    "SongURL": "https://www.youtube.com/embed/2v8iq3tI0gM",
+    "SongNameEng": "1999",
     "ArtistNameEng": "Hitsujibungaku",
     "ArtistNameJpn": "羊文学[ひつじぶんがく]"
   },
@@ -280,10 +303,27 @@
     "ArtistNameJpn": "美波[みなみ]"
   },
   {
-    "SongID": "PEGG-001",
+    "SongID": "PEGGIES-001",
     "SongURL": "https://www.youtube.com/embed/xdc9DgV0aDA",
     "SongNameEng": "Dive to Love",
-    "ArtistNameEng": "the peggies"
+    "ArtistNameEng": "the peggies",
+    "Tags": ["rock"]
+  },
+  {
+    "SongID": "PEGGIES-002",
+    "SongURL": "https://www.youtube.com/embed/I1hLZ2OchZ8",
+    "SongNameEng": "Centimeter",
+    "SongNameJpn": "センチメートル",
+    "ArtistNameEng": "the peggies",
+    "Tags": ["rock"]
+  },
+  {
+    "SongID": "PEGGIES-003",
+    "SongURL": "https://www.youtube.com/embed/KbT3JsJmd14",
+    "SongNameEng": "Kiminosei",
+    "SongNameJpn": "君のせい",
+    "ArtistNameEng": "the peggies",
+    "Tags": ["rock"]
   },
   {
     "SongID": "REIFU-001",
@@ -389,7 +429,8 @@
     "SongNameEng": "Odoriko",
     "SongNameJpn": "踊[おど]り子[こ]",
     "ArtistNameEng": "Vaundy",
-    "ArtistNameJpn": "バウンディ"
+    "ArtistNameJpn": "バウンディ",
+    "Tags": ["pop"]
   },
   {
     "SongID": "VAUNDY-002",
@@ -397,7 +438,8 @@
     "SongNameEng": "Mabataki",
     "SongNameJpn": "",
     "ArtistNameEng": "Vaundy",
-    "ArtistNameJpn": "バウンディ"
+    "ArtistNameJpn": "バウンディ",
+    "Tags": ["pop"]
   },
   {
     "SongID": "VAUNDY-003",
@@ -405,30 +447,35 @@
     "SongNameEng": "Fukakouryoku",
     "SongNameJpn": "不[ふ]可[か]幸[こう]力[りょく]",
     "ArtistNameEng": "Vaundy",
-    "ArtistNameJpn": "バウンディ"
+    "ArtistNameJpn": "バウンディ",
+    "Tags": ["pop"]
   },
   {
     "SongID": "WURTS-001",
     "SongURL": "https://www.youtube.com/embed/ayDVB4IAZWA",
     "SongNameJpn": "分[わ]かってないよ",
-    "ArtistNameJpn": "WurtS"
+    "ArtistNameJpn": "WurtS",
+    "Tags": ["pop"]
   },
   {
     "SongID": "YOASOBI-001",
     "SongURL": "https://www.youtube.com/embed/by4SYYWlhEs",
     "SongNameEng": "Into The Night",
     "SongNameJpn": "夜[よる]に駆[か]ける",
-    "ArtistNameEng": "YOASOBI"
+    "ArtistNameEng": "YOASOBI",
+    "Tags": ["pop"]
   },
   {
     "SongID": "YOASOBI-002",
     "SongURL": "https://www.youtube.com/embed/ZRtdQ81jPUQ",
     "SongNameEng": "Idol",
     "SongNameJpn": "アイドル",
-    "ArtistNameEng": "YOASOBI"
+    "ArtistNameEng": "YOASOBI",
+    "Tags": ["pop"]
   },
   {
     "SongID": "YONE-001",
+    
     "SongURL": "https://www.youtube.com/embed/L_pRTyuZ9fk",
     "SongNameEng": "Shinigami",
     "SongNameJpn": "死[しに]神[がみ]",
@@ -441,7 +488,8 @@
     "SongNameEng": "The Old Man and the Sea",
     "SongNameJpn": "老[ろう]人[じん]と海[うみ]",
     "ArtistNameEng": "Yorushika",
-    "ArtistNameJpn": "ヨルシカ"
+    "ArtistNameJpn": "ヨルシカ",
+    "Tags": ["rock"]
   },
   {
     "SongID": "YORU-002",
@@ -449,7 +497,8 @@
     "SongNameEng": "Just a Sunny Day for You",
     "SongNameJpn": "ただ君[きみ]に晴[は]れ",
     "ArtistNameEng": "Yorushika",
-    "ArtistNameJpn": "ヨルシカ"
+    "ArtistNameJpn": "ヨルシカ",
+    "Tags": ["rock"]
   },
   {
     "SongID": "YUURI-001",
