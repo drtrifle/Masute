@@ -57,11 +57,11 @@
       "EngStr": "Won't you stop with the baffling talk and show some mercy?"
     },
     {
-      "JpnStr": "ああ 火[ひ]が消[き]える 夜明[よあ]けを待[ま]たず",
+      "JpnStr": "嗚[あ]呼[あ] 火[ひ]が消[き]える 夜明[よあ]けを待[ま]たず",
       "EngStr": "Ahh, the light's going out before the break of dawn"
     },
     {
-      "JpnStr": "ああ 面[おも]白[しろ]くなるところだったのに",
+      "JpnStr": "嗚[あ]呼[あ] 面[おも]白[しろ]くなるところだったのに",
       "EngStr": "Ahh, just as it was getting interesting"
     },
     {
@@ -145,11 +145,11 @@
       "EngStr": "Now that you've come to have something so good, isn't this your fault"
     },
     {
-      "JpnStr": "ああ どこへ行[ゆ]く 妻[さい]子[し]つまこもいるんです",
+      "JpnStr": "嗚[あ]呼[あ] どこへ行[ゆ]く 妻[さい]子[し]つまこもいるんです",
       "EngStr": "Hey where ya going? You see I have a wife and kids"
     },
     {
-      "JpnStr": "ああ 香[かお]り立[た]つお仕[し]舞[ま]いのフレグランス",
+      "JpnStr": "嗚[あ]呼[あ] 香[かお]り立[た]つお仕[し]舞[ま]いのフレグランス",
       "EngStr": "Ahh, the scent, the scent. The fragrance of death."
     },
     {
@@ -157,16 +157,15 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "ああ 火[ひ]が消[き]える 夜明[よあ]けを待[ま]たず",
+      "JpnStr": "嗚[あ]呼[あ] 火[ひ]が消[き]える 夜明[よあ]けを待[ま]たず",
       "EngStr": "Ahh, the light's going out before the break of dawn"
     },
     {
-      "JpnStr": "ああ 面[おも]白[しろ]くなるところだったのに",
+      "JpnStr": "嗚[あ]呼[あ] 面[おも]白[しろ]くなるところだったのに",
       "EngStr": "Ahh, just as it was getting interesting"
     }
   ],
   "ListVocab": [
-    "ああ-ああ",
     "いちびり-いちびり",
     "うぜえ-うぜえ",
     "お仕舞い-おしまい",
@@ -209,11 +208,11 @@
     "よあけ-よあけ",
     "ようしゃする-ようしゃしたっ",
     "よたふく-よたふき",
-    "渡り-わたり",
-    "喚く-わめく",
     "下らない-くだらない",
     "何時-いつ",
     "俺ら-おれら",
+    "喚く-わめく",
+    "嗚呼-ああ",
     "怨念-おんねん",
     "悪銭-あくせん",
     "所在-しょざい",
@@ -223,6 +222,7 @@
     "残念-ざんねん",
     "気が済む-きがすむ",
     "気持ち-きもち",
+    "渡り-わたり",
     "滑る-すべる",
     "眩む-くらむ",
     "糸瓜-へちま",

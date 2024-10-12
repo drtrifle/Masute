@@ -1,7 +1,7 @@
 {
   "SongLyrics": [
     {
-      "JpnStr": "頭[あたま]じゃわかっていても",
+      "JpnStr": "頭[あたま]じゃ分[わ]かっていても",
       "EngStr": "Even if I understand it in my head"
     },
     {
@@ -190,6 +190,7 @@
     }
   ],
   "ListVocab": [
+    "分かる-わかる",
     "カラダ",
     "タバコ",
     "バスタオル",

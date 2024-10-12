@@ -105,7 +105,7 @@
       "EngStr": "You laughed, and it frustrated me"
     },
     {
-      "JpnStr": "腐[くさ]るほどに話[はな]したいこと沢山[たくさん]あるのにな",
+      "JpnStr": "腐[くさ]るほどに話[はな]したいこと沢[たく]山[さん]あるのにな",
       "EngStr": "I have so many things I want to talk to you about"
     },
     {
@@ -261,6 +261,7 @@
     "朝-あさ",
     "汚れる-よごれる",
     "沈む-しずむ",
+    "沢山-たくさん",
     "焦る-あせる",
     "甘い-あまい",
     "男-おとこ",
