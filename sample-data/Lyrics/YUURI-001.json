@@ -93,7 +93,7 @@
       "EngStr": "I wish I would've touched you."
     },
     {
-      "JpnStr": "全[すべ]ての時間[じかん]を君[きみ]だけに使[つか]えばよかった",
+      "JpnStr": "全[すべ]ての時間[じかん]を君[きみ]だけに使[つか]えば良[よ]かった",
       "EngStr": "I wish I would've spent all my time only on you."
     },
     {
@@ -193,7 +193,7 @@
       "EngStr": "I wish I would've touched you."
     },
     {
-      "JpnStr": "全[すべ]ての時間[じかん]を君[きみ]だけに使[つか]えばよかった",
+      "JpnStr": "全[すべ]ての時間[じかん]を君[きみ]だけに使[つか]えば良[よ]かった",
       "EngStr": "I wish I would've spent all my time only on you."
     },
     {
@@ -285,7 +285,7 @@
       "EngStr": "I wish I would've touched you."
     },
     {
-      "JpnStr": "全[すべ]ての時間[じかん]を君[きみ]だけに使[つか]えばよかった",
+      "JpnStr": "全[すべ]ての時間[じかん]を君[きみ]だけに使[つか]えば良[よ]かった",
       "EngStr": "I wish I would've spent all my time only on you."
     }
   ],
@@ -308,7 +308,6 @@
     "もの-もの",
     "やっぱり-やっぱり",
     "やり過ごす-やりすごしてた",
-    "よかった-よかった",
     "一日中-いちにちじゅう",
     "上-うえ",
     "今-いま",
@@ -352,6 +351,7 @@
     "綺麗-きれい",
     "置く-おく",
     "美しい-うつくしい",
+    "良い-よい",
     "良かった-よかった",
     "花火-はなび",
     "落ちる-おちる",

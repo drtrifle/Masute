@@ -25,7 +25,7 @@
       "EngStr": "Getting on my nerves, what a loser"
     },
     {
-      "JpnStr": "やってらんねえ 与太[よた]吹[ふ]きブラブラブラ",
+      "JpnStr": "やってらんねえ 与[よ]太[た]吹[ふ]きブラブラブラ",
       "EngStr": "Could you not? Spouting nonsense blah blah blah"
     },
     {
@@ -53,11 +53,11 @@
       "EngStr": "Hey, hey, please please help me"
     },
     {
-      "JpnStr": "そんなけったいな言[こと]葉[ば]っか言[い]わんで容赦[ようしゃ]したってや",
+      "JpnStr": "そんなけったいな言[こと]葉[ば]っか言[い]わんで容[よう]赦[しゃ]したってや",
       "EngStr": "Won't you stop with the baffling talk and show some mercy?"
     },
     {
-      "JpnStr": "嗚[あ]呼[あ] 火[ひ]が消[き]える 夜明[よあ]けを待[ま]たず",
+      "JpnStr": "嗚[あ]呼[あ] 火[ひ]が消[き]える 夜[よ]明[あ]けを待[ま]たず",
       "EngStr": "Ahh, the light's going out before the break of dawn"
     },
     {
@@ -157,7 +157,7 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "嗚[あ]呼[あ] 火[ひ]が消[き]える 夜明[よあ]けを待[ま]たず",
+      "JpnStr": "嗚[あ]呼[あ] 火[ひ]が消[き]える 夜[よ]明[あ]けを待[ま]たず",
       "EngStr": "Ahh, the light's going out before the break of dawn"
     },
     {
@@ -205,14 +205,15 @@
     "やる-やらかし",
     "やる-やらん",
     "ゆく-ゆく",
-    "よあけ-よあけ",
-    "ようしゃする-ようしゃしたっ",
-    "よたふく-よたふき",
     "下らない-くだらない",
+    "与太-よた",
     "何時-いつ",
     "俺ら-おれら",
+    "吹く-ふく",
     "喚く-わめく",
     "嗚呼-ああ",
+    "夜明け-よあけ",
+    "容赦-ようしゃ",
     "怨念-おんねん",
     "悪銭-あくせん",
     "所在-しょざい",
