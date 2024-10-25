@@ -292,6 +292,15 @@
     ]
   },
   {
+    "Key": "お土産-おみやげ",
+    "Furi": "お土産[みやげ]",
+    "Eng": "souvenir",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
+  },
+  {
     "Key": "お姉さん-おねえさん",
     "Furi": "お姉[ねえ]さん",
     "Eng": "older sister/elder sister (other)",
@@ -302,11 +311,21 @@
     "optIkomaKanji": "11"
   },
   {
+    "Key": "お嬢さん-おじょうさん",
+    "Furi": "お嬢[じょう]さん",
+    "Eng": "young lady/daughter (other)",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
+  },
+  {
     "Key": "お宅-おたく",
     "Furi": "お宅[たく]",
     "Eng": "house (formal)",
     "optTags": [
-      "noun"
+      "noun",
+      "jlpt-n4"
     ],
     "optIkomaKanji": "50"
   },
@@ -441,6 +460,15 @@
     ]
   },
   {
+    "Key": "お礼-おれい",
+    "Furi": "お礼[れい]",
+    "Eng": "thanks/gratitude",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
+  },
+  {
     "Key": "お祖父さん-おじいさん",
     "Furi": "お祖父[じい]さん",
     "Eng": "grandfather/male elderly",
@@ -498,6 +526,15 @@
     ]
   },
   {
+    "Key": "お見舞い-おみまい",
+    "Furi": "お見[み]舞[ま]い",
+    "Eng": "visiting someone sick",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
+  },
+  {
     "Key": "お通し-おとおし",
     "Furi": "お通[とお]し",
     "Eng": "appetizer/starter",
@@ -528,6 +565,24 @@
     "optIkomaKanji": "04"
   },
   {
+    "Key": "お金持ち-おかねもち",
+    "Furi": "お金[かね]持[も]ち",
+    "Eng": "rich person/wealthy person",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
+  },
+  {
+    "Key": "お釣り-おつり",
+    "Furi": "お釣[つ]り",
+    "Eng": "change (money)",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
+  },
+  {
     "Key": "お陰-おかげ",
     "Furi": "お陰[かげ]",
     "Eng": "grace/blessing/benevolence",
@@ -552,6 +607,15 @@
       "noun"
     ],
     "optIkomaKanji": "26"
+  },
+  {
+    "Key": "ガス-ガス",
+    "Furi": "ガス",
+    "Eng": "gas",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
   },
   {
     "Key": "カメラ-カメラ",
@@ -704,6 +768,7 @@
     "Eng": "however/but",
     "optTags": [
       "conjunction",
+      "jlpt-n4",
       "songLib"
     ],
     "optSongLibFreq": 2
@@ -749,6 +814,26 @@
       "adverb"
     ],
     "optIkomaKanji": "19"
+  },
+  {
+    "Key": "この間-このあいだ",
+    "Furi": "この間[あいだ]",
+    "Eng": "the other day/lately/recently",
+    "optTags": [
+      "noun",
+      "adverb",
+      "jlpt-n4"
+    ]
+  },
+  {
+    "Key": "この頃-このごろ",
+    "Furi": "この頃[ごろ]",
+    "Eng": "these days/nowadays/now",
+    "optTags": [
+      "noun",
+      "adverb",
+      "jlpt-n4"
+    ]
   },
   {
     "Key": "コピー-コピー",
@@ -828,9 +913,19 @@
     "Furi": "ご主[しゅ]人[じん]",
     "Eng": "husband (other)",
     "optTags": [
-      "noun"
+      "noun",
+      "jlpt-n4"
     ],
     "optIkomaKanji": "18"
+  },
+  {
+    "Key": "ご存知-ごぞんじ",
+    "Furi": "ご存[ぞん]知[じ]",
+    "Eng": "knowing (honorific)",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
   },
   {
     "Key": "ご立派-ごりっぱ",
@@ -852,6 +947,17 @@
       "jlpt-n5"
     ],
     "optIkomaKanji": "37"
+  },
+  {
+    "Key": "ご馳走-ごちそう",
+    "Furi": "ご馳[ち]走[そう]",
+    "Eng": "treat (someone)/feast",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-transitive",
+      "jlpt-n4"
+    ]
   },
   {
     "Key": "ご馳走様でした-ごちそうさまでした",
@@ -2342,11 +2448,30 @@
     "optSongLibFreq": 2
   },
   {
+    "Key": "下りる-おりる",
+    "Furi": "下[お]りる",
+    "Eng": "to alight/to get off",
+    "optTags": [
+      "verb-2",
+      "verb-intransitive",
+      "jlpt-n5"
+    ]
+  },
+  {
     "Key": "下ろす-おろす",
     "Furi": "下[お]ろす",
     "Eng": "to withdraw",
     "optTags": [
       "verb-1"
+    ]
+  },
+  {
+    "Key": "下宿-げしゅく",
+    "Furi": "下[げ]宿[しゅく]",
+    "Eng": "boarding house",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
     ]
   },
   {
@@ -3067,6 +3192,15 @@
     "optIkomaKanji": "33"
   },
   {
+    "Key": "交通-こうつう",
+    "Furi": "交[こう]通[つう]",
+    "Eng": "traffic/transportation",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
+  },
+  {
     "Key": "京都-きょうと",
     "Furi": "京[きょう]都[と]",
     "Eng": "kyoto",
@@ -3444,6 +3578,7 @@
     "Eng": "substitute/replacement",
     "optTags": [
       "noun",
+      "jlpt-n4",
       "songLib"
     ],
     "optSongLibFreq": 2
@@ -3532,6 +3667,16 @@
     "optIkomaKanji": "25"
   },
   {
+    "Key": "仰る-おっしゃる",
+    "Furi": "仰[おっしゃ]る",
+    "Eng": "to say/to speak (honorific)",
+    "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n4"
+    ]
+  },
+  {
     "Key": "休み-やすみ",
     "Furi": "休[やす]み",
     "Eng": "rest day",
@@ -3616,6 +3761,15 @@
     "optSongLibFreq": 7
   },
   {
+    "Key": "会場-かいじょう",
+    "Furi": "会[かい]場[じょう]",
+    "Eng": "venue/meeting place",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
+  },
+  {
     "Key": "会社-かいしゃ",
     "Furi": "会[かい]社[しゃ]",
     "Eng": "company",
@@ -3651,6 +3805,15 @@
       "jlpt-n4"
     ],
     "optIkomaKanji": "25"
+  },
+  {
+    "Key": "会議室-かいぎしつ",
+    "Furi": "会[かい]議[ぎ]室[しつ]",
+    "Eng": "meeting room/conference room",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
   },
   {
     "Key": "伝う-つたう",
@@ -4946,6 +5109,15 @@
     "optIkomaKanji": "41"
   },
   {
+    "Key": "公務員-こうむいん",
+    "Furi": "公[こう]務[む]員[いん]",
+    "Eng": "civil servant/public servant/government employee",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
+  },
+  {
     "Key": "公園-こうえん",
     "Furi": "公[こう]園[えん]",
     "Eng": "public park",
@@ -5066,6 +5238,15 @@
       "songLib"
     ],
     "optSongLibFreq": 1
+  },
+  {
+    "Key": "具合-ぐあい",
+    "Furi": "具[ぐ]合[あい]",
+    "Eng": "condition/state",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
   },
   {
     "Key": "内-うち",
@@ -6197,6 +6378,11 @@
     "Key": "危険-きけん",
     "Furi": "危[き]険[けん]",
     "Eng": "danger/hazard",
+    "optTags": [
+      "noun",
+      "adj-な",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "33"
   },
   {
@@ -6927,7 +7113,19 @@
       "jlpt-n4",
       "songLib"
     ],
+    "optStrContext": "pronoun (代名詞)",
     "optSongLibFreq": 34
+  },
+  {
+    "Key": "君-くん",
+    "Furi": "君[くん]",
+    "Eng": "Mr/Ms/sir/madam",
+    "optTags": [
+      "pronoun",
+      "jlpt-n4",
+      "songLib"
+    ],
+    "optStrContext": "suffix (接尾辞)"
   },
   {
     "Key": "否めない-いなめない",
@@ -6986,7 +7184,8 @@
     "Furi": "呉[く]れる",
     "Eng": "to give (from someone to you)",
     "optTags": [
-      "verb-2"
+      "verb-2",
+      "jlpt-n4"
     ]
   },
   {
@@ -7148,6 +7347,19 @@
     "optSongLibFreq": 2
   },
   {
+    "Key": "喧嘩-けんか",
+    "Furi": "喧[けん]嘩[か]",
+    "Eng": "quarrel/brawl/fight",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-intransitive",
+      "jlpt-n4",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "喫茶店-きっさてん",
     "Furi": "喫[きっ]茶[さ]店[てん]",
     "Eng": "cafe/coffeehouse/tearoom",
@@ -7203,9 +7415,11 @@
   {
     "Key": "噛む-かむ",
     "Furi": "噛[か]む",
-    "Eng": "to chew/to bite",
+    "Eng": "to bite/to chew",
     "optTags": [
-      "verb-1"
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n4"
     ]
   },
   {
@@ -7422,6 +7636,15 @@
       "jlpt-n2"
     ],
     "optIkomaKanji": "15"
+  },
+  {
+    "Key": "国際-こくさい",
+    "Furi": "国[こく]際[さい]",
+    "Eng": "international",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
   },
   {
     "Key": "園-その",
@@ -7674,7 +7897,7 @@
     "optTags": [
       "verb-1",
       "verb-transitive",
-      "jlpt-n22"
+      "jlpt-n2"
     ],
     "optIkomaKanji": "44"
   },
@@ -7867,10 +8090,11 @@
   {
     "Key": "変わる-かわる",
     "Furi": "変[か]わる",
-    "Eng": "to be changed",
+    "Eng": "to be changed/to be altered",
     "optTags": [
       "verb-1",
       "verb-intransitive",
+      "jlpt-n4",
       "songLib"
     ],
     "optIkomaKanji": "44",
@@ -8412,12 +8636,20 @@
     "Key": "夫-おっと",
     "Furi": "夫[おっと]",
     "Eng": "husband (mine)",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "48"
   },
   {
     "Key": "夫妻-ふさい",
     "Furi": "夫[ふ]妻[さい]",
     "Eng": "husband and wife",
+    "optTags": [
+      "noun",
+      "jlpt-n2"
+    ],
     "optIkomaKanji": "48"
   },
   {
@@ -9000,6 +9232,15 @@
     "optIkomaKanji": "27"
   },
   {
+    "Key": "家内-かない",
+    "Furi": "家[か]内[ない]",
+    "Eng": "wife (honorific)",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
+  },
+  {
     "Key": "家庭-かてい",
     "Furi": "家[か]庭[てい]",
     "Eng": "home/household/family",
@@ -9238,6 +9479,10 @@
     "Key": "小鳥-ことり",
     "Furi": "小[こ]鳥[とり]",
     "Eng": "small bird",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "08"
   },
   {
@@ -9471,6 +9716,15 @@
     "optKanshudoFreq": 1
   },
   {
+    "Key": "工業-こうぎょう",
+    "Furi": "工[こう]業[ぎょう]",
+    "Eng": "industry (manufacturing)",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
+  },
+  {
     "Key": "左-ひだり",
     "Furi": "左[ひだり]",
     "Eng": "left",
@@ -9606,6 +9860,15 @@
       "songLib"
     ],
     "optSongLibFreq": 1
+  },
+  {
+    "Key": "帰り-かえり",
+    "Furi": "帰[かえ]り",
+    "Eng": "return/coming back",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
   },
   {
     "Key": "帰る-かえる",
@@ -10711,6 +10974,16 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "急-きゅう",
+    "Furi": "急[きゅう]",
+    "Eng": "urgent/sudden",
+    "optTags": [
+      "noun",
+      "adj-な",
+      "jlpt-n4"
+    ]
+  },
+  {
     "Key": "急いで-いそいで",
     "Furi": "急[いそ]いで",
     "Eng": "hurriedly",
@@ -10738,7 +11011,6 @@
     "Eng": "express train",
     "optTags": [
       "noun",
-      "verb-3",
       "jlpt-n4"
     ],
     "optIkomaKanji": "26"
@@ -11545,9 +11817,19 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "折る-おる",
+    "Furi": "折[お]る",
+    "Eng": "to break/to fold/to snap",
+    "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n4"
+    ]
+  },
+  {
     "Key": "折れる-おれる",
     "Furi": "折[お]れる",
-    "Eng": "to break/to snap (tree)",
+    "Eng": "to break/to be folded/to snap",
     "optTags": [
       "verb-2",
       "verb-intransitive",
@@ -11621,6 +11903,15 @@
     ],
     "optIkomaKanji": "45",
     "optSongLibFreq": 1
+  },
+  {
+    "Key": "押入れ-おしいれ",
+    "Furi": "押[おし]入[い]れ",
+    "Eng": "closet/wardrobe (built-in)",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
   },
   {
     "Key": "押印-おういん",
@@ -12189,6 +12480,17 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "故障-こしょう",
+    "Furi": "故[こ]障[しょう]",
+    "Eng": "fault/trouble/breakdown",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-intransitive",
+      "jlpt-n4"
+    ]
+  },
+  {
     "Key": "教える-おしえる",
     "Furi": "教[おし]える",
     "Eng": "to teach/to instruct",
@@ -12346,6 +12648,15 @@
       "jlpt-n5"
     ],
     "optIkomaKanji": "18"
+  },
+  {
+    "Key": "斯う-こう",
+    "Furi": "斯[こ]う",
+    "Eng": "like this",
+    "optTags": [
+      "adverb",
+      "jlpt-n4"
+    ]
   },
   {
     "Key": "新しい-あたらしい",
@@ -12966,6 +13277,10 @@
     "Key": "景色-けしき",
     "Furi": "景色[けしき]",
     "Eng": "scenery",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "27"
   },
   {
@@ -13708,6 +14023,15 @@
     "optIkomaKanji": "48"
   },
   {
+    "Key": "校長-こうちょう",
+    "Furi": "校[こう]長[ちょう]",
+    "Eng": "principal",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
+  },
+  {
     "Key": "案内する-あんないする",
     "Furi": "案[あん]内[ない]する",
     "Eng": "to guide",
@@ -13903,6 +14227,15 @@
       "jlpt-n5"
     ],
     "optIkomaKanji": "29"
+  },
+  {
+    "Key": "機会-きかい",
+    "Furi": "機[き]会[かい]",
+    "Eng": "chance/opportunity",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
   },
   {
     "Key": "機嫌-きげん",
@@ -14439,7 +14772,16 @@
     "optTags": [
       "verb-2",
       "verb-transitive",
-      "jlpt-n2"
+      "jlpt-n4"
+    ]
+  },
+  {
+    "Key": "毛-け",
+    "Furi": "毛[け]",
+    "Eng": "hair/fur",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
     ]
   },
   {
@@ -14508,6 +14850,15 @@
       "songLib"
     ],
     "optSongLibFreq": 1
+  },
+  {
+    "Key": "気分-きぶん",
+    "Furi": "気[き]分[ぶん]",
+    "Eng": "feeling/mood",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
   },
   {
     "Key": "気持ち-きもち",
@@ -14640,6 +14991,15 @@
     "optIkomaKanji": "29"
   },
   {
+    "Key": "決して-けっして",
+    "Furi": "決[けっ]して",
+    "Eng": "never",
+    "optTags": [
+      "adverb",
+      "jlpt-n4"
+    ]
+  },
+  {
     "Key": "決まる-きまる",
     "Furi": "決[き]まる",
     "Eng": "to be decided",
@@ -14675,6 +15035,15 @@
       "jlpt-n3"
     ],
     "optIkomaKanji": "29"
+  },
+  {
+    "Key": "汽車-きしゃ",
+    "Furi": "汽[き]車[しゃ]",
+    "Eng": "train (steam)",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
   },
   {
     "Key": "沢山-たくさん",
@@ -14853,6 +15222,15 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "泳ぎ方-およぎかた",
+    "Furi": "泳[およ]ぎ方[かた]",
+    "Eng": "way of swimming",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
+  },
+  {
     "Key": "泳ぐ-およぐ",
     "Furi": "泳[およ]ぐ",
     "Eng": "to swim",
@@ -14983,6 +15361,7 @@
     "Furi": "海[うみ]",
     "Eng": "sea/ocean",
     "optTags": [
+      "noun",
       "jlpt-n5",
       "songLib"
     ],
@@ -14992,13 +15371,21 @@
   {
     "Key": "海外-かいがい",
     "Furi": "海[かい]外[がい]",
-    "Eng": "overseas",
+    "Eng": "abroad/overseas",
+    "optTags": [
+      "noun",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "13"
   },
   {
     "Key": "海岸-かいがん",
     "Furi": "海[かい]岸[がん]",
-    "Eng": "beach",
+    "Eng": "beach/coast",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "38"
   },
   {
@@ -15031,6 +15418,15 @@
     ],
     "optIkomaKanji": "49",
     "optSongLibFreq": 5
+  },
+  {
+    "Key": "消しゴム-けしゴム",
+    "Furi": "消[け]しゴム",
+    "Eng": "eraser/rubber",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
   },
   {
     "Key": "消す-けす",
@@ -15313,6 +15709,15 @@
       "songLib"
     ],
     "optSongLibFreq": 1
+  },
+  {
+    "Key": "火事-かじ",
+    "Furi": "火[か]事[じ]",
+    "Eng": "fire (disaster)",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
   },
   {
     "Key": "火山-かざん",
@@ -15886,7 +16291,7 @@
   },
   {
     "Key": "特急-とっきゅう",
-    "Furi": "特急[とっきゅう]",
+    "Furi": "特[とっ]急[きゅう]",
     "Eng": "limited express",
     "optTags": [
       "noun",
@@ -16761,6 +17166,15 @@
     "optIkomaKanji": "42"
   },
   {
+    "Key": "看護師-かんごし",
+    "Furi": "看[かん]護[ご]師[し]",
+    "Eng": "nurse",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
+  },
+  {
     "Key": "真っ直ぐ-まっすぐ",
     "Furi": "真[ま]っ直[す]ぐ",
     "Eng": "straight ahead/direct",
@@ -16875,6 +17289,15 @@
     ],
     "optIkomaKanji": "18",
     "optSongLibFreq": 1
+  },
+  {
+    "Key": "着物-きもの",
+    "Furi": "着[き]物[もの]",
+    "Eng": "kimono (japanese traditional clothing)",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
   },
   {
     "Key": "睡眠-すいみん",
@@ -17018,6 +17441,15 @@
     "optIkomaKanji": "29"
   },
   {
+    "Key": "研究室-けんきゅうしつ",
+    "Furi": "研[けん]究[きゅう]室[しつ]",
+    "Eng": "research room",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
+  },
+  {
     "Key": "研究者-けんきゅうしゃ",
     "Furi": "研[けん]究[きゅう]者[しゃ]",
     "Eng": "researcher",
@@ -17044,6 +17476,17 @@
     "Eng": "glass/pane",
     "optTags": [
       "noun",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
+    "Key": "硬い-かたい",
+    "Furi": "硬[かた]い",
+    "Eng": "hard/solid",
+    "optTags": [
+      "adj-い",
+      "jlpt-n4",
       "songLib"
     ],
     "optSongLibFreq": 1
@@ -17133,7 +17576,11 @@
   {
     "Key": "神社-じんじゃ",
     "Furi": "神[じん]社[じゃ]",
-    "Eng": "shrine",
+    "Eng": "shrine (shinto)",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "02"
   },
   {
@@ -17142,7 +17589,7 @@
     "Eng": "festival/feast",
     "optTags": [
       "noun",
-      "jlpt-n3",
+      "jlpt-n4",
       "songLib"
     ],
     "optSongLibFreq": 1
@@ -17151,6 +17598,12 @@
     "Key": "禁止-きんし",
     "Furi": "禁[きん]止[し]",
     "Eng": "prohibition/ban",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-transitive",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "36"
   },
   {
@@ -17202,6 +17655,15 @@
       "songLib"
     ],
     "optSongLibFreq": 1
+  },
+  {
+    "Key": "科学-かがく",
+    "Furi": "科[か]学[がく]",
+    "Eng": "science",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
   },
   {
     "Key": "移る-うつる",
@@ -17293,6 +17755,10 @@
     "Key": "空港-くうこう",
     "Furi": "空[くう]港[こう]",
     "Eng": "airport",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "31"
   },
   {
@@ -17421,6 +17887,15 @@
       "songLib"
     ],
     "optSongLibFreq": 2
+  },
+  {
+    "Key": "競争-きょうそう",
+    "Furi": "競[きょう]争[そう]",
+    "Eng": "competition/contest/race",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
   },
   {
     "Key": "笑い-わらい",
@@ -17584,6 +18059,7 @@
     "Eng": "simple/easy/uncomplicated",
     "optTags": [
       "adj-な",
+      "jlpt-n4",
       "songLib"
     ],
     "optIkomaKanji": "27",
@@ -17771,7 +18247,11 @@
   {
     "Key": "細かい-こまかい",
     "Furi": "細[こま]かい",
-    "Eng": "small",
+    "Eng": "small/fine",
+    "optTags": [
+      "adj-い",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "45"
   },
   {
@@ -18159,6 +18639,15 @@
       "noun",
       "verb-3",
       "jlpt-n3"
+    ]
+  },
+  {
+    "Key": "絹-きぬ",
+    "Furi": "絹[きぬ]",
+    "Eng": "silk",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
     ]
   },
   {
@@ -19023,6 +19512,15 @@
     ]
   },
   {
+    "Key": "興味-きょうみ",
+    "Furi": "興[きょう]味[み]",
+    "Eng": "interest/curiosity",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
+  },
+  {
     "Key": "舐む-なむ",
     "Furi": "舐[な]む",
     "Eng": "to lick",
@@ -19399,6 +19897,15 @@
     "optIkomaKanji": "14"
   },
   {
+    "Key": "草-くさ",
+    "Furi": "草[くさ]",
+    "Eng": "grass/weed/herb",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
+  },
+  {
     "Key": "荒らす-あらす",
     "Furi": "荒[あ]らす",
     "Eng": "to damage/to invade/to lay waste",
@@ -19463,7 +19970,7 @@
   {
     "Key": "落とす-おとす",
     "Furi": "落[お]とす",
-    "Eng": "to drop/to lose",
+    "Eng": "to drop/to lose (something)",
     "optTags": [
       "verb-1",
       "verb-transitive",
@@ -19696,7 +20203,12 @@
   {
     "Key": "行う-おこなう",
     "Furi": "行[おこな]う",
-    "Eng": "to carry out",
+    "Eng": "to do/to perform/to carry out",
+    "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "02"
   },
   {
@@ -19786,7 +20298,11 @@
   {
     "Key": "表-おもて",
     "Furi": "表[おもて]",
-    "Eng": "surface",
+    "Eng": "front/surface",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "40"
   },
   {
@@ -20094,6 +20610,17 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "見物-けんぶつ",
+    "Furi": "見[けん]物[ぶつ]",
+    "Eng": "sightseeing",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-transitive",
+      "jlpt-n4"
+    ]
+  },
+  {
     "Key": "見覚え-みおぼえ",
     "Furi": "見[み]覚[おぼ]え",
     "Eng": "memory/remembrance/recognition",
@@ -20139,7 +20666,11 @@
   {
     "Key": "規則-きそく",
     "Furi": "規[き]則[そく]",
-    "Eng": "rule",
+    "Eng": "rule/regulation",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "34"
   },
   {
@@ -20207,12 +20738,20 @@
     "Key": "親-おや",
     "Furi": "親[おや]",
     "Eng": "parent",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "25"
   },
   {
     "Key": "親しい-したしい",
     "Furi": "親[した]しい",
     "Eng": "close/intimate",
+    "optTags": [
+      "adj-い",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "25"
   },
   {
@@ -20811,6 +21350,15 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "課長-かちょう",
+    "Furi": "課[か]長[ちょう]",
+    "Eng": "section chief/section manager",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
+  },
+  {
     "Key": "調べる-しらべる",
     "Furi": "調[しら]べる",
     "Eng": "to investigate",
@@ -20855,6 +21403,24 @@
     "optSongLibFreq": 4
   },
   {
+    "Key": "講堂-こうどう",
+    "Furi": "講[こう]堂[どう]",
+    "Eng": "auditorium",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
+  },
+  {
+    "Key": "講義-こうぎ",
+    "Furi": "講[こう]義[ぎ]",
+    "Eng": "lecture",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
+  },
+  {
     "Key": "謝る-あやまる",
     "Furi": "謝[あやま]る",
     "Eng": "to apologise/to decline",
@@ -20873,6 +21439,15 @@
       "jlpt-n5"
     ],
     "optKanshudoFreq": 1
+  },
+  {
+    "Key": "警察-けいさつ",
+    "Furi": "警[けい]察[さつ]",
+    "Eng": "police",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
   },
   {
     "Key": "警察犬-けいさつけん",
@@ -21137,6 +21712,11 @@
     "Key": "贈る-おくる",
     "Furi": "贈[おく]る",
     "Eng": "to give/to present",
+    "optTags": [
+      "verb-1",
+      "verb-transitive",
+      "jlpt-n3"
+    ],
     "optIkomaKanji": "20"
   },
   {
@@ -21191,7 +21771,10 @@
   {
     "Key": "赤飯-せきはん",
     "Furi": "赤[せき]飯[はん]",
-    "Eng": "steam rice with red beans",
+    "Eng": "red rice (for auspicious occasions)",
+    "optTags": [
+      "noun"
+    ],
     "optIkomaKanji": "08"
   },
   {
@@ -21465,6 +22048,8 @@
     "Eng": "to dance",
     "optTags": [
       "verb-1",
+      "verb-intransitive",
+      "jlpt-n4",
       "songLib"
     ],
     "optSongLibFreq": 4
@@ -21824,7 +22409,7 @@
   {
     "Key": "込む-こむ",
     "Furi": "込[こ]む",
-    "Eng": "be crowded",
+    "Eng": "to be crowded/to be packed",
     "optTags": [
       "verb-1",
       "verb-intransitive",
@@ -22910,6 +23495,15 @@
     "optSongLibFreq": 3
   },
   {
+    "Key": "郊外-こうがい",
+    "Furi": "郊[こう]外[がい]",
+    "Eng": "suburbs",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
+  },
+  {
     "Key": "部屋-へや",
     "Furi": "部[へ]屋[や]",
     "Eng": "room/chamber",
@@ -23257,6 +23851,15 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "鏡-かがみ",
+    "Furi": "鏡[かがみ]",
+    "Eng": "mirror",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
+  },
+  {
     "Key": "鐘の音-かねのおと",
     "Furi": "鐘[かね]の音[おと]",
     "Eng": "chimes/toll of a bell",
@@ -23516,6 +24119,7 @@
       "noun",
       "verb-3",
       "verb-intransitive",
+      "jlpt-n4",
       "songLib"
     ],
     "optIkomaKanji": "46",
@@ -24827,6 +25431,15 @@
     "optSongLibFreq": 3
   },
   {
+    "Key": "餅-もち",
+    "Furi": "餅[もち]",
+    "Eng": "mochi/rice cake",
+    "optTags": [
+      "noun",
+      "jlpt-n2"
+    ]
+  },
+  {
     "Key": "餓鬼-がき",
     "Furi": "餓[が]鬼[き]",
     "Eng": "brat/kid/little devil",
@@ -25099,7 +25712,20 @@
     "Key": "高校-こうこう",
     "Furi": "高[こう]校[こう]",
     "Eng": "high school",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ],
     "optIkomaKanji": "08"
+  },
+  {
+    "Key": "高校生-こうこうせい",
+    "Furi": "高[こう]校[こう]生[せい]",
+    "Eng": "high school student",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
   },
   {
     "Key": "高気圧-こうきあつ",
@@ -25110,6 +25736,15 @@
       "songLib"
     ],
     "optSongLibFreq": 1
+  },
+  {
+    "Key": "高等学校-こうとうがっこう",
+    "Furi": "高[こう]等[とう]学[がっ]校[こう]",
+    "Eng": "senior high school",
+    "optTags": [
+      "noun",
+      "jlpt-n4"
+    ]
   },
   {
     "Key": "高速-こうそく",
