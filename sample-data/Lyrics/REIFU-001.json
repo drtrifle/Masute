@@ -13,7 +13,7 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "この 月明[つきあか]りの 下[した] ひとり 知[し]れず",
+      "JpnStr": "この 月明[つきあか]りの 下[した] 一[ひと]人[り] 知[し]れず",
       "EngStr": "Under this moonlight, silently alone."
     },
     {
@@ -45,7 +45,7 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "この 月明[つきあか]りの 下[した] ひとり 知[し]れず",
+      "JpnStr": "この 月明[つきあか]りの 下[した] 一[ひと]人[り] 知[し]れず",
       "EngStr": "Under this moonlight, silently alone."
     },
     {
@@ -118,6 +118,7 @@
     }
   ],
   "ListVocab": [
+    "一人-ひとり",
     "下-した",
     "信じる-しんじる",
     "光-ひかり",

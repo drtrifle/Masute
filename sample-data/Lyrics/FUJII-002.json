@@ -33,7 +33,7 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "だんだん遠[とお]くなった貴方[あなた]へ",
+      "JpnStr": "段[だん]々[だん]遠[とお]くなった貴方[あなた]へ",
       "EngStr": "To the you who slowly grew distant"
     },
     {
@@ -41,7 +41,7 @@
       "EngStr": "(It's all, all, all my fault)"
     },
     {
-      "JpnStr": "だんだん離[はな]れてった貴方[あなた]へ",
+      "JpnStr": "段[だん]々[だん]離[はな]れてった貴方[あなた]へ",
       "EngStr": "To the you who slowly left me"
     },
     {
@@ -49,7 +49,7 @@
       "EngStr": "(No point in blaming anyone)"
     },
     {
-      "JpnStr": "だんだんバカになったこのおれ",
+      "JpnStr": "段[だん]々[だん]バカになったこのおれ",
       "EngStr": "I slowly became a fool"
     },
     {
@@ -105,7 +105,7 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "だんだん好[す]きになった貴方[あなた]へ",
+      "JpnStr": "段[だん]々[だん]好[す]きになった貴方[あなた]へ",
       "EngStr": "To the you I slowly fell in love with"
     },
     {
@@ -113,7 +113,7 @@
       "EngStr": "(Who's to blame for this strange feeling?)"
     },
     {
-      "JpnStr": "だんだん赤[あか]くなった青[あお]さへ",
+      "JpnStr": "段[だん]々[だん]赤[あか]くなった青[あお]さへ",
       "EngStr": "To the blue that slowly turned red"
     },
     {
@@ -121,7 +121,7 @@
       "EngStr": "(No point in blaming anyone)"
     },
     {
-      "JpnStr": "だんだんアホになったこのおれ",
+      "JpnStr": "段[だん]々[だん]アホになったこのおれ",
       "EngStr": "I slowly became a fool"
     },
     {
@@ -197,7 +197,7 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "だんだん近[ちか]くなった私[わたし]へ",
+      "JpnStr": "段[だん]々[だん]近[ちか]くなった私[わたし]へ",
       "EngStr": "To the me who slowly came closer"
     },
     {
@@ -252,6 +252,7 @@
     "捨てる-すてる",
     "明日-あした",
     "期待-きたい",
+    "段々-だんだん",
     "流す-ながす",
     "私-わたし",
     "終わる-おわる",

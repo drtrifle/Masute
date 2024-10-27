@@ -133,7 +133,7 @@
       "EngStr": "I made you suffer by calling you cool."
     },
     {
-      "JpnStr": "ひとりぼっちにさせたのは",
+      "JpnStr": "一[ひと]人[り]ぼっちにさせたのは",
       "EngStr": "Leaving you all alone."
     },
     {
@@ -195,6 +195,7 @@
   ],
   "ListVocab": [
     "ヒーロー-ひーろー",
+    "一人ぼっち-ひとりぼっち",
     "今-いま",
     "信じる-しんじる",
     "僕-ぼく",

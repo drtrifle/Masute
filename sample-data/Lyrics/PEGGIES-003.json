@@ -149,7 +149,7 @@
         "EngStr": "I want to say 'I need you,' right now."
       },
       {
-        "JpnStr": "ひとりきりの 夜[よる]と ずっと ここで 待[ま]っていたんだよ",
+        "JpnStr": "一[ひと]人[り]きりの 夜[よる]と ずっと ここで 待[ま]っていたんだよ",
         "EngStr": "I've been waiting here for you, all alone at night."
       },
       {
@@ -190,6 +190,7 @@
       }
     ],
     "ListVocab": [
+      "一人-ひとり",
       "予防線-よぼうせん",
       "傷-きず",
       "制服-せいふく",

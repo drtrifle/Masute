@@ -97,7 +97,7 @@
       "EngStr": "I don't know if it's a lie or the truth"
     },
     {
-      "JpnStr": "そんな言葉[ことば]にまた一人[ひとり]堕[お]ちる",
+      "JpnStr": "そんな言葉[ことば]にまた一[ひと]人[り]堕[お]ちる",
       "EngStr": "With those words, another person falls for you"
     },
     {
@@ -322,6 +322,7 @@
     }
   ],
   "ListVocab": [
+    "一人-ひとり",
     "一番星-いちばんぼし",
     "今日-きょう",
     "信じる-しんじる",
