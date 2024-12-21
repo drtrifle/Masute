@@ -7,6 +7,13 @@
     "ArtistNameEng": "Ado"
   },
   {
+    "SongID": "ADO-002",
+    "SongURL": "https://www.youtube.com/embed/0Y8e0LJf0i0",
+    "SongNameEng": "Rebellion",
+    "SongNameJpn": "リベリオン",
+    "ArtistNameEng": "Ado"
+  },
+  {
     "SongID": "AIMYON-001",
     "SongURL": "https://www.youtube.com/embed/yOAwvRmVIyo",
     "SongNameEng": "Naked Heart",
@@ -18,6 +25,14 @@
     "SongID": "AIMYON-002",
     "SongURL": "https://www.youtube.com/embed/9qRCARM_LfE",
     "SongNameJpn": "愛[あい]を伝[つた]えたいだとか",
+    "ArtistNameEng": "Aimyon",
+    "ArtistNameJpn": "あいみょん"
+  },
+  {
+    "SongID": "AIMYON-003",
+    "SongURL": "https://www.youtube.com/embed/0xSiBpUdW4E",
+    "SongNameEng": "Marigold",
+    "SongNameJpn": "マリーゴールド",
     "ArtistNameEng": "Aimyon",
     "ArtistNameJpn": "あいみょん"
   },
@@ -139,7 +154,7 @@
   {
     "SongID": "HITSUJI-002",
     "SongURL": "https://www.youtube.com/embed/qknDI1k39Ic",
-    "SongNameJpn": "光るとき",
+    "SongNameJpn": "光[ひか]るとき",
     "ArtistNameEng": "Hitsujibungaku",
     "ArtistNameJpn": "羊文学[ひつじぶんがく]"
   },
@@ -325,7 +340,7 @@
     "SongID": "PEGGIES-003",
     "SongURL": "https://www.youtube.com/embed/KbT3JsJmd14",
     "SongNameEng": "Kiminosei",
-    "SongNameJpn": "君のせい",
+    "SongNameJpn": "君[きみ]のせい",
     "ArtistNameEng": "the peggies",
     "Tags": ["rock"]
   },
@@ -478,8 +493,15 @@
     "Tags": ["pop"]
   },
   {
+    "SongID": "YOKO-001",
+    "SongURL": "https://www.youtube.com/embed/o6wtDPVkKqI",
+    "SongNameEng": "The Cruel Angel's Thesis",
+    "SongNameJpn": "残[ざん]酷[こく]な天[てん]使[し]のテーゼ",
+    "ArtistNameEng": "Yoko Takahashi",
+    "ArtistNameJpn": "高橋洋子[たかはしようこ]"
+  },
+  {
     "SongID": "YONE-001",
-    
     "SongURL": "https://www.youtube.com/embed/L_pRTyuZ9fk",
     "SongNameEng": "Shinigami",
     "SongNameJpn": "死[しに]神[がみ]",
