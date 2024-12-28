@@ -166,6 +166,12 @@
     "ArtistNameJpn": "羊文学[ひつじぶんがく]"
   },
   {
+    "SongID": "IMAGINE-001",
+    "SongURL": "https://www.youtube.com/embed/5Duje_sZko8",
+    "SongNameEng": "Take Me To The Beach",
+    "ArtistNameEng": "Imagine Dragons ft. Ado"
+  },
+  {
     "SongID": "KANA-001",
     "SongURL": "https://www.youtube.com/embed/dlFA0Zq1k2A",
     "SongNameEng": "Silhouette",
