@@ -504,7 +504,8 @@
     "SongNameEng": "The Cruel Angel's Thesis",
     "SongNameJpn": "残[ざん]酷[こく]な天[てん]使[し]のテーゼ",
     "ArtistNameEng": "Yoko Takahashi",
-    "ArtistNameJpn": "高橋洋子[たかはしようこ]"
+    "ArtistNameJpn": "高橋洋子[たかはしようこ]",
+    "Tags": ["anime"]
   },
   {
     "SongID": "YONE-001",
