@@ -1,0 +1,41 @@
+[
+    {
+        "Furi": "私[わたし]の犬[いぬ]は大[おお]きくて、可[か]愛[わい]いです。",
+        "Eng": "My dog is big and cute.",
+        "Grammar": "～て form",
+        "Explanation": "Used to connect adjectives or verbs in a sentence.",
+        "optTags": [
+            "jlpt-n5",
+            "descriptive-sentences",
+            "adjective-connection",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "田中[たなか]さんは昨日[きのう]、学校[がっこう]に行[い]きませんでした。",
+        "Eng": "Tanaka didn't go to school yesterday.",
+        "Grammar": "～ませんでした",
+        "Explanation": "Negative past tense polite form.",
+        "optTags": [
+            "jlpt-n5",
+            "verb-forms",
+            "negative-form",
+            "past-tense",
+            "daily-life"
+        ]
+    },
+    {
+        "Furi": "部屋[へや]に猫[ねこ]がいます。",
+        "Eng": "There is a cat in the room.",
+        "Grammar": "～に + がいる/がある",
+        "Explanation": "Indicates the existence of something or someone.",
+        "optTags": [
+            "jlpt-n5",
+            "existence",
+            "noun-related",
+            "daily-life",
+            "place-indicator"
+        ]
+    }
+]
+  

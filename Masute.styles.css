@@ -211,6 +211,38 @@ and (min-width : 768px) {
     align-items: center;
     justify-content: center;
 }
+/* /Shared/CardJSentence.razor.rz.scp.css */
+.sentence-block[b-lda2go8gti] {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.sound-btn[b-lda2go8gti] {
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.hidden-text[b-lda2go8gti] {
+    margin-top: 8px;
+    padding: 10px;
+    border: 1px solid gray;
+    width: 100%;
+    text-align: center;
+    cursor: pointer;
+    background: #f4f4f4;
+    border-radius: 5px;
+}
+
+.hidden-box[b-lda2go8gti] {
+    color: gray;
+    font-style: italic;
+    display: block;
+    width: 100%;
+}
 /* /Shared/MainLayout.razor.rz.scp.css */
 .mudblazor-main-content[b-352iyf90c3] {
     padding-top:86px;

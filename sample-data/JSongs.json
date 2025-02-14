@@ -201,6 +201,14 @@
     "ArtistNameJpn": "桐谷[きりたに] 健太[けんた]"
   },
   {
+    "SongID": "KENTO-001",
+    "SongURL": "https://www.youtube.com/embed/jzi6RNVEOtA",
+    "SongNameEng": "Hai Yorokonde",
+    "SongNameJpn": "はいよろこんで",
+    "ArtistNameEng": "Kocchi no Kento",
+    "ArtistNameJpn": "こっちのけんと"
+  },
+  {
     "SongID": "KESSOKU-001",
     "SongURL": "https://www.youtube.com/embed/B7BxrAAXl94",
     "SongNameEng": "Guitar, Loneliness and Blue Planet",
