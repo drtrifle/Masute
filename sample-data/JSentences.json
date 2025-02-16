@@ -1,6 +1,90 @@
 [
     {
-        "Furi": "私[わたし]の犬[いぬ]は大[おお]きくて、可[か]愛[わい]いです。",
+        "Furi": "私[わたし]は 学生[がくせい]です。",
+        "Eng": "I am a student.",
+        "Grammar": "は (topic marker)",
+        "Explanation": "Indicates the topic of the sentence, showing what or whom the sentence is about.",
+        "optTags": [
+            "jlpt-n5",
+            "topic-marker",
+            "basic-sentences",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "犬[いぬ]が 公園[こうえん]で 遊[あそ]んでいます。",
+        "Eng": "A dog is playing in the park.",
+        "Grammar": "が (subject marker)",
+        "Explanation": "Marks the subject performing the action, often used to emphasize the doer.",
+        "optTags": [
+            "jlpt-n5",
+            "subject-marker",
+            "action",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "本[ほん]を 読[よ]みます。",
+        "Eng": "I read a book.",
+        "Grammar": "を (object marker)",
+        "Explanation": "Indicates the direct object of the verb, showing what is being acted upon.",
+        "optTags": [
+            "jlpt-n5",
+            "object-marker",
+            "verb-object",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "朝[あさ]に 起[お]きます。",
+        "Eng": "I wake up in the morning.",
+        "Grammar": "に (time marker)",
+        "Explanation": "Specifies the time when an action occurs.",
+        "optTags": [
+            "jlpt-n5",
+            "time-marker",
+            "daily-life",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "バスで 学校[がっこう]に 行[い]きます。",
+        "Eng": "I go to school by bus.",
+        "Grammar": "で (means particle)",
+        "Explanation": "Indicates the means or method by which an action is performed.",
+        "optTags": [
+            "jlpt-n5",
+            "means",
+            "transportation",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "駅[えき]へ 行[い]きます。",
+        "Eng": "I go to the station.",
+        "Grammar": "へ (direction marker)",
+        "Explanation": "Shows the direction or destination of an action.",
+        "optTags": [
+            "jlpt-n5",
+            "direction-marker",
+            "movement",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "私[わたし]の 本[ほん]です。",
+        "Eng": "It's my book.",
+        "Grammar": "の (possessive marker)",
+        "Explanation": "Indicates possession, linking nouns to show ownership or relation.",
+        "optTags": [
+            "jlpt-n5",
+            "possessive",
+            "basic-sentences",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "私[わたし]の 犬[いぬ]は 大[おお]きくて、可[か]愛[あい]いです。",
         "Eng": "My dog is big and cute.",
         "Grammar": "～て form",
         "Explanation": "Used to connect adjectives or verbs in a sentence.",
@@ -12,29 +96,497 @@
         ]
     },
     {
-        "Furi": "田中[たなか]さんは昨日[きのう]、学校[がっこう]に行[い]きませんでした。",
-        "Eng": "Tanaka didn't go to school yesterday.",
+        "Furi": "田[た]中[なか]さんは 昨日[きのう]、学[がく]校[こう]に 行[い]きませんでした。",
+        "Eng": "Tanaka-san did not go to school yesterday.",
         "Grammar": "～ませんでした",
-        "Explanation": "Negative past tense polite form.",
+        "Explanation": "Negative past tense polite form, used to indicate that an action was not done.",
         "optTags": [
             "jlpt-n5",
-            "verb-forms",
-            "negative-form",
+            "negative-sentences",
             "past-tense",
-            "daily-life"
+            "polite-speech"
         ]
     },
     {
-        "Furi": "部屋[へや]に猫[ねこ]がいます。",
+        "Furi": "部[へ]屋[や]に 猫[ねこ]が います。",
         "Eng": "There is a cat in the room.",
-        "Grammar": "～に + がいる/がある",
-        "Explanation": "Indicates the existence of something or someone.",
+        "Grammar": "～に + いる/ある",
+        "Explanation": "Indicates the existence of something or someone in a specific location.",
         "optTags": [
             "jlpt-n5",
             "existence",
-            "noun-related",
+            "location",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "私[わたし]は 映[えい]画[が]を 見[み]るのが 好[す]きです。",
+        "Eng": "I like watching movies.",
+        "Grammar": "～のが好き",
+        "Explanation": "Expresses liking for doing an activity by nominalizing the verb with の.",
+        "optTags": [
+            "jlpt-n5",
+            "preferences",
+            "activity",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "この 本[ほん]は 面[おも]白[しろ]くないです。",
+        "Eng": "This book is not interesting.",
+        "Grammar": "～くない",
+        "Explanation": "The negative form of an い-adjective, used to describe the absence of a quality.",
+        "optTags": [
+            "jlpt-n5",
+            "negative-sentences",
+            "adjective-negation",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "友[とも]達[だち]と 一[いっ]緒[しょ]に 遊[あそ]びます。",
+        "Eng": "I will play with my friends.",
+        "Grammar": "～と一緒に",
+        "Explanation": "Indicates doing something together with someone else.",
+        "optTags": [
+            "jlpt-n5",
+            "companionship",
+            "activity",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "毎[まい]日[にち]、朝[あさ]ご 飯[はん]を 食[た]べます。",
+        "Eng": "I eat breakfast every day.",
+        "Grammar": "毎日",
+        "Explanation": "Indicates a habitual action, meaning 'every day'.",
+        "optTags": [
+            "jlpt-n5",
+            "habitual-action",
             "daily-life",
-            "place-indicator"
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "学[がく]校[こう]まで 歩[ある]いて 行[い]きます。",
+        "Eng": "I walk to school.",
+        "Grammar": "～まで",
+        "Explanation": "Indicates the destination or endpoint of an action.",
+        "optTags": [
+            "jlpt-n5",
+            "direction",
+            "movement",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "テーブルの 上[うえ]に ペンがあります。",
+        "Eng": "There is a pen on the table.",
+        "Grammar": "～の上",
+        "Explanation": "Indicates the location of an object relative to another.",
+        "optTags": [
+            "jlpt-n5",
+            "location",
+            "object-placement",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "図[と]書[しょ]館[かん]で 本[ほん]を 読[よ]みました。",
+        "Eng": "I read a book at the library.",
+        "Grammar": "～で",
+        "Explanation": "Indicates the place where an action takes place, used here in the past tense.",
+        "optTags": [
+            "jlpt-n5",
+            "location",
+            "past-tense",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "兄[あに]は 学生[がくせい]です。",
+        "Eng": "My older brother is a student.",
+        "Grammar": "です (copula)",
+        "Explanation": "Used to state identity or condition in a polite form.",
+        "optTags": [
+            "jlpt-n5",
+            "basic-sentences",
+            "copula",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "図書館[としょかん]で 勉強[べんきょう]します。",
+        "Eng": "I study at the library.",
+        "Grammar": "で (location particle)",
+        "Explanation": "Indicates the place where an action occurs.",
+        "optTags": [
+            "jlpt-n5",
+            "location",
+            "present-tense",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "昨日[きのう]は 雨[あめ]が 降[ふ]りました。",
+        "Eng": "It rained yesterday.",
+        "Grammar": "～ました (past tense)",
+        "Explanation": "Past tense polite form used to indicate a completed action.",
+        "optTags": [
+            "jlpt-n5",
+            "past-tense",
+            "weather",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "朝[あさ]に 散歩[さんぽ]を します。",
+        "Eng": "I take a walk in the morning.",
+        "Grammar": "に (time particle)",
+        "Explanation": "Indicates the time when an action takes place.",
+        "optTags": [
+            "jlpt-n5",
+            "time",
+            "present-tense",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "彼女[かのじょ]は 毎朝[まいあさ] コーヒーを 飲[の]みます。",
+        "Eng": "She drinks coffee every morning.",
+        "Grammar": "毎朝 (habitual time expression)",
+        "Explanation": "Indicates a habitual action occurring every morning.",
+        "optTags": [
+            "jlpt-n5",
+            "habitual-action",
+            "present-tense",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "父[ちち]は 車[くるま]を 運転[うんてん]します。",
+        "Eng": "My father drives a car.",
+        "Grammar": "を (object particle)",
+        "Explanation": "Marks the object of an action.",
+        "optTags": [
+            "jlpt-n5",
+            "object-particle",
+            "present-tense",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "弟[おとうと]は まだ 学校[がっこう]に 行[い]っていません。",
+        "Eng": "My younger brother hasn't gone to school yet.",
+        "Grammar": "～っていません (negative present perfect)",
+        "Explanation": "Indicates an action that has not yet been completed in a polite negative form.",
+        "optTags": [
+            "jlpt-n5",
+            "negative-form",
+            "present-perfect",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "週末[しゅうまつ]に 友達[ともだち]と 遊[あそ]びます。",
+        "Eng": "I hang out with my friends on the weekend.",
+        "Grammar": "に (time) & と (together with)",
+        "Explanation": "Indicates the time of an action and the companion with whom the action is performed.",
+        "optTags": [
+            "jlpt-n5",
+            "time",
+            "companionship",
+            "present-tense",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "部屋[へや]の 電気[でんき]を 消[け]して下さい[ください]。",
+        "Eng": "Please turn off the light in the room.",
+        "Grammar": "～して下さい (request)",
+        "Explanation": "Used to make a polite request to perform an action.",
+        "optTags": [
+            "jlpt-n5",
+            "request",
+            "imperative",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "猫[ねこ]は 窓[まど]から 外[そと]を 見[み]ています。",
+        "Eng": "The cat is looking outside from the window.",
+        "Grammar": "～ています (present continuous)",
+        "Explanation": "Indicates an ongoing action in a polite form.",
+        "optTags": [
+            "jlpt-n5",
+            "present-continuous",
+            "location",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "彼[かれ]は 毎日[まいにち] バスで 学校[がっこう]に 行[い]きます。",
+        "Eng": "He goes to school by bus every day.",
+        "Grammar": "で (means/method particle)",
+        "Explanation": "Indicates the means or method by which an action is performed.",
+        "optTags": [
+            "jlpt-n5",
+            "transportation",
+            "daily-life",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "私たちは 昼[ひる]ご 飯[はん]を 一緒[いっしょ]に 食[た]べます。",
+        "Eng": "We eat lunch together.",
+        "Grammar": "一緒に (together)",
+        "Explanation": "Indicates performing an action together with others.",
+        "optTags": [
+            "jlpt-n5",
+            "companionship",
+            "daily-life",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "この レストランは 美味[おい]しいです。",
+        "Eng": "This restaurant is delicious.",
+        "Grammar": "です (copula)",
+        "Explanation": "Used to state a condition or quality in a polite form.",
+        "optTags": [
+            "jlpt-n5",
+            "descriptive-sentences",
+            "adjectives",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "友達[ともだち]の 家[いえ]で パーティーを しました。",
+        "Eng": "I had a party at my friend's house.",
+        "Grammar": "の (possessive) & で (location)",
+        "Explanation": "Shows possession and indicates the location where an action occurs.",
+        "optTags": [
+            "jlpt-n5",
+            "possession",
+            "location",
+            "past-tense",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "母[はは]は 毎晩[まいばん] テレビを 見[み]ます。",
+        "Eng": "My mother watches TV every night.",
+        "Grammar": "毎晩 (every night)",
+        "Explanation": "Expresses a habitual action that occurs every night.",
+        "optTags": [
+            "jlpt-n5",
+            "habitual-action",
+            "daily-life",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "僕[ぼく]は 日本語[にほんご]を 勉強[べんきょう]します。",
+        "Eng": "I study Japanese.",
+        "Grammar": "を (object particle)",
+        "Explanation": "Marks the direct object of the verb.",
+        "optTags": [
+            "jlpt-n5",
+            "object-particle",
+            "daily-life",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "あそこに 大[おお]きな 木[き]が あります。",
+        "Eng": "There is a big tree over there.",
+        "Grammar": "大きな (adjective form modifying a noun)",
+        "Explanation": "Used to modify a noun, indicating size or quality.",
+        "optTags": [
+            "jlpt-n5",
+            "descriptive-sentences",
+            "adjective-modification",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "兄[あに]は 毎朝[まいあさ] ジョギングを します。",
+        "Eng": "My older brother jogs every morning.",
+        "Grammar": "毎朝 (every morning)",
+        "Explanation": "Indicates a habitual action taking place every morning.",
+        "optTags": [
+            "jlpt-n5",
+            "habitual-action",
+            "daily-life",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "明日[あした]、 雨[あめ]が 降[ふ]りそうです。",
+        "Eng": "It looks like it will rain tomorrow.",
+        "Grammar": "～そうです (appearance/prediction)",
+        "Explanation": "Expresses that something appears likely to happen based on visual clues or context.",
+        "optTags": [
+            "jlpt-n4",
+            "appearance",
+            "prediction",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "この レストランは 静[しず]かで、 料理[りょうり]が おいしいです。",
+        "Eng": "This restaurant is quiet and the food is delicious.",
+        "Grammar": "～で (conjunctive form for adjectives)",
+        "Explanation": "Connects two adjectives or clauses to describe multiple qualities.",
+        "optTags": [
+            "jlpt-n4",
+            "descriptive-sentences",
+            "adjective-connection",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "日本語[にほんご]を 勉強[べんきょう]した ほうが いいです。",
+        "Eng": "You should study Japanese.",
+        "Grammar": "～たほうがいい (giving advice)",
+        "Explanation": "Used to suggest that it is better to do something.",
+        "optTags": [
+            "jlpt-n4",
+            "advice",
+            "verb-forms",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "駅[えき]まで 歩[ある]いたら、 タクシーに 乗[の]ったほうが いいです。",
+        "Eng": "If you walk to the station, you should take a taxi.",
+        "Grammar": "～たらほうがいい (conditional advice)",
+        "Explanation": "Gives conditional advice; if the condition is met, a recommended action should follow.",
+        "optTags": [
+            "jlpt-n4",
+            "conditional",
+            "advice",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "寿司[すし]を 食[た]べたいです。",
+        "Eng": "I want to eat sushi.",
+        "Grammar": "～たい form",
+        "Explanation": "Expresses the speaker's desire to perform an action.",
+        "optTags": [
+            "jlpt-n5",
+            "desire",
+            "verb-conjugation",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "東京[とうきょう]に 行[い]ったことがあります。",
+        "Eng": "I have been to Tokyo.",
+        "Grammar": "～たことがある",
+        "Explanation": "Used to express an experience of having done something in the past.",
+        "optTags": [
+            "jlpt-n4",
+            "experience",
+            "past-experience",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "日本語[にほんご]を 勉強[べんきょう]しなければなりません。",
+        "Eng": "I must study Japanese.",
+        "Grammar": "～なければならない",
+        "Explanation": "Indicates obligation or necessity in a polite form.",
+        "optTags": [
+            "jlpt-n4",
+            "obligation",
+            "necessity",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "ここに 座[すわ]ってもいいです。",
+        "Eng": "You may sit here.",
+        "Grammar": "～てもいい",
+        "Explanation": "Used to give permission for an action.",
+        "optTags": [
+            "jlpt-n5",
+            "permission",
+            "verb-conjugation",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "明日[あした]、 雪[ゆき]が 降[ふ]るかもしれません。",
+        "Eng": "It might snow tomorrow.",
+        "Grammar": "～かもしれない",
+        "Explanation": "Expresses possibility or uncertainty about an action.",
+        "optTags": [
+            "jlpt-n4",
+            "possibility",
+            "uncertainty",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "今日[きょう]は 忙[いそが]しいんです。",
+        "Eng": "I'm busy today.",
+        "Grammar": "～んです",
+        "Explanation": "Provides an explanation or reason behind a situation.",
+        "optTags": [
+            "jlpt-n4",
+            "explanation",
+            "casual-explanation",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "今[いま]、 家[いえ]に 帰[かえ]ろうと思います。",
+        "Eng": "I think I'll go home now.",
+        "Grammar": "～ようと思う",
+        "Explanation": "Expresses the speaker's intention or decision to perform an action.",
+        "optTags": [
+            "jlpt-n4",
+            "intention",
+            "decision",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "週末[しゅうまつ]は 映[えい]画[が]を 見[み]たり、本[ほん]を 読[よ]んだりします。",
+        "Eng": "On weekends, I watch movies and read books.",
+        "Grammar": "～たり～たりする",
+        "Explanation": "Lists multiple actions as examples among others.",
+        "optTags": [
+            "jlpt-n4",
+            "listing-examples",
+            "multiple-actions",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "この 本[ほん]は 読[よ]みにくいです。",
+        "Eng": "This book is hard to read.",
+        "Grammar": "〜にくい",
+        "Explanation": "Describes an action that is difficult to do.",
+        "optTags": [
+            "jlpt-n4",
+            "difficulty",
+            "adjective",
+            "polite-speech"
+        ]
+    },
+    {
+        "Furi": "この ペンは 持[も]ちやすいです。",
+        "Eng": "This pen is easy to hold.",
+        "Grammar": "〜やすい",
+        "Explanation": "Describes an action that is easy to perform.",
+        "optTags": [
+            "jlpt-n4",
+            "ease",
+            "adjective",
+            "polite-speech"
         ]
     }
 ]
