@@ -658,6 +658,16 @@
     ]
   },
   {
+    "Key": "ぎゅっと-ぎゅっと",
+    "Furi": "ぎゅっと",
+    "Eng": "firmly/tightly",
+    "optTags": [
+      "adverb",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "ギュっと-ギュっと",
     "Furi": "ギュっと",
     "Eng": "tightly",
@@ -2168,7 +2178,7 @@
       "adverb",
       "songLib"
     ],
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "一生懸命-いっしょうけんめい",
@@ -2193,7 +2203,7 @@
       "songLib"
     ],
     "optIkomaKanji": "33",
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "一番星-いちばんぼし",
@@ -6028,7 +6038,7 @@
       "verb-intransitive",
       "songLib"
     ],
-    "optSongLibFreq": 5
+    "optSongLibFreq": 6
   },
   {
     "Key": "出来レース-できレース",
@@ -7714,7 +7724,7 @@
       "songLib"
     ],
     "optStrContext": "pronoun (代名詞)",
-    "optSongLibFreq": 35
+    "optSongLibFreq": 36
   },
   {
     "Key": "君-くん",
@@ -7985,8 +7995,10 @@
     "optTags": [
       "verb-1",
       "verb-intransitive",
-      "jlpt-n4"
-    ]
+      "jlpt-n4",
+      "songLib"
+    ],
+    "optSongLibFreq": 1
   },
   {
     "Key": "喧嘩-けんか",
@@ -9387,7 +9399,7 @@
       "verb-transitive",
       "songLib"
     ],
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "奥-おく",
@@ -9622,7 +9634,7 @@
       "jlpt-n5",
       "songLib"
     ],
-    "optSongLibFreq": 3
+    "optSongLibFreq": 4
   },
   {
     "Key": "嫌い-きらい",
@@ -10624,7 +10636,7 @@
       "verb-transitive",
       "songLib"
     ],
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "差し引き-さしひき",
@@ -11567,7 +11579,7 @@
       "jlpt-n5",
       "songLib"
     ],
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "後で-あとで",
@@ -11921,7 +11933,7 @@
       "songLib"
     ],
     "optIkomaKanji": "13",
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "思い込む-おもいこむ",
@@ -15196,6 +15208,14 @@
     "optIkomaKanji": "24"
   },
   {
+    "Key": "林檎-りんご",
+    "Furi": "林[りん]檎[ご]",
+    "Eng": "apple (fruit)",
+    "optTags": [
+      "noun"
+    ]
+  },
+  {
     "Key": "果て-はて",
     "Furi": "果[は]て",
     "Eng": "the end/the limit",
@@ -15575,7 +15595,7 @@
       "jlpt-n3",
       "songLib"
     ],
-    "optSongLibFreq": 1
+    "optSongLibFreq": 2
   },
   {
     "Key": "次-つぎ",
@@ -18288,7 +18308,7 @@
       "songLib"
     ],
     "optIkomaKanji": "07",
-    "optSongLibFreq": 4
+    "optSongLibFreq": 5
   },
   {
     "Key": "町並み-まちなみ",
@@ -19327,9 +19347,21 @@
     "optIkomaKanji": "36"
   },
   {
+    "Key": "私-あたし",
+    "Furi": "私[あたし]",
+    "Eng": "I/me (female)",
+    "optTags": [
+      "pronoun",
+      "jlpt-n5",
+      "songLib"
+    ],
+    "optStrContext": "female",
+    "optSongLibFreq": 1
+  },
+  {
     "Key": "私-わたくし",
     "Furi": "私[わたくし]",
-    "Eng": "I (formal)",
+    "Eng": "I/me (formal)",
     "optIkomaKanji": "49",
     "optStrContext": "formal"
   },
@@ -24014,7 +24046,7 @@
       "verb-intransitive",
       "songLib"
     ],
-    "optSongLibFreq": 3
+    "optSongLibFreq": 4
   },
   {
     "Key": "踏み込む-ふみこむ",
@@ -26321,7 +26353,7 @@
       "jlpt-n3",
       "songLib"
     ],
-    "optSongLibFreq": 3
+    "optSongLibFreq": 4
   },
   {
     "Key": "隠れる-かくれる",
@@ -28029,7 +28061,7 @@
       "jlpt-n2",
       "songLib"
     ],
-    "optSongLibFreq": 2
+    "optSongLibFreq": 3
   },
   {
     "Key": "鳴り-なり",

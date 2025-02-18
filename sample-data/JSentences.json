@@ -1,86 +1,560 @@
 [
     {
-        "Furi": "私[わたし]は 学生[がくせい]です。",
-        "Eng": "I am a student.",
-        "Grammar": "は (topic marker)",
-        "Explanation": "Indicates the topic of the sentence, showing what or whom the sentence is about.",
-        "optTags": [
-            "jlpt-n5",
-            "topic-marker",
-            "basic-sentences",
-            "polite-speech"
+        "Title": "Particles",
+        "Sentences" :[
+            {
+                "Title": "は particle",
+                "Sentences" :[
+                    {
+                        "Furi": "私[わたし]は 学生[がくせい]です。",
+                        "Eng": "I am a student.",
+                        "Grammar": "は (topic marker)",
+                        "Explanation": "Indicates the topic of the sentence, showing what or whom the sentence is about.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "topic-marker",
+                            "basic-sentences",
+                            "polite-speech"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Title": "が particle)",
+                "Sentences" :[
+                    {
+                        "Furi": "犬[いぬ]が 公園[こうえん]で 遊[あそ]んでいます。",
+                        "Eng": "A dog is playing in the park.",
+                        "Grammar": "が (subject marker)",
+                        "Explanation": "Marks the subject performing the action, often used to emphasize the doer.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "subject-marker",
+                            "action",
+                            "polite-speech"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Title": "を particle",
+                "Sentences" :[
+                    {
+                        "Furi": "本[ほん]を 読[よ]みます。",
+                        "Eng": "I will read a book.",
+                        "Grammar": "を (object particle)",
+                        "Explanation": "Indicates the direct object of the verb, showing what is being acted upon.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "object-particle",
+                            "verb-object",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Furi": "父[ちち]は 車[くるま]を 運転[うんてん]します。",
+                        "Eng": "My father drives a car.",
+                        "Grammar": "を (object particle)",
+                        "Explanation": "Marks the object of an action.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "object-particle",
+                            "present-tense",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Furi": "僕[ぼく]は 日本語[にほんご]を 勉強[べんきょう]します。",
+                        "Eng": "I study Japanese.",
+                        "Grammar": "を (object particle)",
+                        "Explanation": "Marks the direct object of the verb.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "object-particle",
+                            "daily-life",
+                            "polite-speech"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Title": "に particle",
+                "Sentences" :[
+                    {
+                        "Furi": "朝[あさ]に 起[お]きます。",
+                        "Eng": "I wake up in the morning.",
+                        "Grammar": "に (time particle)",
+                        "Explanation": "Specifies the time when an action occurs.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "time-particle",
+                            "daily-life",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Furi": "朝[あさ]に 散歩[さんぽ]を します。",
+                        "Eng": "I take a walk in the morning.",
+                        "Grammar": "に (time particle)",
+                        "Explanation": "Indicates the time when an action takes place.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "time",
+                            "present-tense",
+                            "polite-speech"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Title": "で particle",
+                "Sentences" :[
+                    {
+                        "Furi": "彼[かれ]は 毎日[まいにち] バスで 学校[がっこう]に 行[い]きます。",
+                        "Eng": "He goes to school by bus every day.",
+                        "Grammar": "で (means/method particle)",
+                        "Explanation": "Indicates the means or method by which an action is performed.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "transportation",
+                            "daily-life",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Furi": "バスで 学校[がっこう]に 行[い]きます。",
+                        "Eng": "I go to school by bus.",
+                        "Grammar": "で (means particle)",
+                        "Explanation": "Indicates the means or method by which an action is performed.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "means",
+                            "transportation",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Furi": "図書館[としょかん]で 勉強[べんきょう]します。",
+                        "Eng": "I study at the library.",
+                        "Grammar": "で (location particle)",
+                        "Explanation": "Indicates the place where an action occurs.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "location",
+                            "present-tense",
+                            "polite-speech"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Title": "へ particle",
+                "Sentences" :[
+                    {
+                        "Furi": "駅[えき]へ 行[い]きます。",
+                        "Eng": "I go to the station.",
+                        "Grammar": "へ (direction marker)",
+                        "Explanation": "Shows the direction or destination of an action.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "direction-marker",
+                            "movement",
+                            "polite-speech"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Title": "の particle",
+                "Sentences" :[
+                    {
+                        "Furi": "私[わたし]の 本[ほん]です。",
+                        "Eng": "It's my book.",
+                        "Grammar": "の (possessive marker)",
+                        "Explanation": "Indicates possession, linking nouns to show ownership or relation.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "possessive",
+                            "basic-sentences",
+                            "polite-speech"
+                        ]
+                    }
+
+                ]
+            }      
         ]
     },
     {
-        "Furi": "犬[いぬ]が 公園[こうえん]で 遊[あそ]んでいます。",
-        "Eng": "A dog is playing in the park.",
-        "Grammar": "が (subject marker)",
-        "Explanation": "Marks the subject performing the action, often used to emphasize the doer.",
-        "optTags": [
-            "jlpt-n5",
-            "subject-marker",
-            "action",
-            "polite-speech"
+        "Title": "Adjectives",
+        "Sentences" :[
+            {
+                "Title": "い-Adjectives",
+                "Sentences" :[
+                    {
+                        "Furi": "この 林[りん]檎[ご]は 美味[おい]しいです。",
+                        "Eng": "This apple is delicious.",
+                        "Grammar": "い-adjective (present positive)",
+                        "Explanation": "Uses an い-adjective in its basic affirmative form to describe a quality.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "adjective",
+                            "い-adjective",
+                            "present-positive",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Furi": "この コーヒーは 熱[あつ]くないです。",
+                        "Eng": "This coffee is not hot.",
+                        "Grammar": "い-adjective (present negative)",
+                        "Explanation": "Expresses the absence of a quality by converting the い-adjective to its negative form using ～くない.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "adjective",
+                            "い-adjective",
+                            "present-negative",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Furi": "この 本[ほん]は 面[おも]白[しろ]くないです。",
+                        "Eng": "This book is not interesting.",
+                        "Grammar": "い-adjective (present negative)",
+                        "Explanation": "Expresses the absence of a quality by converting the い-adjective to its negative form using ～くない.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "adjective",
+                            "い-adjective",
+                            "present-negative",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Furi": "昨日[きのう]の 天[てん]気[き]は 良[よ]かったです。",
+                        "Eng": "Yesterday's weather was good.",
+                        "Grammar": "い-adjective (past positive)",
+                        "Explanation": "Uses the past affirmative form of an い-adjective by replacing ～い with ～かったです.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "adjective",
+                            "い-adjective",
+                            "past-positive",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Furi": "この 本[ほん]は 重[おも]くなかったです。",
+                        "Eng": "This book was not heavy.",
+                        "Grammar": "い-adjective (past negative)",
+                        "Explanation": "Expresses that a quality was absent in the past by using ～くなかったです with an い-adjective.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "adjective",
+                            "い-adjective",
+                            "past-negative",
+                            "polite-speech"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Title": "な-Adjectives",
+                "Sentences" :[
+                    {
+                        "Furi": "この 絵[え]は 素敵[すてき]です。",
+                        "Eng": "This painting is lovely.",
+                        "Grammar": "な-adjective (present positive)",
+                        "Explanation": "Uses a な-adjective in its basic affirmative form to describe a noun.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "adjective",
+                            "な-adjective",
+                            "present-positive",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Furi": "彼[かれ]の 考[かんが]えは 簡[かん]単[たん]じゃないです。",
+                        "Eng": "His idea is not simple.",
+                        "Grammar": "な-adjective (present negative)",
+                        "Explanation": "Expresses the absence of a quality in the present using the negative form (じゃないです) for a な-adjective.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "adjective",
+                            "な-adjective",
+                            "present-negative",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Furi": "その 試[し]験[けん]は 簡[かん]単[たん]でした。",
+                        "Eng": "That exam was simple.",
+                        "Grammar": "な-adjective (past positive)",
+                        "Explanation": "Uses the past affirmative form for a な-adjective by replacing です with でした.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "adjective",
+                            "な-adjective",
+                            "past-positive",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Furi": "彼[かれ]の 性[せい]格[かく]は 真[ま]面[じ]目[め]じゃなかったです。",
+                        "Eng": "His personality wasn't serious.",
+                        "Grammar": "な-adjective (past negative)",
+                        "Explanation": "Indicates that a quality was absent in the past by using the past negative form (じゃなかったです) with a な-adjective.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "adjective",
+                            "な-adjective",
+                            "past-negative",
+                            "polite-speech"
+                        ]
+                    }
+                ]
+            }    
         ]
     },
     {
-        "Furi": "本[ほん]を 読[よ]みます。",
-        "Eng": "I read a book.",
-        "Grammar": "を (object marker)",
-        "Explanation": "Indicates the direct object of the verb, showing what is being acted upon.",
-        "optTags": [
-            "jlpt-n5",
-            "object-marker",
-            "verb-object",
-            "polite-speech"
+        "Title": "Verbs",
+        "Sentences" :[
+            {
+                "Title": "Group 1 Verbs",
+                "Sentences" :[
+                    {
+                        "Furi": "私[わたし]は 手紙[てがみ]を書[か]きます。",
+                        "Eng": "I will write a letter.",
+                        "Grammar": "Godan verb present affirmative",
+                        "Explanation": "Uses the polite present affirmative form of the Godan verb '書く' to describe a habitual action.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "godan",
+                            "present-positive",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Furi": "私[わたし]は 手紙[てがみ]を書[か]きました。",
+                        "Eng": "I wrote a letter.",
+                        "Grammar": "Godan verb past affirmative",
+                        "Explanation": "Uses the polite past affirmative form of the Godan verb '書く' to indicate a completed action.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "godan",
+                            "past-positive",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Furi": "私[わたし]は 手紙[てがみ]を書[か]きません。",
+                        "Eng": "I don't write a letter.",
+                        "Grammar": "Godan verb present negative",
+                        "Explanation": "Uses the polite present negative form of the Godan verb '書く' to show that the action does not occur.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "godan",
+                            "present-negative",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Furi": "私[わたし]は 手紙[てがみ]を書[か]きませんでした。",
+                        "Eng": "I didn't write a letter.",
+                        "Grammar": "Godan verb past negative",
+                        "Explanation": "Uses the polite past negative form of the Godan verb '書く' to indicate that an action did not occur.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "godan",
+                            "past-negative",
+                            "polite-speech"
+                        ]
+                    }       
+                ]
+            },
+            {
+                "Title": "Group 2 Verbs",
+                "Sentences" :[
+                    {
+                        "Furi": "私[わたし]は 朝[あさ]ご 飯[はん]を 食[た]べます。",
+                        "Eng": "I will eat breakfast.",
+                        "Grammar": "Ichidan verb present affirmative",
+                        "Explanation": "Uses the polite present affirmative form of the Ichidan verb '食べる' to express a habitual action.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "ichidan",
+                            "present-positive",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Furi": "私[わたし]は 朝[あさ]ご 飯[はん]を 食[た]べました。",
+                        "Eng": "I ate breakfast.",
+                        "Grammar": "Ichidan verb past affirmative",
+                        "Explanation": "Uses the polite past affirmative form of the Ichidan verb '食べる' to indicate a completed action.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "ichidan",
+                            "past-positive",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Furi": "私[わたし]は 朝[あさ]ご 飯[はん]を 食[た]べません。",
+                        "Eng": "I don't eat breakfast.",
+                        "Grammar": "Ichidan verb present negative",
+                        "Explanation": "Uses the polite present negative form of the Ichidan verb '食べる' to show that the action does not occur.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "ichidan",
+                            "present-negative",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Furi": "私[わたし]は 朝[あさ]ご 飯[はん]を 食[た]べませんでした。",
+                        "Eng": "I didn't eat breakfast.",
+                        "Grammar": "Ichidan verb past negative",
+                        "Explanation": "Uses the polite past negative form of the Ichidan verb '食べる' to indicate that an action did not occur.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "ichidan",
+                            "past-negative",
+                            "polite-speech"
+                        ]
+                    }        
+                ]
+            },
+            {
+                "Title": "Group 3 Verbs",
+                "Sentences" :[
+                    {
+                        "Furi": "私[わたし]は 宿題[しゅくだい]を します。",
+                        "Eng": "I do my homework.",
+                        "Grammar": "Suru verb present affirmative",
+                        "Explanation": "Uses the polite present affirmative form of 'する' to express that an action is being performed.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "suru",
+                            "present-positive",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Furi": "私[わたし]は 宿題[しゅくだい]を しました。",
+                        "Eng": "I did my homework.",
+                        "Grammar": "Suru verb past affirmative",
+                        "Explanation": "Uses the polite past affirmative form of 'する' to indicate a completed action.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "suru",
+                            "past-positive",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Furi": "私[わたし]は 宿題[しゅくだい]を しません。",
+                        "Eng": "I don't do my homework.",
+                        "Grammar": "Suru verb present negative",
+                        "Explanation": "Uses the polite present negative form of 'する' to indicate that an action is not performed.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "suru",
+                            "present-negative",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Furi": "私[わたし]は 宿題[しゅくだい]を しませんでした。",
+                        "Eng": "I didn't do my homework.",
+                        "Grammar": "Suru verb past negative",
+                        "Explanation": "Uses the polite past negative form of 'する' to indicate that an action was not completed.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "suru",
+                            "past-negative",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Furi": "彼[かれ]は 学校[がっこう]に 来[き]ます。",
+                        "Eng": "He comes to school.",
+                        "Grammar": "Kuru verb present affirmative",
+                        "Explanation": "Uses the polite present affirmative form of '来る' to indicate that someone is coming.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "kuru",
+                            "present-positive",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Furi": "彼[かれ]は 学校[がっこう]に 来[き]ました。",
+                        "Eng": "He came to school.",
+                        "Grammar": "Kuru verb past affirmative",
+                        "Explanation": "Uses the polite past affirmative form of '来る' to indicate a completed arrival.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "kuru",
+                            "past-positive",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Furi": "彼[かれ]は 学校[がっこう]に 来[き]ません。",
+                        "Eng": "He doesn't come to school.",
+                        "Grammar": "Kuru verb present negative",
+                        "Explanation": "Uses the polite present negative form of '来る' to show that someone is not coming.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "kuru",
+                            "present-negative",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Furi": "彼[かれ]は 学校[がっこう]に 来[き]ませんでした。",
+                        "Eng": "He didn't come to school.",
+                        "Grammar": "Kuru verb past negative",
+                        "Explanation": "Uses the polite past negative form of '来る' to indicate that someone did not come.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "kuru",
+                            "past-negative",
+                            "polite-speech"
+                        ]
+                    }
+                ]
+            }
         ]
     },
     {
-        "Furi": "朝[あさ]に 起[お]きます。",
-        "Eng": "I wake up in the morning.",
-        "Grammar": "に (time marker)",
-        "Explanation": "Specifies the time when an action occurs.",
-        "optTags": [
-            "jlpt-n5",
-            "time-marker",
-            "daily-life",
-            "polite-speech"
-        ]
-    },
-    {
-        "Furi": "バスで 学校[がっこう]に 行[い]きます。",
-        "Eng": "I go to school by bus.",
-        "Grammar": "で (means particle)",
-        "Explanation": "Indicates the means or method by which an action is performed.",
-        "optTags": [
-            "jlpt-n5",
-            "means",
-            "transportation",
-            "polite-speech"
-        ]
-    },
-    {
-        "Furi": "駅[えき]へ 行[い]きます。",
-        "Eng": "I go to the station.",
-        "Grammar": "へ (direction marker)",
-        "Explanation": "Shows the direction or destination of an action.",
-        "optTags": [
-            "jlpt-n5",
-            "direction-marker",
-            "movement",
-            "polite-speech"
-        ]
-    },
-    {
-        "Furi": "私[わたし]の 本[ほん]です。",
-        "Eng": "It's my book.",
-        "Grammar": "の (possessive marker)",
-        "Explanation": "Indicates possession, linking nouns to show ownership or relation.",
-        "optTags": [
-            "jlpt-n5",
-            "possessive",
-            "basic-sentences",
-            "polite-speech"
+        "Title": "Ease/Difficulty",
+        "Sentences" :[
+            {
+                "Furi": "この 本[ほん]は 読[よ]みにくいです。",
+                "Eng": "This book is hard to read.",
+                "Grammar": "〜にくい",
+                "Explanation": "Describes an action that is difficult to do.",
+                "optTags": [
+                    "jlpt-n4",
+                    "difficulty",
+                    "adjective",
+                    "polite-speech"
+                ]
+            },
+            {
+                "Furi": "この ペンは 持[も]ちやすいです。",
+                "Eng": "This pen is easy to hold.",
+                "Grammar": "〜やすい",
+                "Explanation": "Describes an action that is easy to perform.",
+                "optTags": [
+                    "jlpt-n4",
+                    "ease",
+                    "adjective",
+                    "polite-speech"
+                ]
+            }
         ]
     },
     {
@@ -128,18 +602,6 @@
             "jlpt-n5",
             "preferences",
             "activity",
-            "polite-speech"
-        ]
-    },
-    {
-        "Furi": "この 本[ほん]は 面[おも]白[しろ]くないです。",
-        "Eng": "This book is not interesting.",
-        "Grammar": "～くない",
-        "Explanation": "The negative form of an い-adjective, used to describe the absence of a quality.",
-        "optTags": [
-            "jlpt-n5",
-            "negative-sentences",
-            "adjective-negation",
             "polite-speech"
         ]
     },
@@ -216,18 +678,6 @@
         ]
     },
     {
-        "Furi": "図書館[としょかん]で 勉強[べんきょう]します。",
-        "Eng": "I study at the library.",
-        "Grammar": "で (location particle)",
-        "Explanation": "Indicates the place where an action occurs.",
-        "optTags": [
-            "jlpt-n5",
-            "location",
-            "present-tense",
-            "polite-speech"
-        ]
-    },
-    {
         "Furi": "昨日[きのう]は 雨[あめ]が 降[ふ]りました。",
         "Eng": "It rained yesterday.",
         "Grammar": "～ました (past tense)",
@@ -240,18 +690,6 @@
         ]
     },
     {
-        "Furi": "朝[あさ]に 散歩[さんぽ]を します。",
-        "Eng": "I take a walk in the morning.",
-        "Grammar": "に (time particle)",
-        "Explanation": "Indicates the time when an action takes place.",
-        "optTags": [
-            "jlpt-n5",
-            "time",
-            "present-tense",
-            "polite-speech"
-        ]
-    },
-    {
         "Furi": "彼女[かのじょ]は 毎朝[まいあさ] コーヒーを 飲[の]みます。",
         "Eng": "She drinks coffee every morning.",
         "Grammar": "毎朝 (habitual time expression)",
@@ -259,18 +697,6 @@
         "optTags": [
             "jlpt-n5",
             "habitual-action",
-            "present-tense",
-            "polite-speech"
-        ]
-    },
-    {
-        "Furi": "父[ちち]は 車[くるま]を 運転[うんてん]します。",
-        "Eng": "My father drives a car.",
-        "Grammar": "を (object particle)",
-        "Explanation": "Marks the object of an action.",
-        "optTags": [
-            "jlpt-n5",
-            "object-particle",
             "present-tense",
             "polite-speech"
         ]
@@ -325,18 +751,6 @@
         ]
     },
     {
-        "Furi": "彼[かれ]は 毎日[まいにち] バスで 学校[がっこう]に 行[い]きます。",
-        "Eng": "He goes to school by bus every day.",
-        "Grammar": "で (means/method particle)",
-        "Explanation": "Indicates the means or method by which an action is performed.",
-        "optTags": [
-            "jlpt-n5",
-            "transportation",
-            "daily-life",
-            "polite-speech"
-        ]
-    },
-    {
         "Furi": "私たちは 昼[ひる]ご 飯[はん]を 一緒[いっしょ]に 食[た]べます。",
         "Eng": "We eat lunch together.",
         "Grammar": "一緒に (together)",
@@ -381,18 +795,6 @@
         "optTags": [
             "jlpt-n5",
             "habitual-action",
-            "daily-life",
-            "polite-speech"
-        ]
-    },
-    {
-        "Furi": "僕[ぼく]は 日本語[にほんご]を 勉強[べんきょう]します。",
-        "Eng": "I study Japanese.",
-        "Grammar": "を (object particle)",
-        "Explanation": "Marks the direct object of the verb.",
-        "optTags": [
-            "jlpt-n5",
-            "object-particle",
             "daily-life",
             "polite-speech"
         ]
@@ -562,30 +964,6 @@
             "jlpt-n4",
             "listing-examples",
             "multiple-actions",
-            "polite-speech"
-        ]
-    },
-    {
-        "Furi": "この 本[ほん]は 読[よ]みにくいです。",
-        "Eng": "This book is hard to read.",
-        "Grammar": "〜にくい",
-        "Explanation": "Describes an action that is difficult to do.",
-        "optTags": [
-            "jlpt-n4",
-            "difficulty",
-            "adjective",
-            "polite-speech"
-        ]
-    },
-    {
-        "Furi": "この ペンは 持[も]ちやすいです。",
-        "Eng": "This pen is easy to hold.",
-        "Grammar": "〜やすい",
-        "Explanation": "Describes an action that is easy to perform.",
-        "optTags": [
-            "jlpt-n4",
-            "ease",
-            "adjective",
             "polite-speech"
         ]
     }

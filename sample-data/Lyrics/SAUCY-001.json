@@ -25,7 +25,7 @@
       "EngStr": "Even though I sway night after night"
     },
     {
-      "JpnStr": "未[いま]だに君[きみ]がいちばん",
+      "JpnStr": "未[いま]だに君[きみ]が一[いち]番[ばん]",
       "EngStr": "You are still number one to me"
     },
     {
@@ -57,7 +57,7 @@
       "EngStr": "Cinderella Boy, after midnight"
     },
     {
-      "JpnStr": "腕[うで]の中[なか]であたしを泣[な]かせないで",
+      "JpnStr": "腕[うで]の中[なか]で私[あたし]を泣[な]かせないで",
       "EngStr": "Don't make me cry in your arms"
     },
     {
@@ -97,7 +97,7 @@
       "EngStr": "Even if you are gone"
     },
     {
-      "JpnStr": "あたしは平気[へいき]そうです",
+      "JpnStr": "私[あたし]は平気[へいき]そうです",
       "EngStr": "I seem to be fine"
     },
     {
@@ -125,7 +125,7 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "あたしの前[まえ]だけで弱[よわ]さを見[み]せて",
+      "JpnStr": "私[あたし]の前[まえ]だけで弱[よわ]さを見[み]せて",
       "EngStr": "Show your weakness only in front of me"
     },
     {
@@ -157,7 +157,7 @@
       "EngStr": "Cinderella Boy, after midnight"
     },
     {
-      "JpnStr": "腕[うで]の中[なか]であたしを泣[な]かせないで",
+      "JpnStr": "腕[うで]の中[なか]で私[あたし]を泣[な]かせないで",
       "EngStr": "Don't make me cry in your arms"
     },
     {
@@ -177,7 +177,7 @@
       "EngStr": "Don't say you love me when you don't"
     },
     {
-      "JpnStr": "瞳[ひとみ]の奥[おく]、あたしを捕[つか]まえて",
+      "JpnStr": "瞳[ひとみ]の奥[おく]、私[あたし]を捕[つか]まえて",
       "EngStr": "Capture me deep in your eyes"
     },
     {
@@ -194,6 +194,7 @@
     "タバコ",
     "バスタオル",
     "一人-ひとり",
+    "一番-いちばん",
     "上手-じょうず",
     "傷つける-きずつける",
     "分かる-わかる",
@@ -222,6 +223,7 @@
     "無邪気-むじゃき",
     "独占-どくせん",
     "瞳-ひとみ",
+    "私-あたし",
     "腕-うで",
     "許す-ゆるす",
     "貴方-あなた",
