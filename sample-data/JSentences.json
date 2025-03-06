@@ -284,12 +284,132 @@
                 "Sentences": [
                     {
                         "Id": "001",
-                        "Furi": "友[とも]達[だち]と 一[いっ]緒[しょ]に 遊[あそ]びます。",
+                        "Furi": "友達[ともだち]と 一緒[いっしょ]に 遊[あそ]びます。",
                         "Eng": "I will play with my friends.",
-                        "Grammar": "と (connecting marker)",
+                        "Grammar": "と (companion marker)",
                         "Explanation": "Indicates doing something together with someone else.",
                         "optTags": [
                             "jlpt-n5",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Id": "002",
+                        "Furi": "リンゴと バナナを 食[た]べます。",
+                        "Eng": "I eat apples and bananas.",
+                        "Grammar": "と (listing items)",
+                        "Explanation": "Connects two nouns to list them as items that are acted upon.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Id": "003",
+                        "Furi": "先生は「宿題[しゅくだい]を 出[だ]しなさい」と 言[い]いました。",
+                        "Eng": "The teacher said, 'Do your homework.'",
+                        "Grammar": "と (quotation marker)",
+                        "Explanation": "Used to indicate quoted speech or thoughts.",
+                        "optTags": [
+                            "jlpt-n4",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Id": "004",
+                        "Furi": "春[はる]になると、桜[さくら]が 咲[さ]きます。",
+                        "Eng": "When spring comes, cherry blossoms bloom.",
+                        "Grammar": "と (conditional marker)",
+                        "Explanation": "Expresses a natural consequence when a condition is met.",
+                        "optTags": [
+                            "jlpt-n4",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Id": "005",
+                        "Furi": "これを 見ると、涙[なみだ]が 出[で]ます。",
+                        "Eng": "When I see this, tears come out.",
+                        "Grammar": "と (conditional marker)",
+                        "Explanation": "Indicates an automatic or inevitable reaction when the condition is met.",
+                        "optTags": [
+                            "jlpt-n3",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Id": "006",
+                        "Furi": "日本[にほん]に 行くと、たくさんの 友達[ともだち]が できます。",
+                        "Eng": "When you go to Japan, you'll make many friends.",
+                        "Grammar": "と (conditional marker)",
+                        "Explanation": "Expresses an expected result or consequence when a certain condition is fulfilled.",
+                        "optTags": [
+                            "jlpt-n3",
+                            "polite-speech"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "も",
+                "Sentences": [
+                    {
+                        "Id": "001",
+                        "Furi": "私[わたし]も 学生[がくせい]です。",
+                        "Eng": "I am also a student.",
+                        "Grammar": "も (also)",
+                        "Explanation": "Used to indicate inclusion or addition, meaning 'also' or 'too'.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "self-intro",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Id": "002",
+                        "Furi": "彼[かれ]も 日本語[にほんご]を 勉強[べんきょう]しています。",
+                        "Eng": "He is also studying Japanese.",
+                        "Grammar": "も (also)",
+                        "Explanation": "Adds another subject to a statement, indicating that he is included in the action.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "addition",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Id": "003",
+                        "Furi": "何[なに]も 食[た]べませんでした。",
+                        "Eng": "I didn't eat anything.",
+                        "Grammar": "何も～ない",
+                        "Explanation": "Used with a negative verb to express 'nothing' or 'not any', emphasizing complete absence.",
+                        "optTags": [
+                            "jlpt-n4",
+                            "negative",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Id": "004",
+                        "Furi": "この 問題[もんだい]は 誰[だれ]も 解決[かいけつ]できません。",
+                        "Eng": "Nobody can solve this problem.",
+                        "Grammar": "誰も～ない",
+                        "Explanation": "Used with a negative to indicate that no one is capable of doing something.",
+                        "optTags": [
+                            "jlpt-n3",
+                            "negative",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Id": "005",
+                        "Furi": "映[えい]画[が]も 音楽[おんがく]も 好[す]きです。",
+                        "Eng": "I like both movies and music.",
+                        "Grammar": "も (listing items)",
+                        "Explanation": "Lists multiple items sharing the same attribute, indicating that both are liked.",
+                        "optTags": [
+                            "jlpt-n4",
+                            "listing",
                             "polite-speech"
                         ]
                     }
@@ -444,8 +564,6 @@
                 "Explanation": "Used to modify a noun, indicating size or quality.",
                 "optTags": [
                     "jlpt-n5",
-                    "descriptive-sentences",
-                    "adjective-modification",
                     "polite-speech"
                 ]
             }
@@ -455,10 +573,10 @@
         "Id": "VERB",
         "Sentences": [
             {
-                "Id": "GRP-1-CONJ",
+                "Id": "NONPAST-YES",
                 "Sentences": [
                     {
-                        "Id": "NONPAST-YES-001",
+                        "Id": "GRP-1-CONJ-001",
                         "Furi": "私[わたし]は 手紙[てがみ]を書[か]きます。",
                         "Eng": "I will write a letter.",
                         "Grammar": "(Godan Verb)～ます",
@@ -469,67 +587,7 @@
                         ]
                     },
                     {
-                        "Id": "NONPAST-NO-001",
-                        "Furi": "私[わたし]は 手紙[てがみ]を書[か]きません。",
-                        "Eng": "I don't write letters.",
-                        "Grammar": "(Godan Verb)～ません",
-                        "Explanation": "Polite Non-Past tense Negative form, to describe that the action does not occur.",
-                        "optTags": [
-                            "jlpt-n5",
-                            "polite-speech"
-                        ]
-                    },
-                    {
-                        "Id": "PAST-YES-001",
-                        "Furi": "私[わたし]は 手紙[てがみ]を書[か]きました。",
-                        "Eng": "I wrote a letter.",
-                        "Grammar": "(Godan Verb)～ました",
-                        "Explanation": "Polite Past tense Affirmative form, to describe a completed action.",
-                        "optTags": [
-                            "jlpt-n5",
-                            "polite-speech"
-                        ]
-                    },
-                    {
-                        "Id": "PAST-YES-002",
-                        "Furi": "昨日[きのう]は 雨[あめ]が 降[ふ]りました。",
-                        "Eng": "It rained yesterday.",
-                        "Grammar": "(Godan Verb)～ました",
-                        "Explanation": "Polite Past tense Affirmative form, to describe a completed action.",
-                        "optTags": [
-                            "jlpt-n5",
-                            "polite-speech"
-                        ]
-                    },
-                    {
-                        "Id": "PAST-NO-001",
-                        "Furi": "私[わたし]は 手紙[てがみ]を書[か]きませんでした。",
-                        "Eng": "I didn't write a letter.",
-                        "Grammar": "(Godan Verb)～ませんでした",
-                        "Explanation": "Polite Past tense Negative form, to describe that an action was not done.",
-                        "optTags": [
-                            "jlpt-n5",
-                            "polite-speech"
-                        ]
-                    },
-                    {
-                        "Id": "PAST-NO-002",
-                        "Furi": "田[た]中[なか]さんは 昨日[きのう]、学[がく]校[こう]に 行[い]きませんでした。",
-                        "Eng": "Tanaka-san did not go to school yesterday.",
-                        "Grammar": "(Godan Verb)～ませんでした",
-                        "Explanation": "Polite Past tense Negative form, to describe that an action was not done.",
-                        "optTags": [
-                            "jlpt-n5",
-                            "polite-speech"
-                        ]
-                    }
-                ]
-            },
-            {
-                "Id": "GRP-2-CONJ",
-                "Sentences": [
-                    {
-                        "Id": "NONPAST-YES-001",
+                        "Id": "GRP-2-CONJ-001",
                         "Furi": "私[わたし]は 朝[あさ]ご 飯[はん]を 食[た]べます。",
                         "Eng": "I will eat breakfast.",
                         "Grammar": "(Ichidan Verb)～ます",
@@ -540,7 +598,45 @@
                         ]
                     },
                     {
-                        "Id": "NONPAST-NO-001",
+                        "Id": "GRP-3-CONJ-SURU-001",
+                        "Furi": "私[わたし]は 宿題[しゅくだい]を します。",
+                        "Eng": "I do my homework.",
+                        "Grammar": "Suru verb present affirmative",
+                        "Explanation": "Uses the polite present affirmative form of 'する' to express that an action is being performed.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Id": "GRP-3-CONJ-KURU-001",
+                        "Furi": "彼[かれ]は 学校[がっこう]に 来[き]ます。",
+                        "Eng": "He comes to school.",
+                        "Grammar": "Kuru verb present affirmative",
+                        "Explanation": "Uses the polite present affirmative form of '来る' to indicate that someone is coming.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "polite-speech"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "NONPAST-NO",
+                "Sentences": [
+                    {
+                        "Id": "GRP-1-CONJ-001",
+                        "Furi": "私[わたし]は 手紙[てがみ]を書[か]きません。",
+                        "Eng": "I don't write letters.",
+                        "Grammar": "(Godan Verb)～ません",
+                        "Explanation": "Polite Non-Past tense Negative form, to describe that the action does not occur.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Id": "GRP-2-CONJ-001",
                         "Furi": "私[わたし]は 朝[あさ]ご 飯[はん]を 食[た]べません。",
                         "Eng": "I don't eat breakfast.",
                         "Grammar": "(Ichidan Verb)～ません",
@@ -551,7 +647,58 @@
                         ]
                     },
                     {
-                        "Id": "PAST-YES-001",
+                        "Id": "GRP-3-CONJ-SURU-001",
+                        "Furi": "私[わたし]は 宿題[しゅくだい]を しません。",
+                        "Eng": "I don't do my homework.",
+                        "Grammar": "Suru verb present negative",
+                        "Explanation": "Uses the polite present negative form of 'する' to indicate that an action is not performed.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Id": "GRP-3-CONJ-KURU-001",
+                        "Furi": "彼[かれ]は 学校[がっこう]に 来[き]ません。",
+                        "Eng": "He doesn't come to school.",
+                        "Grammar": "Kuru verb present negative",
+                        "Explanation": "Uses the polite present negative form of '来る' to show that someone is not coming.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "kuru",
+                            "present-negative",
+                            "polite-speech"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "PAST-YES",
+                "Sentences": [
+                    {
+                        "Id": "GRP-1-CONJ-001",
+                        "Furi": "私[わたし]は 手紙[てがみ]を書[か]きました。",
+                        "Eng": "I wrote a letter.",
+                        "Grammar": "(Godan Verb)～ました",
+                        "Explanation": "Polite Past tense Affirmative form, to describe a completed action.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Id": "GRP-1-CONJ-002",
+                        "Furi": "昨日[きのう]は 雨[あめ]が 降[ふ]りました。",
+                        "Eng": "It rained yesterday.",
+                        "Grammar": "(Godan Verb)～ました",
+                        "Explanation": "Polite Past tense Affirmative form, to describe a completed action.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Id": "GRP-2-CONJ-001",
                         "Furi": "私[わたし]は 朝[あさ]ご 飯[はん]を 食[た]べました。",
                         "Eng": "I ate breakfast.",
                         "Grammar": "(Ichidan Verb)～ました",
@@ -562,7 +709,59 @@
                         ]
                     },
                     {
-                        "Id": "PAST-NO-001",
+                        "Id": "GRP-3-CONJ-SURU-001",
+                        "Furi": "私[わたし]は 宿題[しゅくだい]を しました。",
+                        "Eng": "I did my homework.",
+                        "Grammar": "Suru verb past affirmative",
+                        "Explanation": "Uses the polite past affirmative form of 'する' to indicate a completed action.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Id": "GRP-3-CONJ-KURU-001",
+                        "Furi": "彼[かれ]は 学校[がっこう]に 来[き]ました。",
+                        "Eng": "He came to school.",
+                        "Grammar": "Kuru verb past affirmative",
+                        "Explanation": "Uses the polite past affirmative form of '来る' to indicate a completed arrival.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "kuru",
+                            "past-positive",
+                            "polite-speech"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "PAST-NO",
+                "Sentences": [       
+
+                    {
+                        "Id": "GRP-1-CONJ-001",
+                        "Furi": "私[わたし]は 手紙[てがみ]を書[か]きませんでした。",
+                        "Eng": "I didn't write a letter.",
+                        "Grammar": "(Godan Verb)～ませんでした",
+                        "Explanation": "Polite Past tense Negative form, to describe that an action was not done.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Id": "GRP-1-CONJ-002",
+                        "Furi": "田[た]中[なか]さんは 昨日[きのう]、学[がく]校[こう]に 行[い]きませんでした。",
+                        "Eng": "Tanaka-san did not go to school yesterday.",
+                        "Grammar": "(Godan Verb)～ませんでした",
+                        "Explanation": "Polite Past tense Negative form, to describe that an action was not done.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Id": "GRP-2-CONJ-001",
                         "Furi": "私[わたし]は 朝[あさ]ご 飯[はん]を 食[た]べませんでした。",
                         "Eng": "I didn't eat breakfast.",
                         "Grammar": "(Ichidan Verb)～ませんでした",
@@ -571,114 +770,67 @@
                             "jlpt-n5",
                             "polite-speech"
                         ]
+                    },
+                    {
+                        "Id": "GRP-3-CONJ-SURU-001",
+                        "Furi": "私[わたし]は 宿題[しゅくだい]を しませんでした。",
+                        "Eng": "I didn't do my homework.",
+                        "Grammar": "Suru verb past negative",
+                        "Explanation": "Uses the polite past negative form of 'する' to indicate that an action was not completed.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Id": "GRP-3-CONJ-KURU-001",
+                        "Furi": "彼[かれ]は 学校[がっこう]に 来[き]ませんでした。",
+                        "Eng": "He didn't come to school.",
+                        "Grammar": "Kuru verb past negative",
+                        "Explanation": "Uses the polite past negative form of '来る' to indicate that someone did not come.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "kuru",
+                            "past-negative",
+                            "polite-speech"
+                        ]
                     }
                 ]
             },
             {
-                "Id": "GRP-3-CONJ",
+                "Id": "TE-FORM",
                 "Sentences": [
                     {
-                        "Id": "SURU",
-                        "Sentences": [
-                            {
-                                "Id": "NONPAST-YES-001",
-                                "Furi": "私[わたし]は 宿題[しゅくだい]を します。",
-                                "Eng": "I do my homework.",
-                                "Grammar": "Suru verb present affirmative",
-                                "Explanation": "Uses the polite present affirmative form of 'する' to express that an action is being performed.",
-                                "optTags": [
-                                    "jlpt-n5",
-                                    "polite-speech"
-                                ]
-                            },
-                            {
-                                "Id": "NONPAST-NO-001",
-                                "Furi": "私[わたし]は 宿題[しゅくだい]を しません。",
-                                "Eng": "I don't do my homework.",
-                                "Grammar": "Suru verb present negative",
-                                "Explanation": "Uses the polite present negative form of 'する' to indicate that an action is not performed.",
-                                "optTags": [
-                                    "jlpt-n5",
-                                    "polite-speech"
-                                ]
-                            },
-                            {
-                                "Id": "PAST-YES-001",
-                                "Furi": "私[わたし]は 宿題[しゅくだい]を しました。",
-                                "Eng": "I did my homework.",
-                                "Grammar": "Suru verb past affirmative",
-                                "Explanation": "Uses the polite past affirmative form of 'する' to indicate a completed action.",
-                                "optTags": [
-                                    "jlpt-n5",
-                                    "polite-speech"
-                                ]
-                            },
-                            {
-                                "Id": "PAST-NO-001",
-                                "Furi": "私[わたし]は 宿題[しゅくだい]を しませんでした。",
-                                "Eng": "I didn't do my homework.",
-                                "Grammar": "Suru verb past negative",
-                                "Explanation": "Uses the polite past negative form of 'する' to indicate that an action was not completed.",
-                                "optTags": [
-                                    "jlpt-n5",
-                                    "polite-speech"
-                                ]
-                            }
+                        "Id": "001",
+                        "Furi": "私[わたし]の 犬[いぬ]は 大[おお]きくて、可[か]愛[あい]いです。",
+                        "Eng": "My dog is big and cute.",
+                        "Grammar": "～て form",
+                        "Explanation": "Used to connect adjectives or verbs in a sentence.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "polite-speech"
                         ]
                     },
                     {
-                        "Id": "KURU",
-                        "Sentences": [
-                            {
-                                "Id": "NONPAST-YES-001",
-                                "Furi": "彼[かれ]は 学校[がっこう]に 来[き]ます。",
-                                "Eng": "He comes to school.",
-                                "Grammar": "Kuru verb present affirmative",
-                                "Explanation": "Uses the polite present affirmative form of '来る' to indicate that someone is coming.",
-                                "optTags": [
-                                    "jlpt-n5",
-                                    "polite-speech"
-                                ]
-                            },
-                            {
-                                "Id": "NONPAST-NO-001",
-                                "Furi": "彼[かれ]は 学校[がっこう]に 来[き]ません。",
-                                "Eng": "He doesn't come to school.",
-                                "Grammar": "Kuru verb present negative",
-                                "Explanation": "Uses the polite present negative form of '来る' to show that someone is not coming.",
-                                "optTags": [
-                                    "jlpt-n5",
-                                    "kuru",
-                                    "present-negative",
-                                    "polite-speech"
-                                ]
-                            },
-                            {
-                                "Id": "PAST-YES-001",
-                                "Furi": "彼[かれ]は 学校[がっこう]に 来[き]ました。",
-                                "Eng": "He came to school.",
-                                "Grammar": "Kuru verb past affirmative",
-                                "Explanation": "Uses the polite past affirmative form of '来る' to indicate a completed arrival.",
-                                "optTags": [
-                                    "jlpt-n5",
-                                    "kuru",
-                                    "past-positive",
-                                    "polite-speech"
-                                ]
-                            },
-                            {
-                                "Id": "PAST-NO-001",
-                                "Furi": "彼[かれ]は 学校[がっこう]に 来[き]ませんでした。",
-                                "Eng": "He didn't come to school.",
-                                "Grammar": "Kuru verb past negative",
-                                "Explanation": "Uses the polite past negative form of '来る' to indicate that someone did not come.",
-                                "optTags": [
-                                    "jlpt-n5",
-                                    "kuru",
-                                    "past-negative",
-                                    "polite-speech"
-                                ]
-                            }
+                        "Id": "002",
+                        "Furi": "猫[ねこ]は 窓[まど]から 外[そと]を 見[み]ています。",
+                        "Eng": "The cat is looking outside from the window.",
+                        "Grammar": "～ています (present continuous)",
+                        "Explanation": "Indicates an ongoing action in a polite form.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Id": "003",
+                        "Furi": "弟[おとうと]は まだ 学校[がっこう]に 行[い]っていません。",
+                        "Eng": "My younger brother hasn't gone to school yet.",
+                        "Grammar": "～っていません (negative present perfect)",
+                        "Explanation": "Indicates an action that has not yet been completed in a polite negative form.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "polite-speech"
                         ]
                     }
                 ]
@@ -717,50 +869,6 @@
         ]
     },
     {
-        "Id": "TE-FORM",
-        "Sentences": [
-            {
-                "Id": "001",
-                "Furi": "私[わたし]の 犬[いぬ]は 大[おお]きくて、可[か]愛[あい]いです。",
-                "Eng": "My dog is big and cute.",
-                "Grammar": "～て form",
-                "Explanation": "Used to connect adjectives or verbs in a sentence.",
-                "optTags": [
-                    "jlpt-n5",
-                    "descriptive-sentences",
-                    "adjective-connection",
-                    "polite-speech"
-                ]
-            },
-            {
-                "Id": "002",
-                "Furi": "猫[ねこ]は 窓[まど]から 外[そと]を 見[み]ています。",
-                "Eng": "The cat is looking outside from the window.",
-                "Grammar": "～ています (present continuous)",
-                "Explanation": "Indicates an ongoing action in a polite form.",
-                "optTags": [
-                    "jlpt-n5",
-                    "present-continuous",
-                    "location",
-                    "polite-speech"
-                ]
-            },
-            {
-                "Id": "003",
-                "Furi": "弟[おとうと]は まだ 学校[がっこう]に 行[い]っていません。",
-                "Eng": "My younger brother hasn't gone to school yet.",
-                "Grammar": "～っていません (negative present perfect)",
-                "Explanation": "Indicates an action that has not yet been completed in a polite negative form.",
-                "optTags": [
-                    "jlpt-n5",
-                    "negative-form",
-                    "present-perfect",
-                    "polite-speech"
-                ]
-            }
-        ]
-    },
-    {
         "Id": "ADVICE",
         "Sentences": [
             {
@@ -792,7 +900,7 @@
         "Sentences": [
             {
                 "Id": "MORNING-001",
-                "Furi": "彼女[かのじょ]は 毎朝[まいあさ] コーヒーを 飲[の]みます。",
+                "Furi": "彼[かの]女[じょ]は 毎朝[まいあさ] コーヒーを 飲[の]みます。",
                 "Eng": "She drinks coffee every morning.",
                 "Grammar": "毎朝 (every morning)",
                 "Explanation": "Indicates a habitual action occurring every morning.",
@@ -847,21 +955,61 @@
                 "Explanation": "Indicates the existence of something or someone in a specific location.",
                 "optTags": [
                     "jlpt-n5",
-                    "existence",
-                    "location",
                     "polite-speech"
                 ]
             },
             {
                 "Id": "002",
-                "Furi": "東京[とうきょう]に 行[い]ったことがあります。",
+                "Furi": "東[とう]京[きょう]に 行[い]ったことがあります。",
                 "Eng": "I have been to Tokyo.",
                 "Grammar": "～たことがある",
                 "Explanation": "Used to express an experience of having done something in the past.",
                 "optTags": [
                     "jlpt-n4",
-                    "experience",
-                    "past-experience",
+                    "polite-speech"
+                ]
+            },
+            {
+                "Id": "003",
+                "Furi": "この 町[まち]には 昔[むかし]から 伝[つた]わる 伝統[でんとう]的[てき]な 祭[まつ]りが あります。",
+                "Eng": "This town has a traditional festival that has been passed down since long ago.",
+                "Grammar": "Existence with a relative clause",
+                "Explanation": "Expresses the existence of something along with additional descriptive information provided by the relative clause.",
+                "optTags": [
+                    "jlpt-n3",
+                    "polite-speech"
+                ]
+            },
+            {
+                "Id": "004",
+                "Furi": "図書館[としょかん]には 最新[さいしん]の 本[ほん]が 多数[たすう] あります。",
+                "Eng": "There are many new books in the library.",
+                "Grammar": "Existence with quantitative expressions",
+                "Explanation": "Indicates that multiple items exist, enhanced by quantitative descriptors.",
+                "optTags": [
+                    "jlpt-n3",
+                    "polite-speech"
+                ]
+            },
+            {
+                "Id": "005",
+                "Furi": "その 美術館[びじゅつかん]には 世界的[せかいてき]な 芸術作品[げいじゅつさくひん]が いくつか あります。",
+                "Eng": "That museum has several world-renowned artworks.",
+                "Grammar": "Existence with descriptive quantifiers",
+                "Explanation": "Expresses the presence of several notable items using descriptive adjectives and quantifiers.",
+                "optTags": [
+                    "jlpt-n3",
+                    "polite-speech"
+                ]
+            },
+            {
+                "Id": "006",
+                "Furi": "部屋[へや]の 中[なか]には 古[ふる]い 写真[しゃしん]が たくさん あります。",
+                "Eng": "There are many old photographs in the room.",
+                "Grammar": "Existence with descriptive modifiers",
+                "Explanation": "Indicates that numerous items exist, with adjectives modifying the noun to add detail.",
+                "optTags": [
+                    "jlpt-n3",
                     "polite-speech"
                 ]
             }
@@ -887,6 +1035,50 @@
                 "Eng": "It looks like it will rain tomorrow.",
                 "Grammar": "～そうです (appearance/prediction)",
                 "Explanation": "Expresses that something appears likely to happen based on visual clues or context.",
+                "optTags": [
+                    "jlpt-n4",
+                    "polite-speech"
+                ]
+            },
+            {
+                "Id": "003",
+                "Furi": "明日[あした]は 晴[は]れるでしょう。",
+                "Eng": "It will probably be sunny tomorrow.",
+                "Grammar": "～でしょう",
+                "Explanation": "Expresses a prediction or expectation about a future event, similar to 'probably.'",
+                "optTags": [
+                    "jlpt-n4",
+                    "polite-speech"
+                ]
+            },
+            {
+                "Id": "004",
+                "Furi": "彼[かれ]は 多[た]分[ぶん] 来[く]るでしょう。",
+                "Eng": "He will probably come.",
+                "Grammar": "～でしょう (prediction)",
+                "Explanation": "Indicates that an action is expected to occur, often based on context or past experience.",
+                "optTags": [
+                    "jlpt-n4",
+                    "polite-speech"
+                ]
+            },
+            {
+                "Id": "005",
+                "Furi": "彼[かの]女[じょ]は 疲[つか]れているかもしれません。",
+                "Eng": "She might be tired.",
+                "Grammar": "～かもしれない",
+                "Explanation": "Expresses uncertainty regarding her current state, implying it's possible she is tired.",
+                "optTags": [
+                    "jlpt-n4",
+                    "polite-speech"
+                ]
+            },
+            {
+                "Id": "006",
+                "Furi": "この 電[でん]車[しゃ]は 遅[おそ]れるでしょう。",
+                "Eng": "This train will probably be delayed.",
+                "Grammar": "～でしょう (prediction)",
+                "Explanation": "Predicts a likely future outcome based on current conditions or information.",
                 "optTags": [
                     "jlpt-n4",
                     "polite-speech"
@@ -972,8 +1164,39 @@
                 "Explanation": "Connects two adjectives or clauses to describe multiple qualities.",
                 "optTags": [
                     "jlpt-n4",
-                    "descriptive-sentences",
-                    "adjective-connection",
+                    "polite-speech"
+                ]
+            },
+            {
+                "Id": "003",
+                "Furi": "机[つくえ]や 椅子[いす]があります。",
+                "Eng": "There are desks and chairs.",
+                "Grammar": "〜や (listing incomplete items)",
+                "Explanation": "Lists examples in a non-exhaustive way using the particle や.",
+                "optTags": [
+                    "jlpt-n5",
+                    "polite-speech"
+                ]
+            },
+            {
+                "Id": "004",
+                "Furi": "旅行[りょこう]では 寺院[じいん]や 美術館[びじゅつかん]などを 訪[おとず]れることが 多[おお]いです。",
+                "Eng": "On trips, I often visit temples, museums, and so on.",
+                "Grammar": "〜や〜など (listing with examples)",
+                "Explanation": "Uses や to list examples and など to indicate additional similar items.",
+                "optTags": [
+                    "jlpt-n3",
+                    "polite-speech"
+                ]
+            },
+            {
+                "Id": "005",
+                "Furi": "休日[きゅうじつ]は 映[えい]画[が]とか 音楽[おんがく]を 聴[き]いたりします。",
+                "Eng": "On holidays, I sometimes watch movies and listen to music, among other things.",
+                "Grammar": "〜とか with 〜たり～たりする (listing examples)",
+                "Explanation": "Combines とか to list examples and 〜たり〜たりする to indicate a variety of actions.",
+                "optTags": [
+                    "jlpt-n4",
                     "polite-speech"
                 ]
             }

@@ -9,7 +9,7 @@
       "EngStr": "I want to know that mysterious secret"
     },
     {
-      "JpnStr": "抜[ぬ]けてるとこさえ彼女[かのじょ]のエリア",
+      "JpnStr": "抜[ぬ]けてるとこさえ彼[かの]女[じょ]のエリア",
       "EngStr": "Even her clumsy parts are her domain"
     },
     {
@@ -322,6 +322,7 @@
     }
   ],
   "ListVocab": [
+    "彼女-かのじょ",
     "一人-ひとり",
     "一番星-いちばんぼし",
     "今日-きょう",
