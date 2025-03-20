@@ -5145,6 +5145,16 @@
     "optSongLibFreq": 2
   },
   {
+    "Key": "迅速-じんそく",
+    "Furi": "迅[じん]速[そく]",
+    "Eng": "quick/fast/rapid/swift",
+    "optTags": [
+      "noun",
+      "adj-な",
+      "jlpt-n1"
+    ]
+  },
+  {
     "Key": "僕ら-ぼくら",
     "Furi": "僕[ぼく]ら",
     "Eng": "we",
@@ -5191,7 +5201,7 @@
   {
     "Key": "優れる-すぐれる",
     "Furi": "優[すぐ]れる",
-    "Eng": "to excel",
+    "Eng": "to surpass/to excel",
     "optTags": [
       "verb-2",
       "verb-intransitive",
@@ -9625,6 +9635,35 @@
     ]
   },
   {
+    "Key": "包装-ほうそう",
+    "Furi": "包[ほう]装[そう]",
+    "Eng": "packing/wrapping",
+    "optTags": [
+      "noun",
+      "verb-3",
+      "verb-transitive",
+      "jlpt-n2"
+    ]
+  },
+  {
+    "Key": "爽やか-さわやか",
+    "Furi": "爽[さわ]やか",
+    "Eng": "fresh/refreshing/invigorating",
+    "optTags": [
+      "adj-な",
+      "jlpt-n2"
+    ]
+  },
+  {
+    "Key": "巧み-たくみ",
+    "Furi": "巧[たく]み",
+    "Eng": "skillful/masterful/ingenious",
+    "optTags": [
+      "adj-な",
+      "jlpt-n2"
+    ]
+  },
+  {
     "Key": "嫌-いや",
     "Furi": "嫌[いや]",
     "Eng": "disagreeable/detestable/unpleasant",
@@ -13574,6 +13613,15 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "悔しい-くやしい",
+    "Furi": "悔[くや]しい",
+    "Eng": "bitter/annoyed/frustrated",
+    "optTags": [
+      "adj-い",
+      "jlpt-n2"
+    ]
+  },
+  {
     "Key": "攻め手-せめて",
     "Furi": "攻[せ]め手[て]",
     "Eng": "offense/offence/method of attack",
@@ -14764,7 +14812,7 @@
   {
     "Key": "最後-さいご",
     "Furi": "最[さい]後[ご]",
-    "Eng": "end/conclusion",
+    "Eng": "end/last/conclusion",
     "optTags": [
       "noun",
       "jlpt-n4",
@@ -17101,6 +17149,15 @@
       "songLib"
     ],
     "optSongLibFreq": 1
+  },
+  {
+    "Key": "滑らか-なめらか",
+    "Furi": "滑[なめ]らか",
+    "Eng": "smooth/glassy/fluid/fluent",
+    "optTags": [
+      "adj-な",
+      "jlpt-n1"
+    ]
   },
   {
     "Key": "滑る-すべる",
@@ -23650,6 +23707,25 @@
     "optSongLibFreq": 1
   },
   {
+    "Key": "怠慢-たいまん",
+    "Furi": "怠[たい]慢[まん]",
+    "Eng": "neglect/negligence/carelessness/procrastination",
+    "optTags": [
+      "noun",
+      "jlpt-n1"
+    ]
+  },
+  {
+    "Key": "厳か-おごそか",
+    "Furi": "厳[おごそ]か",
+    "Eng": "solemn/grave/dignified/majestic",
+    "optTags": [
+      "noun",
+      "adj-な",
+      "jlpt-n1"
+    ]
+  },
+  {
     "Key": "贈り物-おくりもの",
     "Furi": "贈[おく]り物[もの]",
     "Eng": "gift/present",
@@ -25397,7 +25473,7 @@
   {
     "Key": "遣る-やる",
     "Furi": "遣[や]る",
-    "Eng": "to do",
+    "Eng": "to do/to undertake",
     "optTags": [
       "verb-1",
       "verb-transitive",
@@ -25452,6 +25528,25 @@
     "optIkomaKanji": "47",
     "optKanshudoFreq": 1,
     "optSongLibFreq": 2
+  },
+  {
+    "Key": "微か-かすか",
+    "Furi": "微[かす]か",
+    "Eng": "dim/faint/poor/meagre",
+    "optTags": [
+      "adj-な",
+      "jlpt-n1"
+    ]
+  },
+  {
+    "Key": "高尚-こうしょう",
+    "Furi": "高[こう]尚[しょう]",
+    "Eng": "noble/refined/advanced",
+    "optTags": [
+      "noun",
+      "adj-な",
+      "jlpt-n1"
+    ]
   },
   {
     "Key": "選手-せんしゅ",
@@ -26678,6 +26773,14 @@
     "optTags": [
       "noun",
       "jlpt-n4"
+    ]
+  },
+  {
+    "Key": "定番-ていばん",
+    "Furi": "定[てい]番[ばん]",
+    "Eng": "staple/classic/standard item/go-to choice",
+    "optTags": [
+      "noun"
     ]
   },
   {

@@ -36,7 +36,6 @@
                 ]
             },
             {
-                
                 "Id": "ORIGIN-001",
                 "Furi": "私は カナダから 来[き]ました。",
                 "Eng": "I came from Canada.",
@@ -306,7 +305,7 @@
                     },
                     {
                         "Id": "003",
-                        "Furi": "先生は「宿題[しゅくだい]を 出[だ]しなさい」と 言[い]いました。",
+                        "Furi": "先[せん]生[せい]は「宿[しゅく]題[だい][しゅくだい]を 出[だ]しなさい」と 言[い]いました。",
                         "Eng": "The teacher said, 'Do your homework.'",
                         "Grammar": "と (quotation marker)",
                         "Explanation": "Used to indicate quoted speech or thoughts.",
@@ -599,7 +598,7 @@
                     },
                     {
                         "Id": "GRP-3-CONJ-SURU-001",
-                        "Furi": "私[わたし]は 宿題[しゅくだい]を します。",
+                        "Furi": "私[わたし]は 宿[しゅく]題[だい]を します。",
                         "Eng": "I do my homework.",
                         "Grammar": "Suru verb present affirmative",
                         "Explanation": "Uses the polite present affirmative form of 'する' to express that an action is being performed.",
@@ -648,7 +647,7 @@
                     },
                     {
                         "Id": "GRP-3-CONJ-SURU-001",
-                        "Furi": "私[わたし]は 宿題[しゅくだい]を しません。",
+                        "Furi": "私[わたし]は 宿[しゅく]題[だい]を しません。",
                         "Eng": "I don't do my homework.",
                         "Grammar": "Suru verb present negative",
                         "Explanation": "Uses the polite present negative form of 'する' to indicate that an action is not performed.",
@@ -710,7 +709,7 @@
                     },
                     {
                         "Id": "GRP-3-CONJ-SURU-001",
-                        "Furi": "私[わたし]は 宿題[しゅくだい]を しました。",
+                        "Furi": "私[わたし]は 宿[しゅく]題[だい]を しました。",
                         "Eng": "I did my homework.",
                         "Grammar": "Suru verb past affirmative",
                         "Explanation": "Uses the polite past affirmative form of 'する' to indicate a completed action.",
@@ -736,8 +735,7 @@
             },
             {
                 "Id": "PAST-NO",
-                "Sentences": [       
-
+                "Sentences": [
                     {
                         "Id": "GRP-1-CONJ-001",
                         "Furi": "私[わたし]は 手紙[てがみ]を書[か]きませんでした。",
@@ -773,7 +771,7 @@
                     },
                     {
                         "Id": "GRP-3-CONJ-SURU-001",
-                        "Furi": "私[わたし]は 宿題[しゅくだい]を しませんでした。",
+                        "Furi": "私[わたし]は 宿[しゅく]題[だい]を しませんでした。",
                         "Eng": "I didn't do my homework.",
                         "Grammar": "Suru verb past negative",
                         "Explanation": "Uses the polite past negative form of 'する' to indicate that an action was not completed.",
@@ -830,6 +828,301 @@
                         "Explanation": "Indicates an action that has not yet been completed in a polite negative form.",
                         "optTags": [
                             "jlpt-n5",
+                            "polite-speech"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "DESIRE-001",
+                "Furi": "寿司[すし]を 食[た]べたいです。",
+                "Eng": "I want to eat sushi.",
+                "Grammar": "～たい form",
+                "Explanation": "Expresses the speaker's desire to perform an action.",
+                "optTags": [
+                    "jlpt-n5",
+                    "polite-speech"
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "QUESTION",
+        "Sentences": [
+            {
+                "Id": "WHO",
+                "Sentences": [
+                    {
+                        "Id": "001",
+                        "Furi": "誰[だれ]が 来[き]ましたか？",
+                        "Eng": "Who came?",
+                        "Grammar": "誰 + が + Verb ましたか",
+                        "Explanation": "Used to ask about the subject of the action.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Id": "002",
+                        "Furi": "これは 誰[だれ]の 本[ほん]ですか？",
+                        "Eng": "Whose book is this?",
+                        "Grammar": "誰の + Noun + ですか",
+                        "Explanation": "Used to ask about possession.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Id": "003",
+                        "Furi": "あなたは 誰[だれ]と 話[はな]していましたか？",
+                        "Eng": "Who were you talking with?",
+                        "Grammar": "誰 + と + Verb ていましたか",
+                        "Explanation": "Used to ask about a conversation partner.",
+                        "optTags": [
+                            "jlpt-n4",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Id": "004",
+                        "Furi": "この 会社[かいしゃ]の 社長[しゃちょう]は 誰[だれ]ですか？",
+                        "Eng": "Who is the president of this company?",
+                        "Grammar": "Noun + の + 誰 + ですか",
+                        "Explanation": "Used to ask for the identity of a specific person in a group.",
+                        "optTags": [
+                            "jlpt-n4",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Id": "005",
+                        "Furi": "この 仕事[しごと]を 誰[だれ]が する ことに なりましたか？",
+                        "Eng": "Who ended up doing this job?",
+                        "Grammar": "誰 + が + することになった",
+                        "Explanation": "Used to ask about an assigned responsibility.",
+                        "optTags": [
+                            "jlpt-n3",
+                            "polite-speech"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "WHAT",
+                "Sentences": [
+                    {
+                        "Id": "001",
+                        "Furi": "これは 何[なん]ですか？",
+                        "Eng": "What is this?",
+                        "Grammar": "何 + ですか",
+                        "Explanation": "Used to ask about an unknown object or concept.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Id": "002",
+                        "Furi": "あなたの 名前[なまえ]は 何[なん]ですか？",
+                        "Eng": "What is your name?",
+                        "Grammar": "名前 + は + 何 + ですか",
+                        "Explanation": "A polite way to ask for someone's name.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "self-intro",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Id": "003",
+                        "Furi": "この 店[みせ]は どう 思[おも]いますか？",
+                        "Eng": "What do you think about this store?",
+                        "Grammar": "どう + 思う",
+                        "Explanation": "Used to ask for someone's opinion.",
+                        "optTags": [
+                            "jlpt-n4",
+                            "polite-speech"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "WHERE",
+                "Sentences": [
+                    {
+                        "Id": "001",
+                        "Furi": "どこに 行[い]きますか？",
+                        "Eng": "Where are you going?",
+                        "Grammar": "どこ + に + 行く",
+                        "Explanation": "Used to ask about a destination.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "location",
+                            "polite-speech"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "WHEN",
+                "Sentences": [
+                    {
+                        "Id": "001",
+                        "Furi": "何時[なんじ]に 起[お]きますか？",
+                        "Eng": "What time do you wake up?",
+                        "Grammar": "何時 + に + Verb ますか",
+                        "Explanation": "Asking for a specific time of an action.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "polite-speech"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "WHY",
+                "Sentences": [
+                    {
+                        "Id": "001",
+                        "Furi": "どうして 遅[おそ]れましたか？",
+                        "Eng": "Why were you late?",
+                        "Grammar": "どうして + Verb ましたか",
+                        "Explanation": "Used to ask for reasons.",
+                        "optTags": [
+                            "jlpt-n4",
+                            "polite-speech"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "HOW",
+                "Sentences": [
+                    {
+                        "Id": "001",
+                        "Furi": "この 漢字[かんじ]は どう 読[よ]みますか？",
+                        "Eng": "How do you read this kanji?",
+                        "Grammar": "どう + Verb ますか",
+                        "Explanation": "Used to ask how to do something.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "method",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Id": "002",
+                        "Furi": "どのように 申[もう]し込[こ]めば いいですか？",
+                        "Eng": "How should I apply?",
+                        "Grammar": "どのように + Verb ばいいですか",
+                        "Explanation": "A more formal way to ask about a method.",
+                        "optTags": [
+                            "jlpt-n4",
+                            "formal",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Id": "003",
+                        "Furi": "この 料理[りょうり]の 作[つく]り方[かた]を 教[おし]えて くれませんか？",
+                        "Eng": "Could you teach me how to make this dish?",
+                        "Grammar": "Noun + の + 作り方",
+                        "Explanation": "Used to ask for an explanation of how something is done.",
+                        "optTags": [
+                            "jlpt-n4",
+                            "request",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Id": "004",
+                        "Furi": "日本語[にほんご]を 上手[じょうず]に 話[はな]すには どうすれば いいですか？",
+                        "Eng": "How can I speak Japanese fluently?",
+                        "Grammar": "どうすればいいですか",
+                        "Explanation": "Used to ask for advice or a recommended method.",
+                        "optTags": [
+                            "jlpt-n3",
+                            "advice",
+                            "polite-speech"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "COMPARE",
+                "Sentences": [
+                    {
+                        "Id": "005",
+                        "Furi": "どの 本[ほん]が 一番[いちばん] 面白[おもしろ]いですか？",
+                        "Eng": "Which book is the most interesting?",
+                        "Grammar": "どの + Noun + が + 一番 + い-adjective ですか",
+                        "Explanation": "Used to ask for the best or most preferred option.",
+                        "optTags": [
+                            "jlpt-n4",
+                            "comparisons",
+                            "polite-speech"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "CONFIRMATION",
+                "Sentences": [
+                    {
+                        "Id": "001",
+                        "Furi": "昼[ひる]ご飯[はん]を 食[た]べましたか？",
+                        "Eng": "Did you eat lunch?",
+                        "Grammar": "Verb ましたか",
+                        "Explanation": "Used to ask about a completed action.",
+                        "optTags": [
+                            "jlpt-n5",
+                            "polite-speech"
+                        ]
+                    },
+                    {
+                        "Id": "002",
+                        "Furi": "この 映画[えいが]は 面白[おもしろ]く なかったですか？",
+                        "Eng": "Wasn't this movie interesting?",
+                        "Grammar": "Negative past + ですか",
+                        "Explanation": "Used to confirm or question a negative past assumption.",
+                        "optTags": [
+                            "jlpt-n4",
+                            "negative-questions",
+                            "polite-speech"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "HYPOTHETICAL",
+                "Sentences": [
+                    {
+                        "Id": "001",
+                        "Furi": "日本[にほん]に 行[い]くなら、 どこに 行[い]きたいですか？",
+                        "Eng": "If you go to Japan, where do you want to go?",
+                        "Grammar": "なら + どこ + に + Verb たいですか",
+                        "Explanation": "Uses 'なら' to present a hypothetical situation and ask about preferences.",
+                        "optTags": [
+                            "jlpt-n3",
+                            "hypothetical",
+                            "polite-speech"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": "REQUEST",
+                "Sentences": [
+                    {
+                        "Id": "001",
+                        "Furi": "今[いま]忙[いそが]しくなかったら、ちょっと 手伝[てつだ]ってくれませんか？",
+                        "Eng": "If you're not busy now, could you help me a little?",
+                        "Grammar": "～くなかったら + くれませんか",
+                        "Explanation": "Uses a negative conditional to politely request assistance.",
+                        "optTags": [
+                            "jlpt-n3",
                             "polite-speech"
                         ]
                     }
@@ -1206,7 +1499,7 @@
         "Id": "LOCATION",
         "Sentences": [
             {
-                "Id": "LOCATION-001",
+                "Id": "001",
                 "Furi": "テーブルの 上[うえ]に ペンがあります。",
                 "Eng": "There is a pen on the table.",
                 "Grammar": "～の上",
@@ -1217,7 +1510,7 @@
                 ]
             },
             {
-                "Id": "LOCATION-002",
+                "Id": "002",
                 "Furi": "学[がく]校[こう]まで 歩[ある]いて 行[い]きます。",
                 "Eng": "I walk to school.",
                 "Grammar": "～まで",
@@ -1229,17 +1522,6 @@
                     "polite-speech"
                 ]
             }
-        ]
-    },
-    {
-        "Id": "DESIRE-001",
-        "Furi": "寿司[すし]を 食[た]べたいです。",
-        "Eng": "I want to eat sushi.",
-        "Grammar": "～たい form",
-        "Explanation": "Expresses the speaker's desire to perform an action.",
-        "optTags": [
-            "jlpt-n5",
-            "polite-speech"
         ]
     },
     {
