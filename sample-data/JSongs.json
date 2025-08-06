@@ -388,6 +388,21 @@
     "ArtistNameJpn": "緑[りょく]黄[おう]色[しょく]社[しゃ]会[かい]"
   },
   {
+    "SongID": "SABA-001",
+    "SongURL": "https://www.youtube.com/embed/FjI-FDrGFdo",
+    "SongNameEng": "Jersey",
+    "SongNameJpn": "ジャージ",
+    "ArtistNameEng": "Saba Sister",
+    "ArtistNameJpn": "サバシスター"
+  },
+  {
+    "SongID": "SABA-002",
+    "SongURL": "https://www.youtube.com/embed/2gbDhz8mdGA",
+    "SongNameJpn": "覚[かく]悟[ご]を決[き]めろ",
+    "ArtistNameEng": "Saba Sister",
+    "ArtistNameJpn": "サバシスター"
+  },
+  {
     "SongID": "SAKA-001",
     "SongURL": "https://www.youtube.com/embed/T_WuE_AV6kg",
     "SongNameEng": "I Look Up as I Walk / Sukiyaki",
