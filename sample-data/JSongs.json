@@ -72,6 +72,13 @@
     "Tags": ["rock"]
   },
   {
+    "SongID": "ATARAYO-001",
+    "SongURL": "https://www.youtube.com/embed/zO8yNYEsYTc",
+    "SongNameJpn": "10月[がつ]無[む]口[くち]な君[きみ]を忘[わす]れる",
+    "ArtistNameEng": "Atarayo",
+    "ArtistNameJpn": "あたらよ"
+  },
+  {
     "SongID": "AWESOME-001",
     "SongURL": "https://www.youtube.com/embed/zkZARKFuzNQ",
     "SongNameEng": "Wasurena",
@@ -112,6 +119,14 @@
     "SongURL": "https://www.youtube.com/embed/vn7vfza-6fQ",
     "SongNameEng": "Kanashii Ureshii",
     "SongNameJpn": "かなしいうれしい",
+    "ArtistNameEng": "Frederic",
+    "ArtistNameJpn": "フレデリック"
+  },
+  {
+    "SongID": "FRED-002",
+    "SongURL": "https://www.youtube.com/embed/PCp2iXA1uLE",
+    "SongNameEng": "Oddloop",
+    "SongNameJpn": "オッドループ",
     "ArtistNameEng": "Frederic",
     "ArtistNameJpn": "フレデリック"
   },
@@ -292,6 +307,13 @@
     "SongURL": "https://www.youtube.com/embed/TqyfmFaZlqw",
     "SongNameEng": "Gurenge",
     "SongNameJpn": "紅蓮華[ぐれんげ]",
+    "ArtistNameEng": "LiSA"
+  },
+  {
+    "SongID": "LISA-002",
+    "SongURL": "https://www.youtube.com/embed/FfCPkQ0nXIY",
+    "SongNameEng": "Homura",
+    "SongNameJpn": "炎[ほむら]",
     "ArtistNameEng": "LiSA"
   },
   {
@@ -507,6 +529,14 @@
     "Tags": ["pop"]
   },
   {
+    "SongID": "YANG-001",
+    "SongURL": "https://www.youtube.com/embed/x_bmE2dqmd8",
+    "SongNameJpn": "ゴミ人[にん]間[げん]、俺[おれ]",
+    "ArtistNameEng": "YangSkinny",
+    "ArtistNameJpn": "ヤングスキニー",
+    "Tags": ["pop"]
+  },
+  {
     "SongID": "YOASOBI-001",
     "SongURL": "https://www.youtube.com/embed/by4SYYWlhEs",
     "SongNameEng": "Into The Night",
@@ -562,6 +592,14 @@
     "SongURL": "https://www.youtube.com/embed/jVGmah8Ul8M",
     "SongNameEng": "Shutter",
     "SongNameJpn": "シャッター",
+    "ArtistNameEng": "Yuuri",
+    "ArtistNameJpn": "優里[ゆうり]"
+  },
+  {
+    "SongID": "YUURI-002",
+    "SongURL": "https://www.youtube.com/embed/kzZ6KXDM1RI",
+    "SongNameEng": "Dry Flower",
+    "SongNameJpn": "ドライフラワー",
     "ArtistNameEng": "Yuuri",
     "ArtistNameJpn": "優里[ゆうり]"
   },
