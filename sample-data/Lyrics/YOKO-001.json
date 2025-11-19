@@ -25,7 +25,7 @@
       "EngStr": "But you're only staring at me"
     },
     {
-      "JpnStr": "微笑[ほほえ]んでるあなた",
+      "JpnStr": "微笑[ほほえ]んでる貴方[あなた]",
       "EngStr": "And smiling."
     },
     {
@@ -101,7 +101,7 @@
       "EngStr": "In the cradle of my love."
     },
     {
-      "JpnStr": "あなただけが 夢[ゆめ]の使者[ししゃ]に",
+      "JpnStr": "貴方[あなた]だけが 夢[ゆめ]の使者[ししゃ]に",
       "EngStr": "Only you are called as a messenger of dreams."
     },
     {
@@ -232,6 +232,7 @@
     "自由-じゆう",
     "蒼い-あおい",
     "裏切る-うらぎる",
+    "貴方-あなた",
     "輝く-かがやく",
     "運命-うんめい",
     "風-かぜ",

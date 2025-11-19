@@ -876,7 +876,7 @@
                     },
                     {
                         "Id": "003",
-                        "Furi": "あなたは 誰[だれ]と 話[はな]していましたか？",
+                        "Furi": "貴方[あなた]は 誰[だれ]と 話[はな]していましたか？",
                         "Eng": "Who were you talking with?",
                         "Grammar": "誰 + と + Verb ていましたか",
                         "Explanation": "Used to ask about a conversation partner.",
@@ -925,7 +925,7 @@
                     },
                     {
                         "Id": "002",
-                        "Furi": "あなたの 名前[なまえ]は 何[なん]ですか？",
+                        "Furi": "貴方[あなた]の 名前[なまえ]は 何[なん]ですか？",
                         "Eng": "What is your name?",
                         "Grammar": "名前 + は + 何 + ですか",
                         "Explanation": "A polite way to ask for someone's name.",

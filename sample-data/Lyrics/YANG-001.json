@@ -1,11 +1,11 @@
 {
   "SongLyrics": [
     {
-      "JpnStr": "あの時[とき]はごめんね、振[ふ]り回[まわ]してしまって",
+      "JpnStr": "あの時[とき]は御[ご]免[めん]ね、振[ふ]り回[まわ]してしまって",
       "EngStr": "I'm sorry for that time, for stringing you along."
     },
     {
-      "JpnStr": "悪気[わるぎ]は少[すこ]しもなかったの",
+      "JpnStr": "悪[わる]気[ぎ]は少[すこ]しもなかったの",
       "EngStr": "I didn't mean any harm, not even a little."
     },
     {
@@ -13,7 +13,7 @@
       "EngStr": "Maybe, but maybe."
     },
     {
-      "JpnStr": "あの時[とき]はごめんね、傷[きず]つけた数[かず]だけ指[ゆび]を折[お]って",
+      "JpnStr": "あの時[とき]は御[ご]免[めん]ね、傷[きず]つけた数[かず]だけ指[ゆび]を折[お]って",
       "EngStr": "I'm sorry for that time, for every time I hurt you, I'll count it on my fingers."
     },
     {
@@ -49,7 +49,7 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "騙[だま]されたあなたが悪[わる]いんだよ",
+      "JpnStr": "騙[だま]された貴方[あなた]が悪[わる]いんだよ",
       "EngStr": "It's your fault for being deceived."
     },
     {
@@ -57,7 +57,7 @@
       "EngStr": "Well, maybe I'm a little bad for deceiving you, just a little."
     },
     {
-      "JpnStr": "騙[だま]されたあなたが悪[わる]いんだよ",
+      "JpnStr": "騙[だま]された貴方[あなた]が悪[わる]いんだよ",
       "EngStr": "It's your fault for being deceived."
     },
     {
@@ -69,7 +69,7 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "愛[あい]ないセックス中[ちゅう]に中身[なかみ]ない好[す]きを言[い]ってみる",
+      "JpnStr": "愛[あい]ないセックス中[ちゅう]に中[なか]身[み]ない好[す]きを言[い]ってみる",
       "EngStr": "During loveless sex, I try saying a meaningless 'I love you'."
     },
     {
@@ -77,7 +77,7 @@
       "EngStr": "When I feel like seeing you, I'll reply to your message."
     },
     {
-      "JpnStr": "どうしようもない俺[おれ]にあなたは多分[たぶん]惚[ほ]れてる",
+      "JpnStr": "どうしようもない俺[おれ]に貴方[あなた]は多分[たぶん]惚[ほ]れてる",
       "EngStr": "Maybe you're in love with a hopeless guy like me."
     },
     {
@@ -109,7 +109,7 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "騙[だま]されたあなたが悪[わる]いんだよ",
+      "JpnStr": "騙[だま]された貴方[あなた]が悪[わる]いんだよ",
       "EngStr": "It's your fault for being deceived."
     },
     {
@@ -117,7 +117,7 @@
       "EngStr": "Well, maybe I'm a little bad for deceiving you, just a little."
     },
     {
-      "JpnStr": "騙[だま]されたあなたが悪[わる]いんだよ",
+      "JpnStr": "騙[だま]された貴方[あなた]が悪[わる]いんだよ",
       "EngStr": "It's your fault for being deceived."
     },
     {
@@ -133,11 +133,11 @@
       "EngStr": "Even if you say I'm the worst,"
     },
     {
-      "JpnStr": "あなたはそれが好[す]きだったんでしょ",
+      "JpnStr": "貴方[あなた]はそれが好[す]きだったんでしょ",
       "EngStr": "you liked that part of me, didn't you?"
     },
     {
-      "JpnStr": "あなたが勝手[かって]に好[す]きになっちゃったんでしょ",
+      "JpnStr": "貴方[あなた]が勝手[かって]に好[す]きになっちゃったんでしょ",
       "EngStr": "You just fell in love with me on your own, didn't you?"
     },
     {
@@ -145,7 +145,7 @@
       "EngStr": "Even if you say I'm the worst,"
     },
     {
-      "JpnStr": "じゃああなたはどうして欲[ほ]しかったの",
+      "JpnStr": "じゃあ貴方[あなた]はどうして欲[ほ]しかったの",
       "EngStr": "then what did you want me to do?"
     },
     {
@@ -155,7 +155,6 @@
   ],
   "ListVocab": [
     "あの時-あのとき",
-    "ごめん-ごめん",
     "セックス-セックス",
     "どうしようもない-どうしようもない",
     "フリ-フリ",
@@ -177,6 +176,7 @@
     "少し-すこし",
     "帰す-かえす",
     "引く-ひく",
+    "御免-ごめん",
     "怒る-おこる",
     "思う-おもう",
     "悪い-わるい",
@@ -198,6 +198,7 @@
     "終電-しゅうでん",
     "言う-いう",
     "許す-ゆるす",
+    "貴方-あなた",
     "足りない-たりない",
     "返す-かえす",
     "返事-へんじ",

@@ -146,6 +146,13 @@
     "ArtistNameJpn": "藤井[ふじい] 風[かぜ]"
   },
   {
+    "SongID": "GALILEO-001",
+    "SongURL": "https://www.youtube.com/embed/T3bxbVGWy5k",
+    "SongNameEng": "Aoi Shiori",
+    "SongNameJpn": "青い栞",
+    "ArtistNameEng": "Galileo Galilei"
+  },
+  {
     "SongID": "GREEEEN-001",
     "SongURL": "https://www.youtube.com/embed/tO5KPGgwb-I",
     "SongNameEng": "Kiseki",
@@ -484,6 +491,13 @@
     "SongURL": "https://www.youtube.com/embed/LfwVHLZ4mtA",
     "SongNameEng": "Blank",
     "SongNameJpn": "空[くう]白[はく]",
+    "ArtistNameEng": "snooty"
+  },
+  {
+    "SongID": "SNOOTY-003",
+    "SongURL": "https://www.youtube.com/embed/cyFMuQpqWho",
+    "SongNameEng": "Heartbeat",
+    "SongNameJpn": "心[しん]音[おん]",
     "ArtistNameEng": "snooty"
   },
   {

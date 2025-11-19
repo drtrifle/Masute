@@ -5,7 +5,7 @@
       "EngStr": "'Yes, with pleasure.'"
     },
     {
-      "JpnStr": "『あなた方[がた]のため』",
+      "JpnStr": "『貴方[あなた]方[がた]のため』",
       "EngStr": "'For your sake.'"
     },
     {
@@ -13,7 +13,7 @@
       "EngStr": "'Yes, respectfully.'"
     },
     {
-      "JpnStr": "『あなた方[がた]のために』",
+      "JpnStr": "『貴方[あなた]方[がた]のために』",
       "EngStr": "'For your sake.'"
     },
     {
@@ -33,7 +33,7 @@
       "EngStr": "A shield against the stubborn ones."
     },
     {
-      "JpnStr": "『はい喜[よろこ]んであなた方[がた]のために』",
+      "JpnStr": "『はい喜[よろこ]んで貴方[あなた]方[がた]のために』",
       "EngStr": "'Yes, with pleasure, for your sake.'"
     },
     {
@@ -117,7 +117,7 @@
       "EngStr": "Even if you embrace anger."
     },
     {
-      "JpnStr": "優[やさ]しさが勝[か]つあなたの",
+      "JpnStr": "優[やさ]しさが勝[か]つ貴方[あなた]の",
       "EngStr": "Your kindness triumphs."
     },
     {
@@ -217,7 +217,7 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "『はい喜[よろこ]んであなた方[がた]のために』",
+      "JpnStr": "『はい喜[よろこ]んで貴方[あなた]方[がた]のために』",
       "EngStr": "'Yes, with pleasure, for your sake.'"
     },
     {
@@ -225,7 +225,7 @@
       "EngStr": "'If possible, I'll do what I can.'"
     },
     {
-      "JpnStr": "『はい謹[つつし]んであなた方[がた]のために』",
+      "JpnStr": "『はい謹[つつし]んで貴方[あなた]方[がた]のために』",
       "EngStr": "'Yes, respectfully, for your sake.'"
     },
     {
@@ -234,7 +234,6 @@
     }
   ],
   "ListVocab": [
-    "あなた方-あなたがた",
     "一歩-いっぽ",
     "他人-たにん",
     "任せる-まかせる",
@@ -261,6 +260,7 @@
     "病い-やまい",
     "盾-たて",
     "謹む-つつしむ",
+    "貴方-あなた",
     "踏み出す-ふみだす",
     "隠す-かくす",
     "音頭-おんど",

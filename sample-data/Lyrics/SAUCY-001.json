@@ -9,7 +9,7 @@
       "EngStr": "My heart can't keep up"
     },
     {
-      "JpnStr": "カラダは単純[たんじゅん]シンプルなのね",
+      "JpnStr": "カラダはシンプルなのね",
       "EngStr": "My body is simple and straightforward"
     },
     {
@@ -33,7 +33,7 @@
       "EngStr": "You were the worst but I loved you"
     },
     {
-      "JpnStr": "なんでかな ムカつくわ。もう",
+      "JpnStr": "何[なん]でかな ムカつくわ。もう",
       "EngStr": "Why is that? It's frustrating, really"
     },
     {
@@ -61,7 +61,7 @@
       "EngStr": "Don't make me cry in your arms"
     },
     {
-      "JpnStr": "気[き]づかないふりをしてそのまま",
+      "JpnStr": "気[き]づかない振[ふ]りをしてそのまま",
       "EngStr": "You pretend not to notice, just like that"
     },
     {
@@ -161,7 +161,7 @@
       "EngStr": "Don't make me cry in your arms"
     },
     {
-      "JpnStr": "気[き]づかないふりをしてそのまま",
+      "JpnStr": "気[き]づかない振[ふ]りをしてそのまま",
       "EngStr": "You pretend not to notice, just like that"
     },
     {
@@ -181,7 +181,7 @@
       "EngStr": "Capture me deep in your eyes"
     },
     {
-      "JpnStr": "気[き]づかないふりをしてそのまま",
+      "JpnStr": "気[き]づかない振[ふ]りをしてそのまま",
       "EngStr": "You pretend not to notice, just like that"
     },
     {
@@ -196,6 +196,7 @@
     "一人-ひとり",
     "一番-いちばん",
     "上手-じょうず",
+    "何で-なんで",
     "傷つける-きずつける",
     "分かる-わかる",
     "単純-たんじゅん",
@@ -211,6 +212,7 @@
     "忘れる-わすれる",
     "意地悪-いじわる",
     "愛する-あいする",
+    "振り-ふり",
     "捕まえる-つかまえる",
     "散らかる-ちらかる",
     "最低-さいてい",
