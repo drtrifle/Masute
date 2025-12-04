@@ -25,7 +25,7 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "イコールへとひきずられていく こわいくらいに青[あお]い空[そら]を",
+      "JpnStr": "イコールへとひきずられていく 怖[こわ]いくらいに青[あお]い空[そら]を",
       "EngStr": "Being dragged toward equality, the terrifyingly blue sky,"
     },
     {
@@ -41,7 +41,7 @@
       "EngStr": "And so, the bundle of sunlight now pushes down on me."
     },
     {
-      "JpnStr": "まだ二人[ふたり]はすぐそこにいるのに 「どうかまた会[あ]えますように」なんて",
+      "JpnStr": "まだ二[ふた]人[り]はすぐそこにいるのに 「どうかまた会[あ]えますように」なんて",
       "EngStr": "Even though the two of us are still right there, wishing 'May we meet again somehow',"
     },
     {
@@ -101,7 +101,7 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "海[うみ]を見渡[みわた]す坂[さか]をかけのぼって こわいくらいに青[あお]い空[そら]と",
+      "JpnStr": "海[うみ]を見渡[みわた]す坂[さか]をかけのぼって 怖[こわ]いくらいに青[あお]い空[そら]と",
       "EngStr": "Running up the hill that overlooks the sea, with the terrifyingly blue sky,"
     },
     {
@@ -133,7 +133,7 @@
       "EngStr": "And so, the 'now' doesn't even question me."
     },
     {
-      "JpnStr": "まだ二人[ふたり]はすぐそこにいるだろう 「そうだ、空白[くうはく]を埋[う]める言葉[ことば]は」",
+      "JpnStr": "まだ二[ふた]人[り]はすぐそこにいるだろう 「そうだ、空白[くうはく]を埋[う]める言葉[ことば]は」",
       "EngStr": "The two of us are still right there, aren't we? 'That's right, the words to fill the blank space...'"
     },
     {
@@ -173,7 +173,6 @@
     "きっと-きっと",
     "くちびる-くちびる",
     "くらい-くらい",
-    "こわい-こわい",
     "サイダー-サイダー",
     "すぐ-すぐ",
     "ずっと-ずっと",
@@ -228,6 +227,7 @@
     "引き摺られる-ひきずられる",
     "忘れかける-わすれかける",
     "忘れてしまう-わすれてしまう",
+    "怖い-こわい",
     "思い出す-おもいだす",
     "愛-あい",
     "抱きしめる-だきしめる",

@@ -17,7 +17,7 @@
       "EngStr": "I'm sure it'll do the trick,"
     },
     {
-      "JpnStr": "くらい語[かた]っとけばうまくいく",
+      "JpnStr": "くらい語[かた]っとけば上[う]手[ま]く行[い]く",
       "EngStr": "if I talk about it so much that it becomes not enough."
     },
     {
@@ -270,6 +270,7 @@
     }
   ],
   "ListVocab": [
+    "上手く行く-うまくいく",
     "いい-いい",
     "このまま-このまま",
     "コピー-こーぴー",

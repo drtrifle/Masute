@@ -129,11 +129,11 @@
       "EngStr": "Soft skin pressed together."
     },
     {
-      "JpnStr": "少[すこ]し冷[つめ]たい空気[くうき]を2人[ふたり]",
+      "JpnStr": "少[すこ]し冷[つめ]たい空気[くうき]を二[ふた]人[り]",
       "EngStr": "The slightly cool air for the two of us."
     },
     {
-      "JpnStr": "かみしめて歩[ある]く今日[きょう]という日[ひ]に",
+      "JpnStr": "噛[か]み締[し]めて歩[ある]く今日[きょう]という日[ひ]に",
       "EngStr": "We savor it as we walk on this day called today."
     },
     {
@@ -153,7 +153,7 @@
       "EngStr": "Not enough, so I kiss you."
     },
     {
-      "JpnStr": "雲[くも]がまだ2人[ふたり]の影[かげ]を残[のこ]すから",
+      "JpnStr": "雲[くも]がまだ二[ふた]人[り]の影[かげ]を残[のこ]すから",
       "EngStr": "Since the clouds still leave the shadow of the two of us."
     },
     {
@@ -173,7 +173,7 @@
       "EngStr": "I want us to stay connected."
     },
     {
-      "JpnStr": "2人[ふたり]の想[おも]いが",
+      "JpnStr": "二[ふた]人[り]の想[おも]いが",
       "EngStr": "The feelings of the two of us."
     },
     {
@@ -233,7 +233,7 @@
       "EngStr": "Not enough, so I kiss you."
     },
     {
-      "JpnStr": "雲[くも]がまだ2人[ふたり]の影[かげ]を残[のこ]すから",
+      "JpnStr": "雲[くも]がまだ二[ふた]人[り]の影[かげ]を残[のこ]すから",
       "EngStr": "Since the clouds still leave the shadow of the two of us."
     },
     {
@@ -257,6 +257,7 @@
     "ぎゅっと-ぎゅっと",
     "このまま-このまま",
     "不思議-ふしぎ",
+    "二人-ふたり",
     "今日-きょう",
     "優しさ-やさしさ",
     "光-ひかり",
@@ -269,6 +270,7 @@
     "名前-なまえ",
     "吐き出せる-はきだせる",
     "君-きみ",
+    "噛み締める-かみしめる",
     "場所-ばしょ",
     "夏-なつ",
     "大好き-だいすき",

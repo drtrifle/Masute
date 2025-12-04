@@ -65,7 +65,7 @@
       "EngStr": "He'll pat your head, and you'll smile."
     },
     {
-      "JpnStr": "駄目[だめ]だ何[なに]ひとつ勝[か]ってない",
+      "JpnStr": "駄目[だめ]だ何[なに]一[ひと]つ勝[か]ってない",
       "EngStr": "It's no use, I don't stand a chance at anything."
     },
     {
@@ -138,6 +138,7 @@
     }
   ],
   "ListVocab": [
+    "何一つ-なにひとつ",
     "偶然-ぐうぜん",
     "勇気-ゆうき",
     "友達-ともだち",

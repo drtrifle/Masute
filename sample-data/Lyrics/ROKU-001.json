@@ -21,7 +21,7 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "愛[あい]をひとつ またねまたね",
+      "JpnStr": "愛[あい]を一[ひと]つ またねまたね",
       "EngStr": "One love, see you later, see you later."
     },
     {
@@ -29,7 +29,7 @@
       "EngStr": "Until the warmth blooms in the night and lights up."
     },
     {
-      "JpnStr": "呼吸[こきゅう]ひとつ 生[い]きる生[い]きる",
+      "JpnStr": "呼吸[こきゅう]一[ひと]つ 生[い]きる生[い]きる",
       "EngStr": "One breath, live, live."
     },
     {
@@ -73,7 +73,7 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "愛[あい]をひとつ またねまたね",
+      "JpnStr": "愛[あい]を一[ひと]つ またねまたね",
       "EngStr": "One love, see you later, see you later."
     },
     {
@@ -81,7 +81,7 @@
       "EngStr": "Until the warmth blooms in the night and lights up."
     },
     {
-      "JpnStr": "呼吸[こきゅう]ひとつ 生[い]きる生[い]きる",
+      "JpnStr": "呼吸[こきゅう]一[ひと]つ 生[い]きる生[い]きる",
       "EngStr": "One breath, live, live."
     },
     {
@@ -93,11 +93,11 @@
       "EngStr": ""
     },
     {
-      "JpnStr": "愛[あい]をひとつ またねまたね 嗚呼[ああ]",
+      "JpnStr": "愛[あい]を一[ひと]つ またねまたね 嗚呼[ああ]",
       "EngStr": "One love, see you later, see you later, ah."
     },
     {
-      "JpnStr": "愛[あい]をひとつ またねまたね",
+      "JpnStr": "愛[あい]を一[ひと]つ またねまたね",
       "EngStr": "One love, see you later, see you later."
     },
     {
@@ -125,11 +125,12 @@
       "EngStr": "I don't need to be perfectly facing forward, just hold me."
     },
     {
-      "JpnStr": "愛[あい]をひとつ またねまたね",
+      "JpnStr": "愛[あい]を一[ひと]つ またねまたね",
       "EngStr": "One love, see you later, see you later."
     }
   ],
   "ListVocab": [
+    "一つ-ひとつ",
     "今日-きょう",
     "余白-よはく",
     "優しい-やさしい",

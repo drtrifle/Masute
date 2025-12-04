@@ -153,7 +153,7 @@
       "EngStr": "And dream of things that don't matter"
     },
     {
-      "JpnStr": "明日[あした]は2人[ふたり]で過[す]ごしたいなんて",
+      "JpnStr": "明日[あした]は二[ふた]人[り]で過[す]ごしたいなんて",
       "EngStr": "I want to spend tomorrow with you"
     },
     {
@@ -239,6 +239,7 @@
   ],
   "ListVocab": [
     "ソファ-そふぁ",
+    "二人-ふたり",
     "今日-きょう",
     "伝える-つたえる",
     "健康的-けんこうてき",

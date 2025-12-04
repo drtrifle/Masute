@@ -113,7 +113,7 @@
       "EngStr": "Could it be destiny, m-m-my deer!?"
     },
     {
-      "JpnStr": "こころのどこかで虎視眈々[こしたんたん]",
+      "JpnStr": "心[こころ]のどこかで虎視眈々[こしたんたん]",
       "EngStr": "Somewhere in my heart, waiting for a chance"
     },
     {
@@ -277,7 +277,7 @@
       "EngStr": "Could it be destiny, m-m-my deer!?"
     },
     {
-      "JpnStr": "こころのどこかで虎視眈々[こしたんたん]",
+      "JpnStr": "心[こころ]のどこかで虎視眈々[こしたんたん]",
       "EngStr": "Somewhere in my heart, waiting for a chance"
     },
     {
@@ -298,6 +298,7 @@
     }
   ],
   "ListVocab": [
+    "心-こころ",
     "アバンギャルド",
     "イマドキ",
     "ウシ科-うしか",

@@ -101,7 +101,7 @@
       "EngStr": "I don't know the answer I don't want to know"
     },
     {
-      "JpnStr": "たったひとつ確[たし]かなことがあるとするのならば",
+      "JpnStr": "たった一[ひと]つ確[たし]かなことがあるとするのならば",
       "EngStr": "But if there's one thing I know for sure,"
     },
     {
@@ -121,7 +121,7 @@
       "EngStr": "Tells of the logic of love"
     },
     {
-      "JpnStr": "何[なに]ひとつとしてピンとこなくて",
+      "JpnStr": "何[なに]一[ひと]つとしてピンとこなくて",
       "EngStr": "Not a single clicked with me"
     },
     {
@@ -213,7 +213,7 @@
       "EngStr": "I don't know the answer I don't want to know"
     },
     {
-      "JpnStr": "たったひとつ確[たし]かなことがあるとするのならば",
+      "JpnStr": "たった一[ひと]つ確[たし]かなことがあるとするのならば",
       "EngStr": "But if there's one thing I know for sure,"
     },
     {
@@ -239,6 +239,7 @@
   ],
   "ListVocab": [
     "いつも通り-いつもどおり",
+    "一つ-ひとつ",
     "一人-ひとり",
     "世界線-せかいせん",
     "予想通り-よそうどおり",

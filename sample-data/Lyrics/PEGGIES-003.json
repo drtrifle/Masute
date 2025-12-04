@@ -89,11 +89,11 @@
         "EngStr": "I'm still hiding a small wound that hurts."
       },
       {
-        "JpnStr": "制服[せいふく] 脱[ぬ]いだって 見[み]えやしない ほんとの こころ",
+        "JpnStr": "制服[せいふく] 脱[ぬ]いだって 見[み]えやしない ほんとの 心[こころ]",
         "EngStr": "Even if I take off my uniform, you can't see my true heart."
       },
       {
-        "JpnStr": "二人[ふたり] 並[なら]んで 歩[ある]いても 微妙[びみょう]すぎる 距離感[きょりかん]",
+        "JpnStr": "二[ふた]人[り] 並[なら]んで 歩[ある]いても 微妙[びみょう]すぎる 距離感[きょりかん]",
         "EngStr": "Even when we walk side by side, the distance between us feels too subtle."
       },
       {
@@ -191,6 +191,7 @@
     ],
     "ListVocab": [
       "一人-ひとり",
+      "心-こころ",
       "予防線-よぼうせん",
       "傷-きず",
       "制服-せいふく",

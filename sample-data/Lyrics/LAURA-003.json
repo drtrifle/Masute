@@ -1,0 +1,180 @@
+{
+  "SongLyrics": [
+    {
+      "JpnStr": "月世界[げっせかい]旅行[りょこう]の途中[とちゅう]乾[かわ]いて行[い]く君[きみ]の胸[むね]を",
+      "EngStr": "On the way to the moonlit world, your chest that is drying up,"
+    },
+    {
+      "JpnStr": "それで間[ま]に合[あ]うなら僕[ぼく]が歌[うた]を書[か]こう",
+      "EngStr": "if that will be in time, I will write a song."
+    },
+    {
+      "JpnStr": "改札[かいさつ]は通[とお]れないけど空[そら]は飛[と]べると吹[ふ]き抜[ぬ]けて",
+      "EngStr": "The ticket gate can't be passed through, but saying 'we can fly in the sky,' the wind sweeps through."
+    },
+    {
+      "JpnStr": "『仕掛[しかけ]のないオレンジの方[ほう]が好[す]き』と",
+      "EngStr": "'I prefer the orange without a trick inside,' you say."
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "神様[かみさま]作[さく]のビターな世界[せかい]が振[ふ]り向[む]かなくても",
+      "EngStr": "Even if this bitter world made by God doesn't turn around,"
+    },
+    {
+      "JpnStr": "振[ふ]り向[む]かなくても",
+      "EngStr": "even if it doesn't turn around."
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "トイに飽[あ]きたらない子供[こども]たち",
+      "EngStr": "Children who aren't satisfied with their toys,"
+    },
+    {
+      "JpnStr": "恋人[こいびと]の息[いき]は白[しろ]く",
+      "EngStr": "a lover's breath is white."
+    },
+    {
+      "JpnStr": "バスの最後列[さいこうれつ]",
+      "EngStr": "The back row of the bus."
+    },
+    {
+      "JpnStr": "それぞれの熱[ねつ]を待[ま]って",
+      "EngStr": "Waiting for each of their fevers,"
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "銃声[じゅうせい]の上[うえ]にある祝祭[しゅくさい]の熱狂[ねっきょう]に急[せ]かされて",
+      "EngStr": "rushed by the fervor of the festival that is above the gunshots."
+    },
+    {
+      "JpnStr": "イヤホンいやほん]の中[なか]に迷[まよ]い込[こ]んで",
+      "EngStr": "Lost inside the earphones."
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "『白[しろ]い車[くるま]で許[ゆる]すよ』",
+      "EngStr": "'I'll forgive you in a white car.'"
+    },
+    {
+      "JpnStr": "まだ雨[あめ]に滲[にじ]む前[まえ]の",
+      "EngStr": "Before it bleeds into the rain,"
+    },
+    {
+      "JpnStr": "紙[かみ]に落[お]としたインクの",
+      "EngStr": "the ink that fell onto the paper."
+    },
+    {
+      "JpnStr": "言葉[ことば]を見逃[みのが]さないで",
+      "EngStr": "Don't overlook the words."
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "君[きみ]だけは 涙[なみだ]の流[なが]し方[かた]を間違[まちが]えないでってベイベー 歌[うた]いたい",
+      "EngStr": "Only you, 'Don't mistake the way you shed tears,' baby, I want to sing."
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "土曜日[どようび]ざわめく最悪[さいあく]の目覚[めざ]め",
+      "EngStr": "Saturday's murmur, the worst awakening."
+    },
+    {
+      "JpnStr": "行方[ゆくえ]もなきものたちの群[む]れ",
+      "EngStr": "A crowd of things with no destination."
+    },
+    {
+      "JpnStr": "少[すこ]しだけ遡[さかのぼ]り 金曜日[きんようび] 空[そら]に帰[かえ]る熱[ねつ]",
+      "EngStr": "Going back just a little, Friday, the fever returning to the sky."
+    }
+  ],
+  "ListVocab": [
+    "イヤホン-イヤホン",
+    "インク-インク",
+    "オレンジ-オレンジ",
+    "ざわめく-ざわめく",
+    "それぞれ-それぞれ",
+    "だけ-だけ",
+    "トイ-トイ",
+    "なきもの-なきもの",
+    "バス-バス",
+    "ビター-ビター",
+    "ベイベー-ベイベー",
+    "上-うえ",
+    "世界-せかい",
+    "中-なか",
+    "乾く-かわく",
+    "仕掛け-しかけ",
+    "作-さく",
+    "僕-ぼく",
+    "前-まえ",
+    "君-きみ",
+    "吹き抜ける-ふきぬける",
+    "土曜日-どようび",
+    "好き-すき",
+    "子供-こども",
+    "少し-すこし",
+    "帰る-かえる",
+    "待つ-まつ",
+    "急かされる-せかされる",
+    "恋人-こいびと",
+    "息-いき",
+    "振り向く-ふりむく",
+    "改札-かいさつ",
+    "方-ほう",
+    "旅行-りょこう",
+    "書く-かく",
+    "最後列-さいこうれつ",
+    "最悪-さいあく",
+    "月世界-げっせかい",
+    "歌-うた",
+    "歌いたい-うたいたい",
+    "流し方-ながしかた",
+    "涙-なみだ",
+    "滲む-にじむ",
+    "熱-ねつ",
+    "熱狂-ねっきょう",
+    "白い-しろい",
+    "目覚め-めざめ",
+    "祝祭-しゅくさい",
+    "神様-かみさま",
+    "空-そら",
+    "紙-かみ",
+    "群れ-むれ",
+    "胸-むね",
+    "落とす-おとす",
+    "行方-ゆくえ",
+    "見逃す-みのがす",
+    "言葉-ことば",
+    "許す-ゆるす",
+    "車-くるま",
+    "迷い込む-まよいこむ",
+    "途中-とちゅう",
+    "通れない-とおれない",
+    "遡る-さかのぼる",
+    "金曜日-きんようび",
+    "銃声-じゅうせい",
+    "間に合う-まにあう",
+    "間違えない-まちがえない",
+    "雨-あめ",
+    "飛べる-とべる",
+    "飽きる-あきる"
+  ]
+}

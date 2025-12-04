@@ -1,0 +1,169 @@
+{
+  "SongLyrics": [
+    {
+      "JpnStr": "ベイベー 君[きみ]と上[う]手[ま]く話[はな]したいけど",
+      "EngStr": "Baby, I want to talk well with you, but"
+    },
+    {
+      "JpnStr": "二[ふた]人[り]歩[ある]けばファニーシングス",
+      "EngStr": "when the two of us walk, funny things happen."
+    },
+    {
+      "JpnStr": "下[くだ]らないやり取[と]りの一[ひと]つも",
+      "EngStr": "Even one of those trivial exchanges,"
+    },
+    {
+      "JpnStr": "心[こころ]に留[とど]めたくて蓋[ふた]をしてたの",
+      "EngStr": "I wanted to keep it in my heart, so I kept the lid on it."
+    },
+    {
+      "JpnStr": "そんなこと思[おも]い出[だ]して言[い]う",
+      "EngStr": "Remembering such things, I say,"
+    },
+    {
+      "JpnStr": "「あくびがうつるくらいそばにいたのに」",
+      "EngStr": "'Even though we were close enough for yawns to be contagious.'"
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "夜行[やこう]バスは行[い]き先[さき]の名前[なまえ]を隠[かく]して",
+      "EngStr": "The night bus hides the name of its destination,"
+    },
+    {
+      "JpnStr": "約束[やくそく]どおりすぎてく春[はる]も連[つ]れ去[さ]ってしまえば",
+      "EngStr": "and if it takes away the spring that passes as promised,"
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "答[こた]え合[あ]わせさえできなかった夜[よる]も置[お]き去[ざ]りになった",
+      "EngStr": "even the nights when we couldn't check our answers are left behind."
+    },
+    {
+      "JpnStr": "例[たと]えばの話[はなし]なら、また意味[いみ]もないこと 二[ふた]人[り]で笑[わら]ってたかもね",
+      "EngStr": "If it were just a hypothetical conversation, maybe we'd be laughing together about something meaningless again."
+    },
+    {
+      "JpnStr": "さようなら代[か]わりのsadnumber",
+      "EngStr": "The sad number that replaces 'goodbye'."
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "眠[ねむ]れないベッドの上[うえ] 寝返[ねがえ]りを打[う]って",
+      "EngStr": "On a sleepless bed, tossing and turning,"
+    },
+    {
+      "JpnStr": "ラジオは教[おし]えてくれない 秘密[ひみつ]をさがして",
+      "EngStr": "searching for a secret that the radio won't tell me."
+    },
+    {
+      "JpnStr": "星[ほし]が瞬[またた]きする間[あいだ]に 電波[でんぱ]をさらって",
+      "EngStr": "While the stars are twinkling, stealing the radio waves."
+    },
+    {
+      "JpnStr": "季節[きせつ]運[はこ]ぶぬるい風[かぜ] 春[はる]を連[つ]れ去[さ]ってしまえば",
+      "EngStr": "If the lukewarm wind that carries the season takes away spring,"
+    },
+    {
+      "JpnStr": "",
+      "EngStr": ""
+    },
+    {
+      "JpnStr": "くりかえす日々[ひび]を時[とき]にふり返[かえ]って",
+      "EngStr": "I sometimes look back at the repeating days,"
+    },
+    {
+      "JpnStr": "長[なが]いため息[いき]が鼻歌[はなうた]に変[か]わる頃[ころ]",
+      "EngStr": "around the time my long sigh turns into a hum."
+    },
+    {
+      "JpnStr": "ただ君[きみ]の街[まち]に吹[ふ]く風[かぜ]にのせるように",
+      "EngStr": "Just like putting it on the wind that blows in your town,"
+    },
+    {
+      "JpnStr": "さようなら代[か]わりのsadnumber",
+      "EngStr": "the sad number that replaces 'goodbye'."
+    }
+  ],
+  "ListVocab": [
+    "sadnumber-サッドナンバー",
+    "あくび-あくび",
+    "うつる-うつる",
+    "くらい-くらい",
+    "くりかえす-くりかえす",
+    "さようなら-さようなら",
+    "さらう-さらう",
+    "すぎる-すぎる",
+    "そば-そば",
+    "そんなこと-そんなこと",
+    "ただ-ただ",
+    "ため息-ためいき",
+    "できない-できない",
+    "ぬるい-ぬるい",
+    "のせる-のせる",
+    "ファニーシングス-ファニーシングス",
+    "ふり返る-ふりかえる",
+    "ベイベー-ベイベー",
+    "ベッド-ベッド",
+    "また-また",
+    "やり取り-やりとり",
+    "ラジオ-ラジオ",
+    "一つ-ひとつ",
+    "上-うえ",
+    "上手く-うまく",
+    "下らない-くだらない",
+    "二人-ふたり",
+    "代わり-かわり",
+    "例えば-たとえば",
+    "名前-なまえ",
+    "君-きみ",
+    "吹く-ふく",
+    "変わる-かわる",
+    "夜-よる",
+    "夜行バス-やこうバス",
+    "季節-きせつ",
+    "寝返り-ねがえり",
+    "心-こころ",
+    "思い出す-おもいだす",
+    "意味-いみ",
+    "打つ-うつ",
+    "探す-さがす",
+    "教える-おしえる",
+    "日々-ひび",
+    "星-ほし",
+    "春-はる",
+    "時-とき",
+    "歩く-あるく",
+    "留める-とどめる",
+    "眠れない-ねむれない",
+    "瞬き-またたき",
+    "秘密-ひみつ",
+    "笑う-わらう",
+    "答え合わせ-こたえあわせ",
+    "約束どおり-やくそくどおり",
+    "置き去り-おきざり",
+    "蓋-ふた",
+    "行き先-いきさき",
+    "街-まち",
+    "言う-いう",
+    "話-はなし",
+    "話す-はなす",
+    "連れ去る-つれさる",
+    "運ぶ-はこぶ",
+    "長い-ながい",
+    "間-あいだ",
+    "隠す-かくす",
+    "電波-でんぱ",
+    "頃-ころ",
+    "風-かぜ",
+    "鼻歌-はなうた"
+  ]
+}

@@ -14,6 +14,13 @@
     "ArtistNameEng": "Ado"
   },
   {
+    "SongID": "ADO-003",
+    "SongURL": "https://www.youtube.com/embed/sOiMD45QGLs",
+    "SongNameEng": "Gira Gira",
+    "SongNameJpn": "ギラギラ",
+    "ArtistNameEng": "Ado"
+  },
+  {
     "SongID": "AIMYON-001",
     "SongURL": "https://www.youtube.com/embed/yOAwvRmVIyo",
     "SongNameEng": "Naked Heart",
@@ -149,7 +156,7 @@
     "SongID": "GALILEO-001",
     "SongURL": "https://www.youtube.com/embed/T3bxbVGWy5k",
     "SongNameEng": "Aoi Shiori",
-    "SongNameJpn": "青い栞",
+    "SongNameJpn": "青[あお]い栞[しおり]",
     "ArtistNameEng": "Galileo Galilei"
   },
   {
@@ -186,6 +193,13 @@
     "SongNameEng": "1999",
     "ArtistNameEng": "Hitsujibungaku",
     "ArtistNameJpn": "羊文学[ひつじぶんがく]"
+  },
+  {
+    "SongID": "HUMPBACK-001",
+    "SongURL": "https://www.youtube.com/embed/d6i4AtCxrDo",
+    "SongNameEng": "Haikei Shounenyo",
+    "SongNameJpn": "拝[はい]啓[けい]、少[しょう]年[ねん]よ",
+    "ArtistNameEng": "Hump Back"
   },
   {
     "SongID": "IMAGINE-001",
@@ -296,9 +310,26 @@
     "SongID": "KOJI-001",
     "SongURL": "https://www.youtube.com/embed/MuhkUzGAeHA",
     "SongNameEng": "Butter-Fly",
-    "SongNameJpn": "",
     "ArtistNameEng": "Koji Wada",
     "ArtistNameJpn": "和田[わだ] 光司[こじ]"
+  },
+  {
+    "SongID": "LAURA-001",
+    "SongURL": "https://www.youtube.com/embed/gHoN6GQufcY",
+    "SongNameEng": "sad number",
+    "ArtistNameEng": "Laura day romance"
+  },
+  {
+    "SongID": "LAURA-002",
+    "SongURL": "https://www.youtube.com/embed/0lPDoPH9MIE",
+    "SongNameJpn": "夜[よる]のジェットコースター",
+    "ArtistNameEng": "Laura day romance"
+  },
+  {
+    "SongID": "LAURA-003",
+    "SongURL": "https://www.youtube.com/embed/4TM8maG76AA",
+    "SongNameEng": "fever",
+    "ArtistNameEng": "Laura day romance"
   },
   {
     "SongID": "KOYORI-001",

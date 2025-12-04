@@ -105,7 +105,7 @@
       "EngStr": "On a night as clear as glass."
     },
     {
-      "JpnStr": "貴方[あなた]の夢[ゆめ]がひとつ叶[かな]って",
+      "JpnStr": "貴方[あなた]の夢[ゆめ]が一[ひと]つ叶[かな]って",
       "EngStr": "One of your dreams comes true."
     },
     {
@@ -198,6 +198,7 @@
     }
   ],
   "ListVocab": [
+    "一つ-ひとつ",
     "人-ひと",
     "今日-きょう",
     "会えなくなる-あえなくなる",
